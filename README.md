@@ -236,7 +236,7 @@
 
 [starting from \| starting with](#starting-from--starting-with)
 
-[Stop + -ing \| stop to -infinitive](#stop-+--ing--stop-to--infinitive)
+[Stop + -ing \| stop to -infinitive](#stop---ing--stop-to--infinitive)
 
 [subject \| topic](#subject--topic)
 
@@ -252,9 +252,9 @@
 
 [translate to \| translate into](#translate-to--translate-into)
 
-[try + -ing \| try to](#try-+--ing--try-to)
+[try + -ing \| try to](#try---ing--try-to)
 
-[typical of = typical for](#typical-of-=-typical-for)
+[typical of = typical for](#typical-of--typical-for)
 
 [update \| upgrade](#update--upgrade)
 
@@ -264,7 +264,7 @@
 
 [variant \| variation](#variant--variation)
 
-[verb + infinitive \| verb + -ing](#verb-+-infinitive--verb-+--ing)
+[verb + infinitive \| verb + -ing](#verb--infinitive--verb---ing)
 
 [what \| which](#what--which)
 
