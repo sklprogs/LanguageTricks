@@ -10,291 +10,291 @@
 
 [allow to \| allow for](#allow-to--allow-for)
 
-amend | emend
+[amend \| emend](#amend--emend)
 
-answer | response | reply
+[answer \| response \| reply](#answer--response--reply)
 
-anybody | anyone
+[anybody \| anyone](#anybody--anyone)
 
-apparatus | device
+[apparatus \| device](#apparatus--device)
 
-argument | parameter
+[argument \| parameter](#argument--parameter)
 
-artifact | artefact
+[artifact \| artefact](#artifact--artefact)
 
-ask for approval | ask for an approval
+[ask for approval \| ask for an approval](#ask-for-approval--ask-for-an-approval)
 
-before | till | until
+[before \| till \| until](#before--till--until)
 
-big | large
+[big \| large](#big--large)
 
-borehole | well
+[borehole \| well](#borehole--well)
 
-bound with | bound to
+[bound with \| bound to](#bound-with--bound-to)
 
-by email | via email | through email
+[by email \| via email \| through email](#by-email--via-email--through-email)
 
-can also | also can
+[can also \| also can](#can-also--also-can)
 
-can further be | can be further
+[can further be \| can be further](#can-further-be--can-be-further)
 
-check | check that | verify
+[check \| check that \| verify](#check--check-that--verify)
 
-check if | check whether
+[check if \| check whether](#check-if--check-whether)
 
-comma before a subordinate conjunction
+[comma before a subordinate conjunction](#comma-before-a-subordinate-conjunction)
 
-Comma use with if necessary | if required | when needed, etc.
+[Comma use with if necessary \| if required \| when needed, etc.](#comma-use-with-if-necessary--if-required--when-needed-etc)
 
-communicate with | communicate to
+[communicate with \| communicate to](#communicate-with--communicate-to)
 
-company name
+[company name](#company-name)
 
 [compare to \| compare with](#compare-to-compare-with)
 
-competition | contest
+[competition \| contest](#competition--contest)
 
-complement | supplement
+[complement \| supplement](#complement--supplement)
 
-comprise | contain | compose
+[comprise \| contain \| compose](#comprise--contain--compose)
 
-confirm | affirm
+[confirm \| affirm](#confirm--affirm)
 
-considered | considered as
+[considered \| considered as](#considered--considered-as)
 
-consist of | consist in
+[consist of \| consist in](#consist-of--consist-in)
 
-contain | include
+[contain \| include](#contain--include)
 
-content | contents
+[content \| contents](#content--contents)
 
-cost | price
+[cost \| price](#cost--price)
 
-cover with | cover by | cover in
+[cover with \| cover by \| cover in](#cover-with--cover-by--cover-in)
 
-data (singular | plural)
+[data (singular \| plural)](#data-singular--plural)
 
-data | information
+[data \| information](#data--information)
 
-decrease | reduce
+[decrease \| reduce](#decrease--reduce)
 
-define | determine | determine on | establish
+[define \| determine \| determine on \| establish](#define--determine--determine-on--establish)
 
-dependence | dependency
+[dependence \| dependency](#dependence--dependency)
 
-devoted | dedicated
+[devoted \| dedicated](#devoted--dedicated)
 
-disperse | dissolve
+[disperse \| dissolve](#disperse--dissolve)
 
-disturbance (plural)
+[disturbance (plural)](#disturbance-plural)
 
-divide | separate
+[divide \| separate](#divide--separate)
 
-dose | dosage
+[dose \| dosage](#dose--dosage)
 
-draw the attention of
+[draw the attention of](#draw-the-attention-of)
 
 [drilling \| boring](#drilling-boring)
 
-drink | beverage
+[drink \| beverage](#drink--beverage)
 
-due to | owing to
+[due to \| owing to](#due-to--owing-to)
 
-dummy | fake | stub | mock
+[dummy \| fake \| stub \| mock](#dummy--fake--stub--mock)
 
-duty | responsibility
+[duty \| responsibility](#duty--responsibility)
 
-effective | efficient
+[effective \| efficient](#effective--efficient)
 
-efficacy | efficiency
+[efficacy \| efficiency](#efficacy--efficiency)
 
-enhance | improve
+[enhance \| improve](#enhance--improve)
 
-error | mistake
+[error \| mistake](#error--mistake)
 
-evaluation | an evaluation
+[evaluation \| an evaluation](#evaluation--an-evaluation)
 
-except | except for
+[except \| except for](#except--except-for)
 
-exercise | task | problem | assignment | activity
+[exercise \| task \| problem \| assignment \| activity](#exercise--task--problem--assignment--activity)
 
-expand | extend
+[expand \| extend](#expand--extend)
 
-experience | an experience | experiences
+[experience \| an experience \| experiences](#experience--an-experience--experiences)
 
-explanation
+[explanation](#explanation)
 
-explanation to | explanation for | explanation of
+[explanation to \| explanation for \| explanation of](#explanation-to--explanation-for--explanation-of)
 
-explode | implode
+[explode \| implode](#explode--implode)
 
-hear of | hear about
+[hear of \| hear about](#hear-of--hear-about)
 
-here | in here
+[here \| in here](#here--in-here)
 
-hyphen | minus | en dash | em dash | two-em dash | three-em dash
+[hyphen \| minus \| en dash \| em dash \| two-em dash \| three-em dash](#hyphen--minus--en-dash--em-dash--two-em-dash--three-em-dash)
 
-I have got | I have gotten
+[I have got \| I have gotten](#i-have-got--i-have-gotten)
 
-in my free time | in free time
+[in my free time \| in free time](#in-my-free-time--in-free-time)
 
-in the beginning | at the beginning
+[in the beginning \| at the beginning](#in-the-beginning--at-the-beginning)
 
-in the end | at the end
+[in the end \| at the end](#in-the-end--at-the-end)
 
-in the photo | in the picture | on the postcard | on the screen
+[in the photo \| in the picture \| on the postcard \| on the screen](#in-the-photo--in-the-picture--on-the-postcard--on-the-screen)
 
-independently of | independent of | independently from
+[independently of \| independent of \| independently from](#independently-of--independent-of--independently-from)
 
-individual | personal | separate
+[individual \| personal \| separate](#individual--personal--separate)
 
-inform about | inform of | inform on
+[inform about \| inform of \| inform on](#inform-about--inform-of--inform-on)
 
-information about | information on | information of
+[information about \| information on \| information of](#information-about--information-on--information-of)
 
-insider knowledge | insider's knowledge | inside knowledge
+[insider knowledge \| insider's knowledge \| inside knowledge](#insider-knowledge--insiders-knowledge--inside-knowledge)
 
-installation | setup
+[installation \| setup](#installation--setup)
 
-interfere in | interfere with
+[interfere in \| interfere with](#interfere-in--interfere-with)
 
-knowledge of | knowledge about | knowledge on
+[knowledge of \| knowledge about \| knowledge on](#knowledge-of--knowledge-about--knowledge-on)
 
-learn how to | learn to
+[learn how to \| learn to](#learn-how-to--learn-to)
 
-lesson | class
+[lesson \| class](#lesson--class)
 
-lift | thrust | drag
+[lift \| thrust \| drag](#lift--thrust--drag)
 
-load | the load
+[load \| the load](#load--the-load)
 
-made of | made from
+[made of \| made from](#made-of--made-from)
 
-means
+[means](#means)
 
-new | novel
+[new \| novel](#new--novel)
 
-node | host
+[node \| host](#node--host)
 
-on | onto
+[on \| onto](#on--onto)
 
-operation | an operation | operations
+[operation \| an operation \| operations](#operation--an-operation--operations)
 
-opposite | opposite to
+[opposite \| opposite to](#opposite--opposite-to)
 
-parcel | package | packet
+[parcel \| package \| packet](#parcel--package--packet)
 
-part | a part
+[part \| a part](#part--a-part)
 
-part of | a part of
+[part of \| a part of](#part-of--a-part-of)
 
-people’s lives | peoples’ lives | people’s life | in the lives of people
+[people’s lives \| peoples’ lives \| people’s life \| in the lives of people](#peoples-lives--peoples-lives--peoples-life--in-the-lives-of-people)
 
-persons | people | peoples | Peoples
+[persons \| people \| peoples \| Peoples](#persons--people--peoples--peoples)
 
-precise | accurate
+[precise \| accurate](#precise--accurate)
 
-profit | gain
+[profit \| gain](#profit--gain)
 
-progress | a progress | the progress
+[progress \| a progress \| the progress](#progress--a-progress--the-progress)
 
-provide | provide with | provide for
+[provide \| provide with \| provide for](#provide--provide-with--provide-for)
 
-red dog | blue dog
+[red dog \| blue dog](#red-dog--blue-dog)
 
-regime | regimen | regiment
+[regime \| regimen \| regiment](#regime--regimen--regiment)
 
-related to | relates to | relating to
+[related to \| relates to \| relating to](#related-to--relates-to--relating-to)
 
-replace with | replace by
+[replace with \| replace by](#replace-with--replace-by)
 
-request | require
+[request \| require](#request--require)
 
-requirement for | requirement to
+[requirement for \| requirement to](#requirement-for--requirement-to)
 
-residue | residues | residual
+[residue \| residues \| residual](#residue--residues--residual)
 
-right | privilege
+[right \| privilege](#right--privilege)
 
-router (pronunciation)
+[router (pronunciation)](#router-pronunciation)
 
-said
+[said](#said)
 
-salary | wages
+[salary \| wages](#salary--wages)
 
-separated by | separated with
+[separated by \| separated with](#separated-by--separated-with)
 
-shameless | shameful
+[shameless \| shameful](#shameless--shameful)
 
-signaling | signalling
+[signaling \| signalling](#signaling--signalling)
 
-sniffing | snooping | spoofing
+[sniffing \| snooping \| spoofing](#sniffing--snooping--spoofing)
 
-special | specific
+[special \| specific](#special--specific)
 
-specific | particular
+[specific \| particular](#specific--particular)
 
-starting from | starting with
+[starting from \| starting with](#starting-from--starting-with)
 
-Stop + -ing | stop to -infinitive
+[Stop + -ing \| stop to -infinitive](#stop-+--ing--stop-to--infinitive)
 
-subject | topic
+[subject \| topic](#subject--topic)
 
-substantially | essentially
+[substantially \| essentially](#substantially--essentially)
 
-substitute with | substitute for
+[substitute with \| substitute for](#substitute-with--substitute-for)
 
-suggest | suggest that
+[suggest \| suggest that](#suggest--suggest-that)
 
-think of | think about
+[think of \| think about](#think-of--think-about)
 
-throw to | throw at
+[throw to \| throw at](#throw-to--throw-at)
 
-translate to | translate into
+[translate to \| translate into](#translate-to--translate-into)
 
-try + -ing | try to
+[try + -ing \| try to](#try-+--ing--try-to)
 
-typical of = typical for
+[typical of = typical for](#typical-of-=-typical-for)
 
-update | upgrade
+[update \| upgrade](#update--upgrade)
 
-use | usage
+[use \| usage](#use--usage)
 
-useful to | useful for
+[useful to \| useful for](#useful-to--useful-for)
 
-variant | variation
+[variant \| variation](#variant--variation)
 
-verb + infinitive | verb + -ing
+[verb + infinitive \| verb + -ing](#verb-+-infinitive--verb-+--ing)
 
-what | which
+[what \| which](#what--which)
 
-whether or not
+[whether or not](#whether-or-not)
 
 [within \| during](#within-during)
 
-work | job
+[work \| job](#work--job)
 
-(the) literature
+[(the) literature](#the-literature)
 
-графический процессор | видеокарта
+[графический процессор \| видеокарта](#графический-процессор--видеокарта)
 
-данные | сведения | информация
+[данные \| сведения \| информация](#данные--сведения--информация)
 
-диаграмма | график
+[диаграмма \| график](#диаграмма--график)
 
-лекарственное средство | лекарственный препарат
+[лекарственное средство \| лекарственный препарат](#лекарственное-средство--лекарственный-препарат)
 
-наем | найм
+[наем \| найм](#наем--найм)
 
-Патентным переводчикам
+[Патентным переводчикам](#патентным-переводчикам)
 
-привести в соответствие
+[привести в соответствие](#привести-в-соответствие)
 
-соглашение | контракт | договор
+[соглашение \| контракт \| договор](#соглашение--контракт--договор)
 
-текстовый редактор | текстовый процессор
+[текстовый редактор \| текстовый процессор](#текстовый-редактор--текстовый-процессор)
 
-чудище | чудовище
+[чудище \| чудовище](#чудище--чудовище)
 
 ***
 
