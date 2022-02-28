@@ -3174,8 +3174,9 @@ refers specifically to touching a child\'s genitals.
 - \[countable\] The process of cutting open a part of a person\'s body
   in order to remove or repair a damaged part:
 
->> *Will I need to have an operation? He underwent a three-hour heart
-operation.*
+>> *Will I need to have an operation?*
+
+>> *He underwent a three-hour heart operation.*
 
 - \[countable, uncountable\] An act performed by a machine, especially
   a computer:
@@ -3278,17 +3279,17 @@ Usage examples:
 
 **between**: you're referring to two things:
 
-> *Just between us.*
+> *Just **between** us.*
 
-> *between a rock and a hard place* (= cornered)
+> ***between** a rock and a hard place* (= cornered)
 
-> *You must choose between cake or death.*
+> *You must choose **between** cake or death.*
 
 **among**: you're referring to more than two things:
 
-> *You're among friends.*
+> *You're **among** friends.*
 
-> *Among the many options available to you.*
+> ***Among** the many options available to you.*
 
 [*Source*](https://www.merriam-webster.com/words-at-play/between-among-amongst-use)
 
