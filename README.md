@@ -3341,13 +3341,15 @@ a text through editing.
 
 To **mend** something is to fix something that was broken or that had
 a problem:
+
 > *to **mend** a punctured tyre*
+
 > *to **mend** a broken heart*
 
 If you're talking about fixing a rip in a shirt, you would be better
 to just use the word **mend**; to ~~amend the shirt~~ would sound
-strange. The Constitution of the U.S. may be amended (as it has been)
-but if the actual document itself were damaged and required
+strange. The Constitution of the U.S. may be **amended** (as it has
+been) but if the actual document itself were damaged and required
 restoration I don't think anyone would say the team that did the work
 amended the Constitution.
 
