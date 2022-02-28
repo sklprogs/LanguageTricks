@@ -10,7 +10,7 @@
 
 [allow to \| allow for](#allow-to--allow-for)
 
-[mend \| amend \| emend](#mend--amend--emend)
+[amend \| emend \| mend](#amend--emend--mend)
 
 [answer \| response \| reply](#answer--response--reply)
 
@@ -3316,7 +3316,7 @@ Source
 
 ***
 
-## mend \| amend \| emend
+## amend \| emend \| mend
 
 **Amend** defines the action of slightly changing some words in
 a document. It is used a lot more frequently than **emend** and
