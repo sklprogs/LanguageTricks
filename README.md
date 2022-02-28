@@ -10,7 +10,7 @@
 
 [allow to \| allow for](#allow-to--allow-for)
 
-[amend \| emend](#amend--emend)
+[mend \| amend \| emend](#mend--amend--emend)
 
 [answer \| response \| reply](#answer--response--reply)
 
@@ -3316,9 +3316,45 @@ Source
 
 ***
 
-## amend \| emend
+## mend \| amend \| emend
 
-Source
+**Amend** defines the action of slightly changing some words in
+a document. It is used a lot more frequently than **emend** and
+it is most likely to be found in passive voice.
+
+The meaning of **emend** is confined to textual alterations, and
+**amend** can be broadened to include the general improvement of
+other things. Still, **amend** is mostly used in the sense of
+improving text.
+
+> *The contract has been **amended**, terms have slightly changed
+> now.*
+
+If you're not a professional editor who specializes in proof-reading,
+than you'll probably never use or read **emend** in this form.
+**Emend** is mostly present in contexts related to professional,
+technical writing and editing, and it defines the action of improving
+a text through editing.
+
+> *I hired a professional to **emend** my contract and make sure
+> everything is alright before presenting it to the other parties.*
+
+To **mend** something is to fix something that was broken or that had
+a problem:
+> *to **mend** a punctured tyre*
+> *to **mend** a broken heart*
+
+If you're talking about fixing a rip in a shirt, you would be better
+to just use the word **mend**; to ~~amend the shirt~~ would sound
+strange. The Constitution of the U.S. may be amended (as it has been)
+but if the actual document itself were damaged and required
+restoration I don't think anyone would say the team that did the work
+amended the Constitution.
+
+*Sources:
+[1](https://english.stackexchange.com/questions/5920/difference-between-emend-and-amend),
+[2](https://www.grammar.com/amend_vs._emend),
+[3](https://www.englishforums.com/English/MendVsAmend/xnvdw/post.htm)*
 
 ***
 
