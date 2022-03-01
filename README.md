@@ -20,7 +20,7 @@
 
 [argument \| parameter](#argument--parameter)
 
-[artifact \| artefact](#artifact--artefact)
+[artefact \| artifact](#artefact--artifact)
 
 [ask for approval \| ask for an approval](#ask-for-approval--ask-for-an-approval)
 
@@ -200,7 +200,7 @@
 
 [provide \| provide with \| provide for](#provide--provide-with--provide-for)
 
-[red dog \| blue dog](#red-dog--blue-dog)
+[blue dog \| red dog](#blue-dog--red-dog)
 
 [regime \| regimen \| regiment](#regime--regimen--regiment)
 
@@ -3295,28 +3295,6 @@ Usage examples:
 
 ***
 
-## exercise \| task \| problem \| assignment \| activity
-
-\>\>
-
-[*Source*](https://www.myenglishpages.com/blog/what-is-the-difference-between-a-task-and-an-exercise/)
-
-***
-
-## learn how to \| learn to
-
-\>\>
-
-[*Source*](https://english.stackexchange.com/questions/59520/learn-how-to-verb-vs-learn-to-verb)
-
-***
-
-## error \| mistake
-
-Source
-
-***
-
 ## amend \| emend \| mend
 
 **Amend** defines the action of slightly changing some words in
@@ -3361,19 +3339,66 @@ amended the Constitution.
 
 ***
 
+## artefact \| artifact
+
+**artefact**: British English
+
+**artifact**: US English
+
+There is no apparent dictionary difference in meaning between the two
+forms, however, the Science Dictionary says the following:
+
+**Artifact**: An object produced or shaped by human craft, especially
+a tool, weapon, or ornament of archaeological or historical interest.
+
+**Artefact**: An artificial product or effect observed in a natural
+system, especially one introduced by the technology used in
+scientific investigation or by experimental error.
+
+But they are generally used to mean *an archaelogical find*.
+
+*Sources:
+[1](https://english.stackexchange.com/questions/37903/difference-between-artifact-and-artefact),
+[2](http://dictionary.reference.com/browse/artefact)
+
+***
+
+## blue dog \| red dog
+
+In the 1990s, after the GOP won control of both houses of Congress,
+moderate Democrats who believed their party had moved too far to the
+left started calling themselves the **Blue Dogs**. Today, it’s the
+**Red Dogs** who are looking for a home in the Democratic party:
+college-educated, largely white suburbanites in major metropolitan
+areas who used to be Republicans or swing voters.
+
+[*Source*](https://www.dailykos.com/stories/2020/12/22/2003594/-should-we-distinguish-between-Blue-Dog-Democrats-and-Red-Dog-Democrats)
+
+***
+
+## exercise \| task \| problem \| assignment \| activity
+
+\>\>
+
+[*Source*](https://www.myenglishpages.com/blog/what-is-the-difference-between-a-task-and-an-exercise/)
+
+***
+
+## learn how to \| learn to
+
+\>\>
+
+[*Source*](https://english.stackexchange.com/questions/59520/learn-how-to-verb-vs-learn-to-verb)
+
+***
+
+## error \| mistake
+
+Source
+
+***
+
 ## right \| privilege
-
-Source
-
-***
-
-## artifact \| artefact
-
-Source
-
-***
-
-## red dog \| blue dog
 
 Source
 
