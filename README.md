@@ -2,17 +2,25 @@
 
 [able to \| capable of](#able-to--capable-of)
 
-[add in \| add to \| add into](#add-in--add-to--add-into)
+[accurate \| precise](#accurate--precise)
+
+[add in \| add into \| add to](#add-in--add-into--add-to)
 
 [additional \| extra](#additional--extra)
 
+[activity \| assignment \| exercise \| problem \| task](#activity--assignment--exercise--problem--task)
+
+[affirm \| confirm](#affirm--confirm)
+
 [After that,](#after-that)
 
-[allow to \| allow for](#allow-to--allow-for)
+[allow for \| allow to](#allow-for--allow-to)
+
+[also can \| can also](#also-can--can-also)
 
 [amend \| emend \| mend](#amend--emend--mend)
 
-[answer \| response \| reply](#answer--response--reply)
+[answer \| reply \| response](#answer--reply--response)
 
 [anybody \| anyone](#anybody--anyone)
 
@@ -24,7 +32,13 @@
 
 [ask for approval \| ask for an approval](#ask-for-approval--ask-for-an-approval)
 
+[at the beginning \| in the beginning](#at-the-beginning--in-the-beginning)
+
+[at the end \| in the end](#in-the-end--at-the-end)
+
 [before \| till \| until](#before--till--until)
+
+[beverage \| drink](#beverage--drink)
 
 [big \| large](#big--large)
 
@@ -32,23 +46,25 @@
 
 [borehole \| well](#borehole--well)
 
-[bound with \| bound to](#bound-with--bound-to)
+[boring \| drilling](#boring--drilling)
 
-[by email \| via email \| through email](#by-email--via-email--through-email)
+[bound to \| bound with](#bound-to--bound-with)
 
-[can also \| also can](#can-also--also-can)
+[by email \| ~~through email~~ \| via email](#by-email--through-email--via-email)
 
-[can further be \| can be further](#can-further-be--can-be-further)
+[can be further \| can further be](#can-be-further--can-further-be)
 
 [check \| check that \| verify](#check--check-that--verify)
 
 [check if \| check whether](#check-if--check-whether)
 
+[class \| lesson](#class--lesson)
+
 [comma before a subordinate conjunction](#comma-before-a-subordinate-conjunction)
 
-[Comma use with if necessary \| if required \| when needed, etc.](#comma-use-with-if-necessary--if-required--when-needed-etc)
+[comma use with if necessary \| if required \| when needed, etc.](#comma-use-with-if-necessary--if-required--when-needed-etc)
 
-[communicate with \| communicate to](#communicate-with--communicate-to)
+[communicate to \| communicate with](#communicate-to--communicate-with)
 
 [company name](#company-name)
 
@@ -58,13 +74,11 @@
 
 [complement \| supplement](#complement--supplement)
 
-[comprise \| contain \| compose](#comprise--contain--compose)
-
-[confirm \| affirm](#confirm--affirm)
+[compose \| comprise \| contain](#compose--comprise--contain)
 
 [considered \| considered as](#considered--considered-as)
 
-[consist of \| consist in](#consist-of--consist-in)
+[consist in \| consist of](#consist-in--consist-of)
 
 [contain \| include](#contain--include)
 
@@ -72,7 +86,7 @@
 
 [cost \| price](#cost--price)
 
-[cover with \| cover by \| cover in](#cover-with--cover-by--cover-in)
+[cover by \| cover in \| cover with](#cover-by--cover-in--cover-with)
 
 [data (singular \| plural)](#data-singular--plural)
 
@@ -84,7 +98,7 @@
 
 [dependence \| dependency](#dependence--dependency)
 
-[devoted \| dedicated](#devoted--dedicated)
+[dedicated \| devoted](#dedicated--devoted)
 
 [disperse \| dissolve](#disperse--dissolve)
 
@@ -92,23 +106,23 @@
 
 [divide \| separate](#divide--separate)
 
-[dose \| dosage](#dose--dosage)
+[dosage \| dose](#dosage--dose)
+
+[drag \| lift \| thrust](#drag--lift--thrust)
 
 [draw the attention of](#draw-the-attention-of)
 
-[drilling \| boring](#drilling-boring)
-
-[drink \| beverage](#drink--beverage)
-
 [due to \| owing to](#due-to--owing-to)
 
-[dummy \| fake \| stub \| mock](#dummy--fake--stub--mock)
+[dummy \| fake \| mock \| stub](#dummy--fake--mock--stub)
+
+[during \| within](#during--within)
 
 [duty \| responsibility](#duty--responsibility)
 
-[effective \| efficient](#effective--efficient)
-
 [efficacy \| efficiency](#efficacy--efficiency)
+
+[efficient \| effective](#efficient--effective)
 
 [enhance \| improve](#enhance--improve)
 
@@ -118,65 +132,59 @@
 
 [except \| except for](#except--except-for)
 
-[exercise \| task \| problem \| assignment \| activity](#exercise--task--problem--assignment--activity)
-
 [expand \| extend](#expand--extend)
 
 [experience \| an experience \| experiences](#experience--an-experience--experiences)
 
 [explanation](#explanation)
 
-[explanation to \| explanation for \| explanation of](#explanation-to--explanation-for--explanation-of)
+[explanation for \| explanation of \| explanation to](#explanation-for--explanation-of--explanation-to)
 
 [explode \| implode](#explode--implode)
 
-[hear of \| hear about](#hear-of--hear-about)
+[gain \| profit](#gain--profit)
+
+[hear about \| hear of](#hear-about--hear-of)
 
 [here \| in here](#here--in-here)
 
-[hyphen \| minus \| en dash \| em dash \| two-em dash \| three-em dash](#hyphen--minus--en-dash--em-dash--two-em-dash--three-em-dash)
+[host \| node](#host--node)
+
+[em dash \| en dash \| hyphen \| minus \| three-em dash \| two-em dash](#em-dash--en-dash--hyphen--minus--three-em-dash--two-em-dash)
+
+[job \| work](#job--work)
 
 [I have got \| I have gotten](#i-have-got--i-have-gotten)
 
-[in my free time \| in free time](#in-my-free-time--in-free-time)
-
-[in the beginning \| at the beginning](#in-the-beginning--at-the-beginning)
-
-[in the end \| at the end](#in-the-end--at-the-end)
+[~~in free time~~ \| in my free time](#in-free-time--in-my-free-time)
 
 [in the photo \| in the picture \| on the postcard \| on the screen](#in-the-photo--in-the-picture--on-the-postcard--on-the-screen)
 
-[independently of \| independent of \| independently from](#independently-of--independent-of--independently-from)
+[independent of \| ~~independently from~~ \| independently of](#independent-of--independently-from--independently-of)
 
 [individual \| personal \| separate](#individual--personal--separate)
 
 [inform about \| inform of \| inform on](#inform-about--inform-of--inform-on)
 
-[information about \| information on \| information of](#information-about--information-on--information-of)
+[information about \| information of \| information on](#information-about--information-of--information-on)
 
-[insider knowledge \| insider's knowledge \| inside knowledge](#insider-knowledge--insiders-knowledge--inside-knowledge)
+[inside knowledge \| insider knowledge \| insider's knowledge](#inside-knowledge--insider-knowledge--insiders-knowledge)
 
 [installation \| setup](#installation--setup)
 
 [interfere in \| interfere with](#interfere-in--interfere-with)
 
-[knowledge of \| knowledge about \| knowledge on](#knowledge-of--knowledge-about--knowledge-on)
+[knowledge about \| knowledge of \| ~~knowledge on~~](#knowledge-about--knowledge-of--knowledge-on)
 
 [learn how to \| learn to](#learn-how-to--learn-to)
 
-[lesson \| class](#lesson--class)
-
-[lift \| thrust \| drag](#lift--thrust--drag)
-
 [load \| the load](#load--the-load)
 
-[made of \| made from](#made-of--made-from)
+[made from \| made of](#made-from--made-of)
 
 [means](#means)
 
 [new \| novel](#new--novel)
-
-[node \| host](#node--host)
 
 [on \| onto](#on--onto)
 
@@ -184,37 +192,35 @@
 
 [opposite \| opposite to](#opposite--opposite-to)
 
-[parcel \| package \| packet](#parcel--package--packet)
+[package \| packet \| parcel](#package--packet--parcel)
 
 [part \| a part](#part--a-part)
 
 [part of \| a part of](#part-of--a-part-of)
 
+[particular \| specific](#particular--specific)
+
 [people’s lives \| peoples’ lives \| people’s life \| in the lives of people](#peoples-lives--peoples-lives--peoples-life--in-the-lives-of-people)
 
-[persons \| people \| peoples \| Peoples](#persons--people--peoples--peoples)
+[people \| peoples \| Peoples \| persons](#people--peoples--peoples--persons)
 
-[precise \| accurate](#precise--accurate)
-
-[profit \| gain](#profit--gain)
+[privilege \| right](#privilege--right)
 
 [progress \| a progress \| the progress](#progress--a-progress--the-progress)
 
-[provide \| provide with \| provide for](#provide--provide-with--provide-for)
+[provide \| provide for \| provide with](#provide--provide-for--provide-with)
 
 [regime \| regimen \| regiment](#regime--regimen--regiment)
 
 [related to \| relates to \| relating to](#related-to--relates-to--relating-to)
 
-[replace with \| replace by](#replace-with--replace-by)
+[replace by \| replace with](#replace-by--replace-with)
 
 [request \| require](#request--require)
 
 [requirement for \| requirement to](#requirement-for--requirement-to)
 
-[residue \| residues \| residual](#residue--residues--residual)
-
-[right \| privilege](#right--privilege)
+[residual \| residue \| residues](#residual--residue--residues)
 
 [router (pronunciation)](#router-pronunciation)
 
@@ -224,43 +230,41 @@
 
 [separated by \| separated with](#separated-by--separated-with)
 
-[shameless \| shameful](#shameless--shameful)
+[shameful \| shameless](#shameful--shameless)
 
-[signaling \| signalling](#signaling--signalling)
+[signalling \| signaling](#signalling--signaling)
 
 [sniffing \| snooping \| spoofing](#sniffing--snooping--spoofing)
 
 [special \| specific](#special--specific)
 
-[specific \| particular](#specific--particular)
-
 [starting from \| starting with](#starting-from--starting-with)
 
-[Stop + -ing \| stop to -infinitive](#stop---ing--stop-to--infinitive)
+[stop + -ing \| stop to + infinitive](#stop---ing--stop-to--infinitive)
 
 [subject \| topic](#subject--topic)
 
-[substantially \| essentially](#substantially--essentially)
+[essentially \| substantially](#essentially--substantially)
 
-[substitute with \| substitute for](#substitute-with--substitute-for)
+[substitute for \| substitute with](#substitute-for--substitute-with)
 
 [suggest \| suggest that](#suggest--suggest-that)
 
-[think of \| think about](#think-of--think-about)
+[think about \| think of](#think-about--think-of)
 
-[throw to \| throw at](#throw-to--throw-at)
+[throw at \| throw to](#throw-at--throw-to)
 
-[translate to \| translate into](#translate-to--translate-into)
+[translate into \| translate to](#translate-into--translate-to)
 
 [try + -ing \| try to](#try---ing--try-to)
 
-[typical of = typical for](#typical-of--typical-for)
+[typical for = typical of](#typical-for--typical-of)
 
 [update \| upgrade](#update--upgrade)
 
-[use \| usage](#use--usage)
+[usage \| use](#usage--use)
 
-[useful to \| useful for](#useful-to--useful-for)
+[useful for \| useful to](#useful-for--useful-to)
 
 [variant \| variation](#variant--variation)
 
@@ -270,29 +274,25 @@
 
 [whether or not](#whether-or-not)
 
-[within \| during](#within-during)
+[literature \| the literature](#literature--the-literature)
 
-[work \| job](#work--job)
+[видеокарта \| графический процессор](#видеокарта--графический-процессор)
 
-[(the) literature](#the-literature)
+[график \| диаграмма](#график--диаграмма)
 
-[графический процессор \| видеокарта](#графический-процессор--видеокарта)
+[данные \| информация \| сведения](#данные--информация--сведения)
 
-[данные \| сведения \| информация](#данные--сведения--информация)
-
-[диаграмма \| график](#диаграмма--график)
+[договор \| контракт \| соглашение](#договор--контракт--соглашение)
 
 [лекарственное средство \| лекарственный препарат](#лекарственное-средство--лекарственный-препарат)
 
 [наем \| найм](#наем--найм)
 
-[Патентным переводчикам](#патентным-переводчикам)
+[патентным переводчикам](#патентным-переводчикам)
 
 [привести в соответствие](#привести-в-соответствие)
 
-[соглашение \| контракт \| договор](#соглашение--контракт--договор)
-
-[текстовый редактор \| текстовый процессор](#текстовый-редактор--текстовый-процессор)
+[текстовый процессор \| текстовый редактор](#текстовый-процессор--текстовый-редактор)
 
 [чудище \| чудовище](#чудище--чудовище)
 
@@ -323,7 +323,7 @@ equipment:
 
 ***
 
-## made of \| made from
+## made from \| made of
 
 **Made of** is used when the material the subject consists of doesn\'t
 change during the process of making the subject.
@@ -368,11 +368,11 @@ bring to correspondence
 
 ***
 
-## typical of = typical for
+## typical for = typical of
 
 ***
 
-## within \| during
+## during \| within
 
 **within** implies a limit or deadline
 
@@ -461,7 +461,7 @@ diameter.
 
 ***
 
-## drilling \| boring
+## boring \| drilling
 
 **Drilling** is *the cutting process* of a material using a specially
 designed rotating cutting tool called a drill bit. The holes produced by
@@ -480,7 +480,7 @@ with the tools fixed at the end.
 
 ***
 
-## specific \| particular
+## particular \| specific
 
 As *adjectives* the difference between specific and particular is that
 **specific** is explicit or definite while **particular** is (obsolete)
@@ -509,7 +509,7 @@ would be difficult to find a context in which it fits.
 
 ***
 
-## explanation to \| explanation for \| explanation of
+## explanation for \| explanation of \| explanation to
 
 you could use any of those three. The one I would hear most often in Geometry class would be with **of**.
 
@@ -517,7 +517,7 @@ you could use any of those three. The one I would hear most often in Geometry cl
 
 ***
 
-## can further be \| can be further
+## can be further \| can further be
 
 **can further be** -- pragmatically marked Furthermore (/In addition)
 
@@ -527,7 +527,7 @@ you could use any of those three. The one I would hear most often in Geometry cl
 
 ***
 
-## consist of \| consist in
+## consist in \| consist of
 
 **consist of**: to be made up of, comprise
 
@@ -607,7 +607,7 @@ With that type of sentence, you could replace data with a word such as
 
 ***
 
-## use \| usage
+## usage \| use
 
 In general when thinking about how these words are different it is
 helpful to keep in mind that the term "*usage*" refers to conventions or
@@ -643,7 +643,7 @@ body is not human being).
 
 ***
 
-## dose \| dosage
+## dosage \| dose
 
 **Dose** is the amount or quantity of medicine to be taken or
 administered to the patient every time in a day. If it is 5mg, then 5mg
@@ -679,7 +679,7 @@ improvement of what was already there.
 
 ***
 
-## shameless \| shameful
+## shameful \| shameless
 
 **Shameless** means pretty much what you\'d expect: that someone should
 feel shame at something, but doesn\'t.
@@ -742,22 +742,20 @@ with each other.
 
 ***
 
-## signaling \| signalling
+## signalling \| signaling
 
-signaling (US); signalling (UK)
+signaling: US
+
+signalling: UK
 
 ***
 
-## comprise \| contain \| compose
+## compose \| comprise \| contain
 
 Comprise is a synonym of contain. As verbs the difference between
 comprise and contain is that **comprise** is to be made up of; to
-consist of (especially a comprehensive list of parts) while **contain**
-is (transitive): to hold inside.
-
-[*Source*](https://wikidiff.com/comprise/contain)
-
-***
+consist of (especially a comprehensive list of parts) while
+**contain** is (transitive): to hold inside.
 
 **Comprise** says that the list you are giving is exhaustive. All the
 steps are explicitly indicated, and there are no missing steps.
@@ -773,16 +771,16 @@ or
 
 > *the method **consists of** X.*
 
-[*Source*](https://forum.wordreference.com/threads/contain-or-comprise.3023986/)
-
-***
 
 **Compose of** is even more formal than *consist of* and *comprise*.
 **Compose of** is only used in the passive voice:
 
 > *Muscle is **composed of** different types of protein.*
 
-[*Source*](https://dictionary.cambridge.org/grammar/british-grammar/consist-comprise-or-compose)
+*Sources:
+[1](https://forum.wordreference.com/threads/contain-or-comprise.3023986/),
+[2](https://wikidiff.com/comprise/contain),
+[3](https://dictionary.cambridge.org/grammar/british-grammar/consist-comprise-or-compose)*
 
 ***
 
@@ -876,7 +874,7 @@ collection of disturbances.
 
 ***
 
-## can also \| also can
+## also can \| can also
 
 It is stated clearly in the dictionary and various grammar books that
 the word **also** (which means "in addition" -- a logical connector) is
@@ -888,7 +886,7 @@ colloquial (ordinary conversation, informal).
 
 ***
 
-## precise \| accurate
+## accurate \| precise
 
 **Accuracy** is close to a known value; **precision** measures
 repeatability.
@@ -937,7 +935,7 @@ other countries.
 
 ***
 
-## substantially \| essentially
+## essentially \| substantially
 
 **substantially** = considerably
 
@@ -1031,7 +1029,7 @@ after.
 
 ***
 
-## translate to \| translate into
+## translate into \| translate to
 
 -   When you speak about the target language of translation, the usual
     preposition is **into**:
@@ -1065,7 +1063,7 @@ with **to** seems to be more common on the Internet and in everyday usage.
 
 ***
 
-## (the) literature
+## literature \| the literature
 
 An article is not needed for a general use. When **literature** refers
 to a specific collection of books, papers, etc., is related to a given
@@ -1127,7 +1125,7 @@ theatre~~ or ~~opposite to the theatre~~).
 
 ***
 
-## residue \| residues \| residual
+## residual \| residue \| residues
 
 The noun **residue** can be countable or uncountable. In more general,
 commonly used, contexts, the plural form will also be residue. However,
@@ -1169,7 +1167,7 @@ buses in sentence (a) than in sentence (b).
 
 ***
 
-## lift \| thrust \| drag
+## drag \| lift \| thrust
 
 Four Forces Affect Things That Fly:
 
@@ -1189,7 +1187,7 @@ Drag is caused by friction and differences in air pressure.
 
 ***
 
-## Патентным переводчикам
+## патентным переводчикам
 
 [*Source*](https://www.patenttranslationsinternational.com/resources/advice-for-translators/)
 
@@ -1248,7 +1246,7 @@ settings.
 
 ***
 
-## substitute with \| substitute for
+## substitute for \| substitute with
 
 *We substitute pizza **for** vegetables as our dinner* = we are having
 pizza instead of vegetables for dinner.
@@ -1260,7 +1258,7 @@ vegetables instead of pizza for dinner.
 
 ***
 
-## данные \| сведения \| информация
+## данные \| информация \| сведения
 
 **Данные** --- это совокупность знаков (тексты, изображения и т.п.).
 **Сведения** --- это те представления, которые возникают у субъекта в
@@ -1296,7 +1294,7 @@ concept
 
 ***
 
-## соглашение \| контракт \| договор
+## договор \| контракт \| соглашение
 
 В гражданском праве **контрактом** считается соглашение, одной из сторон
 которого выступает государство. Контракт заключается на бюджетные
@@ -1313,7 +1311,7 @@ concept
 
 ***
 
-## графический процессор \| видеокарта
+## видеокарта \| графический процессор
 
 **Графический процессор**, сокращение от GPU (Graphics Processing Unit),
 --- это специализированный процессор, предназначенный для обработки
@@ -1330,7 +1328,7 @@ concept
 
 ***
 
-## диаграмма \| график
+## график \| диаграмма
 
 **Диаграмма** -- геометрическое изображение, позволяющее увидеть
 показатели в их сравнении или проследить динамику развития какого-либо
@@ -1367,7 +1365,7 @@ differs from a norm or standard (Garner\'s Modern American Usage).
 
 ***
 
-## independently of \| independent of \| ~~independently from~~
+## independent of \| ~~independently from~~ \| independently of
 
 **Independently from** is not correct usage, as well as being very
 uncommon. From X would indicate either coming from X or going away from
@@ -1424,7 +1422,7 @@ but you can use it for the third or any other step after that.
 
 ***
 
-## information about \| information on \| information of
+## information about \| information of \| information on
 
 **Information on** something would be information that is really
 in-depth, and quite into details. i.e. a study on history, or a book on
@@ -1458,7 +1456,7 @@ could be misunderstood to mean *information belonging to something*.
 
 ***
 
-## think of \| think about
+## think about \| think of
 
 In many contexts, **think of** and **think about** are effectively
 interchangeable.
@@ -1479,7 +1477,7 @@ more focused or extended attention.
 
 ***
 
-## hear of \| hear about
+## hear about \| hear of
 
 See [think of \| think about](#think-of-think-about)
 
@@ -1498,7 +1496,7 @@ information about that thing.
 
 ***
 
-## throw to \| throw at
+## throw at \| throw to
 
 **Throw at** means to throw something so that it HITS the target.
 
@@ -1552,7 +1550,7 @@ If that image had been painted on canvas (or on a wall):
 
 ***
 
-## insider knowledge \| insider\'s knowledge \| inside knowledge
+## inside knowledge \| insider knowledge \| insider\'s knowledge
 
 **insider\'s knowledge**: infers a group who possesses the knowledge
 
@@ -1565,7 +1563,7 @@ knowledge
 
 ***
 
-## knowledge of \| knowledge about \| ~~knowledge on~~
+## knowledge about \| knowledge of \| ~~knowledge on~~
 
 **Knowledge about** implies knowing external details, without having
 experienced any of these:
@@ -1590,7 +1588,7 @@ know science, know music:
 
 ***
 
-## текстовый редактор \| текстовый процессор
+## текстовый процессор \| текстовый редактор
 
 **Текстовый редактор** --- программа для ввода и изменения текста, в том
 числе исходного кода программ, и просмотра текстовых файлов.
@@ -1716,7 +1714,7 @@ pleasure in the game.
 
 ***
 
-## answer \| response \| reply
+## answer \| reply \| response
 
 **Response** is a very broad term, and includes all reactions to a
 stimulus.
@@ -1809,7 +1807,7 @@ intensity of something; to diminish, to lower, to impair;
 
 ***
 
-## profit \| gain
+## gain \| profit
 
 Profit and gain are two terms that should be distinguished correctly as
 these have very different meanings in accounting.
@@ -1847,7 +1845,7 @@ someone else.
 
 ***
 
-## lesson \| class
+## class \| lesson
 
 In both the UK and the US, **a class** is usually a group of students
 who are learning together:
@@ -2020,7 +2018,7 @@ just means something was investigated with no indication of the outcome.
 
 ***
 
-## Stop + -ing \| stop to -infinitive
+## stop + -ing \| stop to + infinitive
 
 We use the **-ing** form after stop to indicate that an action or event
 is no longer continuing:
@@ -2183,7 +2181,7 @@ you simply don\'t need "as."
 
 ***
 
-## Comma use with if necessary \| if required \| when needed, etc.
+## comma use with if necessary \| if required \| when needed, etc.
 
 At the start of a sentence, use a comma after **if necessary \| if
 needed \| when required \| where needed** \| etc.
@@ -2207,7 +2205,7 @@ sentence flow or provide an explanatory note:
 
 ***
 
-## confirm \| affirm
+## affirm \| confirm
 
 **Affirm**: to validate or state positively, to assert as valid and to
 express someone's dedication. **Confirm**: to ratify, to strengthen, and
@@ -2245,7 +2243,7 @@ Both the second and third sentences change the original meaning.
 
 ***
 
-## временный \| временной
+## временной \| временный
 
 **Временный** значит непостоянный.
 
@@ -2256,7 +2254,7 @@ Both the second and third sentences change the original meaning.
 
 ***
 
-## bound with \| bound to
+## bound to \| bound with
 
 **Bind to** is used to describe the action of tying or attaching an
 object to another object:
@@ -2322,7 +2320,7 @@ making an effort to do it.
 
 ***
 
-## in the beginning \| at the beginning
+## at the beginning \| in the beginning
 
 **In the beginning** is usually preferred alone and followed by a comma.
 
@@ -2337,7 +2335,7 @@ century, show, etc.
 
 ***
 
-## in the end \| at the end
+## at the end \| in the end
 
 **At the end** can refer to the end of a physical location:
 
@@ -2441,7 +2439,7 @@ Often means there is intent in making the disaggregation.
 
 ***
 
-## dummy \| fake \| stub \| mock
+## dummy \| fake \| mock \| stub
 
 **Dummy** objects are passed around but never actually used. Usually
 they are just used to fill parameter lists.
@@ -2466,7 +2464,7 @@ expectations has to run before they do anything.
 
 ***
 
-## parcel \| package \| packet
+## package \| packet \| parcel
 
 A **parcel** or **package** is an object or group of objects wrapped in
 paper, that can be carried somewhere or sent by post. The two words have
@@ -2487,7 +2485,7 @@ thin cardboard, or bags or envelopes made of paper or plastic.
 
 ***
 
-## replace with \| replace by
+## replace by \| replace with
 
 If you are referring to replacing something that is broken, old, or not
 working/inoperative, then you **replace** it **with** a new one.
@@ -2522,7 +2520,7 @@ authority
 
 ***
 
-## communicate with \| communicate to
+## communicate to \| communicate with
 
 If you **communicate with** someone, you share or exchange information
 with them, for example by speaking, writing, or using equipment:
@@ -2562,7 +2560,7 @@ skill using them:
 
 ***
 
-## in my free time \| ~~in free time~~
+## ~~in free time~~ \| in my free time
 
 *Time* is a countable noun in this case because it is specified and all
 countable nouns should be qualified by a determiner.
@@ -2628,7 +2626,7 @@ actually "wrong" in any real sense).
 
 ***
 
-## persons \| people \| peoples \| Peoples
+## people \| peoples \| Peoples \| persons
 
 **Persons** is especially associated with its use in legal language, in
 which it's often used rather than people to ensure clarity by
@@ -2720,7 +2718,7 @@ practice in the Indian subcontinent.
 
 ***
 
-## cover with \| cover by \| cover in
+## cover by \| cover in \| cover with
 
 The meanings are very similar, and these three prepositions can be used
 almost interchangeably:
@@ -2802,7 +2800,7 @@ When talking about metaphorical coverage, use **covered by**:
 
 ***
 
-## work \| job
+## job \| work
 
 **Work** is both a verb and a noun, whereas **job** is only a noun.
 
@@ -2895,7 +2893,7 @@ known only at call time.
 
 ***
 
-## devoted \| dedicated
+## dedicated \| devoted
 
 **Devoted**: commitment to a particular activity or object. It\'s
 particularly used to talk about someone\'s love for their family:
@@ -2934,7 +2932,7 @@ for or who a song has been sung for.
 
 ***
 
-## node \| host
+## host \| node
 
 Every network **host** is a physical network **node** (i.e. a network
 device), but not every physical network node is a host. Network devices
@@ -2956,7 +2954,7 @@ hosts.
 
 ***
 
-## provide \| provide with \| provide for
+## provide \| provide for \| provide with
 
 **Provide**: the result/outcome is the direct object:
 
@@ -2995,7 +2993,7 @@ talk about parents providing for their family:
 
 ***
 
-## hyphen \| minus \| en dash \| em dash \| two-em dash \| three-em dash
+## em dash \| en dash \| hyphen \| minus \| three-em dash \| two-em dash
 
 **Дефис** (hyphen, -) употребляют в середине слова:
 
@@ -3078,7 +3076,7 @@ thing.* --- Oscar Wilde
 
 ***
 
-## useful to \| useful for
+## useful for \| useful to
 
 *This book is useful to me* indicates that it is useful and important to
 me -- particularly to me not anybody else. whereas *This book is useful
@@ -3090,7 +3088,7 @@ too but not particularly useful and important only to me.
 
 ***
 
-## by email \| via email \| ~~through email~~
+## by email \| ~~through email~~ \| via email
 
 **By** is the most popular, **via** is used sometimes, **through** is
 not used in this construction.
@@ -3230,7 +3228,7 @@ replacing few components.
 
 ***
 
-## drink \| beverage
+## beverage \| drink
 
 **Drink** is a wider term that includes every type of edible liquid
 including water, on the other hand, **beverages** are specific drinks
@@ -3243,7 +3241,7 @@ etc.
 
 ***
 
-## alternative of \| alternative to \| alternative **for**
+## alternative for \| alternative of \| alternative to
 
 What other projects could we do instead?
 
@@ -3275,7 +3273,7 @@ Usage examples:
 
 ***
 
-## between \| among \| amongst
+## among \| amongst \| between
 
 **between**: you're referring to two things:
 
@@ -3359,7 +3357,7 @@ But they are generally used to mean *an archaelogical find*.
 
 *Sources:
 [1](https://english.stackexchange.com/questions/37903/difference-between-artifact-and-artefact),
-[2](http://dictionary.reference.com/browse/artefact)
+[2](http://dictionary.reference.com/browse/artefact)*
 
 ***
 
@@ -3376,7 +3374,7 @@ areas who used to be Republicans or swing voters.
 
 ***
 
-## exercise \| task \| problem \| assignment \| activity
+## activity \| assignment \| exercise \| problem \| task
 
 \>\>
 
@@ -3398,7 +3396,7 @@ Source
 
 ***
 
-## right \| privilege
+## privilege \| right
 
 Source
 
@@ -3426,3 +3424,104 @@ to
 [2](http://www.wordreference.com/es/translation.asp?tranword=draw+the+attention+of)*
 
 ***
+
+## incidental | coincidental
+
+[*Source*]()
+
+***
+
+## dot | full stop | period | point
+
+jakubmarian.com
+
+[*Source*]()
+
+***
+
+## for + gerund | to + infinitive
+
+*I regret saying that I hated her*: Be sorry about something in the
+past
+
+*I like going on holiday.*
+
+*I like to go to the dentist every 6 months.*
+
+[*Source*]()
+
+***
+
+## connect to | connect with
+
+linkschool
+
+[*Source*]()
+
+***
+
+## usage
+
+countable or uncountable
+
+[*Source*]()
+
+***
+
+## comma before which
+
+grammar-monster.com
+
+[*Source*]()
+
+***
+
+## that | this
+
+[*Source*]()
+
+***
+
+## fill in | fill out
+
+[*Source*]()
+
+***
+
+## buyer | purchaser
+
+apps.illinoisworknet.com
+
+[*Source*]()
+
+***
+
+## miss from | miss in
+
+[*Source*]()
+
+***
+
+## solution for | solution to
+
+[*Source*]()
+
+***
+
+## I can only | I only can
+
+[*Source*]()
+
+***
+
+## send email at | send email to
+
+*You can send it to me at the following address.*
+
+forum.english.best
+forum.wordreference.com
+
+[*Source*]()
+
+***
+
