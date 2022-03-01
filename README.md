@@ -28,6 +28,8 @@
 
 [big \| large](#big--large)
 
+[blue dog \| red dog](#blue-dog--red-dog)
+
 [borehole \| well](#borehole--well)
 
 [bound with \| bound to](#bound-with--bound-to)
@@ -199,8 +201,6 @@
 [progress \| a progress \| the progress](#progress--a-progress--the-progress)
 
 [provide \| provide with \| provide for](#provide--provide-with--provide-for)
-
-[blue dog \| red dog](#blue-dog--red-dog)
 
 [regime \| regimen \| regiment](#regime--regimen--regiment)
 
