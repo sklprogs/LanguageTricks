@@ -20,6 +20,8 @@
 
 [amend \| emend \| mend](#amend--emend--mend)
 
+[among \| amongst \| between](#among--amongst--between)
+
 [answer \| reply \| response](#answer--reply--response)
 
 [anybody \| anyone](#anybody--anyone)
@@ -141,6 +143,8 @@
 [explanation for \| explanation of \| explanation to](#explanation-for--explanation-of--explanation-to)
 
 [explode \| implode](#explode--implode)
+
+[for + gerund \| to + infinitive](#for--gerund--to--infinitive])
 
 [gain \| profit](#gain--profit)
 
@@ -3374,6 +3378,77 @@ areas who used to be Republicans or swing voters.
 
 ***
 
+## for + gerund | to + infinitive
+
+Some verbs can be used with a gerund (verb-ing) or an infinitive
+(to + verb), but the meaning changes. For example:
+
+- **like** can be used with both gerunds and infinitives without
+much change in meaning, however:
+
+	- **like + gerund**: you enjoy something:
+
+	> *I **like going** on holiday.*
+
+	- **like + to + infinitive**: you want to say that you think it's
+	a good idea:
+
+	> *I **like to go** to the dentist every 6 months.*
+
+- **Stop**
+
+>> *I **stopped working**.* (I was working, then I stopped)
+
+>> *I **stopped to** answer the phone.* (This is the reason I stopped)
+
+>> *I'm sure I bought the milk -- I **remember buying** it!*
+(I did it, and now I remember it -- buy first, remember after!)
+
+>> *Don't worry -- I **remembered to** buy the milk.*
+(I thought of it, then I did it -- remember first, buy after!)
+
+- **Forget**
+
+>> *I'll never **forget buying** my first car*
+(I did it, and I won't forget it -- buy first, (not) forget after)
+
+>> *I **forgot to** buy the milk.*
+(I didn't do it because I forgot -- forget first, buy after)
+
+- **Try**
+
+>> *I couldn't sleep, so I **tried drinking** warm milk.*
+(this was one possible way to achieve what I wanted)
+
+>> *I **tried to** sleep, but the music was too loud.*
+(this is what I wanted to achieve, but it was difficult, and maybe
+I didn't succeed)
+
+- **Need**
+
+>> *He **needs to** clean the toilet.* (Active, he should do it)
+
+>> *The toilet **needs cleaning**.* (Passive, someone should do
+it -- it should be done)
+
+- **Go on**
+
+>> *I **went on** working all night.* (I continued this)
+
+>> *I was a teacher, but I **went on** to work as a journalist.*
+(this is what I did next)
+
+- **Mean**
+
+>> *I **mean to** learn Japanese one day.* (I plan to do this)
+
+>> *Learning Japanese **means learning** to write kanji.*
+(it involves this)
+
+[*Source*](https://www.tinyteflteacher.co.uk/learn-english/grammar-explanations/verb-patterns/verbs-with-gerund-or-infinitive)
+
+***
+
 ## activity \| assignment \| exercise \| problem \| task
 
 \>\>
@@ -3434,19 +3509,6 @@ to
 ## dot | full stop | period | point
 
 jakubmarian.com
-
-[*Source*]()
-
-***
-
-## for + gerund | to + infinitive
-
-*I regret saying that I hated her*: Be sorry about something in the
-past
-
-*I like going on holiday.*
-
-*I like to go to the dentist every 6 months.*
 
 [*Source*]()
 
