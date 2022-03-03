@@ -3383,7 +3383,7 @@ areas who used to be Republicans or swing voters.
 Some verbs can be used with a gerund (verb-ing) or an infinitive
 (to + verb), but the meaning changes. For example:
 
-- **like** can be used with both gerunds and infinitives without
+- **Like**: can be used with both gerunds and infinitives without
 much change in meaning, however:
 
 	- **like + gerund**: you enjoy something:
@@ -3400,6 +3400,8 @@ much change in meaning, however:
 	> *I **stopped working**.* (I was working, then I stopped)
 
 	> *I **stopped to** answer the phone.* (This is the reason I stopped)
+
+- **Remember**
 
 	> *I'm sure I bought the milk -- I **remember buying** it!*
 	(I did it, and now I remember it -- buy first, remember after!)
@@ -3418,10 +3420,10 @@ much change in meaning, however:
 - **Try**
 
 	> *I couldn't sleep, so I **tried drinking** warm milk.*
-	(this was one possible way to achieve what I wanted)
+	(This was one possible way to achieve what I wanted)
 
 	> *I **tried to** sleep, but the music was too loud.*
-	(this is what I wanted to achieve, but it was difficult, and maybe
+	(This is what I wanted to achieve, but it was difficult, and maybe
 	I didn't succeed)
 
 - **Need**
