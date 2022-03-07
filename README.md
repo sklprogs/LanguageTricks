@@ -188,6 +188,8 @@
 
 [means](#means)
 
+[miss from \| miss in](#miss-from--miss-in)
+
 [new \| novel](#new--novel)
 
 [on \| onto](#on--onto)
@@ -3451,6 +3453,46 @@ much change in meaning, however:
 
 ***
 
+## miss from \| miss in
+
+**miss in**: something or somebody is lost within something. You
+suppose that their existence is true, but their temporal or
+spatial position is missing:
+
+***Missing in** action*
+
+*What\'s **missing in** your apartment?*
+
+**miss from**: something is lost entirely from its source, and
+whether or not it was there to begin with is irrelevant.
+
+*Copy of check is **missing from** the file*
+
+~~Missing in the file~~ doesn\'t make sense because it\'s *not* in
+the file. The only use I can think of for **missing in** is when
+something (or someone) goes missing:
+
+*John went **missing in** Paris*
+
+*I missed that new car in the first version of this computer game so
+much.* = You obtained the first version of the game after you had
+already played version two. You regret going back to an older
+version.
+
+*I missed that new car from the first version of this computer game
+so much.* = The car was in the first version but was absent from the
+second version.
+
+P.S. You can\'t really miss something until you have it. You don\'t
+say to a girl you just met, *I\'ve missed you all my life.* After you
+know her, and she goes away, then you can miss her.
+
+*I missed you while you were on vacation.*
+
+*Sources:
+[1](https://forum.wordreference.com/threads/missing-in-from.3331958/),
+[2](https://forum.wordreference.com/threads/miss-from-in.2875221/)
+
 ## activity \| assignment \| exercise \| problem \| task
 
 \>\>
@@ -3560,9 +3602,8 @@ apps.illinoisworknet.com
 
 ***
 
-## miss from | miss in
+## lack \| miss
 
-[*Source*]()
 
 ***
 
