@@ -132,6 +132,8 @@
 
 [error \| mistake](#error--mistake)
 
+[essentially \| substantially](#essentially--substantially)
+
 [evaluation \| an evaluation](#evaluation--an-evaluation)
 
 [except \| except for](#except--except-for)
@@ -179,6 +181,8 @@
 [interfere in \| interfere with](#interfere-in--interfere-with)
 
 [knowledge about \| knowledge of \| ~~knowledge on~~](#knowledge-about--knowledge-of--knowledge-on)
+
+[lack \| miss](#lack--miss)
 
 [learn how to \| learn to](#learn-how-to--learn-to)
 
@@ -242,6 +246,8 @@
 
 [sniffing \| snooping \| spoofing](#sniffing--snooping--spoofing)
 
+[solution for \| solution of \| solution to](#solution for--solution of--solution to)
+
 [special \| specific](#special--specific)
 
 [starting from \| starting with](#starting-from--starting-with)
@@ -249,8 +255,6 @@
 [stop + -ing \| stop to + infinitive](#stop---ing--stop-to--infinitive)
 
 [subject \| topic](#subject--topic)
-
-[essentially \| substantially](#essentially--substantially)
 
 [substitute for \| substitute with](#substitute-for--substitute-with)
 
@@ -3493,6 +3497,57 @@ know her, and she goes away, then you can miss her.
 [1](https://forum.wordreference.com/threads/missing-in-from.3331958/),
 [2](https://forum.wordreference.com/threads/miss-from-in.2875221/)*
 
+## lack \| miss
+
+To **lack** something = to not have something (usually something
+desirable or essential):
+
+*I would take the radio apart, but I **lack** a screwdriver.*
+
+To **miss** = to regret the absence of something or someone:
+
+*I would take the radio apart but I have lost my screwdriver, it was
+a particularly good one and I **miss** it.*
+
+*My wife died three years ago and I still **miss** her. You ask if I
+**lack** a wife; I suppose I do but I have no desire to remarry.*
+
+However, you can say, to be **missing** something = to **lack**
+because of the loss of a previously owned object:
+
+*I would take the radio apart, but I am **missing** a screwdriver.
+I can\'t find it anywhere, I must have lost it.*
+
+***
+
+## solution for \| solution of \| solution to
+
+Generally we use **to**:
+
+*We have the **solution to** all your problems.*
+
+You can use **solutions for** when speaking of the recipient of
+the solution, as opposed to linking a solution to a problem:
+
+*We have **solutions for** your family in your time of need.*
+
+It depends on your use of the word *solution*:
+
+*What's the **solution to** the problem?* (the answer to the problem)
+
+*He won £10,000 for the **solution of** the math problem.* (the solving of the problem)
+
+In chemistry:
+
+*A **solution of** hydrogen peroxide and one of saturated potassium iodide.*
+
+*Sources:
+[1](https://forum.wordreference.com/threads/solution-for-to-a-problem.112398/),
+[2](https://www.usingenglish.com/forum/threads/solution-to-or-solution-of.237314/),
+[3](https://textranch.com/480641/solution-of/or/solution-to/)*
+
+***
+
 ## activity \| assignment \| exercise \| problem \| task
 
 \>\>
@@ -3544,13 +3599,13 @@ to
 
 ***
 
-## incidental | coincidental
+## incidental \| coincidental
 
 [*Source*]()
 
 ***
 
-## dot | full stop | period | point
+## dot \| full stop \| period \| point
 
 jakubmarian.com
 
@@ -3558,7 +3613,7 @@ jakubmarian.com
 
 ***
 
-## connect to | connect with
+## connect to \| connect with
 
 linkschool
 
@@ -3582,19 +3637,19 @@ grammar-monster.com
 
 ***
 
-## that | this
+## that \| this
 
 [*Source*]()
 
 ***
 
-## fill in | fill out
+## fill in \| fill out
 
 [*Source*]()
 
 ***
 
-## buyer | purchaser
+## buyer \| purchaser
 
 apps.illinoisworknet.com
 
@@ -3602,24 +3657,13 @@ apps.illinoisworknet.com
 
 ***
 
-## lack \| miss
-
-
-***
-
-## solution for | solution to
+## I can only \| I only can
 
 [*Source*]()
 
 ***
 
-## I can only | I only can
-
-[*Source*]()
-
-***
-
-## send email at | send email to
+## send email at \| send email to
 
 *You can send it to me at the following address.*
 
