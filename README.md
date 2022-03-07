@@ -3474,14 +3474,14 @@ something (or someone) goes missing:
 
 *John went **missing in** Paris*
 
-*I missed that new car in the first version of this computer game so
-much.* = You obtained the first version of the game after you had
+*I missed that new car **in** the first version of this computer game
+so much.* = You obtained the first version of the game after you had
 already played version two. You regret going back to an older
 version.
 
-*I missed that new car from the first version of this computer game
-so much.* = The car was in the first version but was absent from the
-second version.
+*I missed that new car **from** the first version of this computer
+game so much.* = The car was in the first version but was absent from
+the second version.
 
 P.S. You can\'t really miss something until you have it. You don\'t
 say to a girl you just met, *I\'ve missed you all my life.* After you
@@ -3491,7 +3491,7 @@ know her, and she goes away, then you can miss her.
 
 *Sources:
 [1](https://forum.wordreference.com/threads/missing-in-from.3331958/),
-[2](https://forum.wordreference.com/threads/miss-from-in.2875221/)
+[2](https://forum.wordreference.com/threads/miss-from-in.2875221/)*
 
 ## activity \| assignment \| exercise \| problem \| task
 
