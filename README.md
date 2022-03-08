@@ -78,6 +78,8 @@
 
 [compose \| comprise \| contain](#compose--comprise--contain)
 
+[connect to \| connect with](#connect-to--connect-with)
+
 [considered \| considered as](#considered--considered-as)
 
 [consist in \| consist of](#consist-in--consist-of)
@@ -3535,7 +3537,8 @@ It depends on your use of the word *solution*:
 
 *What's the **solution to** the problem?* (the answer to the problem)
 
-*He won £10,000 for the **solution of** the math problem.* (the solving of the problem)
+*He won £10,000 for the **solution of** the math problem.* (the
+solving of the problem)
 
 In chemistry:
 
@@ -3548,11 +3551,105 @@ In chemistry:
 
 ***
 
-## activity \| assignment \| exercise \| problem \| task
+## connect to \| connect with
 
-\>\>
+**Connected to** usually means a physical connection:
 
-[*Source*](https://www.myenglishpages.com/blog/what-is-the-difference-between-a-task-and-an-exercise/)
+*Your computer is **connected to** a printer.*
+
+**Connected with** someone or something means a relationship:
+
+*He is still **connected with** his school colleagues*
+
+*Symptoms **connected with** kidney stones*
+
+[*Source*](https://www.linkschool.co.uk/learn-english-connect-to-or-with/)
+
+***
+
+## activity \| activities \| assignment \| drill \| exercise \| problem \| task
+
+An **exercise** is a teaching procedure that involves controlled,
+guided or open ended practice of some aspect of language. A drill,
+a cloze activity, a reading comprehension passage can all be regarded
+as exercises.
+
+Main characteristics of exercises:
+
+- A language exercise is guided and controlled by the teacher.
+
+- An exercise usually has a restrictive focus on a single language
+  element, and has a linguistic outcome.
+
+- The focus is usually on a single skill.
+
+- There is no reference to the context.
+
+- A language  exercise is not communicative and usually not authentic.
+
+- It is not meaningful and the focus is on form rather than on content.
+
+- Correction is usually done immediately.
+
+**Drill** and practice is a disciplined and repetitious exercise,
+used as a mean of teaching and perfecting a skill or procedure.
+Similar to memorization, drill and practice involves repetition of
+specific skills, such as spelling or multiplication.
+
+The term **activity** refers to any kind of purposeful classroom
+procedure that involves learners doing something that relates to the
+goals of the course. For example singing a song, playing a game,
+taking part in a debate, having a group discussion, are all different
+kinds of teaching activities.
+
+Its plural form i.e. **activities** refer to an occupation or some
+kind of outdoor activity.
+
+A **task**:
+
+1) (A general definition) A piece of work done as part of one’s
+   duties. A task is usually done under the supervision of someone
+   and needs to be completed on time. It requires focus and there’s
+   always an intention associated with it. The main purpose of
+   performing a task is to complete it in the given time duration.
+
+2) A communicative act that, in the main, is meaning-based,
+   goal-oriented, and purposeful with a non-linguistic and
+   communicative outcome.
+
+- Tasks are free. Students are given free will to use language for
+  communicative purposes.
+
+- Focus on multiple skills rather than on one.
+
+- Tasks are used in context.
+
+- Tasks are communicative and usually authentic.
+
+- Tasks are meaningful and focus is on content.
+
+- Correction of tasks is delayed and is done through observation and
+  awareness raising.
+
+**Task** requires supervision and comes with a deadline and it cannot
+be left incomplete while activity need not necessarily require
+supervision. The **activity** has no such deadline and it’s a
+continuous process. The primary focus while doing a task is in
+completing it while the primary function in performing an activity is
+in doing it.
+
+An **assignment** is work given to you by your boss/coworker.
+**Task** could be the same but it can also mean the work that you
+assigned to yourself.
+
+*Sources:
+[1](https://www.professorjackrichards.com/difference-task-exercise-activity/),
+[2](https://wikidiff.com/task/exercise),
+[3](https://www.journals.aiac.org.au/index.php/alls/article/view/4980),
+[4](https://www.myenglishpages.com/blog/what-is-the-difference-between-a-task-and-an-exercise/),
+[5](https://askanydifference.com/difference-between-task-and-activity/),
+[6](https://hinative.com/ru/questions/392784),
+[7](https://everythingwhat.com/what-is-the-difference-between-a-drill-and-an-exercise)*
 
 ***
 
@@ -3613,14 +3710,6 @@ jakubmarian.com
 
 ***
 
-## connect to \| connect with
-
-linkschool
-
-[*Source*]()
-
-***
-
 ## usage
 
 countable or uncountable
@@ -3669,6 +3758,12 @@ apps.illinoisworknet.com
 
 forum.english.best
 forum.wordreference.com
+
+[*Source*]()
+
+***
+
+## practice \| practise
 
 [*Source*]()
 
