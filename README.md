@@ -8,7 +8,7 @@
 
 [additional \| extra](#additional--extra)
 
-[activity \| assignment \| exercise \| problem \| task](#activity--assignment--exercise--problem--task)
+[activity \| activities \| assignment \| drill \| exercise \| problem \| task](#activity--activities--assignment--drill--exercise--problem--task)
 
 [affirm \| confirm](#affirm--confirm)
 
@@ -3642,6 +3642,14 @@ An **assignment** is work given to you by your boss/coworker.
 **Task** could be the same but it can also mean the work that you
 assigned to yourself.
 
+A **problem** is a question proposed for solution or discussion.
+Problems have many possible solutions and figuring out the right one
+for a given situation allows for ownership of that solution.
+**Tasks**, on the other hand, are a known entity. There’s already
+a solution, and you only have to physically go through the steps of
+completing it. There’s not much thought required, and if the task
+popped up frequently enough, you’d consider automating it.
+
 *Sources:
 [1](https://www.professorjackrichards.com/difference-task-exercise-activity/),
 [2](https://wikidiff.com/task/exercise),
@@ -3649,7 +3657,9 @@ assigned to yourself.
 [4](https://www.myenglishpages.com/blog/what-is-the-difference-between-a-task-and-an-exercise/),
 [5](https://askanydifference.com/difference-between-task-and-activity/),
 [6](https://hinative.com/ru/questions/392784),
-[7](https://everythingwhat.com/what-is-the-difference-between-a-drill-and-an-exercise)*
+[7](https://everythingwhat.com/what-is-the-difference-between-a-drill-and-an-exercise),
+[8](https://www.dictionary.com/browse/problem),
+[9](https://medium.com/flatiron-labs/problems-vs-tasks-in-software-engineering-58468396d69e)*
 
 ***
 
