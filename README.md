@@ -156,7 +156,7 @@
 
 [for + gerund \| to + infinitive](#for--gerund--to--infinitive)
 
-[furthermore, however, moreover, therefore (punctuation)](#furthermore--however--moreover--therefore--punctuation-)
+[furthermore, however, moreover, therefore (punctuation)](#furthermore-however-moreover-therefore-punctuation)
 
 [gain \| profit](#gain--profit)
 
