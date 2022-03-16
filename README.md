@@ -3473,35 +3473,35 @@ much change in meaning, however:
 suppose that their existence is true, but their temporal or
 spatial position is missing:
 
-***Missing in** action*
+> ***Missing in** action*
 
-*What\'s **missing in** your apartment?*
+> *What\'s **missing in** your apartment?*
 
 **miss from**: something is lost entirely from its source, and
 whether or not it was there to begin with is irrelevant.
 
-*Copy of check is **missing from** the file*
+> *Copy of check is **missing from** the file*
 
 ~~Missing in the file~~ doesn\'t make sense because it\'s *not* in
 the file. The only use I can think of for **missing in** is when
 something (or someone) goes missing:
 
-*John went **missing in** Paris*
+> *John went **missing in** Paris*
 
-*I missed that new car **in** the first version of this computer game
-so much.* = You obtained the first version of the game after you had
-already played version two. You regret going back to an older
-version.
+> *I missed that new car **in** the first version of this computer
+  game so much.* = You obtained the first version of the game after
+  you had already played version two. You regret going back to an
+  older version.
 
-*I missed that new car **from** the first version of this computer
-game so much.* = The car was in the first version but was absent from
-the second version.
+> *I missed that new car **from** the first version of this computer
+  game so much.* = The car was in the first version but was absent
+  from the second version.
 
 P.S. You can\'t really miss something until you have it. You don\'t
 say to a girl you just met, *I\'ve missed you all my life.* After you
 know her, and she goes away, then you can miss her.
 
-*I missed you while you were on vacation.*
+> *I missed you while you were on vacation.*
 
 *Sources:
 [1](https://forum.wordreference.com/threads/missing-in-from.3331958/),
@@ -3512,21 +3512,21 @@ know her, and she goes away, then you can miss her.
 To **lack** something = to not have something (usually something
 desirable or essential):
 
-*I would take the radio apart, but I **lack** a screwdriver.*
+> *I would take the radio apart, but I **lack** a screwdriver.*
 
 To **miss** = to regret the absence of something or someone:
 
-*I would take the radio apart but I have lost my screwdriver, it was
-a particularly good one and I **miss** it.*
+> *I would take the radio apart but I have lost my screwdriver, it
+  was a particularly good one and I **miss** it.*
 
-*My wife died three years ago and I still **miss** her. You ask if I
-**lack** a wife; I suppose I do but I have no desire to remarry.*
+> *My wife died three years ago and I still **miss** her. You ask if
+  I **lack** a wife; I suppose I do but I have no desire to remarry.*
 
 However, you can say, to be **missing** something = to **lack**
 because of the loss of a previously owned object:
 
-*I would take the radio apart, but I am **missing** a screwdriver.
-I can\'t find it anywhere, I must have lost it.*
+> *I would take the radio apart, but I am **missing** a screwdriver.
+  I can\'t find it anywhere, I must have lost it.*
 
 ***
 
@@ -3534,19 +3534,20 @@ I can\'t find it anywhere, I must have lost it.*
 
 Generally we use **to**:
 
-*We have the **solution to** all your problems.*
+> *We have the **solution to** all your problems.*
 
 You can use **solutions for** when speaking of the recipient of
 the solution, as opposed to linking a solution to a problem:
 
-*We have **solutions for** your family in your time of need.*
+> *We have **solutions for** your family in your time of need.*
 
 It depends on your use of the word *solution*:
 
-*What's the **solution to** the problem?* (the answer to the problem)
+> *What's the **solution to** the problem?* (the answer to the
+  problem)
 
-*He won £10,000 for the **solution of** the math problem.* (the
-solving of the problem)
+> *He won £10,000 for the **solution of** the math problem.* (the
+  solving of the problem)
 
 In chemistry:
 
@@ -3563,13 +3564,13 @@ In chemistry:
 
 **Connected to** usually means a physical connection:
 
-*Your computer is **connected to** a printer.*
+> *Your computer is **connected to** a printer.*
 
 **Connected with** someone or something means a relationship:
 
-*He is still **connected with** his school colleagues*
+> *He is still **connected with** his school colleagues*
 
-*Symptoms **connected with** kidney stones*
+> *Symptoms **connected with** kidney stones*
 
 [*Source*](https://www.linkschool.co.uk/learn-english-connect-to-or-with/)
 
@@ -3704,24 +3705,24 @@ unpleasant occurrence. **Accident** usually refers directly to
 something that causes damage or injury, **incident** -- to a specific
 moment or instance of unpleasantness or unlawfulness:
 
-*a traffic **accident***
+> *a traffic **accident***
 
-*isolated **incidents** were reported*
+> *isolated **incidents** were reported*
 
 **Coincidentally** relates to luck, in a way, to two or more events
 at one time apparently by mere chance.
 
-*You happen to call me on the phone. In the course of our
-conversation you happen to mention where you are. By luck
-(**coincidentally**), you happen to be very close to where I am and
-that will make it easy for me to meet up with you in person.*
+> *You happen to call me on the phone. In the course of our
+  conversation you happen to mention where you are. By luck
+  (**coincidentally**), you happen to be very close to where I am and
+  that will make it easy for me to meet up with you in person.*
 
 **Coincidently** is *simultaneously*
 
 **Incidentally** is more like *by the way*.
 
-*By the way (**incidentally**), I am going to be out of town next
-weekend so I can\'t go to the movies like we planned.*
+> *By the way (**incidentally**), I am going to be out of town next
+  weekend so I can\'t go to the movies like we planned.*
 
 *Sources:
 [1](https://www.merriam-webster.com/words-at-play/accidental-vs-incidental-usage-history),
