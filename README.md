@@ -2,13 +2,15 @@
 
 [able to \| capable of](#able-to--capable-of)
 
+[accidentally \| coincidentally \| coincidently \| incidentally](#accidentally--coincidentally--coincidently--incidentally)
+
 [accurate \| precise](#accurate--precise)
+
+[activity \| activities \| assignment \| drill \| exercise \| problem \| task](#activity--activities--assignment--drill--exercise--problem--task)
 
 [add in \| add into \| add to](#add-in--add-into--add-to)
 
 [additional \| extra](#additional--extra)
-
-[activity \| activities \| assignment \| drill \| exercise \| problem \| task](#activity--activities--assignment--drill--exercise--problem--task)
 
 [affirm \| confirm](#affirm--confirm)
 
@@ -45,6 +47,8 @@
 [big \| large](#big--large)
 
 [blue dog \| red dog](#blue-dog--red-dog)
+
+[boobs \| tits](#boobs--tits)
 
 [borehole \| well](#borehole--well)
 
@@ -215,6 +219,8 @@
 [people’s lives \| peoples’ lives \| people’s life \| in the lives of people](#peoples-lives--peoples-lives--peoples-life--in-the-lives-of-people)
 
 [people \| peoples \| Peoples \| persons](#people--peoples--peoples--persons)
+
+[practice \| practise](#practice--practise)
 
 [privilege \| right](#privilege--right)
 
@@ -3663,6 +3669,65 @@ popped up frequently enough, you’d consider automating it.
 
 ***
 
+## boobs \| tits
+
+Literally, **tits** refer to the nipples and **boobs** refer to the
+entire breast/chest of a woman, but in real conversation, men use
+tits and boobs interchangeably to refer to the entirety of a
+woman\'s chest.
+
+[*Source*](https://hinative.com/ru/questions/63822)
+
+***
+
+## practice \| practise
+
+**practice** -- noun, **practise** -- verb (BrE)
+
+**practice** -- both a noun and a verb (AmE)
+
+[*Source*](https://www.dictionary.com/e/practice-vs-practise/)
+
+***
+
+## accidentally \| coincidentally \| coincidently \| incidentally
+
+**Accidental** and **incidental** can both mean "something happening
+by chance," but usage suggests that **accidental** also implies an
+element of carelessness or inattention while **incidental** implies
+the occurrence would have happened with or without attention or care.
+
+**Accident** and **incident** share the idea of a sudden and
+unpleasant occurrence. **Accident** usually refers directly to
+something that causes damage or injury, **incident** -- to a specific
+moment or instance of unpleasantness or unlawfulness:
+
+*a traffic **accident***
+
+*isolated **incidents** were reported*
+
+**Coincidentally** relates to luck, in a way, to two or more events
+at one time apparently by mere chance.
+
+*You happen to call me on the phone. In the course of our
+conversation you happen to mention where you are. By luck
+(**coincidentally**), you happen to be very close to where I am and
+that will make it easy for me to meet up with you in person.*
+
+**Coincidently** is *simultaneously*
+
+**Incidentally** is more like *by the way*.
+
+*By the way (**incidentally**), I am going to be out of town next
+weekend so I can\'t go to the movies like we planned.*
+
+*Sources:
+[1](https://www.merriam-webster.com/words-at-play/accidental-vs-incidental-usage-history),
+[2](https://forum.wordreference.com/threads/coincidentally-vs-incidentally.3338234/),
+[3](https://www.dictionary.com/browse/coincidence)*
+
+***
+
 ## learn how to \| learn to
 
 \>\>
@@ -3706,11 +3771,11 @@ to
 
 ***
 
-## incidental \| coincidental
+## instance \| moment
+
+
 
 [*Source*]()
-
-***
 
 ## dot \| full stop \| period \| point
 
@@ -3773,9 +3838,35 @@ forum.wordreference.com
 
 ***
 
-## practice \| practise
+## little \| small
+
+
 
 [*Source*]()
 
 ***
 
+## OK \| Okay \| Okey
+
+[*Source*](https://hinative.com/ru/questions/658373)
+
+***
+
+## similar to \| ~~similar with~~
+
+ell.stachexchange.com
+
+[*Source*]()
+
+***
+
+## convergent \| divergent
+
+wikidiff.com
+pediaa.com
+
+***
+
+## material \| materiel
+
+***
