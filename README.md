@@ -3736,9 +3736,9 @@ weekend so I can\'t go to the movies like we planned.*
 1. At the beginning of a sentence: put a comma after these words
    (some modern writers are now dropping the comma).
 
-   ***Therefore**, we will proceed with the order.*
+   > ***Therefore**, we will proceed with the order.*
 
-   ***However**, we still have hope.*
+   > ***However**, we still have hope.*
 
    1.1. A traditional rule stated that **however** meaning
         *nevertheless* should not be used at the beginning of
@@ -3749,28 +3749,28 @@ weekend so I can\'t go to the movies like we planned.*
    (a group of words that contains a subject and verb and expresses
    a complete thought.)
 
-   *She always meets her deadlines; **furthermore**, her work is
-   good.*
+   > *She always meets her deadlines; **furthermore**, her work is
+     good.*
 
-   *We plan to stay for another year; **however**, Peter is leaving
-   now.*
+   > *We plan to stay for another year; **however**, Peter is leaving
+     now.*
 
    2.1. Some writers are now treating *however, therefore, moreover*
         and *furthermore* as conjunctions and just using a comma:
    
-        *We plan to stay for another year, **however** Peter is
-        leaving now.*
+   >> *We plan to stay for another year, **however** Peter is leaving
+      now.*
 
    2.2. You can also use **however** as a conjunction to mean *by
         whatever means*:
    
-        *I don’t care **however** you do it, just get it done.*
+   >> *I don’t care **however** you do it, just get it done.*
 
 3. As intensifiers or for emphasis:
 
-   *You can, **therefore**, do whatever you like.*
+   > *You can, **therefore**, do whatever you like.*
 
-   *The vegetables, **furthermore**, are good for you.*
+   > *The vegetables, **furthermore**, are good for you.*
 
 [*Source*](https://onlinewritingtraining.com.au/however-therefore-furthermore/)
 
