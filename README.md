@@ -156,6 +156,8 @@
 
 [for + gerund \| to + infinitive](#for--gerund--to--infinitive)
 
+[furthermore, however, moreover, therefore (punctuation)](#furthermore--however--moreover--therefore--punctuation)
+
 [gain \| profit](#gain--profit)
 
 [hear about \| hear of](#hear-about--hear-of)
@@ -3724,7 +3726,52 @@ weekend so I can\'t go to the movies like we planned.*
 *Sources:
 [1](https://www.merriam-webster.com/words-at-play/accidental-vs-incidental-usage-history),
 [2](https://forum.wordreference.com/threads/coincidentally-vs-incidentally.3338234/),
-[3](https://www.dictionary.com/browse/coincidence)*
+[3](https://www.dictionary.com/browse/coincidence),
+[4](https://theknowledgeburrow.com/is-it-coincidentally-or-coincidently/)*
+
+***
+
+## furthermore, however, moreover, therefore (punctuation)
+
+1. At the beginning of a sentence: put a comma after these words
+   (some modern writers are now dropping the comma).
+
+   ***Therefore**, we will proceed with the order.*
+
+   ***However**, we still have hope.*
+
+   A traditional rule stated that **however** meaning *nevertheless*
+   should not be used at the beginning of a sentence. Most style
+   guides consider this rule old-fashioned.
+
+2. Use a semicolon and comma to introduce a new independent clause
+   (a group of words that contains a subject and verb and expresses
+   a complete thought.)
+
+   *She always meets her deadlines; **furthermore**, her work is
+   good.*
+
+   *We plan to stay for another year; **however**, Peter is leaving
+   now.*
+
+   2.1. Some writers are now treating *however, therefore, moreover*
+        and *furthermore* as conjunctions and just using a comma:
+   
+        *We plan to stay for another year, **however** Peter is
+        leaving now.*
+
+   2.2. You can also use **however** as a conjunction to mean *by
+        whatever means*:
+   
+        *I don’t care **however** you do it, just get it done.*
+
+3. As intensifiers or for emphasis:
+
+   *You can, **therefore**, do whatever you like.*
+
+   *The vegetables, **furthermore**, are good for you.*
+
+[*Source*](https://onlinewritingtraining.com.au/however-therefore-furthermore/)
 
 ***
 
@@ -3870,3 +3917,4 @@ pediaa.com
 ## material \| materiel
 
 ***
+
