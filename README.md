@@ -2968,9 +2968,9 @@ network printers and hardware routers have IP addresses, but since
 they are not general-purpose computers, they are sometimes not
 considered to be hosts.
 
-  | node    | a device that implements IPv6 |
-  | router  | a node that forwards IPv6 packets not explicitly addressed to itself |
-  | host    | any node that is not a router |
+  | node   | a device that implements IPv6 |
+  | router | a node that forwards IPv6 packets not explicitly addressed to itself |
+  | host   | any node that is not a router |
 
 *Sources: [1](https://en.wikipedia.org/wiki/Host_(network)),
 [2](https://networkengineering.stackexchange.com/questions/19445/what-is-real-difference-between-host-and-node-in-network)*
