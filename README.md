@@ -256,7 +256,7 @@
 
 [sniffing \| snooping \| spoofing](#sniffing--snooping--spoofing)
 
-[solution for \| solution of \| solution to](#solution for--solution of--solution to)
+[solution for \| solution of \| solution to](#solution-for--solution-of--solution-to)
 
 [special \| specific](#special--specific)
 
@@ -394,19 +394,19 @@ bring to correspondence
 
 ## during \| within
 
-**within** implies a limit or deadline
-
 **during** indicates a time frame
+
+**within** implies a limit or deadline
 
 This came up recently in the following sentence:
 
-> *\... the new office will support the beneficiary \... within one year of
-petitioner approval.*
+> *\... the new office will support the beneficiary \... **within**
+> one year of petitioner approval.*
 
-The business had interpreted that as "during the year of", and it got
+The business had interpreted that as *during the year of*, and it got
 them into a bit of trouble. They supported the beneficiary for a year
-but were not able to continue to support him after. The intent was for
-the position to continue, not end.
+but were not able to continue to support him after. The intent was
+for the position to continue, not end.
 
 [*Source*](https://forum.wordreference.com/threads/during-vs-within.1647596/)
 
@@ -1499,18 +1499,18 @@ more focused or extended attention.
 
 ## hear about \| hear of
 
-See [think of \| think about](#think-of-think-about)
+See [think of \| think about](#think-of--think-about)
 
-You might say you\'ve **heard of** something meaning no more than that
-you\'re aware "something" exists. But if you\'ve **heard about**
+You might say you\'ve **heard of** something meaning no more than
+that you\'re aware "something" exists. But if you\'ve **heard about**
 something the implication is you\'ve heard some important/current
 information about that thing.
 
-> *I\'ve **heard of** Amy Winehouse* (the name is known to me, but I don\'t
-> necessarily know any more).
+> *I\'ve **heard of** Amy Winehouse* (the name is known to me, but
+> I don\'t necessarily know any more).
 
-> *I\'ve **heard about** Amy Winehouse* (strongly implies knowing of her
-> untimely death).
+> *I\'ve **heard about** Amy Winehouse* (strongly implies knowing of
+> her untimely death).
 
 [*Source*](https://english.stackexchange.com/questions/71003/difference-between-think-of-and-think-about?noredirect=1)
 
@@ -1523,10 +1523,10 @@ information about that thing.
 **Throw to** can mean two things:
 
 1\. if throwing to a person, it is usually so that they can catch the
-object
+    object.
 
-2\. if throwing to something else, it is so that the object ends up near
-the target.
+2\. if throwing to something else, it is so that the object ends up
+    near the target.
 
 [*Source*](https://hinative.com/ru/questions/209548)
 
@@ -2825,21 +2825,23 @@ When talking about metaphorical coverage, use **covered by**:
 **Work** is both a verb and a noun, whereas **job** is only a noun.
 
 **Job** refers to a particular employment role or position, such as
-cook, teacher or banker, whereas **work** refers in a more general way
-to activities that you do.
+cook, teacher or banker, whereas **work** refers in a more general
+way to activities that you do.
 
-All **jobs** involve **work** but doing work isn't always part of a job.
-For example, someone can spend the weekend working in their garden.
-However, this is a free time activity, and so it is not his or her job.
+All **jobs** involve **work** but doing work isn't always part of
+a job. For example, someone can spend the weekend working in their
+garden. However, this is a free time activity, and so it is not his
+or her job.
 
-If you describe how a machine **works**, you explain how it functions:
+If you describe how a machine **works**, you explain how it
+functions:
 
 > *Can someone show me how the photocopier works?*
 
 > *Don't try to use that computer. It doesn't work.*
 
-**Job **can also refer to a specific task that requires **work** and a
-task that you can specifically identify:
+**Job** can also refer to a specific task that requires **work** and
+a task that you can specifically identify:
 
 > *I have a few jobs to do at home this weekend. I need to paint my
 > bedroom, fix a broken door and cut the grass.*
@@ -2847,8 +2849,8 @@ task that you can specifically identify:
 > *The **work** that I do in my **job** is very interesting, so even
 > though it is hard work, I don't think I will look for another job!*
 
-> *Are you a student or do you have a **job**? Whatever you do, is it hard
-> **work**?*
+> *Are you a student or do you have a **job**? Whatever you do, is it
+> hard **work**?*
 
 [*Source*](https://www.bbc.co.uk/worldservice/learningenglish/language/askaboutenglish/2009/03/090331_aae_work_page.shtml)
 
@@ -2856,21 +2858,21 @@ task that you can specifically identify:
 
 ## suggest \| suggest that
 
-> *He suggested going to Glastonbury.*
+> *He **suggested going** to Glastonbury.*
 
-> *He suggested my going to Glastonbury.*
+> *He **suggested my going** to Glastonbury.*
 
-> *I suggested visiting your grandmother.*
+> *I **suggested visiting** your grandmother.*
 
-> *I suggested your visiting your grandmother.*
+> *I **suggested your visiting** your grandmother.*
 
-> *He suggests that I should go to New York.*
+> *He **suggests that** I should go to New York.*
 
-> *He suggests that I go to New York.*
+> *He **suggests that** I go to New York.*
 
-> *He suggests I should go to New York.*
+> *He **suggests I should go** to New York.*
 
-> *He suggests I go to New York.*
+> *He **suggests I go** to New York.*
 
 [*Source*](https://www.ef.com/wwen/english-resources/english-grammar/using-suggest/)
 
@@ -2888,15 +2890,17 @@ countable thing:
 Both **part** and **a part** can be used to refer to a more general
 portion of a thing that is not countable:
 
-> ***Part** of the food* \[or money, or care\] *will be devoted to the poor.*
+> ***Part** of the food* \[or money, or care\] *will be devoted to
+> the poor.*
 
-> ***A part** of the food* \[or money, or care\] *will be devoted to the poor.*
+> ***A part** of the food* \[or money, or care\] *will be devoted to
+> the poor.*
 
 The portion to be devoted is not defined in these sentences as
-comprising a specific discrete section or item, but either construction
-is clear and appropriate. The addition of the article a may give a
-slight connotation that the portion may already be determined, but not
-necessarily.
+comprising a specific discrete section or item, but either
+construction is clear and appropriate. The addition of the article
+a may give a slight connotation that the portion may already be
+determined, but not necessarily.
 
 [*Source*](https://english.stackexchange.com/questions/117833/a-part-vs-part?noredirect=1)
 
@@ -2929,24 +2933,25 @@ life:
 
 > *The teachers were devoted to their students.*
 
-The central meaning is that effort and concentration are involved in the
-object of the devotion. And it\'s worth noting that the noun
+The central meaning is that effort and concentration are involved
+in the object of the devotion. And it\'s worth noting that the noun
 **devotions** might also mean religious activities like praying.
 
-**Dedicated** is a more general word. If you are dedicated to something,
-you believe that it\'s right and worthwhile and you give a lot of time
-and effort to it. It\'s especially useful to talk about someone\'s
-attitude to their job:
+**Dedicated** is a more general word. If you are dedicated to
+something, you believe that it\'s right and worthwhile and you give
+a lot of time and effort to it. It\'s especially useful to talk about
+someone\'s attitude to their job:
 
-> *A dedicated worker*
+> *A **dedicated** worker*
 
-> *A dedicated vegetarian* (believes very strongly that people should not
-> eat animals)
+> *A **dedicated** vegetarian* (believes very strongly that people
+> should not eat animals)
 
-> *A song on the radio might be dedicated to a particular person.*
+> *A song on the radio might be **dedicated** to a particular
+> person.*
 
-A **dedication** is a statement which says who a book has been written
-for or who a song has been sung for.
+A **dedication** is a statement which says who a book has been
+written for or who a song has been sung for.
 
 [*Source*](https://www.bbc.co.uk/worldservice/learningenglish/radio/specials/1837_aae/page20.shtml)
 
@@ -2963,11 +2968,11 @@ printers and hardware routers have IP addresses, but since they are not
 general-purpose computers, they are sometimes not considered to be
 hosts.
 
-  -------- ----------------------------------------------------------------------
-  node     a device that implements IPv6
-  router   a node that forwards IPv6 packets not explicitly addressed to itself
-  host     any node that is not a router
-  -------- ----------------------------------------------------------------------
+  --------|----------------------------------------------------------------------
+  node    | a device that implements IPv6
+  router  | a node that forwards IPv6 packets not explicitly addressed to itself
+  host    | any node that is not a router
+  --------|----------------------------------------------------------------------
 
 *Sources: [1](https://en.wikipedia.org/wiki/Host_(network)),
 [2](https://networkengineering.stackexchange.com/questions/19445/what-is-real-difference-between-host-and-node-in-network)*
@@ -3036,9 +3041,9 @@ talk about parents providing for their family:
 для обозначения отрицательного числа или операции вычитания. В
 зависимости от шрифта можно заменить дефисом или коротким тире.
 
-**Короткое тире** (En dash, --) равно по ширине букве n в прописном или
-строчном варианте, в зависимости от шрифта. В некоторых шрифтах может
-быть длиннее или короче.
+**Короткое тире** (En dash, --) равно по ширине букве n в прописном
+или строчном варианте, в зависимости от шрифта. В некоторых шрифтах
+может быть длиннее или короче.
 
 -   обозначение диапазонов:
 
@@ -3054,43 +3059,45 @@ talk about parents providing for their family:
 
 -   некоторые предпочитают заменять этим знаком длинное тире
 
-**Длинное тире** (Em dash, ---) равно по ширине букве m в прописном или
-строчном варианте, а в некоторых шрифтах и длиннее. Если поставить рядом
-несколько длинных тире, они образуют сплошную линию.
+**Длинное тире** (Em dash, ---) равно по ширине букве *m* в прописном
+или строчном варианте, а в некоторых шрифтах и длиннее. Если
+поставить рядом несколько длинных тире, они образуют сплошную линию.
 
-вместо запятой, двоеточия или скобок. Разница в том, что длинное тире
-обозначает более длинную и выразительную интонационную паузу.
+-   вместо запятой, двоеточия или скобок. Разница в том, что длинное
+    тире обозначает более длинную и выразительную интонационную паузу.
 
 -   отделение источника в цитатах:
 
->> *In matters of grave importance, style, not sincerity, is the vital
-thing.* --- Oscar Wilde
+>> *In matters of grave importance, style, not sincerity, is the
+>> vital thing.* --- Oscar Wilde
 
--   в американском английском длинное тире не принято отделять пробелами
-    от предшествующего слова:
+-   в американском английском длинное тире не принято отделять
+    пробелами от предшествующего слова:
 
->> *A flock of sparrows---some of them juveniles---alighted and sang.*
+>> *A flock of sparrows---some of them juveniles---alighted and
+>> sang.*
 
 -   иногда вместо длинного тире используют короткое тире с пробелом:
 
->> *A flock of sparrows -- some of them juveniles -- alighted and sang.*
+>> *A flock of sparrows -- some of them juveniles -- alighted and
+>> sang.*
 
 **Двойное длинное тире** (two-em dash, ------) --- два длинных тире,
 поставленных рядом без пробела. Указывает, что часть слова опущена.
 Обычно так обозначают имена либо ругательства:
 
-> *Mr. L------ told Ms. T------ that he would be d------d if he invited
-> her out again.*
+> *Mr. L------ told Ms. T------ that he would be d------d if he
+> invited her out again.*
 
-**Тройное длинное тире **(three-em dash, ---------) --- три длинных
+**Тройное длинное тире** (three-em dash, ---------) --- три длинных
 тире, поставленных рядом без пробела. Указывает, что опущено
-(повторяющееся) слово. Особенно актуален этот знак для библиографий, где
-тройное тире вместо имени автора означает, что автор тот же, что и для
-предыдущего пункта в списке.
+(повторяющееся) слово. Особенно актуален этот знак для библиографий,
+где тройное тире вместо имени автора означает, что автор тот же, что
+и для предыдущего пункта в списке.
 
 Правила не универсальны. Иногда в сложносоставных прилагательных
-употребляют короткое тире вместо дефиса или не отделяют длинное тире от
-текста пробелами даже в британском варианте английского.
+употребляют короткое тире вместо дефиса или не отделяют длинное тире
+от текста пробелами даже в британском варианте английского.
 
 [*Источник*](https://ru.just-translate-it.com/eshhe-nemnogo-o-tire/)
 
@@ -3119,20 +3126,20 @@ not used in this construction.
 
 ## comma before a subordinate conjunction
 
-A subordinate clause will not form a complete sentence. It will instead
-make a reader want additional information to finish the thought. The
-examples of subordinate conjunctions are **after, although, as, because,
-before, even if, even, though, if, in order that, once, since, so that,
-than, that, though, unless**, etc.
+A subordinate clause will not form a complete sentence. It will
+instead make a reader want additional information to finish the
+thought. The examples of subordinate conjunctions are **after,
+although, as, because, before, even if, even, though, if, in order
+that, once, since, so that, than, that, though, unless**, etc.
 
 The rule is to use a comma after the subordinate clause rather than
 before the subordinate conjunction:
 
-> *Jonathon spent his class time reading comic books since his average
-> was a 45 one week before final exams.*
+> *Jonathon spent his class time reading comic books since his
+> average was a 45 one week before final exams.*
 
-> *Since Jonathon\'s class average was a 45 one week before final exams,
-> he spent his class time reading comic books.*
+> *Since Jonathon\'s class average was a 45 one week before final
+> exams, he spent his class time reading comic books.*
 
 [*Source*](https://prowritingaid.com/grammar/1000080/Should-I-use-a-comma-before-a-subordinate-conjunction)
 
@@ -3140,8 +3147,8 @@ before the subordinate conjunction:
 
 ## load \| the load
 
-**Load** can be countable or uncountable. If you are talking about a
-specific load, than it is countable:
+**Load** can be countable or uncountable. If you are talking about
+a specific load, than it is countable:
 
 > *The load on this circuit is 200 watts.*
 
@@ -3158,9 +3165,9 @@ requirements, then it is uncountable:
 ## ask for approval \| ask for an approval
 
 It is like *ask for permission*, with no article. You could also say
-*ask for your approval*. It would be possible to say *ask for **an
-approval*** if by *approval* you mean, for example, a specific form to
-be filled out.
+*ask for your approval*. It would be possible to say *ask for** an
+approval*** if by *approval* you mean, for example, a specific form
+to be filled out.
 
 [*Source*](https://forum.wordreference.com/threads/ask-for-an-approval-with-or-without-the-article.2871918/)
 
@@ -3168,8 +3175,9 @@ be filled out.
 
 ## interfere in \| interfere with
 
-In the case of someone else's life, you can either **interfere in** or
-**with**. The former is critical of the fact that you meddled at all.
+In the case of someone else's life, you can either **interfere in**
+or **with**. The former is critical of the fact that you meddled at
+all.
 The latter is critical of the results of your meddling.
 
 To **interfere with** means to disrupt:
@@ -3177,11 +3185,11 @@ To **interfere with** means to disrupt:
 > *Wave patterns can interfere with each other* (they are mutually
 > disruptive).
 
-Whilst it's true that **interfering in** someone else's affairs may be
-disruptive, it needn't be. But if you **interfere with** their affairs,
-you\'re definitely having a bad influence. There\'s also the idiomatic
-usage of a paedophile **interfering with** a victim, which normally
-refers specifically to touching a child\'s genitals.
+Whilst it\'s true that **interfering in** someone else\'s affairs may
+be disruptive, it needn't be. But if you **interfere with** their
+affairs, you\'re definitely having a bad influence. There\'s also the
+idiomatic usage of a paedophile **interfering with** a victim, which
+normally refers specifically to touching a child\'s genitals.
 
 [*Source*](https://english.stackexchange.com/questions/38033/interfere-in-vs-interfere-with)
 
@@ -3189,22 +3197,23 @@ refers specifically to touching a child\'s genitals.
 
 ## operation \| an operation \| operations
 
-- \[countable\] The process of cutting open a part of a person\'s body
-  in order to remove or repair a damaged part:
+- \[countable\] The process of cutting open a part of a person\'s
+  body in order to remove or repair a damaged part:
 
 >> *Will I need to have an operation?*
 
 >> *He underwent a three-hour heart operation.*
 
-- \[countable, uncountable\] An act performed by a machine, especially
-  a computer:
+- \[countable, uncountable\] An act performed by a machine,
+  especially a computer:
 
 >> *The whole operation is performed in less than three seconds.*
 
 - \[uncountable\] The way that parts of a machine or a system work;
   the process of making something work:
 
->> *Regular servicing guarantees **the** smooth operation of the engine.*
+>> *Regular servicing guarantees **the** smooth operation of the
+   engine.*
 
 >> *Operation of the device is extremely simple.*
 
@@ -3228,6 +3237,7 @@ refers specifically to touching a child\'s genitals.
 
 - \[countable\] A process in which a number or quantity is changed by
   adding, multiplying, etc.
+
 - Idioms:
 
 >> *come into operation*
@@ -3238,8 +3248,8 @@ refers specifically to touching a child\'s genitals.
 
 ## update \| upgrade
 
-**Update**: to make and keep something up to date or a better version of
-the older one, often to solve glitches or problems.
+**Update**: to make and keep something up to date or a better version
+of the older one, often to solve glitches or problems.
 
 **Upgrade**: to raise something to a higher standard by adding or
 replacing few components.
@@ -3406,7 +3416,7 @@ much change in meaning, however:
 
 		> *I **like going** on holiday.*
 
-	- **like + to + infinitive**: you want to say that you think it's
+	- **like + to + infinitive**: you want to say that you think it\'s
 	a good idea:
 
 		> *I **like to go** to the dentist every 6 months.*
@@ -3419,28 +3429,28 @@ much change in meaning, however:
 
 - **Remember**
 
-	> *I'm sure I bought the milk -- I **remember buying** it!*
+	> *I\'m sure I bought the milk -- I **remember buying** it!*
 	(I did it, and now I remember it -- buy first, remember after!)
 
-	> *Don't worry -- I **remembered to** buy the milk.*
+	> *Don\'t worry -- I **remembered to** buy the milk.*
 	(I thought of it, then I did it -- remember first, buy after!)
 
 - **Forget**
 
-	> *I'll never **forget buying** my first car*
-	(I did it, and I won't forget it -- buy first, (not) forget after)
+	> *I\'ll never **forget buying** my first car*
+	(I did it, and I won\'t forget it -- buy first, (not) forget after)
 
 	> *I **forgot to** buy the milk.*
-	(I didn't do it because I forgot -- forget first, buy after)
+	(I didn\'t do it because I forgot -- forget first, buy after)
 
 - **Try**
 
-	> *I couldn't sleep, so I **tried drinking** warm milk.*
+	> *I couldn\'t sleep, so I **tried drinking** warm milk.*
 	(This was one possible way to achieve what I wanted)
 
 	> *I **tried to** sleep, but the music was too loud.*
 	(This is what I wanted to achieve, but it was difficult, and maybe
-	I didn't succeed)
+	I didn\'t succeed)
 
 - **Need**
 
@@ -3506,6 +3516,8 @@ know her, and she goes away, then you can miss her.
 *Sources:
 [1](https://forum.wordreference.com/threads/missing-in-from.3331958/),
 [2](https://forum.wordreference.com/threads/miss-from-in.2875221/)*
+
+***
 
 ## lack \| miss
 
@@ -3914,9 +3926,46 @@ ell.stachexchange.com
 wikidiff.com
 pediaa.com
 
+[*Source*]()
+
 ***
 
 ## material \| materiel
 
+[*Source*]()
+
 ***
 
+## критичный \| критический
+
+[*Источник*]()
+
+***
+
+## troop \| troupe
+
+[*Source*]()
+
+***
+
+## специфичный = специфический
+
+***
+
+## during \| in the process of \| while \| whilst
+
+[*Source*]()
+
+***
+
+## assume \| imply \| infer \| suggest \| suppose
+
+[*Source*]()
+
+***
+
+## at behest \| on order of
+
+[*Source*]()
+
+***
