@@ -2960,19 +2960,17 @@ written for or who a song has been sung for.
 ## host \| node
 
 Every network **host** is a physical network **node** (i.e. a network
-device), but not every physical network node is a host. Network devices
-such as modems, hubs and network switches are not assigned host
-addresses (except sometimes for administrative purposes), and are
-consequently not considered to be network hosts. Devices such as network
-printers and hardware routers have IP addresses, but since they are not
-general-purpose computers, they are sometimes not considered to be
-hosts.
+device), but not every physical network node is a host. Network
+devices such as modems, hubs and network switches are not assigned
+host addresses (except sometimes for administrative purposes), and
+are consequently not considered to be network hosts. Devices such as
+network printers and hardware routers have IP addresses, but since
+they are not general-purpose computers, they are sometimes not
+considered to be hosts.
 
-  --------|----------------------------------------------------------------------
-  node    | a device that implements IPv6
-  router  | a node that forwards IPv6 packets not explicitly addressed to itself
-  host    | any node that is not a router
-  --------|----------------------------------------------------------------------
+  |node    | a device that implements IPv6                                       |
+  |router  | a node that forwards IPv6 packets not explicitly addressed to itself|
+  |host    | any node that is not a router                                       |
 
 *Sources: [1](https://en.wikipedia.org/wiki/Host_(network)),
 [2](https://networkengineering.stackexchange.com/questions/19445/what-is-real-difference-between-host-and-node-in-network)*
@@ -3002,15 +3000,15 @@ someone available to him or her. We often use this expression when we
 talk about parents providing for their family:
 
 > *She says changes such as migration away from rural areas are allowing
-> more women to find work and **provide for** their families.*
+  more women to find work and **provide for** their families.*
 
 **Provide for** can mean *prepare for*:
 
 > *The architect **provided for** the possibility of storms by
-> strengthening the abutments.*
+  strengthening the abutments.*
 
 > *The architect **provided** the possibility of storms by strengthening the
-> abutments* (= stronger abutments are somehow supposed to invoke storms).
+  abutments* (= stronger abutments are somehow supposed to invoke storms).
 
 *Sources:
 [1](https://learningenglish.voanews.com/a/everyday-grammar-prepositions-provide/2701412.html),
