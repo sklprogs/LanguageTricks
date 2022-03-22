@@ -3069,25 +3069,25 @@ talk about parents providing for their family:
 -   отделение источника в цитатах:
 
 >> *In matters of grave importance, style, not sincerity, is the
->> vital thing.* --- Oscar Wilde
+   vital thing.* --- Oscar Wilde
 
 -   в американском английском длинное тире не принято отделять
     пробелами от предшествующего слова:
 
 >> *A flock of sparrows---some of them juveniles---alighted and
->> sang.*
+   sang.*
 
 -   иногда вместо длинного тире используют короткое тире с пробелом:
 
 >> *A flock of sparrows -- some of them juveniles -- alighted and
->> sang.*
+   sang.*
 
 **Двойное длинное тире** (two-em dash, ------) --- два длинных тире,
 поставленных рядом без пробела. Указывает, что часть слова опущена.
 Обычно так обозначают имена либо ругательства:
 
 > *Mr. L------ told Ms. T------ that he would be d------d if he
-> invited her out again.*
+  invited her out again.*
 
 **Тройное длинное тире** (three-em dash, ---------) --- три длинных
 тире, поставленных рядом без пробела. Указывает, что опущено
@@ -3105,11 +3105,12 @@ talk about parents providing for their family:
 
 ## useful for \| useful to
 
-*This book is useful to me* indicates that it is useful and important to
-me -- particularly to me not anybody else. whereas *This book is useful
-for me* indicates that it is useful for me in general sense. The book is
-useful for everyone because it is a good book and so it useful for me
-too but not particularly useful and important only to me.
+*This book is useful to me* indicates that it is useful and important
+to me -- particularly to me not anybody else, whereas *This book is
+useful for me* indicates that it is useful for me in general sense.
+The book is useful for everyone because it is a good book and so it
+useful for me too but not particularly useful and important only to
+me.
 
 [*Source*](https://www.quora.com/Which-is-correct-It-is-useful-to-me-or-It-is-useful-for-me)
 
@@ -3136,10 +3137,10 @@ The rule is to use a comma after the subordinate clause rather than
 before the subordinate conjunction:
 
 > *Jonathon spent his class time reading comic books since his
-> average was a 45 one week before final exams.*
+  average was a 45 one week before final exams.*
 
 > *Since Jonathon\'s class average was a 45 one week before final
-> exams, he spent his class time reading comic books.*
+  exams, he spent his class time reading comic books.*
 
 [*Source*](https://prowritingaid.com/grammar/1000080/Should-I-use-a-comma-before-a-subordinate-conjunction)
 
@@ -3156,7 +3157,7 @@ If you are talking about the idea of (for example), electrical power
 requirements, then it is uncountable:
 
 > *Our teacher explained the concept of load and how it affects
-> electrical circuits.*
+  electrical circuits.*
 
 [*Source*](https://ell.stackexchange.com/questions/257672/is-load-countable-or-non-countable)
 
@@ -3183,7 +3184,7 @@ The latter is critical of the results of your meddling.
 To **interfere with** means to disrupt:
 
 > *Wave patterns can interfere with each other* (they are mutually
-> disruptive).
+  disruptive).
 
 Whilst it\'s true that **interfering in** someone else\'s affairs may
 be disruptive, it needn't be. But if you **interfere with** their
@@ -3305,7 +3306,7 @@ Usage examples:
 
 ## among \| amongst \| between
 
-**between**: you're referring to two things:
+**between**: you\'re referring to two things:
 
 > *Just **between** us.*
 
@@ -3313,9 +3314,9 @@ Usage examples:
 
 > *You must choose **between** cake or death.*
 
-**among**: you're referring to more than two things:
+**among**: you\'re referring to more than two things:
 
-> *You're **among** friends.*
+> *You\'re **among** friends.*
 
 > ***Among** the many options available to you.*
 
