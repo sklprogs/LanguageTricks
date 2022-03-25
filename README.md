@@ -82,6 +82,8 @@
 
 [compose \| comprise \| contain](#compose--comprise--contain)
 
+[condition for \| condition of](#condition-for--condition-of)
+
 [connect to \| connect with](#connect-to--connect-with)
 
 [considered \| considered as](#considered--considered-as)
@@ -135,6 +137,8 @@
 [em dash \| en dash \| hyphen \| minus \| three-em dash \| two-em dash](#em-dash--en-dash--hyphen--minus--three-em-dash--two-em-dash)
 
 [enhance \| improve](#enhance--improve)
+
+[error \| failure \| fault](#error--failure--fault)
 
 [error \| mistake](#error--mistake)
 
@@ -3790,6 +3794,42 @@ at one time apparently by mere chance.
 
 ***
 
+## condition for \| condition of
+
+The **conditions for** some state of affairs are the conditions that
+must exist in order for that state of affairs to exist:
+
+> *the **conditions for** a hail storm*
+
+The **condition of** something is the state that it is in. This is
+a different definition of condition.
+
+> *the **condition of** a car engine*
+
+[*Source*](https://www.englishforums.com/English/SufficientConditionForOf/zmwbk/post.htm)
+
+***
+
+## error \| failure \| fault
+
+IEEE Definitions
+
+**Failure**: External behavior is incorrect
+
+**Fault**: Discrepancy in code that causes a failure
+
+**Error**: Human mistake that caused fault
+
+Note:
+
+  • **Error** is terminology of Developer
+
+  • **Bug** is terminology of Tester
+
+[*Source*](https://softwaretestingtimes.com/2010/04/fault-error-failure.html)
+
+***
+
 ## learn how to \| learn to
 
 \>\>
@@ -3800,25 +3840,25 @@ at one time apparently by mere chance.
 
 ## error \| mistake
 
-Source
+[*Source*]()
 
 ***
 
 ## privilege \| right
 
-Source
+[*Source*]()
 
 ***
 
 ## individual \| personal \| separate
 
-Source
+[*Source*]()
 
 ***
 
 ## allow to \| allow for
 
-Source
+[*Source*]()
 
 ***
 
@@ -3970,3 +4010,4 @@ pediaa.com
 [*Source*]()
 
 ***
+
