@@ -3832,7 +3832,17 @@ Note:
 
 ## learn how to \| learn to
 
-\>\>
+> *I want to **learn to** speak French* = *I want to **learn how to**
+  speak French*
+
+> *he **learned how to** obey*
+
+> *he **learned to** obey* = he learned that he must to obey
+
+Obviously the child already knows how to avoid making a noise, so
+*learn* has a somewhat different meaning here:
+
+> *I wish you\'d **learn to** be quiet in church*
 
 [*Source*](https://english.stackexchange.com/questions/59520/learn-how-to-verb-vs-learn-to-verb)
 
@@ -3840,7 +3850,26 @@ Note:
 
 ## error \| mistake
 
-[*Source*]()
+**mistake**: a decision which brought unsuccessful results:
+
+> *Her decision to sell the house was a big **mistake**.*
+
+A **mistake** is usually accidental, you know it is wrong. Otherwise,
+an **error**  is usually made due to the lack of knowledge and is
+more formal and technical than **mistake**.
+
+Machines never make **mistakes**, but rather they make **errors**.
+People can make both.
+
+The person who is making the **error** doesn’t know that he is doing
+something wrong. For example, you do not understand some concepts in
+math, so you make a lot of errors. Now, imagine a situation where you
+understand and know the concepts, but you did the calculations in
+a rush. You had knowledge, but it’s your carelessness that resulted
+in the mistakes.
+
+*Sources: [*1*](http://languagelearningbase.com/88781/what-is-the-difference-between-error-and-mistake),
+[*2*](https://pediaa.com/difference-between-error-and-mistake)*
 
 ***
 
@@ -4006,6 +4035,12 @@ pediaa.com
 ***
 
 ## at behest \| on order of
+
+[*Source*]()
+
+***
+
+## final \| finale
 
 [*Source*]()
 
