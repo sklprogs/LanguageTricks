@@ -110,6 +110,8 @@
 
 [dedicated \| devoted](#dedicated--devoted)
 
+[dependant \| dependent](#dependant--dependent)
+
 [disperse \| dissolve](#disperse--dissolve)
 
 [disturbance (plural)](#disturbance-plural)
@@ -3870,6 +3872,16 @@ in the mistakes.
 
 *Sources: [*1*](http://languagelearningbase.com/88781/what-is-the-difference-between-error-and-mistake),
 [*2*](https://pediaa.com/difference-between-error-and-mistake)*
+
+***
+
+## dependant \| dependent
+
+**dependent** = AmE
+
+**dependant** = BrE
+
+[*Source*](https://www.merriam-webster.com/words-at-play/spelling-variants-dependent-vs-dependant)
 
 ***
 
