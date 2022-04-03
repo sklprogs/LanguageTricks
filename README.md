@@ -200,6 +200,8 @@
 
 [learn how to \| learn to](#learn-how-to--learn-to)
 
+[license \| permit](#license--permit)
+
 [load \| the load](#load--the-load)
 
 [made from \| made of](#made-from--made-of)
@@ -3954,7 +3956,55 @@ each situation after examining the privileges of the user.
 
 ## license \| permit
 
-[*Source*]()
+A **license** is a legally binding contract that allows someone or
+something to do, own, perform an action or use a service as long as
+they agree to the provided terms and conditions. Examples of licenses
+are driving licenses, software licenses and business licenses. All
+these have terms and conditions attached to them and must be followed
+for the license to be put to action.
+
+A **permit** is an official document which gives an individual
+permission to do carry out an activity.
+
+A person may have a driving ***permit*** before attaining a certain
+age, and once that age is attained, a ***license*** is given. This is
+the same case for a person who has a ***license*** to carry on pest
+control business but must have a ***permit*** to store the chemicals.
+
+Differences between permits and licenses
+                                                                                                    
+1. Period of Validity
+
+   In most cases, ***licenses*** are permanent while ***permits***
+   are temporary. For instance, in driving, a permit is valid for up
+   to two years in most places while licenses are permanent, although
+   they can also be annulled in case of misuse of the said license.
+
+2. Different restrictions                                                                       
+                                                                                                    
+   ***Licenses*** have few restrictions if any. On the other hand,
+   ***permits*** have a lot of restrictions. ***Permits*** restrict
+   on the time an activity can be carried out, who is carrying out
+   the activity, where the activity is being carried out and also
+   whether supervision is available. Most activities that are carried
+   out with the authority of a ***license*** do not have such
+   restrictions. For instance, a driver’s license does not have
+   restrictions on where, whom and when to drive, as long it is
+   within the allowed territory.
+
+3. Inspection periods
+                                                                                                    
+   ***Permits*** require regular safety regulation inspections from
+   the relevant authorities. ***Licenses***, on the other hand, may
+   require inspection, but not as regular.
+                                                                                                    
+4. Appearance                                 
+                                                                                                    
+   While appearance is mainly a non-issue, licenses and permits are
+   in most cases not similar. For instance, most ***permits*** may be
+   a sticker but a ***license*** may be updated to a card.
+
+[*Source*](http://www.differencebetween.net/business/differences-between-permits-and-licenses/)
 
 ***
 
@@ -4120,6 +4170,42 @@ pediaa.com
 ***
 
 ## final \| finale
+
+[*Source*]()
+
+***
+
+## in the range \| within the range
+
+[*Source*]()
+
+***
+
+## during \| in the process of \| while \| whilst
+
+[*Source*]()
+
+***
+
+## assume \| imply \| infer \| suggest \| suppose
+
+[*Source*]()
+
+***
+
+## crash \| crush
+
+[*Source*]()
+
+***
+
+## condition for \| condition of
+
+[*Source*]()
+
+***
+
+## cause \| reason
 
 [*Source*]()
 
