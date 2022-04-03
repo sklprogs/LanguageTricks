@@ -3980,7 +3980,7 @@ Differences between permits and licenses
    to two years in most places while licenses are permanent, although
    they can also be annulled in case of misuse of the said license.
 
-2. Different restrictions                                                                       
+2. Different restrictions
 
    ***Licenses*** have few restrictions if any. On the other hand,
    ***permits*** have a lot of restrictions. ***Permits*** restrict
