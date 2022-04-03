@@ -104,13 +104,13 @@
 
 [decrease \| reduce](#decrease--reduce)
 
-[define \| determine \| determine on \| establish](#define--determine--determine-on--establish)
-
-[dependence \| dependency](#dependence--dependency)
-
 [dedicated \| devoted](#dedicated--devoted)
 
+[define \| determine \| determine on \| establish](#define--determine--determine-on--establish)
+
 [dependant \| dependent](#dependant--dependent)
+
+[dependence \| dependency](#dependence--dependency)
 
 [disperse \| dissolve](#disperse--dissolve)
 
@@ -227,6 +227,8 @@
 [people’s lives \| peoples’ lives \| people’s life \| in the lives of people](#peoples-lives--peoples-lives--peoples-life--in-the-lives-of-people)
 
 [people \| peoples \| Peoples \| persons](#people--peoples--peoples--persons)
+
+[permission \| privilege](#permission--privilege)
 
 [practice \| practise](#practice--practise)
 
@@ -3886,6 +3888,71 @@ in the mistakes.
 ***
 
 ## privilege \| right
+
+### Law
+
+A **right** is something that every person is born with and is
+inalienable, which means that it cannot be given, taken away, or
+denied by anyone. Another distinction between a right and a
+**privilege** is that a right does not need to be earned or worked
+for. For example, free speech is a right because anyone can speak
+freely and there is nothing anyone has to do to be able to freely
+speak and it does not cost anyone else anything to have free speech.
+On the other hand, a driver’s license is a privilege because anyone
+that wants to get one has to be a certain age, be free from
+limitations such as being blind, and must pass a test first. This
+license can be denied or taken away when a person does not meet the
+qualifications or violates the driving laws.
+
+[*Source*](https://thelicenselawyers.com/laws-regulations-connecticut-lawyer/rights-privileges/)
+
+***
+
+## permission \| privilege
+
+### General
+
+**permission**: authorization granted to do something; formal consent
+
+**privilege**: a grant to an individual, corporation, etc., of
+a special right or immunity, under certain conditions.
+
+### IT
+
+**permission**: a rule associated with an object to regulate which
+users can gain access to the object and in what manner. Permissions
+are assigned or denied by the object\'s owner.
+
+**privilege**: authorization to perform a specific action or set of
+actions on a managed object or group of managed objects.
+
+- **permissions** are given to roles, **privileges** are given to
+  people;
+
+- a **permission** is asked for, a **privilege** is granted;
+
+- **permissions** are situation-based, **privileges** are time-based.
+
+So typically, as used in IT security, privileges determine
+permissions. A user, through their account, is granted
+the **privilege** of reading a particular type of record
+(or a particular record) by the administrator of a system; this is
+typically done once, or as needed over time. The application, acting
+on behalf of the user who has authenticated themselves using the
+account, then asks for **permission** to perform an action each and
+every time it must do so, and the system grants this permission in
+each situation after examining the privileges of the user.
+
+*Sources:
+[1](https://www.dictionary.com/browse/permission),
+[2](https://www.dictionary.com/browse/privilege),
+[3](https://security.stackexchange.com/questions/41309/difference-between-privilege-and-permission),
+[4](https://en.termwiki.com/EN/permission_₅),
+[5](https://en.termwiki.com/EN/privilege_₆)*
+
+***
+
+## license \| permit
 
 [*Source*]()
 
