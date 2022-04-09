@@ -184,7 +184,11 @@
 
 [independent of \| ~~independently from~~ \| independently of](#independent-of--independently-from--independently-of)
 
-[individual \| personal \| separate](#individual--personal--separate)
+[individual \| person](individual--person)
+
+[individual \| personal](#individual--personal)
+
+[individually \| separately \| severally](#individually--separately--severally)
 
 [inform about \| inform of \| inform on](#inform-about--inform-of--inform-on)
 
@@ -4016,21 +4020,65 @@ control business but must have a ***permit*** to store the chemicals.
 **Cause** is something that brings about an effect, while **reason**
 is a motive or justification for something.
 
-*The police always try to find the **cause** of an accident.*
+> *The police always try to find the **cause** of an accident.*
 
-*The doctor couldn’t determine the **cause** of death.*
+> *The doctor couldn’t determine the **cause** of death.*
 
-*I have to give **reasons** for my absence.*
+> *I have to give **reasons** for my absence.*
 
-*They have a good **reason** to celebrate.*
+> *They have a good **reason** to celebrate.*
 
 [*Source*](https://pediaa.com/what-is-the-difference-between-cause-and-reason/)
 
 ***
 
-## individual \| personal \| separate
+## individual \| person
 
-[*Source*]()
+Though used interchangeably, the words person and individual connote
+different meanings.
+
+A **person** is a human being that thinks and walks.
+
+An **individual** is a person in a crowd having unique
+characteristics. Individual connotes individualism and properties
+that are unique to a person.
+
+[*Source*](https://www.differencebetween.com/difference-between-person-and-vs-individual/)
+
+***
+
+## individual \| personal
+
+**Individual** means unique or special:
+
+> *People love her **individual** style. It makes her very
+interesting.*
+
+***Personal** is something private or that belongs to only that
+person:
+
+> *My **personal** belongings has been taken away.*
+
+[*Source*](https://hinative.com/ru/questions/59686)
+
+***
+
+## individually \| separately \| severally
+
+**Severally** means *by/in distinct units* (where *units* could be
+one or more individual entities):
+
+> *The States doing so adopted articles of secession **severally**.*
+
+**Individually** means *one, acting alone*:
+
+> *You must do your work **individually**.*
+
+**Separately** means *one, acting alone and well separated in space or time*:
+
+> *Move your desks apart so that you will do your work **separately**.*
+
+[*Source*](https://www.quora.com/What-is-the-difference-between-severally-individually-and-separately)
 
 ***
 
