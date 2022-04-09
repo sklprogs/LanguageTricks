@@ -60,6 +60,8 @@
 
 [can be further \| can further be](#can-be-further--can-further-be)
 
+[cause \| reason](#cause--reason)
+
 [check \| check that \| verify](#check--check-that--verify)
 
 [check if \| check whether](#check-if--check-whether)
@@ -4009,6 +4011,23 @@ control business but must have a ***permit*** to store the chemicals.
 
 ***
 
+## cause \| reason
+
+**Cause** is something that brings about an effect, while **reason**
+is a motive or justification for something.
+
+*The police always try to find the **cause** of an accident.*
+
+*The doctor couldn’t determine the **cause** of death.*
+
+*I have to give **reasons** for my absence.*
+
+*They have a good **reason** to celebrate.*
+
+[*Source*](https://pediaa.com/what-is-the-difference-between-cause-and-reason/)
+
+***
+
 ## individual \| personal \| separate
 
 [*Source*]()
@@ -4205,10 +4224,3 @@ pediaa.com
 [*Source*]()
 
 ***
-
-## cause \| reason
-
-[*Source*]()
-
-***
-
