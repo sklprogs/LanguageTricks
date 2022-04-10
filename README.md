@@ -16,7 +16,9 @@
 
 [After that,](#after-that)
 
-[allow for \| allow to](#allow-for--allow-to)
+[allow for \| allow of \| allow that \| allow to](#allow-for--allow-of--allow-that--allow-to)
+
+[allow + -ing \| allow that](#allow---ing--allow-that)
 
 [also can \| can also](#also-can--can-also)
 
@@ -3009,8 +3011,8 @@ considered to be hosts.
 **Providing** (someone) **with** something means to give something
 wanted or needed:
 
-> *Room to Read **provides** girls **with** scholarships that cover the cost
-> of housing, food, and books.*
+> *Room to Read **provides** girls **with** scholarships that cover
+  the cost of housing, food, and books.*
 
 In this sentence, *girls* is the indirect object and *scholarships* is
 the direct object.
@@ -3019,16 +3021,18 @@ the direct object.
 someone available to him or her. We often use this expression when we
 talk about parents providing for their family:
 
-> *She says changes such as migration away from rural areas are allowing
-  more women to find work and **provide for** their families.*
+> *She says changes such as migration away from rural areas are
+  allowing more women to find work and **provide for** their
+  families.*
 
 **Provide for** can mean *prepare for*:
 
 > *The architect **provided for** the possibility of storms by
   strengthening the abutments.*
 
-> *The architect **provided** the possibility of storms by strengthening the
-  abutments* (= stronger abutments are somehow supposed to invoke storms).
+> *The architect ~~**provided** the possibility~~ of storms by
+  strengthening the abutments* (= stronger abutments are somehow
+  supposed to invoke storms).
 
 *Sources:
 [1](https://learningenglish.voanews.com/a/everyday-grammar-prepositions-provide/2701412.html),
@@ -4112,9 +4116,70 @@ To **crush** is to:
 
 ***
 
-## allow to \| allow for
+## allow for \| allow of \| allow that \| allow to
 
-[*Source*]()
+**Allow** means:
+
+  - *permit* or *give permission*:
+
+    > *I can’t **allow** you to go outside without a jacket.*
+
+  - fail to stop something from happening:
+  
+    > *The hermit **allowed** the grass to grow wild around the house
+    and the yard.*
+
+  - admit (**allow that** = допускать возможность того, что):
+  
+    > *The intern **allowed that** she was not the most experienced
+    person to give the flu shots.*
+
+**Allow for** means *make allowances for* (= делать поправку на) or
+*consider the possibility of something*.
+
+> *The instructor **allowed for** the possibility that the students
+really did forget to bring their homework assignments to class.*
+
+= Although the instructor really believes that the students haven’t
+done the assignment, he is open to the possibility that they really
+did the work and just forgot to bring their assignments to class.
+
+> *When we decided to go on a picnic, we didn’t **allow for** the
+chance that the rain would be as hard and continuous as it was.*
+
+= The friends didn’t consider the possibility that it would keep
+raining when they first made up their minds to go on a picnic.
+
+**Allow of** (= permit, делать возможным, допускать) has never been
+common, and it has practically disappeared today:
+
+> *The evidence **allows of** the possibility of an inside job.*
+
+We would not say that *the evidence ~~allows for~~ a possibility*,
+because *evidence* is not a viable subject for that action; it is
+rather your interpretation which must allow for possibilities.
+
+*Sources:
+[1](https://languagetips.wordpress.com/category/allowallow-for/),
+[2](https://ell.stackexchange.com/questions/34025/allow-allow-of-allow-for)*
+
+***
+
+## allow + -ing \| allow that
+
+It ~~allows to~~ do something.
+
+It allows me to do something.
+
+It allows doing something.
+
+It allows me doing something.
+
+It allows something.
+
+It allows something to be done.
+
+[*Source*](https://ell.stackexchange.com/questions/11193/allow-to-infinitive-substantive-verb-ing)
 
 ***
 
