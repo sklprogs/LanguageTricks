@@ -4102,7 +4102,7 @@ To **crush** is:
 
     > ***Crush** up the cookies for the ice cream.*
 
-    > The company **crushes** cars to make metal.*
+    > *The company **crushes** cars to make metal.*
 
   - To fall in love with someone:
 
