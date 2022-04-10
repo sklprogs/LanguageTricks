@@ -4034,13 +4034,13 @@ is a motive or justification for something.
 
 ## individual \| person
 
-Though used interchangeably, the words person and individual connote
-different meanings.
+Though used interchangeably, the words *person* and *individual*
+connote different meanings.
 
 A **person** is a human being that thinks and walks.
 
 An **individual** is a person in a crowd having unique
-characteristics. Individual connotes individualism and properties
+characteristics. *Individual* connotes individualism and properties
 that are unique to a person.
 
 [*Source*](https://www.differencebetween.com/difference-between-person-and-vs-individual/)
@@ -4054,7 +4054,7 @@ that are unique to a person.
 > *People love her **individual** style. It makes her very
 interesting.*
 
-***Personal** is something private or that belongs to only that
+**Personal** is something private or that belongs to only that
 person:
 
 > *My **personal** belongings has been taken away.*
