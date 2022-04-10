@@ -4086,25 +4086,25 @@ one or more individual entities):
 
 ## crash \| crush
 
-To **crash** is:
+To **crash** is to:
 
-  - to collide with something:
+  - collide with something:
 
     > *I was driving and then I **crashed** into another car.*
 
-  - to have a breakdown:
+  - have a breakdown:
 
     > *My computer **crashed**!*
 
 To **crush** is:
 
-  - to put heavy pressure on an object, causing it to collapse:
+  - put heavy pressure on an object, causing it to collapse:
 
     > ***Crush** up the cookies for the ice cream.*
 
     > *The company **crushes** cars to make metal.*
 
-  - To fall in love with someone:
+  - fall in love with someone:
 
     > *I had a **crush** on her.*
 
