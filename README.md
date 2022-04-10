@@ -4096,7 +4096,7 @@ To **crash** is to:
 
     > *My computer **crashed**!*
 
-To **crush** is:
+To **crush** is to:
 
   - put heavy pressure on an object, causing it to collapse:
 
