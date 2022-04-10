@@ -184,7 +184,7 @@
 
 [independent of \| ~~independently from~~ \| independently of](#independent-of--independently-from--independently-of)
 
-[individual \| person](individual--person)
+[individual \| person](#individual--person)
 
 [individual \| personal](#individual--personal)
 
