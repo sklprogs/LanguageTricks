@@ -118,6 +118,8 @@
 
 [dependence \| dependency](#dependence--dependency)
 
+[die by \| die from \| die of](#die-by--die-from--die-of)
+
 [disperse \| dissolve](#disperse--dissolve)
 
 [disturbance (plural)](#disturbance-plural)
@@ -4167,22 +4169,6 @@ rather your interpretation which must allow for possibilities.
 
 ***
 
-## allow + -ing \| allow that
-
-> *~~It **allows** to do something.~~*
-
-> *It **allows** me to do something.*
-
-> *It **allows** doing something.*
-
-> *It **allows** me doing something.*
-
-> *It **allows** something.*
-
-> *It **allows** something to be done.*
-
-[*Source*](https://ell.stackexchange.com/questions/11193/allow-to-infinitive-substantive-verb-ing)
-
 ## задание \| задача
 
 **Задача** существует в контексте цели, **задание** &mdash;
@@ -4209,6 +4195,57 @@ rather your interpretation which must allow for possibilities.
 > *Домашнее **задание** по математике включает несколько **задач*** 
 
 [*Источник*](https://otvet.mail.ru/question/208339297)
+
+***
+
+## die by \| die from \| die of
+
+**die of**: someone dies of a direct cause:
+
+> *He **died of** cancer.*
+
+**die from**: someone dies from an indirect cause:
+
+> *He **died from** smoking.*
+
+**die by**: someone dies by the means of something:
+
+> *He **died by** a bullet.*
+
+If you fell twenty stories, we might say that you ***died from***
+falling, but you ***died of*** massive trauma and bloodloss (caused
+by the fall).
+
+Both *died of cancer* or *died from cancer* would probably be
+acceptable to an English speaker.
+
+When someone ***dies by** the sword*, for example, we don’t literally
+mean that they died from a sword to the heart. Rather we mean that
+they were prone to violence, and themselves died violently.
+
+You would more commonly see *death by X* as opposed to *died by X*:
+
+> ***Death by** firing squad*
+
+[*Source*](https://english.stackexchange.com/questions/397488/which-one-is-correct-died-of-or-died-from)
+
+***
+
+## allow + -ing \| allow that
+
+> *~~It **allows** to do something.~~*
+
+> *It **allows** me to do something.*
+
+> *It **allows** doing something.*
+
+> *It **allows** me doing something.*
+
+> *It **allows** something.*
+
+> *It **allows** something to be done.*
+
+[*Source*](https://ell.stackexchange.com/questions/11193/allow-to-infinitive-substantive-verb-ing)
 
 ***
 
