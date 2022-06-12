@@ -218,6 +218,10 @@
 
 [made from \| made of](#made-from--made-of)
 
+[maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
+
+[minimal \| minimum](#minimal--minimum)
+
 [means](#means)
 
 [miss from \| miss in](#miss-from--miss-in)
@@ -4228,6 +4232,41 @@ You would more commonly see *death by X* as opposed to *died by X*:
 > ***Death by** firing squad*
 
 [*Source*](https://english.stackexchange.com/questions/397488/which-one-is-correct-died-of-or-died-from)
+
+***
+
+## maximal \| maximum, minimal \| minimum
+
+**Maximum** and **minimum** relate to absolute values — there is
+nothing higher than the maximum and nothing lower than the minimum.
+                                                                                                    
+***Minimal***  means *very small* as opposed to *the lowest
+possible*; the same distinction is true of ***maximum*** and
+***maximal***:
+
+> *I want to buy this at **minimal** cost.*
+
+> *This action carries a **minimal** risk.*
+
+In some areas of mathematics (e.g., in *maximal element*, *maximal
+matching*), a *maximal value* (you can’t use *the* with this meaning)
+is essentially a local maximum&mdash;it’s a maximum value in its
+neighborhood.
+
+A *clique* is a set of people all of whom know each other. A clique
+is ***maximal*** if adding anyone else to the set destroys the clique
+property, that is, there is no larger clique that contains it.
+A clique is ***maximum*** if there is no larger clique. There can be
+many maximum cliques. Every maximum clique is maximal, but not
+vice-versa.
+
+[*Source*](https://english.stackexchange.com/questions/38260/maximum-vs-maximal)
+
+***
+
+## minimal \| minimum
+
+See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum).
 
 ***
 
