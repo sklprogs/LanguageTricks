@@ -42,6 +42,8 @@
 
 [at the end \| in the end](#in-the-end--at-the-end)
 
+[attention \| the attention](#attention--the-attention)
+
 [before \| till \| until](#before--till--until)
 
 [beverage \| drink](#beverage--drink)
@@ -129,8 +131,6 @@
 [dosage \| dose](#dosage--dose)
 
 [drag \| lift \| thrust](#drag--lift--thrust)
-
-[draw the attention of](#draw-the-attention-of)
 
 [due to \| owing to](#due-to--owing-to)
 
@@ -4288,14 +4288,20 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 ***
 
-## draw the attention of
+## attention \| the attention
 
-\>\> draw the attention of / draw attention to / draw somebody\'s attention
-to
+*His success draws **the attention** of everyone.*
 
-*Sources:
-[1](https://www.multitran.com/c/m.exe?a=4&MessNum=286439&topic=7&l1=1&l2=2),
-[2](http://www.wordreference.com/es/translation.asp?tranword=draw+the+attention+of)*
+*She drew **attention** to the need for proper punctuation.*
+
+[*Source*](https://forum.wordreference.com/threads/draw-attention-of.2551894/)
+
+***
+
+## need for \| need of
+
+
+[*Source*]()
 
 ***
 
@@ -4304,6 +4310,8 @@ to
 
 
 [*Source*]()
+
+***
 
 ## dot \| full stop \| period \| point
 
