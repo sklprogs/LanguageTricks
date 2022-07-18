@@ -226,6 +226,8 @@
 
 [miss from \| miss in](#miss-from--miss-in)
 
+[need for \| need of](#need-for--need-of)
+
 [new \| novel](#new--novel)
 
 [on \| onto](#on--onto)
@@ -825,6 +827,7 @@ or
 
 
 **Compose of** is even more formal than *consist of* and *comprise*.
+
 **Compose of** is only used in the passive voice:
 
 > *Muscle is **composed of** different types of protein.*
@@ -4365,8 +4368,11 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 ## need for \| need of
 
+*I am in **need of** money* = I need money right now
 
-[*Source*]()
+*I have a **need for** money* = I like money and I always want it
+
+[*Source*](https://english.stackexchange.com/questions/539770/using-of-for-with-need)
 
 ***
 
