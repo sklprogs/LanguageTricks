@@ -4415,20 +4415,22 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 - a point of time (instant):
 
-  *A **moment** of dreadful suspense*
+> *A **moment** of dreadful suspense*
 
 - a comparatively brief period of time:
 
-  ***Moments** of solitude*
+> ***Moments** of solitude*
 
-**instant**: an infinitesimal space of time, especially a point
-in time separating two states:
+**instant**: an infinitesimal[^infinitesimal] space of time,
+especially a point in time separating two states:
 
-  *At the **instant** of death*
+> *At the **instant** of death*
 
 A **moment** is a short period of time which can represent anything
 from an instant up to several minutes, whereas an ***instant** is
 the shortest possible moment.
+
+[^infinitesimal]: `['ɪnfɪnɪ'tesɪm(ə)l]`, бесконечно малый
 
 *Sources: [1](https://www.quora.com/Whats-the-difference-between-moment-and-instant),
 [2](https://www.merriam-webster.com/dictionary/instant)*
