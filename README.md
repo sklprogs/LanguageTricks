@@ -206,6 +206,8 @@
 
 [installation \| setup](#installation--setup)
 
+[instant \| moment](#instant--moment)
+
 [interfere in \| interfere with](#interfere-in--interfere-with)
 
 [knowledge about \| knowledge of \| ~~knowledge on~~](#knowledge-about--knowledge-of--knowledge-on)
@@ -4341,9 +4343,11 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 - обладающий способностью к критике:
 
-  ***Критический** ум* — способный относиться с критикой к чему-нибудь, видеть недостатки
+  ***Критический** ум* — способный относиться с критикой
+  к чему-нибудь, видеть недостатки
 
-  ***Критически** мыслить* — быть настроенным на поиск ошибок или недоработок
+  ***Критически** мыслить* — быть настроенным на поиск ошибок или
+  недоработок
 
   ***Критически** настроен* — воспринимать все скептически
 
@@ -4355,14 +4359,18 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 - содержащий в себе критику, исполненный критики:
 
-  ***Критичный** тон* — тон разговора, исполненный критики (возможно, надменности)
+  ***Критичный** тон* — тон разговора, исполненный критики (возможно,
+  надменности)
 
   ***Критичный** подход* — подход к чему-либо с позиции недоверия
 
-  ***Критичный** человек* — человек, который склонен критиковать, не доверять
+  ***Критичный** человек* — человек, который склонен критиковать,
+  не доверять
 
-  ***Критичный** склад ума* — склад ума, при котором человек склонен искать подвох, ошибки, прочее
+  ***Критичный** склад ума* — склад ума, при котором человек склонен
+  искать подвох, ошибки, прочее
 
+См. также [critical \| crucial](#critical--crucial)
 
 [*Источник*](https://kak-pravilno.net/kriticheskiy-ili-kritichnyy-kak-pravilno)
 
@@ -4394,17 +4402,36 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 - of the utmost importance:
 
-  *It’s **crucial** that you get this paperwork done before work ends.*
+  *It’s **crucial** that you get this paperwork done before work
+  ends.*
 
 [*Source*](https://ru.hinative.com/questions/736734)
 
 ***
 
-## instance \| moment
+## instant \| moment
 
+**moment**:
 
+- a point of time (instant):
 
-[*Source*]()
+  *A **moment** of dreadful suspense*
+
+- a comparatively brief period of time:
+
+  ***Moments** of solitude*
+
+**instant**: an infinitesimal space of time, especially a point
+in time separating two states:
+
+  *At the **instant** of death*
+
+A **moment** is a short period of time which can represent anything
+from an instant up to several minutes, whereas an ***instant** is
+the shortest possible moment.
+
+*Sources: [1](https://www.quora.com/Whats-the-difference-between-moment-and-instant),
+[2](https://www.merriam-webster.com/dictionary/instant)*
 
 ***
 
