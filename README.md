@@ -106,6 +106,8 @@
 
 [crash \| crush](#crash--crush)
 
+[critical \| crucial](#critical--crucial)
+
 [data (singular \| plural)](#data-singular--plural)
 
 [data \| information](#data--information)
@@ -4373,6 +4375,28 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 *I have a **need for** money* = I like money and I always want it
 
 [*Source*](https://english.stackexchange.com/questions/539770/using-of-for-with-need)
+
+***
+
+# critical \| crucial
+
+**critical**:
+
+- very judgmental:
+
+  *Don’t you think you’re being too **critical** about my report?*
+
+- an element of danger is often implied:
+
+  ***Critical** condition*
+
+**crucial**:
+
+- of the utmost importance:
+
+  *It’s **crucial** that you get this paperwork done before work ends.*
+
+[*Source*](https://ru.hinative.com/questions/736734)
 
 ***
 
