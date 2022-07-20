@@ -4301,9 +4301,9 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 ## attention \| the attention
 
-*His success draws **the attention** of everyone.*
+> *His success draws **the attention** of everyone.*
 
-*She drew **attention** to the need for proper punctuation.*
+> *She drew **attention** to the need for proper punctuation.*
 
 [*Source*](https://forum.wordreference.com/threads/draw-attention-of.2551894/)
 
@@ -4311,7 +4311,7 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 ## типичный \| типовой
 
-**Типичный**: имеющий схожие признаки, легко подводимый под тип:
+**Типичный** &mdash; имеющий схожие признаки, легко подводимый под тип:
 
 > ***Типичная** ошибка в договоре.*
 
@@ -4319,7 +4319,7 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 > ***Типичные** черты лица для этой страны.*
 
-**Типовой:** сделанный по типу, шаблону:
+**Типовой** &mdash; сделанный по типу, шаблону:
 
 > ***Типовой** договор.*
 
