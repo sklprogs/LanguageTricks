@@ -4390,20 +4390,21 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 **critical**:
 
-- very judgmental:
+  - very judgmental:
 
-  *Don’t you think you’re being too **critical** about my report?*
+    > *Don’t you think you’re being too **critical** about my
+    report?*
 
-- an element of danger is often implied:
+  - an element of danger is often implied:
 
-  ***Critical** condition*
+    > ***Critical** condition*
 
 **crucial**:
 
-- of the utmost importance:
+  - of the utmost importance:
 
-  *It’s **crucial** that you get this paperwork done before work
-  ends.*
+    > *It’s **crucial** that you get this paperwork done before work
+      ends.*
 
 [*Source*](https://ru.hinative.com/questions/736734)
 
@@ -4413,21 +4414,21 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 **moment**:
 
-- a point of time (instant):
+  - a point of time (instant):
 
-> *A **moment** of dreadful suspense*
+    > *A **moment** of dreadful suspense*
 
-- a comparatively brief period of time:
+  - a comparatively brief period of time:
 
-> ***Moments** of solitude*
+    > ***Moments** of solitude*
 
 **instant**: an infinitesimal[^infinitesimal] space of time,
 especially a point in time separating two states:
 
 > *At the **instant** of death*
 
-A **moment** is a short period of time which can represent anything
-from an instant up to several minutes, whereas an ***instant** is
+A ***moment*** is a short period of time which can represent anything
+from an instant up to several minutes, whereas an ***instant*** is
 the shortest possible moment.
 
 [^infinitesimal]: `['ɪnfɪnɪ'tesɪm(ə)l]`, бесконечно малый
