@@ -4422,7 +4422,7 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
     > ***Moments** of solitude*
 
-**instant**: an infinitesimal[^infinitesimal] space of time,
+**instant**&mdash;an infinitesimal[^infinitesimal] space of time,
 especially a point in time separating two states:
 
 > *At the **instant** of death*
