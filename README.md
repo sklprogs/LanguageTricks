@@ -132,6 +132,8 @@
 
 [dosage \| dose](#dosage--dose)
 
+[dot \| full stop \| period \| point](#dot--full-stop--period--point)
+
 [drag \| lift \| thrust](#drag--lift--thrust)
 
 [due to \| owing to](#due-to--owing-to)
@@ -4440,9 +4442,25 @@ the shortest possible moment.
 
 ## dot \| full stop \| period \| point
 
-jakubmarian.com
+The little dot at the end of a sentence is called **period** in American English and **full stop** in British English:
 
-[*Source*]()
+> *You are not going out with Zack, **period**.* [AmEn]
+
+> *You are not going out with Zack, **full stop**.* [BrEn]
+
+**Dot** is used when pronouncing the character in URLs.
+                                                                                                                                                                                              
+**Point** refers to the dot glyph used in numbers to separate the fractional part from the integer part. The numbers after the decimal point are pronounced in isolation:
+
+> 3.14 = *three **point** one four*
+
+> 36.952 = *thirty six **point** nine five two*
+
+> 0.25 = *zero **point** two five*
+
+> .25 = ***point** two five*
+
+[*Source*](https://jakubmarian.com/dot-period-full-stop-and-point-in-english)
 
 ***
 
