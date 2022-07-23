@@ -152,7 +152,7 @@
 
 [em dash \| en dash \| hyphen \| minus \| three-em dash \| two-em dash](#em-dash--en-dash--hyphen--minus--three-em-dash--two-em-dash)
 
-[enchantress \| mage \| magician \| necromancer \| shaman \| sorcerer \| warlock \| witch \| wizard](#enchantress--mage--magician--necromancer--shaman--sorcerer--warlock--witch--wizard)
+[enchantress \| mage \| magician \| necromancer \| shaman \| sorcerer \| warlock \| witch \| witch doctor \| wizard](#enchantress--mage--magician--necromancer--shaman--sorcerer--warlock--witch--witch-doctor--wizard)
 
 [enhance \| improve](#enhance--improve)
 
@@ -4471,7 +4471,7 @@ in isolation:
 
 ***
 
-# enchantress \| mage \| magician \| necromancer \| shaman \| sorcerer \| warlock \| witch \| wizard
+# enchantress \| mage \| magician \| necromancer \| shaman \| sorcerer \| warlock \| witch \| witch doctor \| wizard
 
 **Wizard**:
 
@@ -4552,7 +4552,7 @@ traditional magic or medicine.
 
 See also [conjurer \| illusionist \| magician](#conjurer--illusionist--magician)
 
-*Sources: [1](https://dictionary.cambridge.org/dictionary/english/wizard)
+*Sources: [1](https://dictionary.cambridge.org/dictionary/english/wizard),
 [2](https://dictionary.cambridge.org/dictionary/english/mage),
 [3](https://dictionary.cambridge.org/dictionary/english/magician),
 [4](https://dictionary.cambridge.org/dictionary/english/sorcerer),
