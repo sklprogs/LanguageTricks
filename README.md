@@ -90,6 +90,8 @@
 
 [condition for \| condition of](#condition-for--condition-of)
 
+[conjurer \| illusionist \| magician](#conjurer--illusionist--magician)
+
 [connect to \| connect with](#connect-to--connect-with)
 
 [considered \| considered as](#considered--considered-as)
@@ -149,6 +151,8 @@
 [efficient \| effective](#efficient--effective)
 
 [em dash \| en dash \| hyphen \| minus \| three-em dash \| two-em dash](#em-dash--en-dash--hyphen--minus--three-em-dash--two-em-dash)
+
+[enchantress \| mage \| magician \| necromancer \| shaman \| sorcerer \| warlock \| witch \| wizard](#enchantress--mage--magician--necromancer--shaman--sorcerer--warlock--witch--wizard)
 
 [enhance \| improve](#enhance--improve)
 
@@ -4442,7 +4446,8 @@ the shortest possible moment.
 
 ## dot \| full stop \| period \| point
 
-The little dot at the end of a sentence is called **period** in American English and **full stop** in British English:
+The little dot at the end of a sentence is called **period** in American
+English and **full stop** in British English:
 
 > *You are not going out with Zack, **period**.* [AmEn]
 
@@ -4450,7 +4455,9 @@ The little dot at the end of a sentence is called **period** in American English
 
 **Dot** is used when pronouncing the character in URLs.
                                                                                                                                                                                               
-**Point** refers to the dot glyph used in numbers to separate the fractional part from the integer part. The numbers after the decimal point are pronounced in isolation:
+**Point** refers to the dot glyph used in numbers to separate the fractional
+part from the integer part. The numbers after the decimal point are pronounced
+in isolation:
 
 > 3.14 = *three **point** one four*
 
@@ -4461,6 +4468,132 @@ The little dot at the end of a sentence is called **period** in American English
 > .25 = ***point** two five*
 
 [*Source*](https://jakubmarian.com/dot-period-full-stop-and-point-in-english)
+
+***
+
+# enchantress \| mage \| magician \| necromancer \| shaman \| sorcerer \| warlock \| witch \| wizard
+
+**Wizard**:
+
+- A male or female who has gone to school to learn how to use magic. It’s
+  a professional title, sort of like *doctor*. Can use magical powers to harm
+  or help other people.
+
+- Someone who is an expert at something or who has great ability in
+  a particular subject:
+
+  > *A computer **wizard***
+
+**Mage**&mdash;a person who has magic powers or who has studied for a long time
+and has a lot of knowledge:
+
+> *Elf **mages** bound the weather and kept the skies clear of storms.*
+
+> *Why are women not allowed to be **mages**, only witches?*
+
+**Magician**:
+
+- a person who has magic powers in stories:
+
+  > *Merlin was the **magician** in the stories of King Arthur and the Knights
+    of the Round Table.*
+
+- a person who performs tricks for entertainment:
+
+  > *There’ll be a **magician** at the kids’ Christmas party.*
+
+**Sorcerer** (female: *sorceress*) is someone who has great natural magical
+talent, but little formal training. Harms other people.
+
+**Sorcery**&mdash;a type of magic in which spirits, especially evil ones, are
+used to make things happen. Synonyms: necromancy, black magic.
+
+**Black magic**&mdash;a type of magic that is believed to use evil spirits
+(= people who cannot be seen) to do harmful things.
+
+**Necromancer**&mdash;someone who claims to communicate with the dead in order
+to discover what is going to happen in the future, or who is involved in black
+magic.
+
+**Witch**:
+
+- A generic term for a female magic user, a counterpart for either wizard or
+  warlock, and can also refer to a particular type of mythical non-human
+  species, also called Hags[^hag].
+
+[^hag]: hag = баба-яга, кикимора
+
+- A male or female practitioner of Wicca[https://en.wikipedia.org/wiki/Wicca]
+  (a modern Pagan religion).
+                                                                                                                                                                                              
+- *(informal disapproving)* An unpleasant and ugly woman.
+
+**Warlock**:
+
+- A male witch who has been granted magical power by a pact made with a greater
+  power of some kind, usually a demon. Practices the diabolical dark arts.
+  Usually does evil.
+
+- An oath-breaker or someone who has broken the trust of the
+  Wiccan[https://en.wikipedia.org/wiki/Wicca] community.
+
+**Enchantress**:
+
+- a woman with magical powers;
+
+- *(literary)* an extremely attractive and interesting woman.
+
+**Shaman**&mdash;in particular religions, a person who is thought to have
+special powers to control or influence good and evil spirits, making it
+possible for them to discover the cause of illness, bad luck, etc.
+
+**Witch doctor**&mdash;a person in some societies who cures people using
+traditional magic or medicine.
+
+See also [conjurer \| illusionist \| magician](#conjurer--illusionist--magician)
+
+*Sources:*[1](https://dictionary.cambridge.org/dictionary/english/wizard)
+[2](https://dictionary.cambridge.org/dictionary/english/mage),
+[3](https://dictionary.cambridge.org/dictionary/english/magician),
+[4](https://dictionary.cambridge.org/dictionary/english/sorcerer),
+[5](https://dictionary.cambridge.org/dictionary/english/necromancer),
+[6](https://dictionary.cambridge.org/dictionary/english/black-magic),
+[7](https://dictionary.cambridge.org/dictionary/english/warlock),
+[8](https://dictionary.cambridge.org/dictionary/english/enchantress),
+[9](https://dictionary.cambridge.org/dictionary/english/shaman),
+[10](https://dictionary.cambridge.org/dictionary/english/witch),
+[11](https://dictionary.cambridge.org/dictionary/english/witch-doctor),
+[12](https://www.reddit.com/r/AskReddit/comments/2o2rvz/what_is_the_difference_between_a_witch_warlock),
+[13](https://wiccadaily.com/witch-wizard-or-warlock)*
+
+***
+
+# conjurer \| illusionist \| magician
+
+**Conjurer**&mdash;a person who performs magic to entertain people:
+
+> *In many instances a trained **conjurer** would be far more apt to detect
+  fraud than a trained scientist.*
+
+> *The best **conjurers**, magicians and palmists in India are fakirs.*
+
+**Magician**:
+
+- a person who has magic powers in stories:
+
+  > *Merlin was the **magician** in the stories of King Arthur and the Knights
+    of the Round Table.*
+
+- a person who performs tricks for entertainment:
+
+  > *There’ll be a **magician** at the kids’ Christmas party.*
+
+**Illusionist**&mdash;an entertainer who performs tricks where objects seem to
+appear and then disappear.
+
+*Sources:*[1](https://dictionary.cambridge.org/dictionary/english/conjurer),
+[2](https://dictionary.cambridge.org/dictionary/english/illusionist)
+[3](https://dictionary.cambridge.org/dictionary/english/magician)*
 
 ***
 
