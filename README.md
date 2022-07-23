@@ -228,6 +228,8 @@
 
 [made from \| made of](#made-from--made-of)
 
+[material \| materiel](#material--materiel)
+
 [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 [minimal \| minimum](#minimal--minimum)
@@ -4597,6 +4599,22 @@ appear and then disappear.
 
 ***
 
+## material \| materiel
+
+**Material**&mdash;the substance used to make or build something.
+
+**Materiel[^materiel]\/matériel**&mdash;supplies or equipment used by the
+military.
+
+Raw goods used for military construction projects could be a case where
+***materials*** are used to make ***materiel***.
+
+[^materiel]:  material: [mə'tɪ(ə)rɪəl], materiel: [məˌtɪ(ə)rɪ'el]
+
+[*Source*](https://writingexplained.org/material-vs-materiel-difference)
+
+***
+
 ## usage
 
 countable or uncountable
@@ -4681,12 +4699,6 @@ pediaa.com
 
 ***
 
-## material \| materiel
-
-[*Source*]()
-
-***
-
 ## troop \| troupe
 
 [*Source*]()
@@ -4744,3 +4756,34 @@ pediaa.com
 [*Source*]()
 
 ***
+
+## comment about \| comment on
+
+quora.com
+
+[*Source*]()
+
+***
+
+## validate \| verify
+
+saucelabs.com
+
+[*Source*]()
+
+***
+
+## Asian \| Asiatic \| Asianic
+
+
+
+[*Source*]()
+
+***
+
+## argument \| key \| option \| parameter
+
+[*Source*]()
+
+***
+
