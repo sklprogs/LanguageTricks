@@ -4502,7 +4502,7 @@ and has a lot of knowledge:
 
   > *There’ll be a **magician** at the kids’ Christmas party.*
 
-**Sorcerer** (female: *sorceress*) is someone who has great natural magical
+**Sorcerer** (female: **sorceress**) is someone who has great natural magical
 talent, but little formal training. Harms other people.
 
 **Sorcery**&mdash;a type of magic in which spirits, especially evil ones, are
@@ -4523,7 +4523,7 @@ magic.
 
 [^hag]: hag = баба-яга, кикимора
 
-- A male or female practitioner of Wicca[https://en.wikipedia.org/wiki/Wicca]
+- A male or female practitioner of [Wicca](https://en.wikipedia.org/wiki/Wicca)
   (a modern Pagan religion).
                                                                                                                                                                                               
 - *(informal disapproving)* An unpleasant and ugly woman.
@@ -4535,7 +4535,7 @@ magic.
   Usually does evil.
 
 - An oath-breaker or someone who has broken the trust of the
-  Wiccan[https://en.wikipedia.org/wiki/Wicca] community.
+  [Wiccan](https://en.wikipedia.org/wiki/Wicca) community.
 
 **Enchantress**:
 
@@ -4552,7 +4552,7 @@ traditional magic or medicine.
 
 See also [conjurer \| illusionist \| magician](#conjurer--illusionist--magician)
 
-*Sources:*[1](https://dictionary.cambridge.org/dictionary/english/wizard)
+*Sources: [1](https://dictionary.cambridge.org/dictionary/english/wizard)
 [2](https://dictionary.cambridge.org/dictionary/english/mage),
 [3](https://dictionary.cambridge.org/dictionary/english/magician),
 [4](https://dictionary.cambridge.org/dictionary/english/sorcerer),
@@ -4591,8 +4591,8 @@ See also [conjurer \| illusionist \| magician](#conjurer--illusionist--magician)
 **Illusionist**&mdash;an entertainer who performs tricks where objects seem to
 appear and then disappear.
 
-*Sources:*[1](https://dictionary.cambridge.org/dictionary/english/conjurer),
-[2](https://dictionary.cambridge.org/dictionary/english/illusionist)
+*Sources: [1](https://dictionary.cambridge.org/dictionary/english/conjurer),
+[2](https://dictionary.cambridge.org/dictionary/english/illusionist),
 [3](https://dictionary.cambridge.org/dictionary/english/magician)*
 
 ***
