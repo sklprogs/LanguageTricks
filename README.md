@@ -4627,17 +4627,11 @@ Raw goods used for military construction projects could be a case where
 
 - a collection of people or things.
 
-**Trooper**:
-
-- a soldier associated with an armored unit or cavalry *\[UK\]*;
-
-- a member of a state police force *\[US\]*.
-
 **Troupe**&mdash;a group of theatrical performers:
 
 > *Moscow circus **troupe***
 
-**Trouper**&mdash;a member of an entertainment group.
+*See also* [trooper \| trouper](#trooper--trouper)
 
 [*Source*](https://www.thoughtco.com/troop-and-troupe-1689617)
 
@@ -4645,7 +4639,17 @@ Raw goods used for military construction projects could be a case where
 
 ## trooper \| trouper
 
-See [troop \| troupe](#troop--troupe)
+**Trooper**:
+
+- *(UK)* a soldier associated with an armored unit or cavalry;
+
+- *(US)* a member of a state police force.
+
+**Trouper**&mdash;a member of an entertainment group.
+
+*See also* [troop \| troupe](#troop--troupe)
+
+[*Source*](https://www.thoughtco.com/troop-and-troupe-1689617)
 
 ***
 
