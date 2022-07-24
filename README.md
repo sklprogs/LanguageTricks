@@ -316,6 +316,10 @@
 
 [translate into \| translate to](#translate-into--translate-to)
 
+[troop \| troupe](#troop--troupe)
+
+[trooper \| trouper](#trooper--trouper)
+
 [try + -ing \| try to](#try---ing--try-to)
 
 [typical for = typical of](#typical-for--typical-of)
@@ -4615,6 +4619,36 @@ Raw goods used for military construction projects could be a case where
 
 ***
 
+## troop \| troupe
+
+**Troop**:
+
+- a group of soldiers;
+
+- a collection of people or things.
+
+**Trooper**:
+
+- a soldier associated with an armored unit or cavalry *\[UK\]*;
+
+- a member of a state police force *\[US\]*.
+
+**Troupe**&mdash;a group of theatrical performers:
+
+> *Moscow circus **troupe***
+
+**Trouper**&mdash;a member of an entertainment group.
+
+[*Source*](https://www.thoughtco.com/troop-and-troupe-1689617)
+
+***
+
+## trooper \| trouper
+
+See [troop \| troupe](#troop--troupe)
+
+***
+
 ## usage
 
 countable or uncountable
@@ -4694,12 +4728,6 @@ ell.stachexchange.com
 
 wikidiff.com
 pediaa.com
-
-[*Source*]()
-
-***
-
-## troop \| troupe
 
 [*Source*]()
 
