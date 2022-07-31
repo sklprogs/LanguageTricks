@@ -4035,8 +4035,8 @@ not similar. For instance, most ***permits*** may be a sticker but a
 
 ## cause \| reason
 
-**Cause** is something that brings about an effect, while **reason**
-is a motive or justification for something.
+**Cause** is something that brings about an effect, while **reason** is a
+motive or justification for something.
 
 > *The police always try to find the **cause** of an accident.*
 
@@ -4052,14 +4052,13 @@ is a motive or justification for something.
 
 ## individual \| person
 
-Though used interchangeably, the words *person* and *individual*
-connote different meanings.
+Though used interchangeably, the words *person* and *individual* connote
+different meanings.
 
 A **person** is a human being that thinks and walks.
 
-An **individual** is a person in a crowd having unique
-characteristics. *Individual* connotes individualism and properties
-that are unique to a person.
+An **individual** is a person in a crowd having unique characteristics.
+*Individual* connotes individualism and properties that are unique to a person.
 
 [*Source*](https://www.differencebetween.com/difference-between-person-and-vs-individual/)
 
@@ -4069,11 +4068,9 @@ that are unique to a person.
 
 **Individual** means unique or special:
 
-> *People love her **individual** style. It makes her very
-interesting.*
+> *People love her **individual** style. It makes her very interesting.*
 
-**Personal** is something private or that belongs to only that
-person:
+**Personal** is something private or that belongs to only that person:
 
 > *My **personal** belongings has been taken away.*
 
@@ -4083,8 +4080,8 @@ person:
 
 ## individually \| separately \| severally
 
-**Severally** means *by/in distinct units* (where *units* could be
-one or more individual entities):
+**Severally** means *by/in distinct units* (where *units* could be one or more
+individual entities):
 
 > *The States doing so adopted articles of secession **severally**.*
 
@@ -4104,25 +4101,25 @@ one or more individual entities):
 
 To **crash** is to:
 
-  - collide with something:
+- collide with something:
 
-    > *I was driving and then I **crashed** into another car.*
+  > *I was driving and then I **crashed** into another car.*
 
-  - have a breakdown:
+- have a breakdown:
 
-    > *My computer **crashed**!*
+  > *My computer **crashed**!*
 
 To **crush** is to:
 
-  - put heavy pressure on an object, causing it to collapse:
+- put heavy pressure on an object, causing it to collapse:
 
-    > ***Crush** up the cookies for the ice cream.*
+  > ***Crush** up the cookies for the ice cream.*
 
-    > *The company **crushes** cars to make metal.*
+  > *The company **crushes** cars to make metal.*
 
-  - fall in love with someone:
+- fall in love with someone:
 
-    > *I had a **crush** on her.*
+  > *I had a **crush** on her.*
 
 [*Source*](https://hinative.com/ru/questions/6289951)
 
@@ -4132,44 +4129,48 @@ To **crush** is to:
 
 **Allow** means:
 
-  - *permit* or *give permission*:
+- *permit* or *give permission*:
 
-    > *I can’t **allow** you to go outside without a jacket.*
+  > *I can’t **allow** you to go outside without a jacket.*
 
-  - fail to stop something from happening:
+- fail to stop something from happening:
   
-    > *The hermit **allowed** the grass to grow wild around the house
-    and the yard.*
+  > *The hermit **allowed** the grass to grow wild around the house and the
+    yard.*
 
-  - admit (**allow that** = допускать возможность того, что):
+- admit (**allow that**[^allow_that]):
   
-    > *The intern **allowed that** she was not the most experienced
-    person to give the flu shots.*
+  > *The intern **allowed that** she was not the most experienced person to
+    give the flu shots.*
 
-**Allow for** means *make allowances for* (= делать поправку на) or
-*consider the possibility of something*.
+**Allow for** means *make allowances for*[^make_allowances_for] or *consider
+the possibility of something*.
 
-> *The instructor **allowed for** the possibility that the students
-really did forget to bring their homework assignments to class.*
+[^allow_that]: allow that = допускать возможность того, что
 
-= Although the instructor really believes that the students haven’t
-done the assignment, he is open to the possibility that they really
-did the work and just forgot to bring their assignments to class.
+[^make_allowances_for]: make allowances for = делать поправку на
 
-> *When we decided to go on a picnic, we didn’t **allow for** the
-chance that the rain would be as hard and continuous as it was.*
+> *The instructor **allowed for** the possibility that the students really did
+  forget to bring their homework assignments to class.* = Although the
+  instructor really believes that the students haven’t done the assignment, he
+  is open to the possibility that they really did the work and just forgot to
+  bring their assignments to class.
 
-= The friends didn’t consider the possibility that it would keep
-raining when they first made up their minds to go on a picnic.
+> *When we decided to go on a picnic, we didn’t **allow for** the chance that
+  the rain would be as hard and continuous as it was.* = The friends didn’t
+  consider the possibility that it would keep raining when they first made up
+  their minds to go on a picnic.
 
-**Allow of** (= permit, делать возможным, допускать) has never been
-common, and it has practically disappeared today:
+**Allow of**[^allow_of] (permit) has never been common, and it has practically
+disappeared today:
 
 > *The evidence **allows of** the possibility of an inside job.*
 
-We would not say that *the evidence ~~allows for~~ a possibility*,
-because *evidence* is not a viable subject for that action; it is
-rather your interpretation which must allow for possibilities.
+[^allow_of]: Allow of = permit = делать возможным, допускать
+
+We would not say that *the evidence ~~allows for~~ a possibility*, because
+*evidence* is not a viable subject for that action; it is rather your
+interpretation which must allow for possibilities.
 
 *Sources:
 [1](https://languagetips.wordpress.com/category/allowallow-for/),
