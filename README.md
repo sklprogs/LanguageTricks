@@ -2407,10 +2407,10 @@ factor (his preconceptions):
 
 > *Wow! It’s cold **here**.* (in Alaska)
 
-*What are you doing **here?*** &mdash; This one asks what you are doing here
-(in general). What do you want?
+*What are you doing **here?***&mdash;This one asks what you are doing here (in
+general). What do you want?
 
-*What are you doing **in here**?* ;mdash; This one ask specifically what you’re
+*What are you doing **in here**?*&mdash;This one ask specifically what you’re
 doing IN THIS ROOM. It probably means that I didn’t expect you to be here in
 this very room.
 
@@ -2691,27 +2691,27 @@ the apostrophe after the *s* if two conditions are met:
 
 - The plural noun ends in *s*:
 
->> *the cars’ steering wheels*
+> *The cars’ steering wheels.*
 
->> *the dogs’ bowls*
+> *The dogs’ bowls.*
 
->> *the women’s spouses*
+> *The women’s spouses.*
 
 The culture of the singular people:
 
-> *the people’s culture*
+> *The people’s culture.*
 
 The culture belonging to several peoples:
 
-> *the peoples’ culture*
+> *The peoples’ culture.*
 
 A movement that belongs to ALL of the people:
 
-> *the people’s movement*
+> *The people’s movement.*
 
 Movements belonging to each individual:
 
-> *the people’s movements*
+> *The people’s movements.*
 
 ***People’s lives*** would refer to a condition that affects a group in
 general:
@@ -3270,7 +3270,7 @@ to touching a child’s genitals.
 
   > *The whole **operation** is performed in less than three seconds.*
 
-- *\[uncountable\]** The way that parts of a machine or a system work; the
+- *\[uncountable\]* The way that parts of a machine or a system work; the
   process of making something work:
 
   > *Regular servicing guarantees **the** smooth **operation** of the engine.*
@@ -3286,7 +3286,7 @@ to touching a child’s genitals.
 
 - *\[countable\]* A business or company involving many parts:
 
-  > *A huge multinational **operation**.*
+  > ***A** huge multinational **operation**.*
 
 - *\[countable\]* The activity or work done in an area of business or industry:
 
