@@ -388,7 +388,8 @@ it is possible for them to do it if they want to:
 > *The power station is **capable of** generating enough electricity for the
   whole region.*
 
-**capable of** is also used when talking about machines and technical equipment:
+**capable of** is also used when talking about machines and technical
+equipment:
 
 > *\...water turbines, which are **capable of** producing more economical
   electricity.*
@@ -421,8 +422,8 @@ Some more examples:
 > *I have a table and it’s **made from** bamboo.*
 
 The carpenter took stocks of bamboo, cut them, halved them, and made them into
-a table. The carpenter **modified** the bamboo’s **structural integrity**, so my
-table is **made from** bamboo.
+a table. The carpenter **modified** the bamboo’s **structural integrity**, so
+my table is **made from** bamboo.
 
 > *I have a vase and it’s made of bamboo.*
 
@@ -458,9 +459,9 @@ This came up recently in the following sentence:
   petitioner approval.*
 
 The business had interpreted that as *during the year of*, and it got them into
-a bit of trouble. They supported the beneficiary for a year but were not able to
-continue to support him after. The intent was for the position to continue, not
-end.
+a bit of trouble. They supported the beneficiary for a year but were not able
+to continue to support him after. The intent was for the position to continue,
+not end.
 
 [*Source*](https://forum.wordreference.com/threads/during-vs-within.1647596/)
 
@@ -486,8 +487,8 @@ end.
 
 - **content:** the entirety of information contained in something. The story of
   a novel or the subject of an illustration can be called their "content". Just
-  like "information", content is always uncountable when used in this sense. The
-  word is most commonly used in reference to the content of a website:
+  like "information", content is always uncountable when used in this sense.
+  The word is most commonly used in reference to the content of a website:
 
   > *Most websites contain mostly ads with very little **content**.*
 
@@ -499,8 +500,8 @@ end.
 
 - **contents:** things contained in something:
 
-  - In a concrete sense. We can speak of the *contents of a bag*, *contents of a
-    bottle*, *contents of the stomach*, etc.:
+  - In a concrete sense. We can speak of the *contents of a bag*, *contents of
+    a bottle*, *contents of the stomach*, etc.:
 
     > *He dropped a bottle and spilled its **contents** all over the floor.*
 
@@ -509,13 +510,13 @@ end.
 
     > *She has lost the letter and remained unaware of its **contents**.*
 
-Using the singular **content** in this case is becoming increasingly more common
-but is still considered wrong by many. The distinction is rather subtle; if you
-consider the contents of a document to be separate pieces of information, you
-should use **contents** (which is usually the case with a letter). If you refer
-to them as a whole, you should use **content**&mdash;it makes more sense to say
-that *the book contains violent content* than *the book contains violent
-contents*.
+Using the singular ***content*** in this case is becoming increasingly more
+common but is still considered wrong by many. The distinction is rather subtle;
+if you consider the contents of a document to be separate pieces of
+information, you should use ***contents*** (which is usually the case with a
+letter). If you refer to them as a whole, you should use ***content***&mdash;it
+makes more sense to say that *the book contains violent content* than *the book
+contains violent contents*.
 
 [*Source*](https://jakubmarian.com/content-vs-contents-in-english/)
 
@@ -533,15 +534,15 @@ A well is usually sunk by hand and is relatively large in diameter.
 ## boring \| drilling
 
 **Drilling** is *the cutting process* of a material using a specially designed
-rotating cutting tool called a drill bit. The holes produced by the drilling are
-always cylindrical in shape and circular in the diameter.
+rotating cutting tool called a drill bit. The holes produced by the drilling
+are always cylindrical in shape and circular in the diameter.
 
-**Boring** is *the process of enlarging a hole that is already in the material*;
-it may be a hole made by drilling or in the casting. Boring concerns the
-internal diameter and the surface of the hole rather than the depth of the hole.
-In this sense, it can be considered as a twin process of turning, where the
-outer diameter and the surface are the concerns. Boring is done using a boring
-bar, which is a heavy metal bar with the tools fixed at the end.
+**Boring** is *the process of enlarging a hole that is already in the
+material*; it may be a hole made by drilling or in the casting. Boring concerns
+the internal diameter and the surface of the hole rather than the depth of the
+hole. In this sense, it can be considered as a twin process of turning, where
+the outer diameter and the surface are the concerns. Boring is done using a
+boring bar, which is a heavy metal bar with the tools fixed at the end.
 
 [*Source*](https://www.differencebetween.com/difference-between-drilling-and-vs-boring/)
 
@@ -567,8 +568,8 @@ Generally, you can use either.
 
 If you say *Money is **part** of the American Dream*, you mean that both ideas
 are strongly linked together. If you said *Money is **a part** of the American
-Dream*, it would mean that money is only a part of the American Dream. You would
-focus on just one part as opposed to the rest. The second solution is
+Dream*, it would mean that money is only a part of the American Dream. You
+would focus on just one part as opposed to the rest. The second solution is
 grammatically correct but seems awkward as it would be difficult to find a
 context in which it fits.
 
@@ -611,9 +612,9 @@ class would be with **of**.
 The secret to a successful relationship consists in knowing that a crisis
 doesn’t mean everything is over.
 
-Some people say a key point to know which one to use is that ***consist of*** is
-normally used with more tangible objects whereas ***consist in*** refers to an
-abstract quality.
+Some people say a key point to know which one to use is that ***consist of***
+is normally used with more tangible objects whereas ***consist in*** refers to
+an abstract quality.
 
 Others also say that ***consist of*** is always followed by a noun phrase,
 whereas ***consist in*** is followed by a verb.
@@ -736,10 +737,11 @@ being dependent. It is likely to be concrete.
 
 ## enhance \| improve
 
-**Enhance** is to add something (more functionality, more ability, more option).
+**Enhance** is to add something (more functionality, more ability, more
+option).
 
-**Improve** is to make the something better&mdash;no additions, just improvement
-of what was already there.
+**Improve** is to make the something better&mdash;no additions, just
+improvement of what was already there.
 
 [*Source*](https://english.stackexchange.com/questions/105465/what-differences-are-there-between-to-enhance-and-to-improve)
 
@@ -750,13 +752,13 @@ of what was already there.
 **Shameless** means pretty much what you’d expect: that someone should feel
 shame at something, but doesn’t.
 
-**Shameful** can have two meanings that almost seem like antonyms, but they’re
-not, depending on whether it’s applied to a person or an act. If it’s applied
-to a person, it generally means that they feel remorse. If it’s applied to an
-act, it means that whoever is performing the action should feel shame. However,
-it’s often used to emphasize that the person *should* feel shame, but *doesn’t*.
-In this latter sense, it can almost seem like ***shameful*** means the same
-thing as ***shameless***.
+***Shameful*** can have two meanings that almost seem like antonyms, but
+they’re not, depending on whether it’s applied to a person or an act. If it’s
+applied to a person, it generally means that they feel remorse. If it’s applied
+to an act, it means that whoever is performing the action should feel shame.
+However, it’s often used to emphasize that the person *should* feel shame, but
+*doesn’t*. In this latter sense, it can almost seem like ***shameful*** means
+the same thing as ***shameless***.
 
 [*Source*](https://english.stackexchange.com/questions/37622/shameful-vs-shameless)
 
@@ -801,8 +803,8 @@ substance. They phase separate because they *do not* dissolve with each other.
 3. В современной медицине предпочтение отдается лекарственным препаратам,
    поскольку к лекарственным средствам гораздо меньше доверия.
 
-4. Лекарственные средства непосредственно связаны с приемом пищи (представлены в
-   виде пищевых добавок), а вот лекарственные препараты можно принимать
+4. Лекарственные средства непосредственно связаны с приемом пищи (представлены
+   в виде пищевых добавок), а вот лекарственные препараты можно принимать
    независимо от еды.
 
 [*Источник*](https://vchemraznica.ru/chem-otlichaetsya-lekarstvennoe-sredstvo-ot-lekarstvennogo-preparata/)
@@ -825,8 +827,8 @@ list of parts).
 **Contain**&mdash;to hold inside (transitive).
 
 ***Comprise*** says that the list you are giving is exhaustive. All the steps
-are explicitly indicated, and there are no missing steps. ***Contain*** does not
-guarantee either of these.
+are explicitly indicated, and there are no missing steps. ***Contain*** does
+not guarantee either of these.
 
 Don’t say ~~*the method is comprised of X*~~.
 
@@ -862,9 +864,9 @@ the hats.
 
 ***Includes*** is also often used when talking about the features of a product
 or thing for sale. If I were selling you the box, I might tell you that it
-includes three hats. In this case, I’m not pointing out that the hats are inside
-the box, but rather that the box and the hats are all part of the set of things
-I’m offering to sell.
+includes three hats. In this case, I’m not pointing out that the hats are
+inside the box, but rather that the box and the hats are all part of the set of
+things I’m offering to sell.
 
 [*Source*](https://ell.stackexchange.com/questions/47706/using-contain-vs-include-vs-consist-of-appropriately)
 
@@ -963,8 +965,8 @@ system is the degree of closeness of measurements of a quantity to that
 quantity’s true value. The **precision** of a measurement system, related to
 reproducibility and repeatability, is the degree to which repeated measurements
 under unchanged conditions show the same results. Although the two words
-***precision*** and ***accuracy*** can be synonymous in colloquial use, they are
-deliberately contrasted in the context of the scientific method.
+***precision*** and ***accuracy*** can be synonymous in colloquial use, they
+are deliberately contrasted in the context of the scientific method.
 
 *Sources:
 [1](https://www.thoughtco.com/difference-between-accuracy-and-precision-609328),
@@ -1032,8 +1034,8 @@ We use **onto** to:
 
   > *The path leads **onto** the main road.*
 
-We use ***on*** or ***onto*** with very little difference in meaning to refer to
-attachment or movement of something to something else. ***Onto*** gives a
+We use ***on*** or ***onto*** with very little difference in meaning to refer
+to attachment or movement of something to something else. ***Onto*** gives a
 stronger feeling of movement:
 
 > *There's a battery pack with the camera that you can clip **onto** a belt.*
@@ -1054,8 +1056,8 @@ stronger feeling of movement:
 
 ## company name
 
-- Unlike in Russian (JSC Rusal or whatever), the company type always follows the
-  company name&mdash;whether Corporation, Limited, or any other type.
+- Unlike in Russian (JSC Rusal or whatever), the company type always follows
+  the company name&mdash;whether Corporation, Limited, or any other type.
 - We should not use the definite article before the firm or company unless the
   article is the part of the company’s name.
 - If the word *company* is not part of the official name, then using the word
@@ -1081,8 +1083,8 @@ stronger feeling of movement:
 ***Starting from*** A gives you all the words that start with A and all the
 words that start with the letters after A.
 
-> *Let’s start cutting back on our expenses, **starting with/from** the money we
-  spend on food.*
+> *Let’s start cutting back on our expenses, **starting with/from** the money
+  we spend on food.*
 
 They can be used interchangeably if there is no order to what is being started
 with/from, though with is more correct in my opinion. When order matters,
@@ -1094,8 +1096,8 @@ with/from, though with is more correct in my opinion. When order matters,
 
 ## translate into \| translate to
 
-- When you speak about the target language of translation, the usual preposition
-  is ***into***:
+- When you speak about the target language of translation, the usual
+  preposition is ***into***:
 
   > *She translated the text **into** German.*
 
@@ -1233,8 +1235,8 @@ sentence (a) than in sentence (b).
 
 Four Forces Affect Things That Fly:
 
-**Weight** is the force of gravity. It acts in a downward direction&mdash;toward
-the center of the Earth.
+**Weight** is the force of gravity. It acts in a downward
+direction&mdash;toward the center of the Earth.
 
 **Lift** is the force that acts at a right angle to the direction of motion
 through the air. Lift is created by differences in air pressure.
@@ -1286,8 +1288,8 @@ To ***explode*** is *external*, in an outwards direction.
 
 ## anybody \| anyone
 
-***Anyone*** is the singular version of the word and ***anybody*** is the plural
-version.
+***Anyone*** is the singular version of the word and ***anybody*** is the
+plural version.
 
 When ***anyone*** is used, it is typically to differentiate one person from
 many:
@@ -1299,9 +1301,9 @@ many:
 This question seeks out any and all persons who can respond, any number
 of people.
 
-***Anybody*** is sometimes considered inappropriate for formal conversations, it
-is more appropriate for personal conversations. ***Anyone*** is universally used
-in both formal and informal conversation settings.
+***Anybody*** is sometimes considered inappropriate for formal conversations,
+it is more appropriate for personal conversations. ***Anyone*** is universally
+used in both formal and informal conversation settings.
 
 [*Source*](http://www.differencebetween.net/language/difference-between-anyone-and-anybody/)
 
@@ -1338,19 +1340,21 @@ vegetables instead of pizza for dinner.
 **Establish**&mdash;to make stable or firm; to confirm; to prove and cause
 to be accepted as true:
 
-    > *To establish a fact.*
+> *To establish a fact.*
 
 **Determine** is to set the limits of:
 
-    > *It was **determined** that she had died of natural causes.*
+> *It was **determined** that she had died of natural causes.*
 
-    > *We set out to **determine** exactly what happened that night.*
+> *We set out to **determine** exactly what happened that night.*
 
-**Determine on** \[doing\] something&mdash;to decide definitely to do something.
+**Determine on** \[doing\] something&mdash;to decide definitely to do
+something.
 
-**Define**&mdash;to demark sharply the outlines or limits of an area or concept:
+**Define**&mdash;to demark sharply the outlines or limits of an area or
+concept:
 
-    > *To **define** the legal boundaries of a property.*
+> *To **define** the legal boundaries of a property.*
 
 [*Source*](https://www.askdifference.com/establish-vs-define/)
 
@@ -1376,15 +1380,14 @@ to be accepted as true:
 ## видеокарта \| графический процессор
 
 **Графический процессор**, сокращение от GPU (Graphics Processing Unit),
---- это специализированный процессор, предназначенный для обработки
-графики. Поскольку чип разрабатывается и оптимизируется специально для
-таких задач, он намного эффективнее центрального процессора и
-обрабатывает большую часть рабочей нагрузки, когда дело касается игровой
-графики.
+&mdash; это специализированный процессор, предназначенный для обработки
+графики. Поскольку чип разрабатывается и оптимизируется специально для таких
+задач, он намного эффективнее центрального процессора и обрабатывает большую
+часть рабочей нагрузки, когда дело касается игровой графики.
 
-Что касается **видеокарты**, то она состоит не только из графического
-процессора, поскольку также включает ряд других частей, таких как
-видеопамять, печатная плата, разъемы и кулер.
+Что касается ***видеокарты***, то она состоит не только из графического
+процессора, поскольку также включает ряд других частей, таких как видеопамять,
+печатная плата, разъемы и кулер.
 
 [*Источник*](https://cubiq.ru/v-chem-raznitsa-mezhdu-graficheskim-protsessorom-i-videokartoy/)
 
@@ -1392,12 +1395,10 @@ to be accepted as true:
 
 ## график \| диаграмма
 
-**Диаграмма** -- геометрическое изображение, позволяющее увидеть
-показатели в их сравнении или проследить динамику развития какого-либо
-явления.
+**Диаграмма** &mdash; геометрическое изображение, позволяющее увидеть
+показатели в их сравнении или проследить динамику развития какого-либо явления.
 
-**Графиком** называют диаграмму, на которой выражена взаимозависимость
-величин.
+**График** &mdash; диаграмма, на которой выражена взаимозависимость величин.
 
 [*Источник*](https://thedifference.ru/chem-otlichaetsya-grafik-ot-diagrammy/)
 
@@ -1405,10 +1406,11 @@ to be accepted as true:
 
 ## apparatus \| device
 
-**Device** is any piece of equipment made for a particular purpose,
-especially a mechanical or electrical one while **apparatus** is the
-entirety of means whereby a specific production is made existent or task
-accomplished.
+**Device**&mdash;any piece of equipment made for a particular purpose,
+especially a mechanical or electrical one.
+
+**Apparatus**&mdash;the entirety of means whereby a specific production is made
+existent or task accomplished.
 
 [*Source*](https://wikidiff.com/device/apparatus)
 
@@ -1416,12 +1418,12 @@ accomplished.
 
 ## variant \| variation
 
-A **variation** is something that differs from a standard or from
-something considered normal, while a **variant** differs from other
-things in its own class -- that is, it\'s not something that necessarily
-differs from a norm or standard (Garner\'s Modern American Usage).
+A **variation** is something that differs from a standard or from something
+considered normal, while a ***variant*** differs from other things in its own
+class&mdash;that is, it’s not something that necessarily differs from a norm or
+standard (Garner’s Modern American Usage).
 
-**Variant** can be an adjective, but **variation** can\'t.
+***Variant*** can be an adjective, but ***variation*** can’t.
 
 [*Source*](https://english.stackexchange.com/questions/148800/what-is-the-difference-between-a-variant-and-a-variation/148805)
 
@@ -1429,21 +1431,21 @@ differs from a norm or standard (Garner\'s Modern American Usage).
 
 ## independent of \| ~~independently from~~ \| independently of
 
-**Independently from** is not correct usage, as well as being very
-uncommon. From X would indicate either coming from X or going away from
-X, neither of which applies here, since independence does not come or go
-from something.
+~~***Independently from***~~ is not correct usage, as well as being very
+uncommon. From X would indicate either coming from X or going away from X,
+neither of which applies here, since independence does not come or go from
+something.
 
-**Independent** is an adjective that defines a noun:
+***Independent*** is an adjective that defines a noun:
 
-> *Something is independent of ...*
+> *Something is **independent** of ...*
 
-**Independently** is an adverb that defines a verb
+***Independently*** is an adverb that defines a verb:
 
-> *You do something independently of ...*
+> *You do something **independently** of ...*
 
-The proper adverbial phrase is **independently of**. The phrase
-**independent of**, an adjective phrase, is sometimes WRONGLY asked to
+The proper adverbial phrase is ***independently of***. The phrase
+***independent of***, an adjective phrase, is sometimes WRONGLY asked to
 perform an adverbial function.
 
 *Sources:
@@ -1454,15 +1456,16 @@ perform an adverbial function.
 
 ## whether or not
 
-The *or not* portion of **whether or not** is often unnecessary and can
-be removed, but sometimes it is essential. Here\'s the trick: **Whether
-or not** should be used when one\'s response is the same, regardless of
-the outcome. Conversely, **whether** should be used by itself to
-indicate only that the outcome itself is undetermined.
+The *or not* portion of ***whether or not*** is often unnecessary and can be
+removed, but sometimes it is essential. Here’s the trick: ***Whether or not***
+should be used when one’s response is the same, regardless of the outcome.
+Conversely, ***whether*** should be used by itself to indicate only that the
+outcome itself is undetermined.
 
-> *I am not sure **whether or not** I can attend* = I am not sure whether I can attend
+> *I am not sure **whether or not** I can attend.* = I am not sure whether I
+  can attend.
 
-> *I will be there **whether or not** I am prepared*
+> *I will be there **whether or not** I am prepared.*
 
 [*Source*](https://mcelroytutoring.com/blog-post.php?id=4165)
 
@@ -1470,15 +1473,15 @@ indicate only that the outcome itself is undetermined.
 
 ## After that,
 
-Use this phrase when you\'re describing things in order, especially for
+Use this phrase when you’re describing things in order, especially for
 instructions:
 
-> **First** you fry up the meatballs and set them aside. **Then** you
-> chop up some onions and celery and cook them on low heat for about 15
-> minutes. **After that,** you add the tomatoes and garlic.
+> ***First** you fry up the meatballs and set them aside. **Then** you chop up
+  some onions and celery and cook them on low heat for about 15 minutes.
+  **After that,** you add the tomatoes and garlic.*
 
-You don\'t usually use **after that** for the second step in the list,
-but you can use it for the third or any other step after that.
+You don’t usually use ***after that*** for the second step in the list, but you
+can use it for the third or any other step after that.
 
 [*Source*](https://www.phrasemix.com/phrases/after-that-sentence)
 
@@ -1486,17 +1489,16 @@ but you can use it for the third or any other step after that.
 
 ## information about \| information of \| information on
 
-**Information on** something would be information that is really
-in-depth, and quite into details. i.e. a study on history, or a book on
-biomedicine.
+**Information on** something would be information that is really in-depth, and
+quite into details. i.e. a study on history, or a book on biomedicine.
 
-**Information about** something has the implication that it is
-information that is a kind of summary about a subject i.e. a brochure
-will contain *information about something*, but you can\'t really say ~~A
-brochure on mechanics.~~ You would use *A brochure about mechanics.*
+**Information about** something has the implication that it is information that
+is a kind of summary about a subject i.e. a brochure will contain *information
+about something*, but you can’t really say ~~*A brochure on mechanics.*~~ You
+would use *A brochure about mechanics.*
 
-I would avoid using **information of** something for the reason that it
-could be misunderstood to mean *information belonging to something*.
+I would avoid using ***information of*** something for the reason that it could
+be misunderstood to mean *information belonging to something*.
 
 [*Source*](https://english.stackexchange.com/questions/32838/what-is-the-difference-between-information-on-information-of-information/32843)
 
@@ -1507,12 +1509,12 @@ could be misunderstood to mean *information belonging to something*.
 Лексическое значение одинаково, если говорить о прямом значении, т.е. о
 каком-либо страшном существе, сказочном или реальном.
 
-В переносном значении смысл у слов разный: **чудище** --- человек со
-смешной нелепой внешностью, **чудовище** --- аморальный грубый тип.
+В переносном значении смысл у слов разный: **чудище** &mdash; человек со
+смешной нелепой внешностью, **чудовище** &mdash; аморальный грубый тип.
 
 Разница для слов в прямом значении существует стилистическая: слово
-**чудище** характерно для устного народного творчества и для
-разговорного стиля, а **чудовище** --- нейтральное.
+***чудище*** характерно для устного народного творчества и для разговорного
+стиля, а ***чудовище*** &mdash; нейтральное.
 
 [*Источник*](http://www.bolshoyvopros.ru/questions/3150322-chudovische-i-chudische-v-chem-raznica-etih-slov-po-smyslu.html)
 
@@ -1520,20 +1522,20 @@ could be misunderstood to mean *information belonging to something*.
 
 ## think about \| think of
 
-In many contexts, **think of** and **think about** are effectively
+In many contexts, ***think of*** and ***think about*** are effectively
 interchangeable.
 
-> *I\'m **thinking of/about** looking for a new job*
+> *I’m **thinking of/about** looking for a new job.*
 
-In other contexts, to **think of** something means you\'re at least
-aware of the thing, but may not have given it a great deal of
-consideration. If you **think about** something this normally implies
-more focused or extended attention.
+In other contexts, to **think of** something means you’re at least aware of the
+thing, but may not have given it a great deal of consideration. If you ***think
+about*** something this normally implies more focused or extended attention.
 
-> *I never **thought of** doing that!* (that possibility never crossed my mind).
+> *I never **thought of** doing that!* (that possibility never crossed my
+  mind).
 
 > *Have you **thought about** my birthday present?* (have you
-> considered/decided what to get me?)
+  considered/decided what to get me?)
 
 [*Source*](https://english.stackexchange.com/questions/71003/difference-between-think-of-and-think-about?noredirect=1)
 
@@ -1541,18 +1543,17 @@ more focused or extended attention.
 
 ## hear about \| hear of
 
-See [think of \| think about](#think-of--think-about)
+See [think of \| think about](#think-of--think-about).
 
-You might say you\'ve **heard of** something meaning no more than
-that you\'re aware "something" exists. But if you\'ve **heard about**
-something the implication is you\'ve heard some important/current
-information about that thing.
+You might say you’ve ***heard of*** something meaning no more than that you’re
+aware *something* exists. But if you’ve ***heard about*** *something* the
+implication is you’ve heard some important/current information about that thing.
 
-> *I\'ve **heard of** Amy Winehouse* (the name is known to me, but
-> I don\'t necessarily know any more).
+> *I’ve **heard of** Amy Winehouse* (the name is known to me, but I don’t
+  necessarily know any more).
 
-> *I\'ve **heard about** Amy Winehouse* (strongly implies knowing of
-> her untimely death).
+> *I’ve **heard about** Amy Winehouse* (strongly implies knowing of her untimely
+  death).
 
 [*Source*](https://english.stackexchange.com/questions/71003/difference-between-think-of-and-think-about?noredirect=1)
 
@@ -1560,15 +1561,14 @@ information about that thing.
 
 ## throw at \| throw to
 
-**Throw at** means to throw something so that it HITS the target.
+**Throw at**&mdash;to throw something so that it HITS the target.
 
 **Throw to** can mean two things:
 
-1\. if throwing to a person, it is usually so that they can catch the
-    object.
+1. If throwing to a person, it is usually so that they can catch the object.
 
-2\. if throwing to something else, it is so that the object ends up
-    near the target.
+2. If throwing to something else, it is so that the object ends up near the
+   target.
 
 [*Source*](https://hinative.com/ru/questions/209548)
 
@@ -1576,37 +1576,36 @@ information about that thing.
 
 ## in the photo \| in the picture \| on the postcard \| on the screen
 
-If you are talking about the subject of the picture, use **in**:
+If you are talking about the subject of the picture, use ***in***:
 
-> *The boy in the picture is smiling.*
+> *The boy **in** the picture is smiling.*
 
-> *The boy in the photograph is walking on the sand.*
+> *The boy **in** the photograph is walking on the sand.*
 
-It seems simply wrong to talk about a person, or an object, ~~on~~ the
+It seems simply wrong to talk about a person, or an object, ~~*on*~~ the
 photograph.
 
 If you are talking about the picture as a piece of paper/canvas/etc.,
-use **on**:
+use ***on***:
 
-> *Spilling water on the picture will ruin it.*
+> *Spilling water **on** the picture will ruin it.*
 
-It would be different talking about a postcard, because the
-picture/photograph is, itself, on the postcard. So if the photograph of
-the boy on the beach was printed as a postcard -- or a greeting card of
-any kind -- then he would be the boy on the card.
+It would be different talking about a postcard, because the picture/photograph
+is, itself, on the postcard. So if the photograph of the boy on the beach was
+printed as a postcard&mdash;or a greeting card of any kind&mdash;then he would
+be the boy on the card.
 
-> *The boy in the photograph on the card.*
+> *The boy **in** the photograph on the card.*
 
-Photo takes precedence over paper. We always speak of things in the
-picture/in the photo, regardless of the medium (paper, digital image,
-etc.) I would say *on the computer screen* because it is the medium for
-displaying an image.
+Photo takes precedence over paper. We always speak of things in the picture/in
+the photo, regardless of the medium (paper, digital image, etc.) I would say
+***on** the computer screen* because it is the medium for displaying an image.
 
-> *The boy in the image on the computer screen.*
+> *The boy **in** the image on the computer screen.*
 
 If that image had been painted on canvas (or on a wall):
 
-> *The boy in the picture and on the canvas (on the wall).*
+> *The boy in the picture and **on** the canvas (**on** the wall).*
 
 [*Source*](https://forum.wordreference.com/threads/do-you-say-in-or-on-the-photo-postcard-picture-etc.103411/)
 
@@ -1614,12 +1613,12 @@ If that image had been painted on canvas (or on a wall):
 
 ## inside knowledge \| insider knowledge \| insider\'s knowledge
 
-**insider\'s knowledge**: infers a group who possesses the knowledge
+***Insider’s knowledge*** infers a group who possesses the knowledge.
 
-**inside knowledge**: infers the ownership or possession of the
-knowledge
+***Inside knowledge*** infers the ownership or possession of the knowledge.
 
-**insider knowledge**: an individual within a group having the knowledge
+***Insider knowledge*** infers an individual within a group having the
+knowledge.
 
 [*Source*](https://english.stackexchange.com/questions/390144/insider-knowledge-vs-insiders-knowledge-vs-inside-knowledge)
 
@@ -1627,22 +1626,22 @@ knowledge
 
 ## knowledge about \| knowledge of \| ~~knowledge on~~
 
-**Knowledge about** implies knowing external details, without having
-experienced any of these:
+**Knowledge about** implies knowing external details, without having experienced
+any of these:
 
-> *Knowledge about writers*
+> ***Knowledge about** writers.*
 
-> *Knowledge about India, bicycles, heart disease*
+> ***Knowledge about** India, bicycles, heart disease.*
 
 **Knowledge of** implies a more intimate knowledge from the inside out:
 
-> *I would want to increase my knowledge of writers*
+> *I would want to increase my **knowledge of** writers.*
 
-know science, know music:
+Know science, know music:
 
-> *have knowledge of science /music* (not ~~about~~ them)
+> *Have **knowledge of** science /music* (not ~~*about*~~ them).
 
-~~**Knowledge on**~~ is virtually never used
+~~**Knowledge on**~~ is virtually never used.
 
 *Sources:
 [1](https://forum.wordreference.com/threads/knowledge-of-about.1527465/),
@@ -1652,14 +1651,14 @@ know science, know music:
 
 ## текстовый процессор \| текстовый редактор
 
-**Текстовый редактор** --- программа для ввода и изменения текста, в том
+**Текстовый редактор** &mdash; программа для ввода и изменения текста, в том
 числе исходного кода программ, и просмотра текстовых файлов.
 
 > NotePad++, Блокнот
 
-**Текстовый процессор** --- программа для создания, редактирования и
-просмотра текстового документа в интерактивном режиме с широкими
-возможностями для оформления и создания макета для печати.
+**Текстовый процессор** &mdash; программа для создания, редактирования и
+просмотра текстового документа в интерактивном режиме с широкими возможностями
+для оформления и создания макета для печати.
 
 > Microsoft Word, OpenOffice.org Writer, WordPad
 
@@ -1685,31 +1684,30 @@ know science, know music:
 
 ## separated by \| separated with
 
-**By** marks an agent phrase:
+***By*** marks an agent phrase:
 
-> *The fighters were finally separated by the referee.*
+> *The fighters were finally **separated by** the referee.*
 
-**With** marks an instrumental phrase:
+***With*** marks an instrumental phrase:
 
-> *The fighters were finally separated with a crowbar.*
+> *The fighters were finally **separated with** a crowbar.*
 
-When you\'re talking about metaphoric separation you have the option of
-treating the "separator" either as an agent itself, or as a tool (of
-another agent).
+When you’re talking about metaphoric separation you have the option of treating
+the *separator* either as an agent itself, or as a tool (of another agent).
 
 The agent interpretation:
 
-> *The entries are separated by commas*
+> *The entries are **separated by** commas.*
 
 The instrument interpretation:
 
-> *The entries were separated with commas*
+> *The entries were **separated with** commas.*
 
-*A typewriter* is an instrument, but *a ghostwriter* is a human, and
-therefore an agent.
+*A typewriter* is an instrument, but *a ghostwriter* is a human, and therefore
+an agent.
 
-In most cases **by** and **with** are interchangeable, yet it could vary
-in cases like:
+In most cases ***by*** and ***with*** are interchangeable, yet it could vary in
+cases like:
 
 > *I **smell with** my nose.*
 
@@ -1717,12 +1715,12 @@ in cases like:
 
 One of the interchangeable cases is:
 
-> This is **indicated by** a green light.
+> *This is **indicated by** a green light*.
 
-> This is **indicated with** a green light.
+> *This is **indicated with** a green light*.
 
-If you are writing documentation for your application, use the correct
-word for readability. For instance:
+If you are writing documentation for your application, use the correct word for
+readability:
 
 > *This should be **instantiated by** passing the arguments A, B and C.*
 
@@ -1736,12 +1734,12 @@ word for readability. For instance:
 
 ## except \| except for
 
-**except:** You are introducing the only thing, person, or group that
+***Except***&mdash;you are introducing the only thing, person, or group that
 your main statement does not apply to:
 
 > *Anything, **except** water, is likely to block a sink.*
 
-**except for:** You are mentioning something that prevents a statement
+**Except for**&mdash;you are mentioning something that prevents a statement
 from being completely true:
 
 > *The classroom was silent, **except for** the sound of pens on paper.*
@@ -1752,13 +1750,13 @@ from being completely true:
 
 ## salary \| wages
 
-A **wage** is the employee remuneration based on the number of hours
-worked, multiplied by an hourly rate of pay.
+**Wage**&mdash;the employee remuneration based on the number of hours worked,
+multiplied by an hourly rate of pay.
 
-A **salary** is the remuneration of an agreed annual amount, paid at
-agreed intervals (i.e., monthly or fortnightly). This arrangement is
-essentially outcome and task focused rather than being focused on working
-a set number of hours.
+**Salary**&mdash;the remuneration of an agreed annual amount, paid at agreed
+intervals (i.e., monthly or fortnightly). This arrangement is essentially
+outcome and task focused rather than being focused on working a set number of
+hours.
 
 [*Source*](https://wattsnextgroup.com/wages-vs-salary-whats-the-difference/)
 
@@ -1766,11 +1764,10 @@ a set number of hours.
 
 ## competition \| contest
 
-**Contest** suggests playing a game for the game\'s sake just to see who
-would win, or maybe playing for candy. But **competition** suggests
-playing the game in order to get some big reward, where the reward and
-the achievement is the only thing that is important, and there may be no
-pleasure in the game.
+***Contest*** suggests playing a game for the game’s sake just to see who would
+win, or maybe playing for candy. But ***competition*** suggests playing the
+game in order to get some big reward, where the reward and the achievement is
+the only thing that is important, and there may be no pleasure in the game.
 
 [*Source*](https://english.stackexchange.com/questions/77822/contest-vs-competition)
 
@@ -1778,41 +1775,39 @@ pleasure in the game.
 
 ## answer \| reply \| response
 
-**Response** is a very broad term, and includes all reactions to a
-stimulus.
+***Response*** is a very broad term, and includes all reactions to a stimulus.
 
 **Answer** is more specifically a response to a direct question.
 
-One can always **respond** to anything (an event, an injury, a letter, a
-speech, a question\...) but one can only **answer** a question. It\'s
-possible to respond to a question without actually answering it; listen
-to politicians being interviewed.
+One can always ***respond*** to anything (an event, an injury, a letter, a
+speech, a question\...) but one can only ***answer*** a question. It’s possible
+to respond to a question without actually answering it; listen to politicians
+being interviewed.
 
-**Reply** normally refers to words or some other form of communication.
-**Response** could be words or it could be actions. **Reply** is a
-subset of **response**.
+***Reply*** normally refers to words or some other form of communication.
+***Response*** could be words or it could be actions. ***Reply*** is a subset
+of ***response***.
 
 > *I asked for his name, and he **replied**, "Bob".*
 
 > *I asked for his name, and he **responded**, "Bob".*
 
-Someone can have a **response** to a stimulus, which might be a
-**reply**:
+Someone can have a ***response*** to a stimulus, which might be a ***reply***:
 
 > *James pricked Carol with a pin. Carol slapped James, **in reply**.*
 
-The wince is a response, and not a reply:
+The wince is a ***response***, and not a ***reply***:
 
 > *James pricked Carol with a pin. Carol winced with pain.*
 
-A **reply** has to go back to the source of the stimulus of the
-response, e.g. a reply letter is written to someone who has written to
-you. A **response** does not have to go back.
+A ***reply*** has to go back to the source of the stimulus of the response,
+e.g. a reply letter is written to someone who has written to you. A
+***response*** does not have to go back.
 
-If the stimulus for your **response** did not come from an agent that
-you have anthropomorphized, then it is not a **reply**. So you do not
-get **replies** from machines, but you can get replies from companies.
-You can get **responses** from both.
+If the stimulus for your ***response*** did not come from an agent that you
+have anthropomorphized, then it is not a ***reply***. So you do not get replies
+from machines, but you can get replies from companies. You can get
+***responses*** from both.
 
 > *I am moving my mouse but the pointer is not **responding**.*
 
@@ -1824,12 +1819,12 @@ You can get **responses** from both.
 
 ## cost \| price
 
-**Cost** is typically the expense incurred for creating a product or
-service a company sells. The amount of cost that goes into producing a
-product can directly impact its price and profit earned from each sale.
+**Cost** is typically the expense incurred for creating a product or service a
+company sells. The amount of cost that goes into producing a product can
+directly impact its price and profit earned from each sale.
 
-**Price** is the amount a customer is willing to pay for a product or
-service. The difference between price paid and costs incurred is profit.
+**Price** is the amount a customer is willing to pay for a product or service.
+The difference between price paid and costs incurred is profit.
 
 [*Source*](https://www.investopedia.com/ask/answers/101314/what-difference-between-cost-and-price.asp)
 
@@ -1837,22 +1832,23 @@ service. The difference between price paid and costs incurred is profit.
 
 ## regime \| regimen \| regiment
 
-The noun **regime** primarily refers to a form of government or a period
-of time that a person or governing body is in power. (In contemporary
-usage, regime commonly carries a negative connotation.) Far less often,
-regime is used as a synonym for **regimen**.
+The noun **regime** primarily refers to a form of government or a period of
+time that a person or governing body is in power. (In contemporary usage,
+regime commonly carries a negative connotation.) Far less often, regime is used
+as a synonym for ***regimen***.
 
-The noun **regimen** primarily refers to a systematic plan, in
-particular a regulated system of diet and exercise or a prescribed
-course of medical treatment. Far less often, regimen is used as a
-synonym for **regime** (a form of government), a usage that most
-dictionaries identify as "rare" or "archaic."
+The noun **regimen** primarily refers to a systematic plan, in particular a
+regulated system of diet and exercise or a prescribed course of medical
+treatment. Far less often, regimen is used as a synonym for ***regime*** (a
+form of government), a usage that most dictionaries identify as *rare* or
+*archaic*.
 
-The noun **regiment** primarily refers to a military unit or any large
-group of people. (Though regiment was once regarded as a synonym for
-**regime**, most dictionaries identify that usage as "archaic" or
-"obsolete.") As a verb, regiment means to organize a group of people in
-a systematic or oppressive manner.
+The noun **regiment** primarily refers to a military unit or any large group of
+people. (Though regiment was once regarded as a synonym for ***regime***, most
+dictionaries identify that usage as *archaic* or *obsolete*.)
+
+As a verb, **regiment** means to organize a group of people in a systematic or
+oppressive manner.
 
 [*Source*](https://www.thoughtco.com/regime-regimen-and-regiment-1689480)
 
@@ -1860,10 +1856,10 @@ a systematic or oppressive manner.
 
 ## decrease \| reduce
 
-**reduce** is to bring down the size, quantity, quality, value or
-intensity of something; to diminish, to lower, to impair;
+**Reduce** is to bring down the size, quantity, quality, value or intensity of
+something; to diminish, to lower, to impair.
 
-**decrease** is of a quantity, to become smaller
+**Decrease** is of a quantity, to become smaller.
 
 [*Source*](https://wikidiff.com/reduce/decrease)
 
@@ -1871,16 +1867,15 @@ intensity of something; to diminish, to lower, to impair;
 
 ## gain \| profit
 
-Profit and gain are two terms that should be distinguished correctly as
-these have very different meanings in accounting.
+***Profit*** and ***gain*** are two terms that should be distinguished
+correctly as these have very different meanings in accounting.
 
 **Profit** is the summation of total income less total expenses. It is
-generated within the usual business operations. It is the actual
-earnings of the company. This is an indication of the financial
-robustness of the business.
+generated within the usual business operations. It is the actual earnings of
+the company. This is an indication of the financial robustness of the business.
 
-**Gain** is the proceeds received from the sale of fixed or financial
-assets. It is generated outside of business operations.
+**Gain** is the proceeds received from the sale of fixed or financial assets.
+It is generated outside of business operations.
 
 [*Source*](https://www.differencebetween.com/difference-between-profit-and-vs-gain/)
 
@@ -1888,17 +1883,16 @@ assets. It is generated outside of business operations.
 
 ## sniffing \| snooping \| spoofing
 
-**Sniffing** and **snooping** should be synonyms. They refer to
-listening to a conversation. For example, if you login to a website that
-uses no encryption, your username and password can be sniffed off the
-network by someone who can capture the network traffic between you and
-the web site.
+***Sniffing*** and ***snooping*** should be synonyms. They refer to listening
+to a conversation. For example, if you login to a website that uses no
+encryption, your username and password can be sniffed off the network by
+someone who can capture the network traffic between you and the web site.
 
-**Spoofing** refers to actively introducing network traffic pretending
-to be someone else. For example, spoofing is sending a command to
-computer A pretending to be computer B. It is typically used in a
-scenario where you generate network packets that say they originated by
-computer B while they really originated by computer C.
+**Spoofing** refers to actively introducing network traffic pretending to be
+someone else. For example, spoofing is sending a command to computer A
+pretending to be computer B. It is typically used in a scenario where you
+generate network packets that say they originated by computer B while they
+really originated by computer C.
 
 **Spoofing** in an email context means sending an email pretending to be
 someone else.
@@ -1909,69 +1903,69 @@ someone else.
 
 ## class \| lesson
 
-In both the UK and the US, **a class** is usually a group of students
-who are learning together:
+In both the UK and the US, **a class** is usually a group of students who are
+learning together:
 
-> *Jill and I were in the same class at primary school.*
+> *Jill and I were in the same **class** at primary school.*
 
-You can also (especially in the US) use **class** to mean a group of
-students who all completed their studies in a particular year:
+You can also (especially in the US) use **class** to mean a group of students
+who all completed their studies in a particular year:
 
-> *Tim was in the class of 2005.*
+> *Tim was in the **class** of 2005.*
 
 **Class** can also mean a series of lessons in a particular subject:
 
-> *She's taking a class in business administration.*
+> *She's taking a **class** in business administration.*
 
 The usual British word for this is **course**:
 
-> *a course in business administration*
+> *A **course** in business administration*.
 
 **Class** can also mean one of the periods in the school day when a
 group of students are taught:
 
 > *What time is your next class?*
 
-British speakers also use *lesson* for this meaning, but American speakers
+British speakers also use ***lesson*** for this meaning, but American speakers
 do not.
 
 (MacMillan English Dictionary for Advanced Learners 2^nd^ Edition)
 
-[*Source*](https://forum.wordreference.com/threads/class-vs-lesson.81683/#:~:text=Because%20a%20class%20is%20a,used%20very%20differently%20in%20sentences)
+[*Source*](https://forum.wordreference.com/threads/class-vs-lesson.81683)
 
 ***
 
 ## verb + infinitive \| verb + -ing
 
-**attempt**
+***Attempt***:
 
 > *The speaker attempted **to persuade** the audience to support his ideas,
-> without success.*
+  without success.*
 
 > *The speaker attempted **persuading** the audience to support his ideas,
-> without success.*
+  without success.*
 
-**continue**
-
-> *In spite of family planning efforts, the population of poor countries
-> continues **to rise**.*
+***Continue***:
 
 > *In spite of family planning efforts, the population of poor countries
-> continues **rising**.*
+  continues **to rise**.*
 
-**intend**
+> *In spite of family planning efforts, the population of poor countries
+  continues **rising**.*
+
+***Intend***:
 
 > *The school intends **to open** additional facilities in the coming year.*
 
 > *The school intends **opening** additional facilities in the coming year.*
 
-**like**
+***Like***:
 
 > *The study shows that not many employees like **to take** work home.*
 
 > *The study shows that not many employees like **taking** work home.*
 
-**start**
+***Start***:
 
 > *The company has started **to export** skilled manpower overseas.*
 
@@ -1983,8 +1977,8 @@ do not.
 
 ## check if \| check whether
 
-**If** and **whether** are often interchangeable, but sometimes using
-one or the other will change the meaning of your sentence.
+***If*** and ***whether*** are often interchangeable, but sometimes using one
+or the other will change the meaning of your sentence.
 
 > *We want to know **if** you can come.*
 
@@ -1994,18 +1988,15 @@ one or the other will change the meaning of your sentence.
 
 > *Check his work and see **whether** it is correct or not.*
 
-Use **if** when you have a conditional sentence and **whether** when
+Use ***if*** when you have a conditional sentence and ***whether*** when
 showing that two alternatives are possible.
 
-There are two possibilities: Aardvark will arrive Friday, or Aardvark
-will arrive Saturday:
+> *Squiggly didn’t know whether Aardvark would arrive Friday or Saturday.* =
+  There are two possibilities: Aardvark will arrive Friday, or Aardvark will
+  arrive Saturday.
 
-> *Squiggly didn\'t know whether Aardvark would arrive Friday or
-> Saturday.*
-
-Aardvark may not arrive at all:
-
-> *Squiggly didn\'t know if Aardvark would arrive Friday or Saturday.*
+> *Squiggly didn’t know if Aardvark would arrive Friday or Saturday.* =
+  Aardvark may not arrive at all.
 
 *Sources:
 [1](https://www.usingenglish.com/forum/threads/is-there-a-difference-between-check-if-and-check-whether.28260/),
@@ -2015,20 +2006,19 @@ Aardvark may not arrive at all:
 
 ## subject \| topic
 
-A **topic** is a particular subject that you discuss or write about.
+**Topic**&mdash;a particular subject that you discuss or write about.
 
-A **topic** defines a particular aspect that will be covered in
-conversation or in any written form, whereas **subject** is used in
-context to a wider aspect of knowledge and can be composed of various
-topics.
+A ***topic*** defines a particular aspect that will be covered in conversation
+or in any written form, whereas ***subject*** is used in context to a wider
+aspect of knowledge and can be composed of various topics.
 
-> *The subject of writing articles was the environmental issues, and
-> various students came up with different topics on this particular
-> subject matter.*
+> *The **subject** of writing articles was the environmental issues, and
+  various students came up with different topics on this particular subject
+  matter.*
 
-This is the reason that many times they are used interchangeably. They
-only differ when the **subject** within the subject needs to be defined
-and then the inner subject becomes the **topic**.
+This is the reason that many times they are used interchangeably. They only
+differ when the ***subject*** within the subject needs to be defined and then
+the inner subject becomes the ***topic***.
 
 *Sources:
 [1](https://citrinitas.com/topic-vs-subject-what-is-the-difference),
@@ -2038,15 +2028,14 @@ and then the inner subject becomes the **topic**.
 
 ## installation \| setup
 
-**Install** means to put a program on your computer.
+**Install**&mdash;to put a program on your computer.
 
-**Setup** can mean to configure the program, including various options,
-as in:
+**Setup** can mean to configure the program, including various options, as in:
 
-> *I\'m going to set up Word so that the grammar checker is turned off.*
+> *I’m going to **set up** Word so that the grammar checker is turned off.*
 
-When you are **installing** a program, you are also performing its
-initial **setup**.
+When you are ***installing*** a program, you are also performing its initial
+***setup***.
 
 [*Source*](https://ell.stackexchange.com/questions/10772/what-is-the-difference-between-setup-and-install-based-on-computer-programs)
 
@@ -2054,24 +2043,28 @@ initial **setup**.
 
 ## check \| check that \| verify
 
-To **check** means "to consult," or "to investigate."
+**Check** means to:
 
-**check**: to see if something (e.g., a machine) is in good condition or
-working properly:
+- consult;
 
-> *Have you checked the engine (over)?*
+- investigate;
 
-To see if something (e.g., a sum) is correct or accurate:
+- see if something (e.g., a machine) is in good condition or working
+  properly:
 
-> *Will you check my addition?*
+  > *Have you **checked** the engine (over)?*
 
-**Check that** means "make sure that".
+- see if something (e.g., a sum) is correct or accurate:
 
-**verify**: to confirm the truth or correctness of (something):
+> *Will you **check** my addition?*
 
-> *Can you verify her statement?*
+**Check that**&mdash;to make sure that.
 
-**verify** implies a positive conclusion was reached, whereas **check**
+**Verify**&mdash;to confirm the truth or correctness of (something):
+
+> *Can you **verify** her statement?*
+
+***Verify*** implies a positive conclusion was reached, whereas ***check***
 just means something was investigated with no indication of the outcome.
 
 *Sources:
