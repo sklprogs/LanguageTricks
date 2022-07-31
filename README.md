@@ -819,16 +819,16 @@ substance. They phase separate because they *do not* dissolve with each other.
 
 ## compose \| comprise \| contain
 
-Comprise is a synonym of contain. As verbs the difference between
-comprise and contain is that **comprise** is to be made up of; to
-consist of (especially a comprehensive list of parts) while
-**contain** is (transitive): to hold inside.
+**Comprise**&mdash;to be made up of; to consist of (especially a comprehensive
+list of parts).
 
-**Comprise** says that the list you are giving is exhaustive. All the
-steps are explicitly indicated, and there are no missing steps.
-**Contain** does not guarantee either of these.
+**Contain**&mdash;to hold inside (transitive).
 
-Don\'t say ~~*the method is comprised of X*~~.
+***Comprise*** says that the list you are giving is exhaustive. All the steps
+are explicitly indicated, and there are no missing steps. ***Contain*** does not
+guarantee either of these.
+
+Don’t say ~~*the method is comprised of X*~~.
 
 You can say:
 
@@ -839,11 +839,11 @@ or
 > *the method **consists of** X.*
 
 
-**Compose of** is even more formal than *consist of* and *comprise*.
+***Compose of*** is even more formal than *consist of* and *comprise*.
 
-**Compose of** is only used in the passive voice:
+***Compose of*** is only used in the passive voice:
 
-> *Muscle is **composed of** different types of protein.*
+> *Muscle is **composed** of different types of protein.*
 
 *Sources:
 [1](https://forum.wordreference.com/threads/contain-or-comprise.3023986/),
@@ -854,17 +854,17 @@ or
 
 ## contain \| include
 
-**Contains** is used when there is something else that is doing the
-containing. The box is a container, and contains the hats. You would
-not, generally, say that the box includes the hats. Inside the box is a
-set of objects, and that set (which \'contents\' refers to) includes
-(and consists of) the hats.
+***Contains*** is used when there is something else that is doing the
+containing. The box is a container, and contains the hats. You would not,
+generally, say that the box includes the hats. Inside the box is a set of
+objects, and that set (which *contents* refers to) includes (and consists of)
+the hats.
 
-**Includes** is also often used when talking about the features of a
-product or thing for sale. If I were selling you the box, I might tell
-you that it includes three hats. In this case, I\'m not pointing out
-that the hats are inside the box, but rather that the box and the hats
-are all part of the set of things I\'m offering to sell.
+***Includes*** is also often used when talking about the features of a product
+or thing for sale. If I were selling you the box, I might tell you that it
+includes three hats. In this case, I’m not pointing out that the hats are inside
+the box, but rather that the box and the hats are all part of the set of things
+I’m offering to sell.
 
 [*Source*](https://ell.stackexchange.com/questions/47706/using-contain-vs-include-vs-consist-of-appropriately)
 
@@ -872,24 +872,21 @@ are all part of the set of things I\'m offering to sell.
 
 ## additional \| extra
 
-**Additional** means a number has been added to the basic number.
+**Extra**:
 
-**Extra** often means beyond what is necessary or needed. Additional
-room may be needed; extra room may never be used. Compare these to
-"spare". A spare tire or a spare room may never be used, but they have
-the specific purpose of being available in an emergency. Often when
-something is "extra" you get rid of it.
+- Beyond what is due, usual, expected, or necessary; additional; supernumerary;
+  also, extraordinarily good; superior; as, extra work; extra pay.
 
-Definition of **extra**:
+- Something in addition to what is due, expected, or customary; something in
+  addition to the regular charge or compensation, or for which an additional
+  charge is made; as, at European hotels lights are extras.
 
-- Beyond what is due, usual, expected, or necessary; additional;
-supernumerary; also, extraordinarily good; superior; as, extra work;
-extra pay.
+***Additional*** means a number has been added to the basic number.
 
-- Something in addition to what is due, expected, or customary;
-something in addition to the regular charge or compensation, or for
-which an additional charge is made; as, at European hotels lights are
-extras.
+***Extra*** often means beyond what is necessary or needed. Additional room may
+be needed; extra room may never be used. Compare these to *spare*. A spare tire
+or a spare room may never be used, but they have the specific purpose of being
+available in an emergency. Often when something is extra you get rid of it.
 
 [*Source*](https://www.englishforums.com/English/AdditionalVsExtra/zwcgr/post.htm)
 
@@ -898,8 +895,7 @@ extras.
 ## expand \| extend
 
 Usually, **extend** means stretch out linearly. It grows larger in one
-direction. **Expand** means it stretches out/grows larger in all
-directions.
+direction. **Expand** means it stretches out/grows larger in all directions.
 
 [*Source*](https://hinative.com/en-US/questions/318848)
 
@@ -907,8 +903,7 @@ directions.
 
 ## means
 
-According to Oxford Dictionaries it can be "treated as singular or
-plural".
+According to Oxford Dictionaries it can be *treated as singular or plural*.
 
 [*Source*](https://english.stackexchange.com/questions/10343/is-means-plural-or-singular)
 
@@ -916,13 +911,17 @@ plural".
 
 ## related to \| relates to \| relating to
 
-***Related to***: connected with
+***Related to***&mdash;connected with.
 
-***Relating to***: about or concerning.
+***Relating to***&mdash;about or concerning.
 
-1\. Activity focus: My question ***relates to*** your earlier work.
+1. Activity focus:
 
-2\. Status focus: My question ***is related to*** you earlier work.
+   > *My question **relates to** your earlier work.*
+
+2. Status focus:
+
+   > *My question **is related to** you earlier work.*
 
 *Sources:
 [1](https://english.stackexchange.com/questions/67703/relating-to-or-related-to),
@@ -932,10 +931,10 @@ plural".
 
 ## disturbance (plural)
 
-The noun "disturbance" can be countable or uncountable. In more general,
-commonly used, contexts, the plural form will also be **disturbance**.
+The noun ***disturbance*** can be countable or uncountable. In more general,
+commonly used, contexts, the plural form will also be ***disturbance***.
 However, in more specific contexts, the plural form can also be
-**disturbances** e.g. in reference to various types of disturbances or a
+***disturbances***, e.g. in reference to various types of disturbances or a
 collection of disturbances.
 
 [*Source*](https://www.wordhippo.com/what-is/the-plural-of/disturbance.html)
@@ -944,11 +943,11 @@ collection of disturbances.
 
 ## also can \| can also
 
-It is stated clearly in the dictionary and various grammar books that
-the word **also** (which means "in addition" -- a logical connector) is
-placed *after* the auxiliary verbs. It sounds more formal when used
-unlike *also can* or *also could* which sounded more informal and
-colloquial (ordinary conversation, informal).
+It is stated clearly in the dictionary and various grammar books that the word
+***also*** (which means *in addition*&mdash;a logical connector) is placed
+*after* the auxiliary verbs. It sounds more formal when used unlike ***also
+can*** or *also could* which sounded more informal and colloquial (ordinary
+conversation, informal).
 
 [*Source*](https://www.englishforums.com/English/CanAlsoOrAlsoCan/hdzgb/post.htm)
 
@@ -956,17 +955,16 @@ colloquial (ordinary conversation, informal).
 
 ## accurate \| precise
 
-**Accuracy** is close to a known value; **precision** measures
+***Accuracy*** is close to a known value; ***precision*** measures
 repeatability.
 
-In the fields of science and engineering, the **accuracy** of a
-measurement system is the degree of closeness of measurements of a
-quantity to that quantity\'s true value. The **precision** of a
-measurement system, related to reproducibility and repeatability, is the
-degree to which repeated measurements under unchanged conditions show
-the same results. Although the two words precision and accuracy can be
-synonymous in colloquial use, they are deliberately contrasted in the
-context of the scientific method.
+In the fields of science and engineering, the **accuracy** of a measurement
+system is the degree of closeness of measurements of a quantity to that
+quantity’s true value. The **precision** of a measurement system, related to
+reproducibility and repeatability, is the degree to which repeated measurements
+under unchanged conditions show the same results. Although the two words
+***precision*** and ***accuracy*** can be synonymous in colloquial use, they are
+deliberately contrasted in the context of the scientific method.
 
 *Sources:
 [1](https://www.thoughtco.com/difference-between-accuracy-and-precision-609328),
@@ -976,12 +974,11 @@ context of the scientific method.
 
 ## data \| information
 
-**Data** can be simple at the same time unorganized unless it is
-organized. Data contains numbers, statements, and characters in a raw
-form. **Information** is a set of data which is processed in a
-meaningful way according to the given requirement. Information is
-processed, structured, or presented in a given context to make it
-meaningful and useful. So, when the data is transformed into
+***Data*** can be simple at the same time unorganized unless it is organized.
+Data contains numbers, statements, and characters in a raw form. **Information**
+is a set of data which is processed in a meaningful way according to the given
+requirement. Information is processed, structured, or presented in a given
+context to make it meaningful and useful. So, when the data is transformed into
 information, it never has any useless details.
 
 [*Source*](https://www.guru99.com/difference-information-data.html)
@@ -990,14 +987,14 @@ information, it never has any useless details.
 
 ## router (pronunciation)
 
-A **router** (computer thing, from verb "route"), or anything else which
-routes something, is "rooter" or "rowter" depending on how you pronounce
-"route" (US English has both "root" and "rowt", British English has only
-"root")
+A ***router*** (computer thing, from verb *route*), or anything else which
+routes something, is *rooter* or *rowter* depending on how you pronounce
+*route* (US English has both *root* and *rowt*, British English has only
+*root*).
 
-A **router** (woodworking tool, from verb "rout", an electrical one is
-shown above) is "rowter", never "rooter", in both the US and the UK and
-other countries.
+A ***router*** (woodworking tool, from verb *rout*, an electrical one is shown
+above) is *rowter*, never *rooter*, in both the US and the UK and other
+countries.
 
 [*Source*](https://english.stackexchange.com/questions/2389/what-is-the-correct-way-to-pronounce-router#2390)
 
@@ -1005,15 +1002,15 @@ other countries.
 
 ## essentially \| substantially
 
-**substantially** = considerably
+**Substantially** = considerably.
 
-**essentially** = in its essence
+**Essentially** = in its essence.
 
-**Essentially** should be avoided at all costs unless you are trying
-to convey the meaning of a "required" feature. Casual use of
-"essentially" will mean ending up littering your translation with
-necessary features, which once again has a significant impact on the
-scope of protection. If in doubt, go with **substantially**.
+***Essentially*** should be avoided at all costs unless you are trying to convey
+the meaning of a *required* feature. Casual use of ***essentially*** will mean
+ending up littering your translation with necessary features, which once again
+has a significant impact on the scope of protection. If in doubt, go with
+***substantially***.
 
 *Sources: [1](https://diffsense.com/diff/essentially/substantially),
 [2](https://www.patenttranslationsinternational.com/resources/advice-for-translators/)*
@@ -1022,21 +1019,22 @@ scope of protection. If in doubt, go with **substantially**.
 
 ## on \| onto
 
-We use **onto** to talk about direction or movement to a position on a
-surface, usually with a verb that expresses movement:
+We use **onto** to:
 
-> *The cat climbed **onto** the roof.*
+- Talk about direction or movement to a position on a surface, usually with a
+  verb that expresses movement:
 
-> *She emptied the suitcase full of clothes **onto** the floor.*
+  > *The cat climbed **onto** the roof.*
 
-We use **onto** to describe movement towards an end position along a
-road or river:
+  > *She emptied the suitcase full of clothes **onto** the floor.*
 
-> *The path leads onto the main road.*
+- Describe movement towards an end position along a road or river:
 
-We use **on** or **onto** with very little difference in meaning to
-refer to attachment or movement of something to something else. **Onto**
-gives a stronger feeling of movement:
+  > *The path leads **onto** the main road.*
+
+We use ***on*** or ***onto*** with very little difference in meaning to refer to
+attachment or movement of something to something else. ***Onto*** gives a
+stronger feeling of movement:
 
 > *There's a battery pack with the camera that you can clip **onto** a belt.*
 
@@ -1056,19 +1054,17 @@ gives a stronger feeling of movement:
 
 ## company name
 
--   Unlike in Russian (JSC Rusal or whatever), the company type always
-    follows the company name -- whether Corporation, Limited, or any
-    other type.
--   We should not use the definite article before the firm or company
-    unless the article is the part of the company\'s name.
--   If the word "company" is not part of the official name, then using
-    the word "company" after the official name technically makes the
-    official name an adjective that serves to qualify the real noun,
-    which is the word "company". In this case, you need the definite
-    article, as in "I like working for the Cool\_Dude.com company". I
-    would rather say, "I like working for Cool\_Dude.com", but I can
-    imagine some situations where I want to clarify that I am talking
-    about a company.
+- Unlike in Russian (JSC Rusal or whatever), the company type always follows the
+  company name&mdash;whether Corporation, Limited, or any other type.
+- We should not use the definite article before the firm or company unless the
+  article is the part of the company’s name.
+- If the word *company* is not part of the official name, then using the word
+  *company* after the official name technically makes the official name an
+  adjective that serves to qualify the real noun, which is the word *company*.
+  In this case, you need the definite article, as in *I like working for the
+  Cool\_Dude.com company*. I would rather say, *I like working for
+  Cool\_Dude.com*, but I can imagine some situations where I want to clarify
+  that I am talking about a company.
 
 *Sources:
 [1](https://forum.wordreference.com/threads/position-of-the-abbreviation-llc-in-a-company-name.2160167),
@@ -1080,18 +1076,17 @@ gives a stronger feeling of movement:
 
 > *Please give me all the names **starting with** A.*
 
-**Starting with** A includes only words that start with the letter A.
+***Starting with*** A includes only words that start with the letter A.
 
-**Starting from** A gives you all the words that start with A and all the
+***Starting from*** A gives you all the words that start with A and all the
 words that start with the letters after A.
 
-> *Let\'s start cutting back on our expenses, **starting with/from** the money
-we spend on food.*
+> *Let’s start cutting back on our expenses, **starting with/from** the money we
+  spend on food.*
 
-They can be used interchangeably if there is no order to what is being
-started with/from, though with is more correct in my opinion. When order
-matters, **starting from** includes all items starting with and coming
-after.
+They can be used interchangeably if there is no order to what is being started
+with/from, though with is more correct in my opinion. When order matters,
+***starting from*** includes all items starting with and coming after.
 
 [*Source*](https://english.stackexchange.com/questions/112972/starting-with-vs-starting-from/112975)
 
@@ -1099,33 +1094,32 @@ after.
 
 ## translate into \| translate to
 
--   When you speak about the target language of translation, the usual
-    preposition is **into**:
+- When you speak about the target language of translation, the usual preposition
+  is ***into***:
 
->> *She translated the text **into** German.*
+  > *She translated the text **into** German.*
 
--   When pointing out that one phrase is a translation of another, i.e.
-    when the "target" is a phrase rather than a language, **to** is used
-    instead:
+- When pointing out that one phrase is a translation of another, i.e. when the
+  target is a phrase rather than a language, ***to*** is used instead:
 
->> *"Good morning!" was translated **to** "Guten Morgen!".*
+  > *"Good morning!" was translated **to** "Guten Morgen!".*
 
--   Both variants are common for the pattern *from a language (in)to
-    another language*:
+- Both variants are common for the pattern *from a language (in)to another
+  language*:
 
->> *She translated the text from English **into** German.*
+  > *She translated the text from English **into** German.*
 
->> *She translated the text from English **to** German.* (also possible)
+  > *She translated the text from English **to** German.* (also possible)
 
-While the variant with **into** is more common in English literature (and
-is also usually the the variant described in dictionaries and therefore
-the more recommendable variant for non-native speakers), the variant
-with **to** seems to be more common on the Internet and in everyday usage.
+While the variant with ***into*** is more common in English literature (and is
+also usually the the variant described in dictionaries and therefore the more
+recommendable variant for non-native speakers), the variant with ***to*** seems
+to be more common on the Internet and in everyday usage.
 
--   Note that when "language to language" is used as an adjective
-    phrase, the situation is reversed, and only **to** is common:
+- Note that when "language to language" is used as an adjective phrase, the
+  situation is reversed, and only ***to*** is common:
 
->> *We need to prepare an English-**to**-French translation.*
+  > *We need to prepare an English-**to**-French translation.*
 
 [*Source*](https://jakubmarian.com/translate-to-vs-translate-into-in-english/)
 
@@ -1133,9 +1127,9 @@ with **to** seems to be more common on the Internet and in everyday usage.
 
 ## literature \| the literature
 
-An article is not needed for a general use. When **literature** refers
-to a specific collection of books, papers, etc., is related to a given
-subject, we use **the**.
+An article is not needed for a general use. When ***literature*** refers to a
+specific collection of books, papers, etc., is related to a given subject, we
+use ***the***.
 
 [*Source*](https://jakubmarian.com/in-literature-vs-in-the-literature-in-english/)
 
@@ -1143,19 +1137,18 @@ subject, we use **the**.
 
 ## before \| till \| until
 
-If A happens before B, A happens and then B happens. If A happens
-*until* B happens, A would happen, but stop when B happens. **Till** is a
-shortened version of **until**.
+If A happens before B, A happens and then B happens. If A happens *until* B
+happens, A would happen, but stop when B happens. ***Till*** is a shortened
+version of ***until***.
 
-> *I will leave home before sunrise at 04:15.*
+> *I will leave home **before** sunrise at 04:15.*
 
-> *I will not leave home till/until sunrise at 04:15.*
+> *I will not leave home **till/until** sunrise at 04:15.*
 
-In the first example you leave the house any time up until 04:14 when it
-is still dark.
+In the first example you leave the house any time up until 04:14 when it is
+still dark.
 
-In the second you leave no earlier than 04:15 when it starts to become
-light.
+In the second you leave no earlier than 04:15 when it starts to become light.
 
 Note the different constructions with positive and negative statements.
 
@@ -1165,29 +1158,31 @@ Note the different constructions with positive and negative statements.
 
 ## opposite \| opposite to
 
--   As a noun, opposite may stand alone or be followed by the
-    preposition of.
+- As a noun, ***opposite*** may stand alone or be followed by the preposition
+  *of*:
 
->> *Madeleine believes just the opposite!*
+  > *Madeleine believes just the **opposite**!*
 
->> *What is the opposite of up?*
+  > *What is the **opposite** of up?*
 
--   As an adjective, opposite may stand alone or be followed by the
-    preposition to or occasionally from.
+- As an adjective, ***opposite*** may stand alone or be followed by the
+  preposition to *or* occasionally *from*.
 
->> *The cars were travelling in opposite directions when the accident occurred.*
+  > *The cars were travelling in **opposite** directions when the accident
+    occurred.*
 
->> *Hyacinth's opinions are often opposite to Pierre's.*
+  > *Hyacinth’s opinions are often **opposite** to Pierre's.*
 
->> *Keith's cottage is on the same lake but on the opposite side from (or to) ours.*
+  > *Keith’s cottage is on the same lake but on the **opposite** side from (or
+    to) ours.*
 
--   Opposite may also function as a preposition. The preposition
-    opposite should not be followed by of or to.
+- ***Opposite*** may also function as a preposition. The preposition
+  ***opposite*** should not be followed by *of* or *to*:
 
->> *Jean-Luc lives in the house opposite ours.*
+  > *Jean-Luc lives in the house **opposite** ours.*
 
->> *Two dozen condos will be built opposite the theatre* (not ~~opposite of the
-theatre~~ or ~~opposite to the theatre~~).
+  >> *Two dozen condos will be built **opposite** the theatre* (not ~~*opposite
+     of the theatre*~~ or ~~*opposite to the theatre*~~).
 
 [*Source*](https://www.btb.termiumplus.gc.ca/tpv2guides/guides/wrtps/index-eng.html?lang=eng&lettr=indx_catlog_o&page=9f6h6X_fuaGE.html)
 
