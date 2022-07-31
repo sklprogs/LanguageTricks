@@ -3813,12 +3813,12 @@ apparently by mere chance:
    2.1. Some writers are now treating *however, therefore, moreover* and
         *furthermore* as conjunctions and just using a comma:
    
-        > *We plan to stay for another year, **however** Peter is leaving now.*
+     > *We plan to stay for another year, **however** Peter is leaving now.*
 
-   2.2. You can also use **however** as a conjunction to mean *by whatever
+   2.2. You can also use ***however*** as a conjunction to mean *by whatever
         means*:
    
-        > *I don’t care **however** you do it, just get it done.*
+     > *I don’t care **however** you do it, just get it done.*
 
 3. As intensifiers or for emphasis:
 
