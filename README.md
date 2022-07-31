@@ -3835,10 +3835,10 @@ apparently by mere chance:
 The **conditions for** some state of affairs are the conditions that
 must exist in order for that state of affairs to exist:
 
-> *the **conditions for** a hail storm*
+> *The **conditions for** a hail storm.*
 
-The **condition of** something is the state that it is in. This is
-a different definition of condition.
+The **condition of** *something* is the state that it is in. This is a
+different definition of condition.
 
 > *the **condition of** a car engine*
 
@@ -3858,9 +3858,9 @@ IEEE Definitions
 
 Note:
 
-  • **Error** is terminology of Developer
+> ***Error*** is terminology of Developer.
 
-  • **Bug** is terminology of Tester
+> ***Bug*** is terminology of Tester.
 
 [*Source*](https://softwaretestingtimes.com/2010/04/fault-error-failure.html)
 
@@ -3868,17 +3868,17 @@ Note:
 
 ## learn how to \| learn to
 
-> *I want to **learn to** speak French* = *I want to **learn how to**
-  speak French*
+> *I want to **learn to** speak French.* = *I want to **learn how to** speak
+  French.*
 
-> *he **learned how to** obey*
+> *He **learned how to** obey.*
 
-> *he **learned to** obey* = he learned that he must to obey
+> *He **learned to** obey.* = He learned that he must obey.
 
-Obviously the child already knows how to avoid making a noise, so
-*learn* has a somewhat different meaning here:
+Obviously the child already knows how to avoid making a noise, so *learn* has a
+somewhat different meaning here:
 
-> *I wish you\'d **learn to** be quiet in church*
+> *I wish you’d **learn to** be quiet in church.*
 
 [*Source*](https://english.stackexchange.com/questions/59520/learn-how-to-verb-vs-learn-to-verb)
 
@@ -3886,34 +3886,33 @@ Obviously the child already knows how to avoid making a noise, so
 
 ## error \| mistake
 
-**mistake**: a decision which brought unsuccessful results:
+**Mistake**&mdash;a decision which brought unsuccessful results:
 
 > *Her decision to sell the house was a big **mistake**.*
 
-A **mistake** is usually accidental, you know it is wrong. Otherwise,
-an **error**  is usually made due to the lack of knowledge and is
-more formal and technical than **mistake**.
+A ***mistake*** is usually accidental, you know it is wrong. Otherwise, an
+***error*** is usually made due to the lack of knowledge and is more formal and
+technical than ***mistake***.
 
-Machines never make **mistakes**, but rather they make **errors**.
-People can make both.
+Machines never make ***mistakes***, but rather they make ***errors***. People
+can make both.
 
-The person who is making the **error** doesn’t know that he is doing
-something wrong. For example, you do not understand some concepts in
-math, so you make a lot of errors. Now, imagine a situation where you
-understand and know the concepts, but you did the calculations in
-a rush. You had knowledge, but it’s your carelessness that resulted
-in the mistakes.
+The person who is making the ***error*** doesn’t know that he is doing
+something wrong. For example, you do not understand some concepts in math, so
+you make a lot of errors. Now, imagine a situation where you understand and
+know the concepts, but you did the calculations in a rush. You had knowledge,
+but it’s your carelessness that resulted in the mistakes.
 
-*Sources: [*1*](http://languagelearningbase.com/88781/what-is-the-difference-between-error-and-mistake),
-[*2*](https://pediaa.com/difference-between-error-and-mistake)*
+*Sources: [1](http://languagelearningbase.com/88781/what-is-the-difference-between-error-and-mistake),
+[2](https://pediaa.com/difference-between-error-and-mistake)*
 
 ***
 
 ## dependant \| dependent
 
-**dependent** = AmE
+***Dependent*** = AmE.
 
-**dependant** = BrE
+***Dependant*** = BrE.
 
 [*Source*](https://www.merriam-webster.com/words-at-play/spelling-variants-dependent-vs-dependant)
 
@@ -3923,18 +3922,19 @@ in the mistakes.
 
 ### Law
 
-A **right** is something that every person is born with and is
-inalienable, which means that it cannot be given, taken away, or
-denied by anyone. Another distinction between a right and a
-**privilege** is that a right does not need to be earned or worked
-for. For example, free speech is a right because anyone can speak
-freely and there is nothing anyone has to do to be able to freely
-speak and it does not cost anyone else anything to have free speech.
-On the other hand, a driver’s license is a privilege because anyone
-that wants to get one has to be a certain age, be free from
-limitations such as being blind, and must pass a test first. This
-license can be denied or taken away when a person does not meet the
-qualifications or violates the driving laws.
+A **right** is something that every person is born with and is inalienable,
+which means that it cannot be given, taken away, or denied by anyone. Another
+distinction between a right and a ***privilege*** is that a ***right*** does
+not need to be earned or worked for. For example, free speech is a right
+because anyone can speak freely and there is nothing anyone has to do to be
+able to freely speak and it does not cost anyone else anything to have free
+speech.
+
+On the other hand, a driver’s license is a ***privilege*** because anyone that
+wants to get one has to be a certain age, be free from limitations such as
+being blind, and must pass a test first. This license can be denied or taken
+away when a person does not meet the qualifications or violates the driving
+laws.
 
 [*Source*](https://thelicenselawyers.com/laws-regulations-connecticut-lawyer/rights-privileges/)
 
@@ -3944,36 +3944,34 @@ qualifications or violates the driving laws.
 
 ### General
 
-**permission**: authorization granted to do something; formal consent
+**Permission**&mdash;authorization granted to do something; formal consent.
 
-**privilege**: a grant to an individual, corporation, etc., of
-a special right or immunity, under certain conditions.
+**Privilege**&mdash;a grant to an individual, corporation, etc., of a special
+right or immunity, under certain conditions.
 
 ### IT
 
-**permission**: a rule associated with an object to regulate which
-users can gain access to the object and in what manner. Permissions
-are assigned or denied by the object\'s owner.
+**Permission**&mdash;a rule associated with an object to regulate which users
+can gain access to the object and in what manner. Permissions are assigned or
+denied by the object’s owner.
 
-**privilege**: authorization to perform a specific action or set of
+**Privilege**&mdash;authorization to perform a specific action or set of
 actions on a managed object or group of managed objects.
 
-- **permissions** are given to roles, **privileges** are given to
-  people;
+- ***Permissions*** are given to roles, ***privileges*** are given to people;
 
-- a **permission** is asked for, a **privilege** is granted;
+- A ***permission*** is asked for, a ***privilege*** is granted;
 
-- **permissions** are situation-based, **privileges** are time-based.
+- ***Permissions*** are situation-based, ***privileges*** are time-based.
 
-So typically, as used in IT security, privileges determine
-permissions. A user, through their account, is granted
-the **privilege** of reading a particular type of record
-(or a particular record) by the administrator of a system; this is
-typically done once, or as needed over time. The application, acting
-on behalf of the user who has authenticated themselves using the
-account, then asks for **permission** to perform an action each and
-every time it must do so, and the system grants this permission in
-each situation after examining the privileges of the user.
+So typically, as used in IT security, privileges determine permissions. A user,
+through their account, is granted the ***privilege*** of reading a particular
+type of record (or a particular record) by the administrator of a system; this
+is typically done once, or as needed over time. The application, acting on
+behalf of the user who has authenticated themselves using the account, then
+asks for ***permission*** to perform an action each and every time it must do
+so, and the system grants this permission in each situation after examining the
+privileges of the user.
 
 *Sources:
 [1](https://www.dictionary.com/browse/permission),
@@ -3986,54 +3984,51 @@ each situation after examining the privileges of the user.
 
 ## license \| permit
 
-A **license** is a legally binding contract that allows someone or
-something to do, own, perform an action or use a service as long as
-they agree to the provided terms and conditions. Examples of licenses
-are driving licenses, software licenses and business licenses. All
-these have terms and conditions attached to them and must be followed
-for the license to be put to action.
+A **license** is a legally binding contract that allows someone or something to
+do, own, perform an action or use a service as long as they agree to the
+provided terms and conditions. Examples of licenses are driving licenses,
+software licenses and business licenses. All these have terms and conditions
+attached to them and must be followed for the license to be put to action.
 
-A **permit** is an official document which gives an individual
-permission to do carry out an activity.
+A **permit** is an official document which gives an individual permission to
+carry out an activity.
 
-A person may have a driving ***permit*** before attaining a certain
-age, and once that age is attained, a ***license*** is given. This is
-the same case for a person who has a ***license*** to carry on pest
-control business but must have a ***permit*** to store the chemicals.
+A person may have a driving ***permit*** before attaining a certain age, and
+once that age is attained, a ***license*** is given. This is the same case for
+a person who has a ***license*** to carry on pest control business but must
+have a ***permit*** to store the chemicals.
 
 #### Differences between permits and licenses
                                                                                                     
-**1. Period of Validity**
+1. **Period of Validity**
 
-  - In most cases, ***licenses*** are permanent while ***permits***
-    are temporary. For instance, in driving, a permit is valid for up
-    to two years in most places while licenses are permanent,
-    although they can also be annulled in case of misuse of the said
-    license.
+   - In most cases, ***licenses*** are permanent while ***permits*** are
+     temporary. For instance, in driving, a permit is valid for up to two years
+     in most places while licenses are permanent, although they can also be
+     annulled in case of misuse of the said license.
 
-**2. Different restrictions**
+2. **Different restrictions**
 
-  - ***Licenses*** have few restrictions if any. On the other hand,
-    ***permits*** have a lot of restrictions. ***Permits*** restrict
-    on the time an activity can be carried out, who is carrying out
-    the activity, where the activity is being carried out and also
-    whether supervision is available. Most activities that are
-    carried out with the authority of a ***license*** do not have
-    such restrictions. For instance, a driver’s license does not have
-    restrictions on where, whom and when to drive, as long it is
-    within the allowed territory.
+   - ***Licenses*** have few restrictions if any. On the other hand,
+     ***permits*** have a lot of restrictions. ***Permits*** restrict on the
+     time an activity can be carried out, who is carrying out the activity,
+     where the activity is being carried out and also whether supervision is
+     available. Most activities that are carried out with the authority of a
+     ***license*** do not have such restrictions. For instance, a driver’s
+     license does not have restrictions on where, whom and when to drive, as
+     long it is within the allowed territory.
 
-**3. Inspection periods**
+3. **Inspection periods**
 
-  - ***Permits*** require regular safety regulation inspections from
-    the relevant authorities. ***Licenses***, on the other hand, may
-    require inspection, but not as regular.
+   - ***Permits*** require regular safety regulation inspections from the
+     relevant authorities. ***Licenses***, on the other hand, may require
+     inspection, but not as regular.
 
-**4. Appearance**
+4. **Appearance**
 
-  - While appearance is mainly a non-issue, licenses and permits are
-    in most cases not similar. For instance, most ***permits*** may
-    be a sticker but a ***license*** may be updated to a card.
+   - While appearance is mainly a non-issue, licenses and permits are in most
+     cases not similar. For instance, most ***permits*** may be a sticker but a
+     ***license*** may be updated to a card.
 
 [*Source*](http://www.differencebetween.net/business/differences-between-permits-and-licenses/)
 
