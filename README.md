@@ -120,6 +120,8 @@
 
 [define \| determine \| determine on \| establish](#define--determine--determine-on--establish)
 
+[delete \| remove](#delete--remove)
+
 [dependant \| dependent](#dependant--dependent)
 
 [dependence \| dependency](#dependence--dependency)
@@ -4653,6 +4655,21 @@ Raw goods used for military construction projects could be a case where
 
 ***
 
+## delete \| remove
+
+**Delete**:
+
+- erase (i.e. render nonexistent or nonrecoverable);
+
+- move files to trash (hence they are still recoverable), but that’s not
+  a standard meaning outside of that context.
+
+**Remove**&mdash;take away and set aside (but keep in existence).
+
+[*Source*](https://english.stackexchange.com/questions/52508/difference-between-delete-and-remove)
+
+***
+
 ## usage
 
 countable or uncountable
@@ -4814,6 +4831,18 @@ saucelabs.com
 ***
 
 ## argument \| key \| option \| parameter
+
+[*Source*]()
+
+***
+
+## recommend that \| recommend to
+
+[*Source*]()
+
+***
+
+## log in to
 
 [*Source*]()
 
