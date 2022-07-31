@@ -4400,7 +4400,7 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 ## instant \| moment
 
-**moment**:
+**Moment**:
 
 - a point of time (instant):
 
@@ -4410,7 +4410,7 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
   > ***Moments** of solitude*
 
-**instant**&mdash;an infinitesimal[^infinitesimal] space of time, especially a
+**Instant**&mdash;an infinitesimal[^infinitesimal] space of time, especially a
 point in time separating two states:
 
 > *At the **instant** of death*
