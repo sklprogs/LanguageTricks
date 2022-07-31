@@ -66,7 +66,7 @@
 
 [cause \| reason](#cause--reason)
 
-[check \| check that \| verify](#check--check-that--verify)
+[check \| check that \| validate \| verify](#check--check-that--validate--verify)
 
 [check if \| check whether](#check-if--check-whether)
 
@@ -331,6 +331,8 @@
 [usage \| use](#usage--use)
 
 [useful for \| useful to](#useful-for--useful-to)
+
+[validation \| verification](#validation--verification)
 
 [variant \| variation](#variant--variation)
 
@@ -2041,7 +2043,7 @@ When you are ***installing*** a program, you are also performing its initial
 
 ***
 
-## check \| check that \| verify
+## check \| check that \| validate \| verify
 
 **Check** means to:
 
@@ -2049,8 +2051,7 @@ When you are ***installing*** a program, you are also performing its initial
 
 - investigate;
 
-- see if something (e.g., a machine) is in good condition or working
-  properly:
+- see if something (e.g., a machine) is in good condition or working properly:
 
   > *Have you **checked** the engine (over)?*
 
@@ -2067,9 +2068,64 @@ When you are ***installing*** a program, you are also performing its initial
 ***Verify*** implies a positive conclusion was reached, whereas ***check***
 just means something was investigated with no indication of the outcome.
 
+**Validate**:
+
+- make legally valid (ratify);
+
+- grant official sanction to by marking:
+
+  > ***Validate** a passport*
+
+- support or corroborate on a sound or authoritative basis:
+
+  > *Experiments designed to **validate** the hypothesis*
+
+- recognize, establish, or illustrate the worthiness:
+
+  > ***Validate** one’s concerns*
+
+See also [validation \| verification](#validation--verification)
+
 *Sources:
 [1](https://forum.wordreference.com/threads/check-vs-verify.580470),
-[2](https://www.parson-europe.com/en/blog/check-if-or-check-or-have-you-tried-turning-it-and-again)*
+[2](https://www.parson-europe.com/en/blog/check-if-or-check-or-have-you-tried-turning-it-and-again),
+[3](https://www.merriam-webster.com/dictionary/validate)*
+
+***
+
+## validation \| verification
+
+### IT
+
+**Verification**&mdash;a test of a system to prove that it meets all its
+specified requirements at a particular stage of its development.
+
+**Validation**&mdash;an activity that ensures that an end product stakeholder’s
+true needs and expectations are met.
+
+***Verification*** refers to a testing protocol (that uses any methodology)
+that can determine if the software meets the specifications or requirements as
+they were initially designed. The process has as its goal answering the
+question: *Did I build what I said I would?* The verification of development
+refers to checking an application that is still being developed to ensure that
+it adheres to these specifications. The verification process can include
+activities like code reviews, walkthroughs, and inspections. Actual testing of
+the software is not required for verification.
+
+***Validation*** is performed upon the completion of a module, or the entire
+application. Validation focuses on ensuring that a stakeholder gets the product
+they desired. Validation is high-level testing and typically consists of
+regression testing, user testing, performance testing, and similar activities.
+
+***Verification*** has little or no code execution, while ***validation***
+requires code execution.
+
+***Verification*** is a static method of checking documents and files, while
+***validation*** is the dynamic process of testing the real product.
+
+See also: [check \| check that \| validate \| verify](#check--check-that--validate--verify).
+
+[*Source*](https://saucelabs.com/blog/to-validate-or-verify)
 
 ***
 
@@ -4791,14 +4847,6 @@ pediaa.com
 ## comment about \| comment on
 
 quora.com
-
-[*Source*]()
-
-***
-
-## validate \| verify
-
-saucelabs.com
 
 [*Source*]()
 
