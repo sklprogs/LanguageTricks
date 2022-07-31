@@ -688,22 +688,23 @@ contexts. In my opinion, when in doubt, use the word ***use***.
 
 ## complement \| supplement
 
--   **Supplement** would refer to extra/additional information.
-    **Complement** refers to an item that completes or goes well with
-    another item.
--   A **complement** usually makes the word that it goes with complete
-    or perfect. A **supplement**, however, only helps that word. It is
-    purely supplementary.
+- **Supplement** would refer to extra/additional information. **Complement**
+  refers to an item that completes or goes well with another item.
 
-Generally, a **complement** is always the response to incompleteness
-that provides the required essential part. For example: *Soul is the
-complement for a human body to become a human being* (without soul the
-body is not human being).
+- A ***complement*** usually makes the word that it goes with complete or
+  perfect. A ***supplement***, however, only helps that word. It is purely
+  supplementary.
 
--   A **supplement** is always the response to extra needs or demand.
-    For example: *Spare Tyre is the supplement for any vehicle* (without
-    the spare tyre it's possible to go anywhere but it's essential to
-    have one)
+Generally, a **complement** is always the response to incompleteness that
+provides the required essential part:
+
+> *Soul is the complement for a human body to become a human being* (without
+  soul the body is not human being).
+
+- A **supplement** is always the response to extra needs or demand:
+
+  > *Spare Tyre is the supplement for any vehicle* (without the spare tyre it’s
+    possible to go anywhere but it’s essential to have one).
 
 [*Source*](https://english.stackexchange.com/questions/26129/complement-or-supplement)
 
@@ -711,9 +712,9 @@ body is not human being).
 
 ## dosage \| dose
 
-**Dose** is the amount or quantity of medicine to be taken or
-administered to the patient every time in a day. If it is 5mg, then 5mg
-is the dose to be given to the patient.
+**Dose** is the amount or quantity of medicine to be taken or administered to
+the patient every time in a day. If it is 5mg, then 5mg is the dose to be given
+to the patient.
 
 **Dosage** implies *the duration or the frequency* of the dose to be
 administered.
@@ -724,10 +725,10 @@ administered.
 
 ## dependence \| dependency
 
-I think *dependence* and *dependency* are like *competence* and
-*competency*. Both are nouns. Yet, **dependence** emphasizes the quality
-of being dependent. So, it may also be abstract. Whereas, **dependency**
-focuses on the state of being dependent. It is likely to be concrete.
+I think *dependence* and *dependency* are like *competence* and *competency*.
+Both are nouns. Yet, **dependence** emphasizes the quality of being dependent.
+So, it may also be abstract. Whereas, **dependency** focuses on the state of
+being dependent. It is likely to be concrete.
 
 [*Source*](https://english.stackexchange.com/questions/57080/dependence-vs-dependency)
 
@@ -735,11 +736,10 @@ focuses on the state of being dependent. It is likely to be concrete.
 
 ## enhance \| improve
 
-**enhance** is to add something (more functionality, more ability, more
-option).
+**Enhance** is to add something (more functionality, more ability, more option).
 
-**improve** is to make the something better -- no additions, just
-improvement of what was already there.
+**Improve** is to make the something better&mdash;no additions, just improvement
+of what was already there.
 
 [*Source*](https://english.stackexchange.com/questions/105465/what-differences-are-there-between-to-enhance-and-to-improve)
 
@@ -747,16 +747,16 @@ improvement of what was already there.
 
 ## shameful \| shameless
 
-**Shameless** means pretty much what you\'d expect: that someone should
-feel shame at something, but doesn\'t.
+**Shameless** means pretty much what you’d expect: that someone should feel
+shame at something, but doesn’t.
 
-**Shameful** can have two meanings that almost seem like antonyms, but
-they\'re not, depending on whether it\'s applied to a person or an act.
-If it\'s applied to a person, it generally means that they feel remorse.
-If it\'s applied to an act, it means that whoever is performing the
-action should feel shame. However, it\'s often used to emphasize that
-the person *should* feel shame, but *doesn\'t*. In this latter sense, it
-can almost seem like "shameful" means the same thing as "shameless".
+**Shameful** can have two meanings that almost seem like antonyms, but they’re
+not, depending on whether it’s applied to a person or an act. If it’s applied
+to a person, it generally means that they feel remorse. If it’s applied to an
+act, it means that whoever is performing the action should feel shame. However,
+it’s often used to emphasize that the person *should* feel shame, but *doesn’t*.
+In this latter sense, it can almost seem like ***shameful*** means the same
+thing as ***shameless***.
 
 [*Source*](https://english.stackexchange.com/questions/37622/shameful-vs-shameless)
 
@@ -764,12 +764,12 @@ can almost seem like "shameful" means the same thing as "shameless".
 
 ## due to \| owing to
 
-If you can use **caused by** then you can also use **due to**:
+If you can use ***caused by*** then you can also use ***due to***:
 
 > *The cancellation of the flight was **due to*** (caused by) *high winds.*
 
-If you can use **because of** then you should use **owing to** rather
-than *due to* (or leave it as *because of*):
+If you can use *because of* then you should use ***owing to*** rather than
+***due to*** (or leave it as *because of*):
 
 > *The flight was cancelled **owing to*** (because of) *high winds.*
 
@@ -779,12 +779,11 @@ than *due to* (or leave it as *because of*):
 
 ## disperse \| dissolve
 
-A **solution** is a mixture of one substance *dissolved* in another
-substance. It has a solute and a solvent.
+**Solution**&mdash;a mixture of one substance *dissolved* in another substance.
+It has a solute and a solvent.
 
-A **dispersion** is a mixture of one substance *phase separated* from
-another substance. They phase separate because they *do not* dissolve
-with each other.
+**Dispersion**&mdash;a mixture of one substance phase *separated* from another
+substance. They phase separate because they *do not* dissolve with each other.
 
 [*Source*](https://brainly.in/question/1350968)
 
@@ -792,17 +791,19 @@ with each other.
 
 ## лекарственное средство \| лекарственный препарат
 
-1.  Лекарственное средство представлено в виде каких-то пищевых добавок,
-    а препарат представлен в форме таблеток, мазей, растворов.
-2.  В странах Европы считается, что лекарственное средство -- это часть
-    нетрадиционной медицины, а вот лекарственный препарат -- это уже
-    часть современной медицины.
-3.  В современной медицине предпочтение отдаётся лекарственным
-    препаратам, поскольку к лекарственным средствам гораздо меньше
-    доверия.
-4.  Лекарственные средства непосредственно связаны с приемом пищи
-    (представлены в виде пищевых добавок), а вот лекарственные препараты
-    можно принимать независимо от еды.
+1. Лекарственное средство представлено в виде каких-то пищевых добавок, а
+   препарат представлен в форме таблеток, мазей, растворов.
+
+2. В странах Европы считается, что лекарственное средство &mdash; это часть
+   нетрадиционной медицины, а вот лекарственный препарат &mdash; это уже часть
+   современной медицины.
+
+3. В современной медицине предпочтение отдается лекарственным препаратам,
+   поскольку к лекарственным средствам гораздо меньше доверия.
+
+4. Лекарственные средства непосредственно связаны с приемом пищи (представлены в
+   виде пищевых добавок), а вот лекарственные препараты можно принимать
+   независимо от еды.
 
 [*Источник*](https://vchemraznica.ru/chem-otlichaetsya-lekarstvennoe-sredstvo-ot-lekarstvennogo-preparata/)
 
@@ -810,9 +811,9 @@ with each other.
 
 ## signalling \| signaling
 
-signaling: US
+***signaling***: US
 
-signalling: UK
+***signalling***: UK
 
 ***
 
