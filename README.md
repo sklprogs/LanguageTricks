@@ -1338,19 +1338,19 @@ vegetables instead of pizza for dinner.
 **Establish**&mdash;to make stable or firm; to confirm; to prove and cause
 to be accepted as true:
 
-   > *To establish a fact.*
+    > *To establish a fact.*
 
 **Determine** is to set the limits of:
 
-   > *It was **determined** that she had died of natural causes.*
+    > *It was **determined** that she had died of natural causes.*
 
-   > *We set out to **determine** exactly what happened that night.*
+    > *We set out to **determine** exactly what happened that night.*
 
 **Determine on** \[doing\] something&mdash;to decide definitely to do something.
 
 **Define**&mdash;to demark sharply the outlines or limits of an area or concept:
 
-   > *To **define** the legal boundaries of a property.*
+    > *To **define** the legal boundaries of a property.*
 
 [*Source*](https://www.askdifference.com/establish-vs-define/)
 
