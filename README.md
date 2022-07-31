@@ -372,24 +372,26 @@
 
 ## able to \| capable of
 
-If someone is **able to** do something, they can do it and it is not
-unusual or surprising if they do it:
+If someone is **able to** do something, they can do it and it is not unusual or
+surprising if they do it:
 
 > *The doctor said that after a few years I\'d be **able to** get out of bed.*
 
 > *Will you be **able to** play on Saturday?*
 
-If someone is **capable of** (doing) something, they do not usually
-do it, but it is possible for them to do it if they want to:
+If someone is **capable of** (doing) something, they do not usually do it, but
+it is possible for them to do it if they want to:
 
-> *I\'m sure he\'s quite **capable of** getting here on time, but he can\'t be bothered.*
+> *I’m sure he’s quite **capable of** getting here on time, but he can’t be
+  bothered.*
 
-> *The power station is **capable of** generating enough electricity for the whole region.*
+> *The power station is **capable of** generating enough electricity for the
+  whole region.*
 
-**capable of** is also used when talking about machines and technical
-equipment:
+**capable of** is also used when talking about machines and technical equipment:
 
-> *\...water turbines, which are **capable of** producing more economical electricity.*
+> *\...water turbines, which are **capable of** producing more economical
+  electricity.*
 
 [*Source*](https://forum.wordreference.com/threads/capable-of-and-able-to.249028/)
 
@@ -397,18 +399,18 @@ equipment:
 
 ## made from \| made of
 
-**Made of** is used when the material the subject consists of doesn\'t
-change during the process of making the subject.
+**Made of** is used when the material the subject consists of doesn’t change
+during the process of making the subject.
 
 > *Chairs are **made of** wood.*
 
-Here, wood is still wood. It doesn\'t transform into something else.
+Here, wood is still wood. It doesn’t transform into something else.
 
 On the other hand, **made from** is used when the material changed its nature.
 
 > *Paper is **made from** wood.*
 
-Now, wood disappeared --- it was transformed into paper.
+Now, wood disappeared&mdash;it was transformed into paper.
 
 Some more examples:
 
@@ -416,17 +418,17 @@ Some more examples:
 
 > *Wine is **made from** grapes.* \[Grapes turn into wine.\]
 
-> *I have a table and it\'s **made from** bamboo.*
+> *I have a table and it’s **made from** bamboo.*
 
-The carpenter took stocks of bamboo, cut them, halved them, and made
-them into a table. The carpenter **modified** the bamboo\'s
-**structural integrity**, so my table is **made from** bamboo.
+The carpenter took stocks of bamboo, cut them, halved them, and made them into
+a table. The carpenter **modified** the bamboo’s **structural integrity**, so my
+table is **made from** bamboo.
 
-> *I have a vase and it\'s made of bamboo.*
+> *I have a vase and it’s made of bamboo.*
 
-The carpenter took a stock of bamboo and carved a vase out of it. The
-carpenter **didn\'t modify** the bamboo\'s **structural integrity**, so
-my vase is **made of** bamboo.
+The carpenter took a stock of bamboo and carved a vase out of it. The carpenter
+**didn’t modify** the bamboo’s **structural integrity**, so my vase is **made
+of** bamboo.
 
 [*Source*](https://www.usingenglish.com/forum/threads/14802-made-of-vs-made-from)
 
@@ -452,13 +454,13 @@ bring to correspondence
 
 This came up recently in the following sentence:
 
-> *\... the new office will support the beneficiary \... **within**
-> one year of petitioner approval.*
+> *\... the new office will support the beneficiary \... **within** one year of
+  petitioner approval.*
 
-The business had interpreted that as *during the year of*, and it got
-them into a bit of trouble. They supported the beneficiary for a year
-but were not able to continue to support him after. The intent was
-for the position to continue, not end.
+The business had interpreted that as *during the year of*, and it got them into
+a bit of trouble. They supported the beneficiary for a year but were not able to
+continue to support him after. The intent was for the position to continue, not
+end.
 
 [*Source*](https://forum.wordreference.com/threads/during-vs-within.1647596/)
 
@@ -482,42 +484,38 @@ for the position to continue, not end.
 
 ## content \| contents
 
--   **content:** the entirety of information contained in something. The
-    story of a novel or the subject of an illustration can be called
-    their "content". Just like "information", content is always
-    uncountable when used in this sense. The word is most commonly used
-    in reference to the content of a website, as in,
+- **content:** the entirety of information contained in something. The story of
+  a novel or the subject of an illustration can be called their "content". Just
+  like "information", content is always uncountable when used in this sense. The
+  word is most commonly used in reference to the content of a website:
 
->> *Most websites contain mostly ads with very little content.*
+  > *Most websites contain mostly ads with very little **content**.*
 
--   **content/contents**: the amount of a substance contained in
-    something else. It may be either countable or uncountable. We can
-    speak of "salt content" or "fat content" in foods, "alcohol content"
-    in drinks, and so on, e.g.
+- **content/contents**: the amount of a substance contained in something else.
+  It may be either countable or uncountable. We can speak of *salt content* or
+  *fat content* in foods, *alcohol content* in drinks, and so on:
 
->> *Bacon has (a) very high salt content.*
+  > *Bacon has (a) very high salt **content**.*
 
--   **contents:** things contained in something:
+- **contents:** things contained in something:
 
-    -   In a concrete sense. We can speak of the "contents of a bag",
-        "contents of a bottle", "contents of the stomach", etc., for
-        instance,
+  - In a concrete sense. We can speak of the *contents of a bag*, *contents of a
+    bottle*, *contents of the stomach*, etc.:
 
-    >> *He dropped a bottle and spilled its contents all over the floor.*
+    > *He dropped a bottle and spilled its **contents** all over the floor.*
 
-    -   In an abstract sense. Traditionally, pieces of information
-        contained in a written document are called its "contents". You
-        may say,
+  - In an abstract sense. Traditionally, pieces of information contained in a
+    written document are called its "contents":
 
-    >> *She has lost the letter and remained unaware of its contents.*
+    > *She has lost the letter and remained unaware of its **contents**.*
 
-Using the singular **content** in this case is becoming increasingly more
-common but is still considered wrong by many. The distinction is rather
-subtle; if you consider the contents of a document to be separate pieces
-of information, you should use **contents** (which is usually the case
-with a letter). If you refer to them as a whole, you should use
-**content**---it makes more sense to say that *the book contains violent
-content* than *the book contains violent contents*.
+Using the singular **content** in this case is becoming increasingly more common
+but is still considered wrong by many. The distinction is rather subtle; if you
+consider the contents of a document to be separate pieces of information, you
+should use **contents** (which is usually the case with a letter). If you refer
+to them as a whole, you should use **content**&mdash;it makes more sense to say
+that *the book contains violent content* than *the book contains violent
+contents*.
 
 [*Source*](https://jakubmarian.com/content-vs-contents-in-english/)
 
@@ -525,9 +523,8 @@ content* than *the book contains violent contents*.
 
 ## borehole \| well
 
-Typically a borehole is drilled by machine and is relatively small in
-diameter. A well is usually sunk by hand and is relatively large in
-diameter.
+Typically a borehole is drilled by machine and is relatively small in diameter.
+A well is usually sunk by hand and is relatively large in diameter.
 
 [*Source*](https://www.welldrillers.org/faq/about-boreholes-and-wells/)
 
@@ -535,18 +532,16 @@ diameter.
 
 ## boring \| drilling
 
-**Drilling** is *the cutting process* of a material using a specially
-designed rotating cutting tool called a drill bit. The holes produced by
-the drilling are always cylindrical in shape and circular in the
-diameter.
+**Drilling** is *the cutting process* of a material using a specially designed
+rotating cutting tool called a drill bit. The holes produced by the drilling are
+always cylindrical in shape and circular in the diameter.
 
-**Boring** is *the process of enlarging a hole that is already in the
-material*; it may be a hole made by drilling or in the casting. Boring
-concerns the internal diameter and the surface of the hole rather than
-the depth of the hole. In this sense, it can be considered as a twin
-process of turning, where the outer diameter and the surface are the
-concerns. Boring is done using a boring bar, which is a heavy metal bar
-with the tools fixed at the end.
+**Boring** is *the process of enlarging a hole that is already in the material*;
+it may be a hole made by drilling or in the casting. Boring concerns the
+internal diameter and the surface of the hole rather than the depth of the hole.
+In this sense, it can be considered as a twin process of turning, where the
+outer diameter and the surface are the concerns. Boring is done using a boring
+bar, which is a heavy metal bar with the tools fixed at the end.
 
 [*Source*](https://www.differencebetween.com/difference-between-drilling-and-vs-boring/)
 
@@ -558,9 +553,9 @@ As *adjectives* the difference between specific and particular is that
 **specific** is explicit or definite while **particular** is (obsolete)
 pertaining only to a part of something; partial.
 
-As *nouns* the difference between specific and particular is that
-**specific** is a distinguishing attribute or quality while **particular**
-is a small individual part of something larger; a detail, a point.
+As *nouns* the difference between specific and particular is that **specific**
+is a distinguishing attribute or quality while **particular** is a small
+individual part of something larger; a detail, a point.
 
 [*Source*](https://wikidiff.com/specific/particular)
 
@@ -570,12 +565,12 @@ is a small individual part of something larger; a detail, a point.
 
 Generally, you can use either.
 
-If you say *Money is **part** of the American Dream*, you mean that both
-ideas are strongly linked together. If you said *Money is **a part** of the
-American Dream*, it would mean that money is only a part of the
-American Dream. You would focus on just one part as opposed to the rest.
-The second solution is grammatically correct but seems awkward as it
-would be difficult to find a context in which it fits.
+If you say *Money is **part** of the American Dream*, you mean that both ideas
+are strongly linked together. If you said *Money is **a part** of the American
+Dream*, it would mean that money is only a part of the American Dream. You would
+focus on just one part as opposed to the rest. The second solution is
+grammatically correct but seems awkward as it would be difficult to find a
+context in which it fits.
 
 [*Source*](https://english.stackexchange.com/questions/158232/difference-between-part-and-a-part)
 
@@ -583,7 +578,8 @@ would be difficult to find a context in which it fits.
 
 ## explanation for \| explanation of \| explanation to
 
-you could use any of those three. The one I would hear most often in Geometry class would be with **of**.
+You could use any of those three. The one I would hear most often in Geometry
+class would be with **of**.
 
 [*Source*](https://forum.wordreference.com/threads/it-provides-an-explanation-¿to-for-of-the-problem.226037/)
 
@@ -591,9 +587,9 @@ you could use any of those three. The one I would hear most often in Geometry cl
 
 ## can be further \| can further be
 
-**can further be** -- pragmatically marked Furthermore (/In addition)
+**Can further be**&mdash;pragmatically marked *furthermore* (in addition).
 
-**can be further** -- underlining what goes afterwards
+**Can be further**&mdash;underlining what goes afterwards.
 
 [*Source*](https://english.stackexchange.com/questions/414029/can-further-be-vs-can-be-further)
 
@@ -601,26 +597,26 @@ you could use any of those three. The one I would hear most often in Geometry cl
 
 ## consist in \| consist of
 
-**consist of**: to be made up of, comprise
+**Consist of**&mdash;to be made up of, comprise:
 
 > *This novel **consists of** three parts.*
 
 > *Genes **consist of** a specific sequence of DNA.*
 
-**consist in**: Be essential, be inherent or lie in
+**consist in**&mdash;to be essential, be inherent or lie in:
 
-> *His social success **consists in** making people believe
-he is interested in what they say.*
+> *His social success **consists in** making people believe he is interested in
+  what they say.*
 
-The secret to a successful relationship consists in knowing that a
-crisis doesn't mean everything is over.
+The secret to a successful relationship consists in knowing that a crisis
+doesn’t mean everything is over.
 
-Some people say a key point to know which one to use is that **consist
-of** is normally used with more tangible objects whereas **consist
-in** refers to an abstract quality.
+Some people say a key point to know which one to use is that ***consist of*** is
+normally used with more tangible objects whereas ***consist in*** refers to an
+abstract quality.
 
-Others also say that **consist of** is always followed by a noun
-phrase, whereas **consist in** is followed by a verb.
+Others also say that ***consist of*** is always followed by a noun phrase,
+whereas ***consist in*** is followed by a verb.
 
 [*Source*](http://ourenglishblog.com/grammar/consist-of-or-consist-in/)
 
@@ -628,16 +624,15 @@ phrase, whereas **consist in** is followed by a verb.
 
 ## effective \| efficient
 
-**effective** focuses on whether or not something is accomplished. It
-doesn't focus on how something is done, but rather, if it is done at
-all.
+**Effective** focuses on whether or not something is accomplished. It doesn’t
+focus on how something is done, but rather, if it is done at all:
 
 > *We need an **effective** solution for everyone.*
 
-**efficient** focuses on how something is done: acting or producing
-effectively with minimum waste, expense, or unnecessary effort.
+**Efficient** focuses on how something is done: acting or producing effectively
+with minimum waste, expense, or unnecessary effort:
 
-> *My new car is very fuel-**efficient**, and it gets 40 miles per gallon*
+> *My new car is very fuel-**efficient**, and it gets 40 miles per gallon.*
 
 [*Source*](https://writingexplained.org/effective-vs-efficient-difference)
 
@@ -645,13 +640,13 @@ effectively with minimum waste, expense, or unnecessary effort.
 
 ## efficacy \| efficiency
 
-**efficacy**: the power or capacity to produce a desired effect; widely
-used, among other places, in the medical field
+**Efficacy**&mdash;the power or capacity to produce a desired effect; widely
+used, among other places, in the medical field:
 
 > *There is in still limited information on the **efficacy** of this cancer
 treatment.*
 
-**efficiency**: the quality or property of being efficient
+**Efficiency**&mdash;the quality or property of being efficient.
 
 [*Source*](https://writingexplained.org/efficacy-vs-efficiency-difference)
 
@@ -659,20 +654,20 @@ treatment.*
 
 ## data (singular \| plural)
 
-When data is a count noun (items that can be counted), the plural makes
+When ***data*** is a count noun (items that can be counted), the plural makes
 sense.
 
-> *The data used were out of date.*
+> *The **data** used were out of date.*
 
-In that type of sentence, you could replace data with another count noun
-such as 'facts'.
+In that type of sentence, you could replace ***data*** with another count noun
+such as *facts*.
 
-However, when data is treated as a non-count noun (items cannot be
+However, when ***data*** is treated as a non-count noun (items cannot be
 counted), the singular makes sense.
 
-> *The data used was out of date.*
+> *The **data** used was out of date.*
 
-With that type of sentence, you could replace data with a word such as
+With that type of sentence, you could replace ***data*** with a word such as
 *information*.
 
 [*Source*](https://www.onlinegrammar.com.au/top-10-grammar-myths-data-is-plural-so-must-take-a-plural-verb/)
@@ -681,12 +676,11 @@ With that type of sentence, you could replace data with a word such as
 
 ## usage \| use
 
-In general when thinking about how these words are different it is
-helpful to keep in mind that the term "*usage*" refers to conventions or
-patterns and often refers to language or words and how they are used,
-accepted, and understood. The word "*use*" has a much broader meaning
-and is found in more contexts. In my opinion, when in doubt, use the
-word "use."
+In general when thinking about how these words are different it is helpful to
+keep in mind that the term ***usage*** refers to conventions or patterns and
+often refers to language or words and how they are used, accepted, and
+understood. The word ***use*** has a much broader meaning and is found in more
+contexts. In my opinion, when in doubt, use the word ***use***.
 
 [*Source*](https://blogs.transparent.com/english/use-versus-usage/)
 
