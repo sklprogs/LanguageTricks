@@ -32,8 +32,6 @@
 
 [apparatus \| device](#apparatus--device)
 
-[argument \| parameter](#argument--parameter)
-
 [artefact \| artifact](#artefact--artifact)
 
 [ask for approval \| ask for an approval](#ask-for-approval--ask-for-an-approval)
@@ -2887,20 +2885,20 @@ When talking about metaphorical coverage, use ***covered by***:
 
 ## duty \| responsibility
 
--   **Duty** is a moral commitment to something or someone, whereas
-    **responsibility** is a condition of being responsible.
--   As **duty** refers to moral commitment, it denotes an active feeling
-    for doing something.
--   In case of **duty**, the person will be involved in activity without
-    any self-interest.
--   **Responsibility** can be termed as an ability to act at one's own
-    will, without any supervision. It is the obligation to successfully
-    complete an assigned task.
--   In **responsibility**, a person is solely responsible for the entire
-    task and its outcome. It is the responsibility of the parents to
-    give good education to their children.
--   Once a person engages himself with some **duty** or if he has been
-    entrusted with a duty, then that person fully commits himself to it.
+- **Duty** is a moral commitment to something or someone, whereas
+  **responsibility** is a condition of being responsible.
+- As ***duty*** refers to moral commitment, it denotes an active feeling for
+  doing something.
+- In case of ***duty***, the person will be involved in activity without any
+  self-interest.
+- **Responsibility** can be termed as an ability to act at one’s own will,
+  without any supervision. It is the obligation to successfully complete an
+  assigned task.
+- In ***responsibility***, a person is solely responsible for the entire task
+  and its outcome. It is the responsibility of the parents to give good
+  education to their children.
+- Once a person engages himself with some ***duty*** or if he has been
+  entrusted with a duty, then that person fully commits himself to it.
 
 [*Source*](http://www.differencebetween.net/miscellaneous/difference-between-duties-and-responsibilities/)
 
@@ -2908,35 +2906,33 @@ When talking about metaphorical coverage, use ***covered by***:
 
 ## job \| work
 
-**Work** is both a verb and a noun, whereas **job** is only a noun.
+***Work*** is both a verb and a noun, whereas ***job*** is only a noun.
 
-**Job** refers to a particular employment role or position, such as
-cook, teacher or banker, whereas **work** refers in a more general
-way to activities that you do.
+**Job** refers to a particular employment role or position, such as cook,
+teacher or banker, whereas **work** refers in a more general way to activities
+that you do.
 
-All **jobs** involve **work** but doing work isn't always part of
-a job. For example, someone can spend the weekend working in their
-garden. However, this is a free time activity, and so it is not his
-or her job.
+All ***jobs*** involve ***work*** but doing work isn’t always part of a job.
+For example, someone can spend the weekend working in their garden. However,
+this is a free time activity, and so it is not his or her job.
 
-If you describe how a machine **works**, you explain how it
-functions:
+If you describe how a machine ***works***, you explain how it functions:
 
-> *Can someone show me how the photocopier works?*
+> *Can someone show me how the photocopier **works**?*
 
-> *Don't try to use that computer. It doesn't work.*
+> *Don’t try to use that computer. It doesn’t **work**.*
 
-**Job** can also refer to a specific task that requires **work** and
-a task that you can specifically identify:
+**Job** can also refer to a specific task that requires ***work*** and a task
+that you can specifically identify:
 
-> *I have a few jobs to do at home this weekend. I need to paint my
-> bedroom, fix a broken door and cut the grass.*
+> *I have a few **jobs** to do at home this weekend. I need to paint my
+  bedroom, fix a broken door and cut the grass.*
 
-> *The **work** that I do in my **job** is very interesting, so even
-> though it is hard work, I don't think I will look for another job!*
+> *The **work** that I do in my **job** is very interesting, so even though it
+  is hard work, I don't think I will look for another **job**!*
 
-> *Are you a student or do you have a **job**? Whatever you do, is it
-> hard **work**?*
+> *Are you a student or do you have a **job**? Whatever you do, is it hard
+  **work**?*
 
 [*Source*](https://www.bbc.co.uk/worldservice/learningenglish/language/askaboutenglish/2009/03/090331_aae_work_page.shtml)
 
@@ -2966,78 +2962,61 @@ a task that you can specifically identify:
 
 ## part \| a part
 
-Both **part** and **a part** can be used to refer to a discrete
-countable thing:
+Both ***part*** and ***a part*** can be used to refer to a discrete countable
+thing:
 
 > *We teach several skills. Dancing is **part** of what we teach.*
 
 > *We teach several skills. Dancing is **a part** of what we teach.*
 
-Both **part** and **a part** can be used to refer to a more general
-portion of a thing that is not countable:
+Both ***part*** and ***a part*** can be used to refer to a more general portion
+of a thing that is not countable:
 
-> ***Part** of the food* \[or money, or care\] *will be devoted to
-> the poor.*
+> ***Part** of the food* \[or money, or care\] *will be devoted to the poor.*
 
-> ***A part** of the food* \[or money, or care\] *will be devoted to
-> the poor.*
+> ***A part** of the food* \[or money, or care\] *will be devoted to the poor.*
 
-The portion to be devoted is not defined in these sentences as
-comprising a specific discrete section or item, but either
-construction is clear and appropriate. The addition of the article
-a may give a slight connotation that the portion may already be
-determined, but not necessarily.
+The portion to be devoted is not defined in these sentences as comprising a
+specific discrete section or item, but either construction is clear and
+appropriate. The addition of the article a may give a slight connotation that
+the portion may already be determined, but not necessarily.
 
 [*Source*](https://english.stackexchange.com/questions/117833/a-part-vs-part?noredirect=1)
 
 ***
 
-## argument \| parameter
-
-**Parameter** is a variable in the declaration of a function. An
-**argument** is the actual value of this variable that gets passed to
-the function. Parameters are named at declaration time, arguments are
-known only at call time.
-
-[*Source*](https://stackoverflow.com/questions/156767/whats-the-difference-between-an-argument-and-a-parameter)
-
-***
-
 ## dedicated \| devoted
 
-**Devoted**: commitment to a particular activity or object. It\'s
-particularly used to talk about someone\'s love for their family:
+**Devoted**&mdash;commitment to a particular activity or object. It’s
+particularly used to talk about someone’s love for their family:
 
-> *He\'s a devoted father.*
+> *He’s a **devoted** father.*
 
-> *She was devoted to her grandchildren.*
+> *She was **devoted** to her grandchildren.*
 
-We can use it, perhaps less frequently, to talk about other areas of
-life:
+We can use it, perhaps less frequently, to talk about other areas of life:
 
 > *Years of devoted research finally produced results.*
 
 > *The teachers were devoted to their students.*
 
-The central meaning is that effort and concentration are involved
-in the object of the devotion. And it\'s worth noting that the noun
-**devotions** might also mean religious activities like praying.
+The central meaning is that effort and concentration are involved in the object
+of the devotion. And it’s worth noting that the noun **devotions** might also
+mean religious activities like praying.
 
-**Dedicated** is a more general word. If you are dedicated to
-something, you believe that it\'s right and worthwhile and you give
-a lot of time and effort to it. It\'s especially useful to talk about
-someone\'s attitude to their job:
+***Dedicated*** is a more general word. If you are dedicated to something, you
+believe that it’s right and worthwhile and you give a lot of time and effort to
+it. It’s especially useful to talk about someone’s attitude to their job:
 
 > *A **dedicated** worker*
 
-> *A **dedicated** vegetarian* (believes very strongly that people
-> should not eat animals)
+> *A **dedicated** vegetarian* (believes very strongly that people should not
+  eat animals)
 
-> *A song on the radio might be **dedicated** to a particular
-> person.*
+> *A song on the radio might be **dedicated** to a particular person.*
 
-A **dedication** is a statement which says who a book has been
-written for or who a song has been sung for.
+**Dedication**&mdash;a statement which says who a book has been written for or
+who a song has been sung for.
 
 [*Source*](https://www.bbc.co.uk/worldservice/learningenglish/radio/specials/1837_aae/page20.shtml)
 
@@ -3045,20 +3024,19 @@ written for or who a song has been sung for.
 
 ## host \| node
 
-Every network **host** is a physical network **node** (i.e. a network
-device), but not every physical network node is a host. Network
-devices such as modems, hubs and network switches are not assigned
-host addresses (except sometimes for administrative purposes), and
-are consequently not considered to be network hosts. Devices such as
-network printers and hardware routers have IP addresses, but since
-they are not general-purpose computers, they are sometimes not
-considered to be hosts.
+Every network ***host*** is a physical network ***node*** (i.e. a network
+device), but not every physical network node is a host. Network devices such as
+modems, hubs and network switches are not assigned host addresses (except
+sometimes for administrative purposes), and are consequently not considered to
+be network hosts. Devices such as network printers and hardware routers have IP
+addresses, but since they are not general-purpose computers, they are sometimes
+not considered to be hosts.
 
-  | notion | definition                                                           |
-  |--------|----------------------------------------------------------------------|
-  | node   | a device that implements IPv6                                        |
-  | router | a node that forwards IPv6 packets not explicitly addressed to itself |
-  | host   | any node that is not a router                                        |
+| notion | definition                                                           |
+|--------|----------------------------------------------------------------------|
+| node   | a device that implements IPv6                                        |
+| router | a node that forwards IPv6 packets not explicitly addressed to itself |
+| host   | any node that is not a router                                        |
 
 *Sources: [1](https://en.wikipedia.org/wiki/Host_(network)),
 [2](https://networkengineering.stackexchange.com/questions/19445/what-is-real-difference-between-host-and-node-in-network)*
@@ -3067,38 +3045,35 @@ considered to be hosts.
 
 ## provide \| provide for \| provide with
 
-**Provide**: the result/outcome is the direct object:
+***Provide***: the result/outcome is the direct object:
 
-> *A house provides shelter.*
+> *A house **provides** shelter.*
 
-> *My job provides income.* (= My job provides me with income.)
+> *My job **provides** income.* (= My job provides me with income.)
 
-**Provide with:** *provide* is followed by an indirect object.
-**Providing** (someone) **with** something means to give something
-wanted or needed:
+***Provide with*:** *provide* is followed by an indirect object. **Providing**
+(someone) **with** something means to give something wanted or needed:
 
-> *Room to Read **provides** girls **with** scholarships that cover
-  the cost of housing, food, and books.*
+> *Room to Read **provides** girls **with** scholarships that cover the cost of
+  housing, food, and books.*
 
-In this sentence, *girls* is the indirect object and *scholarships* is
-the direct object.
+In this sentence, *girls* is the indirect object and *scholarships* is the
+direct object.
 
-**Provide for**, in general, means to make whatever is necessary for
-someone available to him or her. We often use this expression when we
-talk about parents providing for their family:
+**Provide for**, in general, means to make whatever is necessary for someone
+available to him or her. We often use this expression when we talk about
+parents providing for their family:
 
-> *She says changes such as migration away from rural areas are
-  allowing more women to find work and **provide for** their
-  families.*
+> *She says changes such as migration away from rural areas are allowing more
+  women to find work and **provide for** their families.*
 
 **Provide for** can mean *prepare for*:
 
-> *The architect **provided for** the possibility of storms by
-  strengthening the abutments.*
+> *The architect **provided for** the possibility of storms by strengthening
+  the abutments.*
 
-> *The architect ~~**provided** the possibility~~ of storms by
-  strengthening the abutments* (= stronger abutments are somehow
-  supposed to invoke storms).
+> ~~*The architect **provided** the possibility of storms by strengthening the
+  abutments*~~ (= stronger abutments are somehow supposed to invoke storms).
 
 *Sources:
 [1](https://learningenglish.voanews.com/a/everyday-grammar-prepositions-provide/2701412.html),
@@ -3108,84 +3083,84 @@ talk about parents providing for their family:
 
 ## em dash \| en dash \| hyphen \| minus \| three-em dash \| two-em dash
 
-**Дефис** (hyphen, -) употребляют в середине слова:
+***Дефис*** (hyphen, -) употребляют в середине слова:
 
 - в составных словах:
 
->> *three-em dash*
+  > *three-em dash*
 
->> *off-white shirt*
+  > *off-white shirt*
 
--   для обозначения переносов
--   для отделения корней от префиксов и суффиксов:
+- для обозначения переносов
 
->> *co-worker*
+- для отделения корней от префиксов и суффиксов:
 
--   в названиях:
+  > *co-worker*
 
->> *Tay-Sachs disease*
+- в названиях:
 
-**Минус** (minus, −) может быть немного длиннее дефиса. Употребляется
-для обозначения отрицательного числа или операции вычитания. В
-зависимости от шрифта можно заменить дефисом или коротким тире.
+  > *Tay-Sachs disease*
 
-**Короткое тире** (En dash, --) равно по ширине букве n в прописном
-или строчном варианте, в зависимости от шрифта. В некоторых шрифтах
-может быть длиннее или короче.
+***Минус*** (minus, −) может быть немного длиннее дефиса. Употребляется для
+обозначения отрицательного числа или операции вычитания. В зависимости от
+шрифта можно заменить дефисом или коротким тире.
 
--   обозначение диапазонов:
+***Короткое тире*** (En dash, &ndash;) равно по ширине букве n в прописном или
+строчном варианте, в зависимости от шрифта. В некоторых шрифтах может быть
+длиннее или короче.
 
->> *June 18--20*
+- обозначение диапазонов:
 
--   акцент на контрасте или взаимоотношении между двумя объектами:
+  > *June 18&ndash;20*
 
->> *New York--London flight*
+- акцент на контрасте или взаимоотношении между двумя объектами:
 
->> *Radical--Unionist coalition*
+  > *New York&ndash;London flight*
 
->> *mother--daughter relationship*
+  > *Radical&ndash;Unionist coalition*
 
--   некоторые предпочитают заменять этим знаком длинное тире
+  > *mother&ndash;daughter relationship*
 
-**Длинное тире** (Em dash, ---) равно по ширине букве *m* в прописном
-или строчном варианте, а в некоторых шрифтах и длиннее. Если
-поставить рядом несколько длинных тире, они образуют сплошную линию.
+- некоторые предпочитают заменять этим знаком длинное тире.
 
--   вместо запятой, двоеточия или скобок. Разница в том, что длинное
-    тире обозначает более длинную и выразительную интонационную паузу.
+***Длинное тире*** (Em dash, &mdash;) равно по ширине букве *m* в прописном или
+строчном варианте, а в некоторых шрифтах и длиннее. Если поставить рядом
+несколько длинных тире, они образуют сплошную линию.
 
--   отделение источника в цитатах:
+- вместо запятой, двоеточия или скобок. Разница в том, что длинное тире
+  обозначает более длинную и выразительную интонационную паузу.
 
->> *In matters of grave importance, style, not sincerity, is the
-   vital thing.* --- Oscar Wilde
+- отделение источника в цитатах:
 
--   в американском английском длинное тире не принято отделять
-    пробелами от предшествующего слова:
+  > *In matters of grave importance, style, not sincerity, is the vital thing.*
+   &mdash; Oscar Wilde
 
->> *A flock of sparrows---some of them juveniles---alighted and
-   sang.*
+- в американском английском длинное тире не принято отделять пробелами от
+  предшествующего слова:
 
--   иногда вместо длинного тире используют короткое тире с пробелом:
+  > *A flock of sparrows&mdash;some of them juveniles&mdash;alighted and sang.*
 
->> *A flock of sparrows -- some of them juveniles -- alighted and
-   sang.*
+- иногда вместо длинного тире используют короткое тире с пробелом:
 
-**Двойное длинное тире** (two-em dash, ------) --- два длинных тире,
-поставленных рядом без пробела. Указывает, что часть слова опущена.
+  > *A flock of sparrows &ndash; some of them juveniles &ndash; alighted and
+    sang.*
+
+**Двойное длинное тире** (two-em dash, &mdash;&mdash;) &mdash; два длинных
+тире, поставленных рядом без пробела. Указывает, что часть слова опущена.
 Обычно так обозначают имена либо ругательства:
 
-> *Mr. L------ told Ms. T------ that he would be d------d if he
-  invited her out again.*
+> *Mr. L&mdash;&mdash; told Ms. T&mdash;&mdash; that he would be
+  d&mdash;&mdash;d if he invited her out again.*
 
-**Тройное длинное тире** (three-em dash, ---------) --- три длинных
-тире, поставленных рядом без пробела. Указывает, что опущено
-(повторяющееся) слово. Особенно актуален этот знак для библиографий,
-где тройное тире вместо имени автора означает, что автор тот же, что
-и для предыдущего пункта в списке.
+**Тройное длинное тире** (three-em dash, &mdash;&mdash;&mdash;) &mdash; три
+длинных тире, поставленных рядом без пробела. Указывает, что опущено
+(повторяющееся) слово. Особенно актуален этот знак для библиографий, где
+тройное тире вместо имени автора означает, что автор тот же, что и для
+предыдущего пункта в списке.
 
-Правила не универсальны. Иногда в сложносоставных прилагательных
-употребляют короткое тире вместо дефиса или не отделяют длинное тире
-от текста пробелами даже в британском варианте английского.
+Правила не универсальны. Иногда в сложносоставных прилагательных употребляют
+короткое тире вместо дефиса или не отделяют длинное тире от текста пробелами
+даже в британском варианте английского.
 
 [*Источник*](https://ru.just-translate-it.com/eshhe-nemnogo-o-tire/)
 
@@ -3193,12 +3168,11 @@ talk about parents providing for their family:
 
 ## useful for \| useful to
 
-*This book is useful to me* indicates that it is useful and important
-to me -- particularly to me not anybody else, whereas *This book is
-useful for me* indicates that it is useful for me in general sense.
-The book is useful for everyone because it is a good book and so it
-useful for me too but not particularly useful and important only to
-me.
+*This book is useful to me* indicates that it is useful and important to
+me&mdash;particularly to me not anybody else, whereas *This book is useful for
+me* indicates that it is useful for me in general sense. The book is useful for
+everyone because it is a good book and so it useful for me too but not
+particularly useful and important only to me.
 
 [*Source*](https://www.quora.com/Which-is-correct-It-is-useful-to-me-or-It-is-useful-for-me)
 
@@ -3206,8 +3180,8 @@ me.
 
 ## by email \| ~~through email~~ \| via email
 
-**By** is the most popular, **via** is used sometimes, **through** is
-not used in this construction.
+***By*** is the most popular, ***via*** is used sometimes, ***through*** is not
+used in this construction.
 
 [*Source*](https://forum.wordreference.com/threads/through-email-by-email-via-email.3086548/)
 
@@ -3215,20 +3189,20 @@ not used in this construction.
 
 ## comma before a subordinate conjunction
 
-A subordinate clause will not form a complete sentence. It will
-instead make a reader want additional information to finish the
-thought. The examples of subordinate conjunctions are **after,
-although, as, because, before, even if, even, though, if, in order
-that, once, since, so that, than, that, though, unless**, etc.
+A subordinate clause will not form a complete sentence. It will instead make a
+reader want additional information to finish the thought. The examples of
+subordinate conjunctions are ***after, although, as, because, before, even if,
+even, though, if, in order that, once, since, so that, than, that, though,
+unless***, etc.
 
-The rule is to use a comma after the subordinate clause rather than
-before the subordinate conjunction:
+The rule is to use a comma after the subordinate clause rather than before the
+subordinate conjunction:
 
-> *Jonathon spent his class time reading comic books since his
-  average was a 45 one week before final exams.*
+> *Jonathon spent his class time reading comic books since his average was a 45
+  one week before final exams.*
 
-> *Since Jonathon\'s class average was a 45 one week before final
-  exams, he spent his class time reading comic books.*
+> *Since Jonathon’s class average was a 45 one week before final exams, he
+  spent his class time reading comic books.*
 
 [*Source*](https://prowritingaid.com/grammar/1000080/Should-I-use-a-comma-before-a-subordinate-conjunction)
 
@@ -3236,16 +3210,16 @@ before the subordinate conjunction:
 
 ## load \| the load
 
-**Load** can be countable or uncountable. If you are talking about
-a specific load, than it is countable:
+***Load*** can be countable or uncountable. If you are talking about a specific
+load, than it is countable:
 
-> *The load on this circuit is 200 watts.*
+> ***The load** on this circuit is 200 watts.*
 
 If you are talking about the idea of (for example), electrical power
 requirements, then it is uncountable:
 
-> *Our teacher explained the concept of load and how it affects
-  electrical circuits.*
+> *Our teacher explained the concept of **load** and how it affects electrical
+  circuits.*
 
 [*Source*](https://ell.stackexchange.com/questions/257672/is-load-countable-or-non-countable)
 
@@ -3253,10 +3227,9 @@ requirements, then it is uncountable:
 
 ## ask for approval \| ask for an approval
 
-It is like *ask for permission*, with no article. You could also say
-*ask for your approval*. It would be possible to say *ask for** an
-approval*** if by *approval* you mean, for example, a specific form
-to be filled out.
+It is like *ask for permission*, with no article. You could also say *ask for
+your approval*. It would be possible to say ***ask for an approval*** if by
+*approval* you mean, for example, a specific form to be filled out.
 
 [*Source*](https://forum.wordreference.com/threads/ask-for-an-approval-with-or-without-the-article.2871918/)
 
@@ -3264,21 +3237,20 @@ to be filled out.
 
 ## interfere in \| interfere with
 
-In the case of someone else's life, you can either **interfere in**
-or **with**. The former is critical of the fact that you meddled at
-all.
-The latter is critical of the results of your meddling.
+In the case of someone else's life, you can either ***interfere in*** or
+**with**. The former is critical of the fact that you meddled at all. The
+latter is critical of the results of your meddling.
 
 To **interfere with** means to disrupt:
 
-> *Wave patterns can interfere with each other* (they are mutually
+> *Wave patterns can **interfere with** each other* (they are mutually
   disruptive).
 
-Whilst it\'s true that **interfering in** someone else\'s affairs may
-be disruptive, it needn't be. But if you **interfere with** their
-affairs, you\'re definitely having a bad influence. There\'s also the
-idiomatic usage of a paedophile **interfering with** a victim, which
-normally refers specifically to touching a child\'s genitals.
+Whilst it’s true that ***interfering in*** someone else’s affairs may be
+disruptive, it needn’t be. But if you ***interfere with*** their affairs,
+you’re definitely having a bad influence. There’s also the idiomatic usage of a
+paedophile ***interfering with*** a victim, which normally refers specifically
+to touching a child’s genitals.
 
 [*Source*](https://english.stackexchange.com/questions/38033/interfere-in-vs-interfere-with)
 
@@ -3286,50 +3258,50 @@ normally refers specifically to touching a child\'s genitals.
 
 ## operation \| an operation \| operations
 
-- \[countable\] The process of cutting open a part of a person\'s
-  body in order to remove or repair a damaged part:
+- *\[countable\]* The process of cutting open a part of a person’s body in
+  order to remove or repair a damaged part:
 
->> *Will I need to have an operation?*
+  > *Will I need to have **an operation**?*
 
->> *He underwent a three-hour heart operation.*
+  > *He underwent **a** three-hour heart **operation**.*
 
-- \[countable, uncountable\] An act performed by a machine,
-  especially a computer:
+- *\[countable, uncountable\]* An act performed by a machine, especially a
+  computer:
 
->> *The whole operation is performed in less than three seconds.*
+  > *The whole **operation** is performed in less than three seconds.*
 
-- \[uncountable\] The way that parts of a machine or a system work;
-  the process of making something work:
+- *\[uncountable\]** The way that parts of a machine or a system work; the
+  process of making something work:
 
->> *Regular servicing guarantees **the** smooth operation of the
-   engine.*
+  > *Regular servicing guarantees **the** smooth **operation** of the engine.*
 
->> *Operation of the device is extremely simple.*
+  > ***Operation** of the device is extremely simple.*
 
-- \[countable\] An organized activity that involves several people
-  doing different things a security operation:
+- *\[countable\]* An organized activity that involves several people doing
+  different things:
 
->> *The police have launched a major operation against drug dealers.*
+  > ***A** security **operation**.*
 
-- \[countable\] A business or company involving many parts:
+  > *The police have launched **a** major **operation** against drug dealers.*
 
->> *A huge multinational operation*
+- *\[countable\]* A business or company involving many parts:
 
-- \[countable\] The activity or work done in an area of business or
-  industry:
+  > *A huge multinational **operation**.*
 
->> *The firm\'s banking operations overseas computer*
+- *\[countable\]* The activity or work done in an area of business or industry:
 
-- \[countable, usually plural\] Military activity:
+  > ***The** firm’s banking **operations** overseas computer.*
 
->> *He was the officer in charge of operations.*
+- *\[countable, usually plural\]* Military activity:
 
-- \[countable\] A process in which a number or quantity is changed by
-  adding, multiplying, etc.
+  > *He was the officer in charge of **operations**.*
+
+- *\[countable\]* A process in which a number or quantity is changed by adding,
+  multiplying, etc.
 
 - Idioms:
 
->> *come into operation*
+  > *Come into **operation**.*
 
 [*Source*](https://www.oxfordlearnersdictionaries.com/definition/american_english/operation)
 
@@ -3337,10 +3309,10 @@ normally refers specifically to touching a child\'s genitals.
 
 ## update \| upgrade
 
-**Update**: to make and keep something up to date or a better version
-of the older one, often to solve glitches or problems.
+**Update**&mdash;to make and keep something up to date or a better version of
+the older one, often to solve glitches or problems.
 
-**Upgrade**: to raise something to a higher standard by adding or
+**Upgrade**&mdash;to raise something to a higher standard by adding or
 replacing few components.
 
 [*Source*](https://askanydifference.com/difference-between-update-and-upgrade/)
@@ -3349,12 +3321,11 @@ replacing few components.
 
 ## beverage \| drink
 
-**Drink** is a wider term that includes every type of edible liquid
-including water, on the other hand, **beverages** are specific drinks
-that are brewed, infused, percolated, etc. Beverages do not include
-water. To become a beverage something has to be added to water with
-other ingredients. Some examples of beverages are coffee, tea, beer,
-etc.
+**Drink** is a wider term that includes every type of edible liquid including
+water, on the other hand, **beverages** are specific drinks that are brewed,
+infused, percolated, etc. Beverages do not include water. To become a beverage
+something has to be added to water with other ingredients. Some examples of
+beverages are coffee, tea, beer, etc.
 
 [*Source*](https://askanydifference.com/difference-between-drink-and-beverage/)
 
@@ -3362,28 +3333,25 @@ etc.
 
 ## alternative for \| alternative of \| alternative to
 
-What other projects could we do instead?
+> *What are the **alternatives to** this project?* (What other projects could
+we do instead?)
 
-> *What are the alternatives to this project?*
-
-In the context of this project, what choices do we have about how to
-solve it?
-
-> *What are the alternatives for this project?*
+> *What are the **alternatives for** this project?* (In the context of this
+project, what choices do we have about how to solve it?)
 
 Usage examples:
 
-> *You have the alternative **of** riding or walking.*
+> *You have the **alternative of** riding or walking.*
 
-> *The alternative **to** riding is walking.*
+> *The **alternative to** riding is walking.*
 
-> *They didn\'t find an alternative **of** any significance.*
+> *They didn’t find an **alternative of** any significance.*
 
-> *They don\'t have an alternative **for** solving the problem.*
+> *They don’t have an **alternative for** solving the problem.*
 
-> *They don\'t have an alternative **to** their current plan.*
+> *They don’t have an **alternative to** their current plan.*
 
-> *They don\'t have an alternative **for** their current plan.*
+> *They don’t have an **alternative for** their current plan.*
 
 *Sources:
 [1](https://english.stackexchange.com/questions/3835/alternative-to-vs-alternative-for),
@@ -3394,17 +3362,17 @@ Usage examples:
 
 ## among \| amongst \| between
 
-**between**: you\'re referring to two things:
+***Between***&mdash;you’re referring to two things:
 
 > *Just **between** us.*
 
-> ***between** a rock and a hard place* (= cornered)
+> ***Between** a rock and a hard place* (= cornered).
 
 > *You must choose **between** cake or death.*
 
-**among**: you\'re referring to more than two things:
+***Among***&mdash;you’re referring to more than two things:
 
-> *You\'re **among** friends.*
+> *You’re **among** friends.*
 
 > ***Among** the many options available to you.*
 
@@ -3414,40 +3382,36 @@ Usage examples:
 
 ## amend \| emend \| mend
 
-**Amend** defines the action of slightly changing some words in
-a document. It is used a lot more frequently than **emend** and
-it is most likely to be found in passive voice.
+**Amend** defines the action of slightly changing some words in a document. It
+is used a lot more frequently than ***emend*** and it is most likely to be
+found in passive voice.
 
-The meaning of **emend** is confined to textual alterations, and
-**amend** can be broadened to include the general improvement of
-other things. Still, **amend** is mostly used in the sense of
-improving text.
+The meaning of ***emend*** is confined to textual alterations, and ***amend***
+can be broadened to include the general improvement of other things. Still,
+***amend*** is mostly used in the sense of improving text.
 
-> *The contract has been **amended**, terms have slightly changed
-> now.*
+> *The contract has been **amended**, terms have slightly changed now.*
 
-If you're not a professional editor who specializes in proof-reading,
-than you'll probably never use or read **emend** in this form.
-**Emend** is mostly present in contexts related to professional,
-technical writing and editing, and it defines the action of improving
-a text through editing.
+If you’re not a professional editor who specializes in proof-reading, than
+you’ll probably never use or read ***emend*** in this form. ***Emend*** is
+mostly present in contexts related to professional, technical writing and
+editing, and it defines the action of improving a text through editing.
 
-> *I hired a professional to **emend** my contract and make sure
-> everything is alright before presenting it to the other parties.*
+> *I hired a professional to **emend** my contract and make sure everything is
+  alright before presenting it to the other parties.*
 
-To **mend** something is to fix something that was broken or that had
-a problem:
+To **mend** something is to fix something that was broken or that had a
+problem:
 
-> *to **mend** a punctured tyre*
+> *To **mend** a punctured tyre.*
 
-> *to **mend** a broken heart*
+> *To **mend** a broken heart.*
 
-If you're talking about fixing a rip in a shirt, you would be better
-to just use the word **mend**; to ~~amend the shirt~~ would sound
-strange. The Constitution of the U.S. may be **amended** (as it has
-been) but if the actual document itself were damaged and required
-restoration I don't think anyone would say the team that did the work
-amended the Constitution.
+If you’re talking about fixing a rip in a shirt, you would be better to just
+use the word ***mend***; to ~~**amend** the shirt~~ would sound strange. The
+Constitution of the U.S. may be ***amended*** (as it has been) but if the
+actual document itself were damaged and required restoration I don’t think
+anyone would say the team that did the work amended the Constitution.
 
 *Sources:
 [1](https://english.stackexchange.com/questions/5920/difference-between-emend-and-amend),
@@ -3458,19 +3422,19 @@ amended the Constitution.
 
 ## artefact \| artifact
 
-**artefact**: British English
+***Artefact***: British English
 
-**artifact**: US English
+***Artifact***: US English
 
-There is no apparent dictionary difference in meaning between the two
-forms, however, the Science Dictionary says the following:
+There is no apparent dictionary difference in meaning between the two forms,
+however, the Science Dictionary says the following:
 
-**Artifact**: An object produced or shaped by human craft, especially
-a tool, weapon, or ornament of archaeological or historical interest.
+**Artifact**&mdash;an object produced or shaped by human craft, especially a
+tool, weapon, or ornament of archaeological or historical interest.
 
-**Artefact**: An artificial product or effect observed in a natural
-system, especially one introduced by the technology used in
-scientific investigation or by experimental error.
+**Artefact**&mdash;an artificial product or effect observed in a natural
+system, especially one introduced by the technology used in scientific
+investigation or by experimental error.
 
 But they are generally used to mean *an archaelogical find*.
 
@@ -3482,12 +3446,15 @@ But they are generally used to mean *an archaelogical find*.
 
 ## blue dog \| red dog
 
-In the 1990s, after the GOP won control of both houses of Congress,
-moderate Democrats who believed their party had moved too far to the
-left started calling themselves the **Blue Dogs**. Today, it’s the
-**Red Dogs** who are looking for a home in the Democratic party:
-college-educated, largely white suburbanites in major metropolitan
-areas who used to be Republicans or swing voters.
+In the 1990s, after the GOP[^GOP] won control of both houses of Congress,
+moderate Democrats who believed their party had moved too far to the left
+started calling themselves the **Blue Dogs**. Today, it’s the **Red Dogs** who
+are looking for a home in the Democratic party: college-educated, largely white
+suburbanites in major metropolitan areas who used to be Republicans or swing
+voters.
+
+[^GOP]: GOP = *Grand Old Party* &mdash; *Великая старая партия* &mdash;
+неофициальное название Республиканской партии США.
 
 [*Source*](https://www.dailykos.com/stories/2020/12/22/2003594/-should-we-distinguish-between-Blue-Dog-Democrats-and-Red-Dog-Democrats)
 
@@ -3495,72 +3462,70 @@ areas who used to be Republicans or swing voters.
 
 ## for + gerund | to + infinitive
 
-Some verbs can be used with a gerund (verb-ing) or an infinitive
-(to + verb), but the meaning changes. For example:
+Some verbs can be used with a gerund (verb-ing) or an infinitive (to + verb),
+but the meaning changes. For example:
 
-- **Like**: can be used with both gerunds and infinitives without
-much change in meaning, however:
+- ***Like***: can be used with both gerunds and infinitives without much change
+  in meaning, however:
 
-	- **like + gerund**: you enjoy something:
+  - ***like + gerund***&mdash;you enjoy something:
 
-		> *I **like going** on holiday.*
+    > *I **like going** on holiday.*
 
-	- **like + to + infinitive**: you want to say that you think it\'s
-	a good idea:
+  - ***like + to + infinitive***: you want to say that you think it’s a good
+    idea:
 
-		> *I **like to go** to the dentist every 6 months.*
+    > *I **like to go** to the dentist every 6 months.*
 
-- **Stop**
+- ***Stop***:
 
-	> *I **stopped working**.* (I was working, then I stopped)
+  > *I **stopped working**.* (I was working, then I stopped)
 
-	> *I **stopped to** answer the phone.* (This is the reason I stopped)
+  > *I **stopped to** answer the phone.* (This is the reason I stopped)
 
-- **Remember**
+- ***Remember***:
 
-	> *I\'m sure I bought the milk -- I **remember buying** it!*
-	(I did it, and now I remember it -- buy first, remember after!)
+  > *I’m sure I bought the milk&mdash;I **remember buying** it!* (I did it, and
+    now I remember it&mdash;buy first, remember after!)
 
-	> *Don\'t worry -- I **remembered to** buy the milk.*
-	(I thought of it, then I did it -- remember first, buy after!)
+  > *Don’t worry&mdash;I **remembered to** buy the milk.* (I thought of it,
+    then I did it&mdash;remember first, buy after!)
 
-- **Forget**
+- ***Forget***:
 
-	> *I\'ll never **forget buying** my first car*
-	(I did it, and I won\'t forget it -- buy first, (not) forget after)
+  > *I’ll never **forget buying** my first car* (I did it, and I won’t forget
+    it&mdash;buy first, (not) forget after)
 
-	> *I **forgot to** buy the milk.*
-	(I didn\'t do it because I forgot -- forget first, buy after)
+  > *I **forgot to** buy the milk.* (I didn’t do it because I
+    forgot&mdash;forget first, buy after)
 
-- **Try**
+- ***Try***:
 
-	> *I couldn\'t sleep, so I **tried drinking** warm milk.*
-	(This was one possible way to achieve what I wanted)
+  > *I couldn’t sleep, so I **tried drinking** warm milk.* (This was one
+    possible way to achieve what I wanted)
 
-	> *I **tried to** sleep, but the music was too loud.*
-	(This is what I wanted to achieve, but it was difficult, and maybe
-	I didn\'t succeed)
+  > *I **tried to** sleep, but the music was too loud.* (This is what I wanted
+    to achieve, but it was difficult, and maybe I didn’t succeed)
 
-- **Need**
+- ***Need***:
 
-	> *He **needs to** clean the toilet.* (Active, he should do it)
+  > *He **needs to** clean the toilet.* (Active, he should do it)
 
-	> *The toilet **needs cleaning**.* (Passive, someone should do
-	it -- it should be done)
+  > *The toilet **needs cleaning**.* (Passive, someone should do it&mdash;it
+    should be done)
 
-- **Go on**
+- ***Go on***:
 
-	> *I **went on** working all night.* (I continued this)
+  > *I **went on** working all night.* (I continued this)
 
-	> *I was a teacher, but I **went on** to work as a journalist.*
-	(this is what I did next)
+  > *I was a teacher, but I **went on** to work as a journalist.* (this is what
+    I did next)
 
-- **Mean**
+- ***Mean***:
 
-	> *I **mean to** learn Japanese one day.* (I plan to do this)
+  > *I **mean to** learn Japanese one day.* (I plan to do this)
 
-	> *Learning Japanese **means learning** to write kanji.*
-	(it involves this)
+  > *Learning Japanese **means learning** to write kanji.* (it involves this)
 
 [*Source*](https://www.tinyteflteacher.co.uk/learn-english/grammar-explanations/verb-patterns/verbs-with-gerund-or-infinitive)
 
@@ -4857,7 +4822,15 @@ quora.com
 
 ## argument \| key \| option \| parameter
 
-[*Source*]()
+**Parameter**&mdash;a variable in the declaration of a function.
+
+**Argument**&mdash;the actual value of this variable that gets passed to the
+function.
+
+***Parameters*** are named at declaration time, ***arguments*** are known only
+at call time.
+
+[*Source*](https://stackoverflow.com/questions/156767/whats-the-difference-between-an-argument-and-a-parameter)
 
 ***
 
