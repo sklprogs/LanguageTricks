@@ -3462,8 +3462,8 @@ voters.
 
 ## for + gerund | to + infinitive
 
-Some verbs can be used with a gerund (verb-ing) or an infinitive (to + verb),
-but the meaning changes. For example:
+Some verbs can be used with a gerund (***verb-ing***) or an infinitive (***to
+\+ verb***), but the meaning changes. For example:
 
 - ***Like***: can be used with both gerunds and infinitives without much change
   in meaning, however:
@@ -3472,8 +3472,8 @@ but the meaning changes. For example:
 
     > *I **like going** on holiday.*
 
-  - ***like + to + infinitive***: you want to say that you think it’s a good
-    idea:
+  - ***like + to + infinitive***&mdash;you want to say that you think it’s a
+    good idea:
 
     > *I **like to go** to the dentist every 6 months.*
 
@@ -3518,14 +3518,14 @@ but the meaning changes. For example:
 
   > *I **went on** working all night.* (I continued this)
 
-  > *I was a teacher, but I **went on** to work as a journalist.* (this is what
+  > *I was a teacher, but I **went on** to work as a journalist.* (This is what
     I did next)
 
 - ***Mean***:
 
   > *I **mean to** learn Japanese one day.* (I plan to do this)
 
-  > *Learning Japanese **means learning** to write kanji.* (it involves this)
+  > *Learning Japanese **means learning** to write kanji.* (It involves this)
 
 [*Source*](https://www.tinyteflteacher.co.uk/learn-english/grammar-explanations/verb-patterns/verbs-with-gerund-or-infinitive)
 
@@ -3533,39 +3533,38 @@ but the meaning changes. For example:
 
 ## miss from \| miss in
 
-**miss in**: something or somebody is lost within something. You
-suppose that their existence is true, but their temporal or
-spatial position is missing:
+**miss in**&mdash;something or somebody is lost within something. You suppose
+that their existence is true, but their temporal or spatial position is
+missing:
 
 > ***Missing in** action*
 
-> *What\'s **missing in** your apartment?*
+> *What’s **missing in** your apartment?*
 
-**miss from**: something is lost entirely from its source, and
-whether or not it was there to begin with is irrelevant.
+**Miss from**&mdash;something is lost entirely from its source, and whether or
+not it was there to begin with is irrelevant.
 
 > *Copy of check is **missing from** the file*
 
-~~Missing in the file~~ doesn\'t make sense because it\'s *not* in
-the file. The only use I can think of for **missing in** is when
-something (or someone) goes missing:
+~~Missing in the file~~ doesn’t make sense because it’s *not* in the file. The
+only use I can think of for ***missing in*** is when something (or someone)
+goes missing:
 
-> *John went **missing in** Paris*
+> *John went **missing in** Paris.*
 
-> *I missed that new car **in** the first version of this computer
-  game so much.* = You obtained the first version of the game after
-  you had already played version two. You regret going back to an
-  older version.
+> *I **missed** that new car **in** the first version of this computer game so
+  much.* (You obtained the first version of the game after you had already
+  played version two. You regret going back to an older version.)
 
-> *I missed that new car **from** the first version of this computer
-  game so much.* = The car was in the first version but was absent
-  from the second version.
+> *I **missed** that new car **from** the first version of this computer game
+  so much.* (The car was in the first version but was absent from the second
+  version.)
 
-P.S. You can\'t really miss something until you have it. You don\'t
-say to a girl you just met, *I\'ve missed you all my life.* After you
-know her, and she goes away, then you can miss her.
+You can’t really miss something until you have it. You don’t say to a girl you
+just met, *I’ve missed you all my life.* After you know her, and she goes away,
+then you can miss her:
 
-> *I missed you while you were on vacation.*
+> *I **missed** you while you were on vacation.*
 
 *Sources:
 [1](https://forum.wordreference.com/threads/missing-in-from.3331958/),
@@ -3575,49 +3574,48 @@ know her, and she goes away, then you can miss her.
 
 ## lack \| miss
 
-To **lack** something = to not have something (usually something
-desirable or essential):
+**Lack** something&mdash;to not have something (usually something desirable
+or essential):
 
 > *I would take the radio apart, but I **lack** a screwdriver.*
 
-To **miss** = to regret the absence of something or someone:
+**Miss**&mdash;to regret the absence of something or someone:
 
-> *I would take the radio apart but I have lost my screwdriver, it
-  was a particularly good one and I **miss** it.*
+> *I would take the radio apart but I have lost my screwdriver, it was a
+  particularly good one and I **miss** it.*
 
-> *My wife died three years ago and I still **miss** her. You ask if
-  I **lack** a wife; I suppose I do but I have no desire to remarry.*
+> *My wife died three years ago and I still **miss** her. You ask if I **lack**
+  a wife; I suppose I do but I have no desire to remarry.*
 
-However, you can say, to be **missing** something = to **lack**
-because of the loss of a previously owned object:
+However, you can say, to be ***missing*** *something* = to ***lack*** because
+of the loss of a previously owned object:
 
-> *I would take the radio apart, but I am **missing** a screwdriver.
-  I can\'t find it anywhere, I must have lost it.*
+> *I would take the radio apart, but I am **missing** a screwdriver. I can’t
+  find it anywhere, I must have lost it.*
 
 ***
 
 ## solution for \| solution of \| solution to
 
-Generally we use **to**:
+Generally we use ***to***:
 
 > *We have the **solution to** all your problems.*
 
-You can use **solutions for** when speaking of the recipient of
-the solution, as opposed to linking a solution to a problem:
+You can use ***solutions for*** when speaking of the recipient of the solution,
+as opposed to linking a solution to a problem:
 
 > *We have **solutions for** your family in your time of need.*
 
 It depends on your use of the word *solution*:
 
-> *What's the **solution to** the problem?* (the answer to the
-  problem)
+> *What’s the **solution to** the problem?* (The answer to the problem)
 
-> *He won £10,000 for the **solution of** the math problem.* (the
-  solving of the problem)
+> *He won £10,000 for the **solution of** the math problem.* (The solving of
+  the problem)
 
 In chemistry:
 
-*A **solution of** hydrogen peroxide and one of saturated potassium iodide.*
+> *A **solution of** hydrogen peroxide and one of saturated potassium iodide.*
 
 *Sources:
 [1](https://forum.wordreference.com/threads/solution-for-to-a-problem.112398/),
@@ -3644,17 +3642,17 @@ In chemistry:
 
 ## activity \| activities \| assignment \| drill \| exercise \| problem \| task
 
-An **exercise** is a teaching procedure that involves controlled,
-guided or open ended practice of some aspect of language. A drill,
-a cloze activity, a reading comprehension passage can all be regarded
-as exercises.
+An **exercise** is a teaching procedure that involves controlled, guided or
+open ended practice of some aspect of language. A ***drill***, a cloze
+***activity***, a reading comprehension passage can all be regarded as
+exercises.
 
 Main characteristics of exercises:
 
 - A language exercise is guided and controlled by the teacher.
 
-- An exercise usually has a restrictive focus on a single language
-  element, and has a linguistic outcome.
+- An exercise usually has a restrictive focus on a single language element, and
+  has a linguistic outcome.
 
 - The focus is usually on a single skill.
 
@@ -3666,31 +3664,29 @@ Main characteristics of exercises:
 
 - Correction is usually done immediately.
 
-**Drill** and practice is a disciplined and repetitious exercise,
-used as a mean of teaching and perfecting a skill or procedure.
-Similar to memorization, drill and practice involves repetition of
-specific skills, such as spelling or multiplication.
+**Drill and practice** is a disciplined and repetitious exercise, used as a
+mean of teaching and perfecting a skill or procedure. Similar to memorization,
+drill and practice involves repetition of specific skills, such as spelling or
+multiplication.
 
-The term **activity** refers to any kind of purposeful classroom
-procedure that involves learners doing something that relates to the
-goals of the course. For example singing a song, playing a game,
-taking part in a debate, having a group discussion, are all different
-kinds of teaching activities.
+The term **activity** refers to any kind of purposeful classroom procedure that
+involves learners doing something that relates to the goals of the course. For
+example singing a song, playing a game, taking part in a debate, having a group
+discussion, are all different kinds of teaching activities.
 
-Its plural form i.e. **activities** refer to an occupation or some
-kind of outdoor activity.
+Its plural form i.e. **activities** refer to an occupation or some kind of
+outdoor activity.
 
 A **task**:
 
-1) (A general definition) A piece of work done as part of one’s
-   duties. A task is usually done under the supervision of someone
-   and needs to be completed on time. It requires focus and there’s
-   always an intention associated with it. The main purpose of
-   performing a task is to complete it in the given time duration.
+1. *(A general definition)* A piece of work done as part of one’s duties. A
+   task is usually done under the supervision of someone and needs to be
+   completed on time. It requires focus and there’s always an intention
+   associated with it. The main purpose of performing a task is to complete it
+   in the given time duration.
 
-2) A communicative act that, in the main, is meaning-based,
-   goal-oriented, and purposeful with a non-linguistic and
-   communicative outcome.
+2. A communicative act that, in the main, is meaning-based, goal-oriented, and
+   purposeful with a non-linguistic and communicative outcome.
 
 - Tasks are free. Students are given free will to use language for
   communicative purposes.
@@ -3706,24 +3702,21 @@ A **task**:
 - Correction of tasks is delayed and is done through observation and
   awareness raising.
 
-**Task** requires supervision and comes with a deadline and it cannot
-be left incomplete while activity need not necessarily require
-supervision. The **activity** has no such deadline and it’s a
-continuous process. The primary focus while doing a task is in
-completing it while the primary function in performing an activity is
-in doing it.
+***Task*** requires supervision and comes with a deadline and it cannot be left
+incomplete while activity need not necessarily require supervision. The
+***activity*** has no such deadline and it’s a continuous process. The primary
+focus while doing a task is in completing it while the primary function in
+performing an activity is in doing it.
 
-An **assignment** is work given to you by your boss/coworker.
-**Task** could be the same but it can also mean the work that you
-assigned to yourself.
+An **assignment** is work given to you by your boss/coworker. ***Task*** could
+be the same but it can also mean the work that you assigned to yourself.
 
-A **problem** is a question proposed for solution or discussion.
-Problems have many possible solutions and figuring out the right one
-for a given situation allows for ownership of that solution.
-**Tasks**, on the other hand, are a known entity. There’s already
-a solution, and you only have to physically go through the steps of
-completing it. There’s not much thought required, and if the task
-popped up frequently enough, you’d consider automating it.
+A **problem** is a question proposed for solution or discussion. Problems have
+many possible solutions and figuring out the right one for a given situation
+allows for ownership of that solution. ***Tasks***, on the other hand, are a
+known entity. There’s already a solution, and you only have to physically go
+through the steps of completing it. There’s not much thought required, and if
+the task popped up frequently enough, you’d consider automating it.
 
 *Sources:
 [1](https://www.professorjackrichards.com/difference-task-exercise-activity/),
@@ -3740,10 +3733,9 @@ popped up frequently enough, you’d consider automating it.
 
 ## boobs \| tits
 
-Literally, **tits** refer to the nipples and **boobs** refer to the
-entire breast/chest of a woman, but in real conversation, men use
-tits and boobs interchangeably to refer to the entirety of a
-woman\'s chest.
+Literally, **tits** refer to the nipples and **boobs** refer to the entire
+breast/chest of a woman, but in real conversation, men use tits and boobs
+interchangeably to refer to the entirety of a woman’s chest.
 
 [*Source*](https://hinative.com/ru/questions/63822)
 
@@ -3751,9 +3743,9 @@ woman\'s chest.
 
 ## practice \| practise
 
-**practice** -- noun, **practise** -- verb (BrE)
+**Practice**&mdash;a noun, **practise**&mdash;a verb (BrE).
 
-**practice** -- both a noun and a verb (AmE)
+**Practice**&mdash;both a noun and a verb (AmE).
 
 [*Source*](https://www.dictionary.com/e/practice-vs-practise/)
 
@@ -3761,34 +3753,34 @@ woman\'s chest.
 
 ## accidentally \| coincidentally \| coincidently \| incidentally
 
-**Accidental** and **incidental** can both mean "something happening
-by chance," but usage suggests that **accidental** also implies an
-element of carelessness or inattention while **incidental** implies
-the occurrence would have happened with or without attention or care.
+**Accidental** and **incidental** can both mean *something happening by
+chance*, but usage suggests that ***accidental*** also implies an element of
+carelessness or inattention while ***incidental*** implies the occurrence would
+have happened with or without attention or care.
 
-**Accident** and **incident** share the idea of a sudden and
-unpleasant occurrence. **Accident** usually refers directly to
-something that causes damage or injury, **incident** -- to a specific
-moment or instance of unpleasantness or unlawfulness:
+**Accident** and **incident** share the idea of a sudden and unpleasant
+occurrence. ***Accident*** usually refers directly to something that causes
+damage or injury, ***incident***&mdash;to a specific moment or instance of
+unpleasantness or unlawfulness:
 
 > *a traffic **accident***
 
 > *isolated **incidents** were reported*
 
-**Coincidentally** relates to luck, in a way, to two or more events
-at one time apparently by mere chance.
+**Coincidentally** relates to luck, in a way, to two or more events at one time
+apparently by mere chance:
 
-> *You happen to call me on the phone. In the course of our
-  conversation you happen to mention where you are. By luck
-  (**coincidentally**), you happen to be very close to where I am and
-  that will make it easy for me to meet up with you in person.*
+> *You happen to call me on the phone. In the course of our conversation you
+  happen to mention where you are. By luck (**coincidentally**), you happen to
+  be very close to where I am and that will make it easy for me to meet up with
+  you in person.*
 
-**Coincidently** is *simultaneously*
+***Coincidently*** is *simultaneously*.
 
-**Incidentally** is more like *by the way*.
+***Incidentally*** is more like *by the way*:
 
-> *By the way (**incidentally**), I am going to be out of town next
-  weekend so I can\'t go to the movies like we planned.*
+> *By the way (**incidentally**), I am going to be out of town next weekend so
+  I can’t go to the movies like we planned.*
 
 *Sources:
 [1](https://www.merriam-webster.com/words-at-play/accidental-vs-incidental-usage-history),
@@ -3800,38 +3792,33 @@ at one time apparently by mere chance.
 
 ## furthermore, however, moreover, therefore (punctuation)
 
-1. At the beginning of a sentence: put a comma after these words
-   (some modern writers are now dropping the comma).
+1. At the beginning of a sentence: put a comma after these words (some modern
+   writers are now dropping the comma).
 
    > ***Therefore**, we will proceed with the order.*
 
    > ***However**, we still have hope.*
 
-   1.1. A traditional rule stated that **however** meaning
-        *nevertheless* should not be used at the beginning of
-        a sentence. Most style guides consider this rule
-        old-fashioned.
+   1.1. A traditional rule stated that ***however*** meaning *nevertheless*
+        should not be used at the beginning of a sentence. Most style guides
+        consider this rule old-fashioned.
 
-2. Use a semicolon and comma to introduce a new independent clause
-   (a group of words that contains a subject and verb and expresses
-   a complete thought.)
+2. Use a semicolon and comma to introduce a new independent clause (a group of
+   words that contains a subject and verb and expresses a complete thought.)
 
-   > *She always meets her deadlines; **furthermore**, her work is
-     good.*
+   > *She always meets her deadlines; **furthermore**, her work is good.*
 
-   > *We plan to stay for another year; **however**, Peter is leaving
-     now.*
+   > *We plan to stay for another year; **however**, Peter is leaving now.*
 
-   2.1. Some writers are now treating *however, therefore, moreover*
-        and *furthermore* as conjunctions and just using a comma:
+   2.1. Some writers are now treating *however, therefore, moreover* and
+        *furthermore* as conjunctions and just using a comma:
    
-   >> *We plan to stay for another year, **however** Peter is leaving
-      now.*
+        > *We plan to stay for another year, **however** Peter is leaving now.*
 
-   2.2. You can also use **however** as a conjunction to mean *by
-        whatever means*:
+   2.2. You can also use **however** as a conjunction to mean *by whatever
+        means*:
    
-   >> *I don’t care **however** you do it, just get it done.*
+        > *I don’t care **however** you do it, just get it done.*
 
 3. As intensifiers or for emphasis:
 
