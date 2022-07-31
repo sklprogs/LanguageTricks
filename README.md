@@ -3446,14 +3446,14 @@ But they are generally used to mean *an archaelogical find*.
 
 ## blue dog \| red dog
 
-In the 1990s, after the GOP[^GOP] won control of both houses of Congress,
+In the 1990s, after the GOP[^GOP_BKM] won control of both houses of Congress,
 moderate Democrats who believed their party had moved too far to the left
 started calling themselves the **Blue Dogs**. Today, it’s the **Red Dogs** who
 are looking for a home in the Democratic party: college-educated, largely white
 suburbanites in major metropolitan areas who used to be Republicans or swing
 voters.
 
-[^GOP]: GOP = *Grand Old Party* &mdash; *Великая старая партия* &mdash;
+[^GOP_BKM]: GOP = *Grand Old Party* &mdash; *Великая старая партия* &mdash;
 неофициальное название Республиканской партии США.
 
 [*Source*](https://www.dailykos.com/stories/2020/12/22/2003594/-should-we-distinguish-between-Blue-Dog-Democrats-and-Red-Dog-Democrats)
@@ -4138,7 +4138,7 @@ To **crush** is to:
   > *The hermit **allowed** the grass to grow wild around the house and the
     yard.*
 
-- admit (**allow that**[^allow_that]):
+- admit (***allow that***[^allow_that]):
   
   > *The intern **allowed that** she was not the most experienced person to
     give the flu shots.*
