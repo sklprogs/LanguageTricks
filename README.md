@@ -2256,7 +2256,7 @@ Use ***large*** in the following cases:
 
 4. With fixed phrases:
 
-   - At large:
+   - ***At large***:
 
      - Free, not captured yet:
 
@@ -2266,12 +2266,12 @@ Use ***large*** in the following cases:
 
        > *There has been a loss of community values in society **at large**.*
 
-   - By and large (in general, overall):
+   - ***By and large*** (in general, overall):
 
      > ***By and large**, the company has been very good to me over the last
        couple of years.*
 
-   - Larger than life:
+   - ***Larger than life***:
 
      - A person that attracts special attention because of their flamboyant
        appearance or behavior:
