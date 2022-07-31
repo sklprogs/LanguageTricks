@@ -2291,14 +2291,14 @@ Use ***large*** in the following cases:
 considered \| considered as
 ---------------------------
 
-**considered as** construction is almost always redundant. If you use
-**considered** to describe what people think of someone or something,
-you simply don\'t need "as."
+***Considered as*** construction is almost always redundant. If you use
+***considered*** to describe what people think of someone or something, you
+simply don’t need *as*.
 
-> *LeBron James is considered one of the best basketball players of all
-> time.*
+> *LeBron James is **considered** one of the best basketball players of all
+  time.*
 
-> *Bad grammar should be considered a crime.*
+> *Bad grammar should be **considered** a crime.*
 
 [*Source*](https://bringmethenews.com/life/instagrammar-please-please-stop-saying-considered-as)
 
@@ -2306,23 +2306,23 @@ you simply don\'t need "as."
 
 ## comma use with if necessary \| if required \| when needed, etc.
 
-At the start of a sentence, use a comma after **if necessary \| if
-needed \| when required \| where needed** \| etc.
+At the start of a sentence, use a comma after ***if necessary \| if
+needed \| when required \| where needed*** \| etc.
 
-> *If necessary, I can stay up late to complete the work.*
+> ***If necessary**, I can stay up late to complete the work.*
 
-Normally, you don't need a comma in mid-sentence or at the end of the
+Normally, you don’t need a comma in mid-sentence or at the end of the
 sentence:
 
-> *I will help you if needed.*
+> *I will help you **if needed**.*
 
 However, use commas to set off these expressions if they interrupt the
 sentence flow or provide an explanatory note:
 
-> *Use disposable gloves, when required, before handling food.*
+> *Use disposable gloves, **when required**, before handling food.*
 
-> *The British army needs women and men who are willing to fight for
-> their country, if necessary.*
+> *The British army needs women and men who are willing to fight for their
+  country, **if necessary**.*
 
 [*Source*](https://www.pristineword.com/comma-if-necessary/)
 
@@ -2330,16 +2330,17 @@ sentence flow or provide an explanatory note:
 
 ## affirm \| confirm
 
-**Affirm**: to validate or state positively, to assert as valid and to
-express someone's dedication. **Confirm**: to ratify, to strengthen, and
-to give assurance.
+**Affirm**&mdash;to validate or state positively, to assert as valid and to
+express someone’s dedication.
 
-**Confirm** is used for both negative and positive sentences; whereas
-**affirm** is mainly positive.
+**Confirm**&mdash;to ratify, to strengthen, and to give assurance.
 
-> *The receptionist confirmed the hotel reservations.*
+***Confirm*** is used for both negative and positive sentences; whereas
+***affirm*** is mainly positive:
 
-> *Serving in the defense services affirms your loyalty to the nation.*
+> *The receptionist **confirmed** the hotel reservations.*
+
+> *Serving in the defense services **affirms** your loyalty to the nation.*
 
 [*Source*](http://www.differencebetween.net/language/difference-between-affirm-and-confirm)
 
@@ -2347,20 +2348,14 @@ to give assurance.
 
 ## evaluation \| an evaluation
 
-**An evaluation**: the talk is about a particular evaluation that has
-been made:
+> *This talk focuses on **evaluation** of...* = the talk is about the process
+  of evaluating
 
-> *This talk focuses on an evaluation of...*
+> *This talk focuses on **an evaluation** of...* = the talk is about a
+  particular evaluation that has been made
 
-**Evaluation**: the talk is about the process of evaluating:
-
-> *This talk focuses on evaluation of...*
-
-The talk itself is making an evaluation of something:
-
-> *The focus of this talk is an evaluation of...*
-
-Both the second and third sentences change the original meaning.
+> *The focus of this talk is **an evaluation** of...* = the talk itself is
+  making an evaluation of something.
 
 [*Source*](https://english.stackexchange.com/questions/483505/omitting-article-before-evaluation)
 
@@ -2368,10 +2363,10 @@ Both the second and third sentences change the original meaning.
 
 ## временной \| временный
 
-**Временный** значит непостоянный.
+**Временный** &mdash; непостоянный.
 
-**Временной** --- относящийся ко времени, например временной интервал с
-двух до пяти часов
+**Временной** &mdash; относящийся ко времени, например временной интервал с
+двух до пяти часов.
 
 [*Источник*](https://hinative.com/ru/questions/4625640)
 
@@ -2379,31 +2374,30 @@ Both the second and third sentences change the original meaning.
 
 ## bound to \| bound with
 
-**Bind to** is used to describe the action of tying or attaching an
-object to another object:
+***Bind to*** is used to describe the action of tying or attaching an object to
+another object:
 
-> *Take the knife, and bind it to your leg.*
+> *Take the knife, and **bind** it **to** your leg.*
 
-**Bind with** is used to describe the thing which is used to tie or
-attach the object:
+***Bind with*** is used to describe the thing which is used to tie or attach
+the object:
 
-> *I will bind the knife with a rope.*
+> *I will **bind** the knife with a rope.*
 
 One is used with the object the action is performed upon, and the other
 is used with the object performing the action.
 
 There is a range of idiomatic uses and similar phrasal verbs.
 
-The outcome was inevitable. **To** might be seen as part of the
-infinitive to fail, certainly it needs to be followed by a verb in
-infinitive form.
+The outcome was inevitable. **To** might be seen as part of the infinitive to
+fail, certainly it needs to be followed by a verb in infinitive form:
 
-> *He was bound to fail.*
+> *He was **bound to** fail.*
 
-A complex or ongoing relationship between the outcome (failure), and
-some other factor (his preconceptions):
+A complex or ongoing relationship between the outcome (failure), and some other
+factor (his preconceptions):
 
-> *His failure was bound up with his preconceptions.*
+> *His failure was **bound** up **with** his preconceptions.*
 
 [*Source*](https://forum.wordreference.com/threads/be-bound-to-vs-be-bound-with-noun.2963161/)
 
@@ -2411,16 +2405,16 @@ some other factor (his preconceptions):
 
 ## here \| in here
 
-**here**: a general location
+***Here***&mdash;a general location:
 
-> *Wow! It\'s cold here.* (in Alaska)
+> *Wow! It’s cold **here**.* (in Alaska)
 
-*What are you doing **here?*** --- This one asks what you are doing here (in
-general). What do you want?
+*What are you doing **here?*** &mdash; This one asks what you are doing here
+(in general). What do you want?
 
-*What are you doing **in here**?* --- This one ask specifically what you\'re
-doing IN THIS ROOM. It probably means that I didn\'t expect you to be
-here in this very room.
+*What are you doing **in here**?* ;mdash; This one ask specifically what you’re
+doing IN THIS ROOM. It probably means that I didn’t expect you to be here in
+this very room.
 
 [*Source*](https://forum.wordreference.com/threads/here-or-in-here.30167/)
 
@@ -2428,16 +2422,15 @@ here in this very room.
 
 ## try + -ing \| try to
 
-**Try + -ing** means that you are trying something as an experiment,
-especially as a possible solution to a problem, to see if it works or
-not.
+**Try + -ing** means that you are trying something as an experiment, especially
+as a possible solution to a problem, to see if it works or not:
 
-> *Have you tried turning the computer off and on again?*
+> *Have you **tried turning** the computer off and on again?*
 
 **Try + to + infinitive** means that something is difficult but you are
-making an effort to do it.
+making an effort to do it:
 
-> *I\'m trying to learn Japanese but it\'s very difficult.*
+> *I’m **trying to learn** Japanese but it’s very difficult.*
 
 [*Source*](https://learnenglish.britishcouncil.org/grammar/intermediate-to-upper-intermediate/verbs-followed-by-ing-or-by-to-infinitive-2)
 
@@ -2445,9 +2438,9 @@ making an effort to do it.
 
 ## at the beginning \| in the beginning
 
-**In the beginning** is usually preferred alone and followed by a comma.
+***In the beginning*** is usually preferred alone and followed by a comma.
 
-**At the beginning** is used together with a noun such as year, book,
+***At the beginning*** is used together with a noun such as year, book,
 century, show, etc.
 
 > *In the beginning, God created* (etc\...)
@@ -2460,29 +2453,30 @@ century, show, etc.
 
 ## at the end \| in the end
 
-**At the end** can refer to the end of a physical location:
+**At the end**:
 
-> *At the end of our hallway*
+- the end of a physical location:
 
-It can also be used to represent the closing or near completion of
-something:
+  > ***At the end** of our hallway.*
 
-> *At the end of the story*
+- the closing or near completion of something:
 
-> *At the end of the film*
+  > ***At the end** of the story.*
 
-It can also mean the end point of a period in time:
+  > ***At the end** of the film.*
 
-> *The score was nil nil at the end of the game.*
+- the end point of a period in time:
 
-> *I am going to go away at the end of the month.*
+  > *The score was nil nil **at the end** of the game.*
+
+  > *I am going to go away **at the end** of the month.*
 
 **In the end** means *finally*:
 
-> *We all wanted to go to different places, in the end, we agreed to go
-> to the beach.*
+> *We all wanted to go to different places, **in the end**, we agreed to go to
+  the beach.*
 
-> *We waited for the bus for 2 hours, in the end, we caught a taxi.*
+> *We waited for the bus for 2 hours, **in the end**, we caught a taxi.*
 
 [*Source*](https://english.stackexchange.com/questions/217987/what-differences-are-there-between-at-the-end-and-in-the-end)
 
@@ -2490,47 +2484,46 @@ It can also mean the end point of a period in time:
 
 ## I have got \| I have gotten
 
-In UK English, **have got** is the only grammatical possibility. In US
-English, there is no situation where you could grammatically substitute
-one for the other without changing the meaning.
+In UK English, ***have got*** is the only grammatical possibility. In US
+English, there is no situation where you could grammatically substitute one for
+the other without changing the meaning.
 
-In general, **have got** is the present perfect form of "to get" in UK
-English, while **have gotten** is the US English version.
+In general, ***have got*** is the present perfect form of *to get* in UK
+English, while ***have gotten*** is the US English version.
 
-However, even in US English, **have got** is used in certain instances,
-namely to mean present tense have (in the sense of possession, or to
-mean must):
+However, even in US English, ***have got*** is used in certain instances,
+namely to mean present tense have (in the sense of possession, or to mean
+must):
 
-> *I have got a lot of friends.* (=I have a lot of friends)
+> *I **have got** a lot of friends.* (=I have a lot of friends)
 
-> *I have got to go now.* (=I have to go now/I must go now)
+> *I **have got to** go now.* (=I have to go now/I must go now)
 
-**Gotten** is probably the most distinctive of all the AmE/BrE
-grammatical differences, but British people who try to use it often get
-it wrong. It is not simply an alternative for *have got*. **Gotten** is
-used in such contexts as
+***Gotten*** is probably the most distinctive of all the AmE/BrE grammatical
+differences, but British people who try to use it often get it wrong. It is not
+simply an alternative for ***have got***. ***Gotten*** is used in such contexts
+as
 
-> *They\'ve gotten a new boat.* (= obtain)
+> *They’ve **gotten** a new boat.* (= obtain)
 
-> *They\'ve gotten interested.* (= become)
+> *They’ve **gotten** interested.* (= become)
 
-> *He\'s gotten off the chair.* (= moved)
+> *He’s **gotten** off the chair.* (= moved)
 
-But it is not used in the sense of possession (= have). AmE does not
-allow
+But it is not used in the sense of possession (= have). AmE does not allow
 
-> *I\'ve gotten the answer.*
+> *I’ve **gotten** the answer.*
 
-> *I\'ve gotten plenty.*
+> *I’ve **gotten** plenty.*
 
-but uses *I\'ve got* as in informal BrE.
+but uses *I’ve got* as in informal BrE.
 
-The availability of **gotten **does however mean that AmE can make such
+The availability of ***gotten*** does however mean that AmE can make such
 distinctions as the following:
 
-> *They\'ve got to leave* (they must leave)
+> *They’ve **got** to leave* (they must leave)
 
-> *They\'ve gotten to leave* (they\'ve managed to leave).
+> *They’ve **gotten** to leave* (they’ve managed to leave).
 
 [*Source*](https://english.stackexchange.com/questions/5531/difference-between-i-have-got-and-i-have-gotten)
 
@@ -2538,25 +2531,24 @@ distinctions as the following:
 
 ## divide \| separate
 
-**Separate** means to take apart / keep apart
+**Separate**&mdash;to take apart / keep apart:
 
-> *Separate the wheat from the chaff.*
+> ***Separate** the wheat from the chaff.*
 
-**Separate** implies that the things in question are being separated by
-some property of those things. For example, I might separate my white
-shirts from the rest of my clothes and wash them separately with bleach,
-or I might separate the power cords and data cords when reorganizing the
-tangled mess of wires under my desk.
+***Separate*** implies that the things in question are being separated by some
+property of those things. For example, I might separate my white shirts from
+the rest of my clothes and wash them separately with bleach, or I might
+separate the power cords and data cords when reorganizing the tangled mess of
+wires under my desk.
 
-**Divide** implies that the things in question are being divided into
-certain quantities. For example, I might divide my laundry into
-baskets/loads, or I might divide my pizza into equal portions for
-everyone in the room. This is consistent with the mathematical concept
-of division.
+***Divide*** implies that the things in question are being divided into certain
+quantities. For example, I might divide my laundry into baskets/loads, or I
+might divide my pizza into equal portions for everyone in the room. This is
+consistent with the mathematical concept of division.
 
 Often means there is intent in making the disaggregation.
 
-> *The food was divided among the campers.*
+> *The food was **divided** among the campers.*
 
 [*Source*](https://ell.stackexchange.com/questions/178708/what-s-the-specific-difference-between-divide-and-separate/183115)
 
@@ -2564,24 +2556,23 @@ Often means there is intent in making the disaggregation.
 
 ## dummy \| fake \| mock \| stub
 
-**Dummy** objects are passed around but never actually used. Usually
-they are just used to fill parameter lists.
+***Dummy*** objects are passed around but never actually used. Usually they are
+just used to fill parameter lists.
 
-**Fake** objects actually have working implementations, but usually take
-some shortcut which makes them not suitable for production (an in memory
-database is a good example).
+***Fake*** objects actually have working implementations, but usually take some
+shortcut which makes them not suitable for production (an in memory database is
+a good example).
 
-**Stubs** provide canned answers to calls made during the test, usually
-not responding at all to anything outside what\'s programmed in for the
-test. Stubs may also record information about calls, such as an email
-gateway stub that remembers the messages it "sent", or maybe only how
-many messages it "sent".
+***Stubs*** provide canned answers to calls made during the test, usually not
+responding at all to anything outside what’s programmed in for the test. Stubs
+may also record information about calls, such as an email gateway stub that
+remembers the messages it "sent", or maybe only how many messages it "sent".
 
-**Mocks** are objects pre-programmed with expectations which form a
-specification of the calls they are expected to receive. A mock is not
-setup in a predetermined way so you have code that does it in your test.
-Mocks in a way are determined at runtime since the code that sets the
-expectations has to run before they do anything.
+***Mocks*** are objects pre-programmed with expectations which form a
+specification of the calls they are expected to receive. A mock is not setup in
+a predetermined way so you have code that does it in your test. Mocks in a way
+are determined at runtime since the code that sets the expectations has to run
+before they do anything.
 
 [*Source*](https://stackoverflow.com/questions/3459287/whats-the-difference-between-a-mock-stub)
 
@@ -2589,20 +2580,20 @@ expectations has to run before they do anything.
 
 ## package \| packet \| parcel
 
-A **parcel** or **package** is an object or group of objects wrapped in
-paper, that can be carried somewhere or sent by post. The two words have
-almost exactly the same meaning in British English, but a **parcel**
-usually has a more regular shape than a **package**.
+A **parcel** or **package** is an object or group of objects wrapped in paper,
+that can be carried somewhere or sent by post. The two words have almost
+exactly the same meaning in British English, but a ***parcel*** usually has a
+more regular shape than a ***package***:
 
-> *Charities sent parcels of food and clothes to the refugees.*
+> *Charities sent **parcels** of food and clothes to the refugees.*
 
-> *I am taking this package to the post office.*
+> *I am taking this **package** to the post office.*
 
-In American English, **package** is usually used rather than **parcel**.
+In American English, ***package*** is usually used rather than ***parcel***.
 
-In British English, a **packet** is a small container in which a
-quantity of something is sold. Packets are either small boxes made of
-thin cardboard, or bags or envelopes made of paper or plastic.
+In British English, a **packet** is a small container in which a quantity of
+something is sold. Packets are either small boxes made of thin cardboard, or
+bags or envelopes made of paper or plastic.
 
 [*Source*](https://grammar.collinsdictionary.com/es/uso-del-inglés/what-is-the-difference-between-parcel-package-and-packet)
 
@@ -2611,15 +2602,15 @@ thin cardboard, or bags or envelopes made of paper or plastic.
 ## replace by \| replace with
 
 If you are referring to replacing something that is broken, old, or not
-working/inoperative, then you **replace** it **with** a new one.
+working/inoperative, then you ***replace*** it ***with*** a new one.
 
 If you are referring to filling the role of someone or something with a
-substitute, then it is **replaced by**.
+substitute, then it is ***replaced by***.
 
-> *Human bank tellers have all but been replaced by ATMs.*
+> *Human bank tellers have all but been **replaced by** ATMs.*
 
-> *Adam was replaced by Bill* (Bill decided that Adam had to be replaced,
-> but the sentence doesn\'t say who Bill picked to replace Adam)
+> *Adam was **replaced by** Bill* (Bill decided that Adam had to be replaced,
+  but the sentence doesn’t say who Bill picked to replace Adam).
 
 [*Source*](https://forum.wordreference.com/threads/replaced-with-or-replaced-by.1985166/)
 
@@ -2627,17 +2618,17 @@ substitute, then it is **replaced by**.
 
 ## inform about \| inform of \| inform on
 
-**inform of** merely talks about the information of something
+***Inform of*** merely talks about the information of something:
 
-> *I\'ll have to inform her **of** Joe\'s kidnapping*
+> *I’ll have to **inform** her **of** Joe’s kidnapping.*
 
-**inform about** means, not only will she be informed that Joe is
+**Inform about** means, not only will she be informed that Joe is
 kidnapped but also the details:
 
-> *I\'ll have to inform her **about** Joe\'s kidnapping*
+> *I’ll have to **inform** her **about** Joe’s kidnapping.*
 
-**inform on**: give incriminating information about someone to an
-authority
+**Inform on**&mdash;give incriminating information about someone to an
+authority.
 
 [*Source*](https://ell.stackexchange.com/questions/40623/inform-about-vs-inform-of)
 
@@ -2648,16 +2639,16 @@ authority
 If you **communicate with** someone, you share or exchange information
 with them, for example by speaking, writing, or using equipment:
 
-> *My natural mother has never communicated with me.*
+> *My natural mother has never **communicated with** me.*
 
 You can also say that two people communicate:
 
-> *They communicated in sign language.*
+> *They **communicated** in sign language.*
 
-**communicate to**: if you communicate information, a feeling, or an
+***Communicate to***: if you communicate information, a feeling, or an
 idea to someone, you let them know about it:
 
-> *They successfully communicate their knowledge to others.*
+> *They successfully **communicate** their knowledge **to** others.*
 
 [*Source*](https://www.collinsdictionary.com/dictionary/english/communicate)
 
@@ -2665,17 +2656,16 @@ idea to someone, you let them know about it:
 
 ## experience \| an experience \| experiences
 
-**Countable**: an event or incident. It is an event that you were a part
-of and the event made an impression on you (it's something you will
-remember). These type of experiences are countable, just like events.
+*Countable*: an event or incident. It is an event that you were a part of and
+the event made an impression on you (it’s something you will remember). These
+type of experiences are countable, just like events.
 
-> *Climbing Mount Everest was an **experience** that I'll never forget.*
+> *Climbing Mount Everest was an **experience** that I’ll never forget.*
 
 > *I have had some bad **experiences** with taxi drivers.*
 
-**Uncountable**: familiarity. You have used computers for many years, so
-you are familiar with them, you have knowledge of them, and you have
-skill using them:
+*Uncountable*: familiarity. You have used computers for many years, so you are
+familiar with them, you have knowledge of them, and you have skill using them:
 
 > *I have 8 years of teaching **experience**.*
 
@@ -2692,55 +2682,55 @@ countable nouns should be qualified by a determiner.
 
 ***
 
-## people's lives \| peoples' lives \| people's life \| in the lives of people
+## people’s lives \| peoples’ lives \| people’s life \| in the lives of people
 
-The rule here is you should always have an S with one-word possessives
-(*car's* (belonging to the car), *dog's* (of the dog), *Amy's*) and you
-should ONLY put the apostrophe after the 's' if two conditions are met:
+The rule here is you should always have an S with one-word possessives (*car’s*
+(belonging to the car), *dog’s* (of the dog), *Amy’s*) and you should ONLY put
+the apostrophe after the *s* if two conditions are met:
 
--   The noun that is possessing is plural (if it belongs to the cars,
-    the dogs, or the women)
--   The plural noun ends in s:
+- The noun that is possessing is plural (if it belongs to the cars, the dogs,
+  or the women)
 
->> *the cars' steering wheels*
+- The plural noun ends in *s*:
 
->> *the dogs' bowls*
+>> *the cars’ steering wheels*
 
->> *the women's spouses*
+>> *the dogs’ bowls*
+
+>> *the women’s spouses*
 
 The culture of the singular people:
 
-> *the people's culture*
+> *the people’s culture*
 
 The culture belonging to several peoples:
 
-> *the peoples' culture*
+> *the peoples’ culture*
 
 A movement that belongs to ALL of the people:
 
-> *the people's movement*
+> *the people’s movement*
 
 Movements belonging to each individual:
 
-> *the people's movements*
+> *the people’s movements*
 
-**People's lives** would refer to a condition that affects a group in
+***People’s lives*** would refer to a condition that affects a group in
 general:
 
-> *People's lives can be destroyed by sudden climatic events.*
+> ***People’s lives** can be destroyed by sudden climatic events.*
 
-You would use an article with **people's life** and it is restrictive in
+You would use an article with ***people’s life*** and it is restrictive in
 that it refers to a more specific group, like a tribe or a race:
 
-> *The people's life changed for the better when they found a closer
-> source of water.*
+> *The **people’s life** changed for the better when they found a closer source
+  of water.*
 
-If you want to identify the people specifically as being alive and
-breathing, then you'd say **people's lives** (what we usually say). If
-you only want to accentuate the life itself, and you're not really
-considering the people to be an important part of the idea, then you'd
-say **in the lives of people** (sounds rather strange, but it's not
-actually "wrong" in any real sense).
+If you want to identify the people specifically as being alive and breathing,
+then you’d say ***people’s lives*** (what we usually say). If you only want to
+accentuate the life itself, and you’re not really considering the people to be
+an important part of the idea, then you’d say ***in the lives of people***
+(sounds rather strange, but it’s not actually "wrong" in any real sense).
 
 *Sources:
 [1](https://www.quora.com/Which-is-correct-peoples-lives-or-people-lives),
@@ -2751,43 +2741,40 @@ actually "wrong" in any real sense).
 
 ## people \| peoples \| Peoples \| persons
 
-**Persons** is especially associated with its use in legal language, in
-which it's often used rather than people to ensure clarity by
-emphasizing that the text is referring to multiple individuals, as
-opposed to a group as a whole:
+***Persons*** is especially associated with its use in legal language, in which
+it’s often used rather than people to ensure clarity by emphasizing that the
+text is referring to multiple individuals, as opposed to a group as a whole:
 
-> *Occupancy is limited to 200 persons.*
+> *Occupancy is limited to 200 **persons**.*
 
-> *Any person or persons found to be in violation of these rules shall be
-> prohibited from participating.*
+> *Any person or **persons** found to be in violation of these rules shall be
+  prohibited from participating.*
 
-When **persons** is used in this way outside of legal texts, it has
+When ***persons*** is used in this way outside of legal texts, it has
 historically been regarded as overly formal or stilted.
 
-**Persons** is sometimes used with terms related to identity to
-emphasize individuality, such as saying Jewish **persons** instead of
-Jewish **people**.
+***Persons*** is sometimes used with terms related to identity to emphasize
+individuality, such as saying *Jewish persons* instead of *Jewish people*.
 
-Regardless of intent, though, statements that are made about individuals
-with a common identity can lead to overgeneralization or stereotyping,
-so it's always best to consider whether the individuals' common identity
-is an essential part of what you're trying to say. Choosing how to refer
-to people can also be informed by preferences around language that's
-*person-first* (as in **person** with autism) or identity-first (as in
-autistic **person**).
+Regardless of intent, though, statements that are made about individuals with a
+common identity can lead to overgeneralization or stereotyping, so it’s always
+best to consider whether the individuals’ common identity is an essential part
+of what you’re trying to say. Choosing how to refer to people can also be
+informed by preferences around language that’s *person-first* (as in
+*person with autism*) or identity-first (as in *autistic person*).
 
-The word **peoples** is specifically used as the plural of people in its
-sense as a collective singular noun referring to a nation, or tribe, or
-other community:
+The word ***peoples*** is specifically used as the plural of people in its
+sense as a collective singular noun referring to a nation, or tribe, or other
+community:
 
-> *the many peoples of the world*
+> *the many **peoples** of the world*
 
-Capitalization is increasingly used as a form of respect and distinction
-for terms that relate to identity (specific, distinct communities):
+Capitalization is increasingly used as a form of respect and distinction for
+terms that relate to identity (specific, distinct communities):
 
-> *Indigenous Peoples*
+> *Indigenous **Peoples***
 
-> *Hispanic Peoples*
+> *Hispanic **Peoples***
 
 [*Source*](https://www.thesaurus.com/e/grammar/persons-vs-people-vs-peoples/)
 
@@ -2795,19 +2782,19 @@ for terms that relate to identity (specific, distinct communities):
 
 ## progress \| ~~a progress~~ \| the progress
 
-When we refer to the ways in which society in general goes forward and
-improves itself, we use progress without *the*:
+When we refer to the ways in which society in general goes forward and improves
+itself, we use progress without ***the***:
 
-> *Progress will only happen when people begin to understand that every
-> individual has a responsibility to play their part.*
+> ***Progress** will only happen when people begin to understand that every
+  individual has a responsibility to play their part.*
 
 > *~~The progress will only~~ ...*
 
-Progress is a mass noun and cannot be regarded as a count noun, except
-in an archaic form:
+***Progress*** is a mass noun and cannot be regarded as a count noun, except in
+an archaic form:
 
-Religious processions and royal progresses have been an important
-practice in the Indian subcontinent.
+> Religious processions and royal **progresses** have been an important
+  practice in the Indian subcontinent.
 
 *Sources:
 [1](https://dictionary.cambridge.org/grammar/british-grammar/progress),
@@ -2817,11 +2804,10 @@ practice in the Indian subcontinent.
 
 ## наем \| ~~найм~~
 
-**Найм** --- просторечная форма именительного падежа слова «**наём**»
-(но: «по найму», «заниматься наймом» и т.д.); ее употребление
-распространено (в том числе и в печати), однако данная форма всеми
-орфографическими и орфоэпическими словарями квалифицируется как
-неправильная.
+***Найм*** &mdash; просторечная форма именительного падежа слова ***наём***
+(но: *по найму*, *заниматься наймом* и т.д.); ее употребление распространено (в
+том числе и в печати), однако данная форма всеми орфографическими и
+орфоэпическими словарями квалифицируется как неправильная.
 
 [*Источник*](https://www.multitran.com/m.exe?s=найм&l1=2&l2=1&SHL=2)
 
@@ -2829,13 +2815,10 @@ practice in the Indian subcontinent.
 
 ## requirement for \| requirement to
 
-**requirement for**
+> *The **requirements for** the training course are stringent.*
 
-> *The requirements for the training course are stringent.*
-
-**requirement to**: *to* is attached to the verb as an infinitive:
-
-> *The requirement to complete the trip*
+> *The **requirement to** complete the trip* (*to* is attached to the verb as
+an infinitive).
 
 [*Source*](https://www.usingenglish.com/forum/threads/52223-requirement-to-for)
 
@@ -2843,60 +2826,60 @@ practice in the Indian subcontinent.
 
 ## cover by \| cover in \| cover with
 
-The meanings are very similar, and these three prepositions can be used
-almost interchangeably:
+The meanings are very similar, and these three prepositions can be used almost
+interchangeably:
 
-> *The mountain is covered with/in/by snow.*
+> *The mountain is **covered with/in/by** snow.*
 
-When referring to a substance that sticks to another, use **in** or
-**with**, but not **by**:
+When referring to a substance that sticks to another, use ***in*** or
+***with***, but not ***by***:
 
-> *The actress was covered **in** blood.*
+> *The actress was **covered in** blood.*
 
-> *The actress was covered **with** blood.*
+> *The actress was **covered with** blood.*
 
-> ~~*The actress was covered by blood.*~~
+> ~~*The actress was **covered by** blood.*~~
 
-> *The ribs were covered **with** sauce.*
+> *The ribs were **covered with** sauce.*
 
-> *The ribs were covered **in** sauce.*
+> *The ribs were **covered in** sauce.*
 
-> ~~*The ribs were covered by sauce.*~~
+> ~~*The ribs were **covered by** sauce.*~~
 
 When referring something that physically protects something else, use
-**with** or **by**, but not **in**:
+***with*** or ***by***, but not ***in***:
 
-> *The field was covered **with** a tarp.*
+> *The field was **covered with** a tarp.*
 
-> *The field was covered **by** a tarp.*
+> *The field was **covered by** a tarp.*
 
-> ~~*The field was covered in a tarp.*~~
+> ~~*The field was **covered in** a tarp.*~~
 
-Use **covered with** to indicate an unusual amount of something on top
-of something else; use **covered by** to connote a covering so dense
-that the object being covered is completely obscured from view:
+Use ***covered with*** to indicate an unusual amount of something on top of
+something else; use ***covered by*** to connote a covering so dense that the
+object being covered is completely obscured from view:
 
-> *The mountain was covered **with** fog.*
+> *The mountain was **covered with** fog.*
 
-> *The mountain was covered **by** fog.*
+> *The mountain was **covered by** fog.*
 
-> *Our grass was covered **with** butterflies.*
+> *Our grass was **covered with** butterflies.*
 
-> *Our grass was covered **by** butterflies.*
+> *Our grass was **covered by** butterflies.*
 
-When talking about metaphorical coverage, use **covered by**:
+When talking about metaphorical coverage, use ***covered by***:
 
-> *The roof damage was covered **by** insurance.*
+> *The roof damage was **covered by** insurance.*
 
-> ~~*The roof damage was covered with insurance.*~~
+> ~~*The roof damage was **covered with** insurance.*~~
 
-> ~~*The roof damage was covered in insurance.*~~
+> ~~*The roof damage was **covered in** insurance.*~~
 
-> *The city council meeting was covered **by** the news station.*
+> *The city council meeting was **covered by** the news station.*
 
-> ~~*The city council meeting was covered with the news station.*~~
+> ~~*The city council meeting was **covered with** the news station.*~~
 
-> ~~*The city council meeting was covered in the news station.*~~
+> ~~*The city council meeting was **covered in** the news station.*~~
 
 [*Source*](https://english.stackexchange.com/questions/60805/covered-with-vs-covered-in-vs-covered-by)
 
