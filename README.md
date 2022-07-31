@@ -1166,12 +1166,12 @@ Note the different constructions with positive and negative statements.
   > *What is the **opposite** of up?*
 
 - As an adjective, ***opposite*** may stand alone or be followed by the
-  preposition to *or* occasionally *from*.
+  preposition to *or* occasionally *from*:
 
   > *The cars were travelling in **opposite** directions when the accident
     occurred.*
 
-  > *Hyacinth’s opinions are often **opposite** to Pierre's.*
+  > *Hyacinth’s opinions are often **opposite** to Pierre’s.*
 
   > *Keith’s cottage is on the same lake but on the **opposite** side from (or
     to) ours.*
@@ -1181,8 +1181,8 @@ Note the different constructions with positive and negative statements.
 
   > *Jean-Luc lives in the house **opposite** ours.*
 
-  >> *Two dozen condos will be built **opposite** the theatre* (not ~~*opposite
-     of the theatre*~~ or ~~*opposite to the theatre*~~).
+  > *Two dozen condos will be built **opposite** the theatre* (not ~~*opposite
+    of the theatre*~~ or ~~*opposite to the theatre*~~).
 
 [*Source*](https://www.btb.termiumplus.gc.ca/tpv2guides/guides/wrtps/index-eng.html?lang=eng&lettr=indx_catlog_o&page=9f6h6X_fuaGE.html)
 
@@ -1190,15 +1190,14 @@ Note the different constructions with positive and negative statements.
 
 ## residual \| residue \| residues
 
-The noun **residue** can be countable or uncountable. In more general,
-commonly used, contexts, the plural form will also be residue. However,
-in more specific contexts, the plural form can also be **residues** e.g.
-in reference to various types of residues or a collection of residues.
+The noun ***residue*** can be countable or uncountable. In more general,
+commonly used, contexts, the plural form will also be residue. However, in more
+specific contexts, the plural form can also be ***residues*** e.g. in reference
+to various types of residues or a collection of residues.
 
-**Residual** is a derived term of residue. As nouns the difference
-between residue and residual is that residue is whatever remains after
-something else has been removed while residual is a remainder left over
-at the end of some process.
+***Residual*** is a derived term of *residue*. As nouns the difference is that
+**residue** is whatever remains after something else has been removed while
+**residual** is a remainder left over at the end of some process.
 
 *Sources:
 [1](https://www.wordhippo.com/what-is/the-plural-of/residue.html),
@@ -1208,23 +1207,23 @@ at the end of some process.
 
 ## what \| which
 
-If you are trying to make a choice, **what** is used to ask when there
-is an unknown number or infinite possibilities for an answer.
+If you are trying to make a choice, ***what*** is used to ask when there is an
+unknown number or infinite possibilities for an answer.
 
-**Which** is used if you are choosing between a more limited number of
-items, already defined.
+***Which*** is used if you are choosing between a more limited number of items,
+already defined.
 
-> *Which shoes should I wear with this dress?*
+> ***Which** shoes should I wear with this dress?*
 
 Often **which** or **what** can be used for several choices, depending on what
-is in the speaker's mind:
+is in the speaker’s mind:
 
-*(a) "Which bus goes into the centre?"*
+*(a) "**Which** bus goes into the centre?"*
 
-*(b) "What bus shall I take?"*
+*(b) "**What** bus shall I take?"*
 
-Both sentences are fine. The speaker is probably thinking about fewer
-buses in sentence (a) than in sentence (b).
+Both sentences are fine. The speaker is probably thinking about fewer buses in
+sentence (a) than in sentence (b).
 
 [*Source*](https://www.learnenglish.de/mistakes/whichvswhat.html)
 
@@ -1234,17 +1233,17 @@ buses in sentence (a) than in sentence (b).
 
 Four Forces Affect Things That Fly:
 
-**Weight** is the force of gravity. It acts in a downward direction --
-toward the center of the Earth.
+**Weight** is the force of gravity. It acts in a downward direction&mdash;toward
+the center of the Earth.
 
-**Lift** is the force that acts at a right angle to the direction of
-motion through the air. Lift is created by differences in air pressure.
+**Lift** is the force that acts at a right angle to the direction of motion
+through the air. Lift is created by differences in air pressure.
 
-**Thrust** is the force that propels a flying machine in the direction
-of motion. Engines produce thrust.
+**Thrust** is the force that propels a flying machine in the direction of
+motion. Engines produce thrust.
 
-**Drag** is the force that acts opposite to the direction of motion.
-Drag is caused by friction and differences in air pressure.
+**Drag** is the force that acts opposite to the direction of motion. Drag is
+caused by friction and differences in air pressure.
 
 [*Source*](https://howthingsfly.si.edu/forces-flight/four-forces)
 
@@ -1260,11 +1259,11 @@ Drag is caused by friction and differences in air pressure.
 
 To **implode** is to collapse, almost explode *internally*.
 
-> *We are losing money, our company is imploding*
+> *We are losing money, our company is **imploding**.*
 
-To **explode** is *external*, in an outwards direction.
+To ***explode*** is *external*, in an outwards direction.
 
-> *The bomb exploded and the aftermath was chaotic*
+> *The bomb **exploded** and the aftermath was chaotic.*
 
 [*Source*](https://hinative.com/ru/questions/3634392)
 
@@ -1272,12 +1271,12 @@ To **explode** is *external*, in an outwards direction.
 
 ## special \| specific
 
-**Special** = something that is different or better
+**Special**&mdash;something that is different or better:
 
 > *This car is **special** because it can drive very fast* (this car is
-different and better than other cars).
+  different and better than other cars).
 
-**Specific** = something that is clear
+**Specific**&mdash;something that is clear:
 
 > *When will you come tomorrow? Give me a **specific** time.*
 
@@ -1287,11 +1286,11 @@ different and better than other cars).
 
 ## anybody \| anyone
 
-**Anyone** is the singular version of the word and **anybody** is the
-plural version.
+***Anyone*** is the singular version of the word and ***anybody*** is the plural
+version.
 
-When **anyone** is used, it is typically to differentiate one person
-from many:
+When ***anyone*** is used, it is typically to differentiate one person from
+many:
 
 > *Does **anyone** have a question?*
 
@@ -1300,10 +1299,9 @@ from many:
 This question seeks out any and all persons who can respond, any number
 of people.
 
-**Anybody** is sometimes considered inappropriate for formal
-conversations, it is more appropriate for personal conversations.
-**Anyone** is universally used in both formal and informal conversation
-settings.
+***Anybody*** is sometimes considered inappropriate for formal conversations, it
+is more appropriate for personal conversations. ***Anyone*** is universally used
+in both formal and informal conversation settings.
 
 [*Source*](http://www.differencebetween.net/language/difference-between-anyone-and-anybody/)
 
@@ -1311,8 +1309,8 @@ settings.
 
 ## substitute for \| substitute with
 
-*We substitute pizza **for** vegetables as our dinner* = we are having
-pizza instead of vegetables for dinner.
+*We substitute pizza **for** vegetables as our dinner* = we are having pizza
+instead of vegetables for dinner.
 
 *We substitute pizza **with** vegetables as our dinner* = we are having
 vegetables instead of pizza for dinner.
@@ -1323,10 +1321,13 @@ vegetables instead of pizza for dinner.
 
 ## данные \| информация \| сведения
 
-**Данные** --- это совокупность знаков (тексты, изображения и т.п.).
-**Сведения** --- это те представления, которые возникают у субъекта в
-результате восприятия и анализа данных. **Информация** --- это новое в
-сведениях. Количество информации в данных --- степень их новизны.
+**Данные** &mdash; это совокупность знаков (тексты, изображения и т.п.).
+
+**Сведения** &mdash; это те представления, которые возникают у субъекта в
+результате восприятия и анализа данных.
+
+**Информация** &mdash; это новое в сведениях. Количество информации в данных
+&mdash; степень их новизны.
 
 [*Источник*](https://lib.sale/natsionalnaya-bezopasnost_924/dannyie-svedeniya-informatsiya-71924.html)
 
@@ -1334,24 +1335,22 @@ vegetables instead of pizza for dinner.
 
 ## define \| determine \| determine on \| establish
 
-**establish** is to make stable or firm; to confirm; to prove and cause
-to be accepted as true
+**Establish**&mdash;to make stable or firm; to confirm; to prove and cause
+to be accepted as true:
 
-> *To establish a fact*
+  > *To establish a fact.*
 
-**determine** is to set the limits of
+**Determine** is to set the limits of:
 
-> *It was determined that she had died of natural causes.*
+  > *It was **determined** that she had died of natural causes.*
 
-> *We set out to determine exactly what happened that night.*
+  > *We set out to **determine** exactly what happened that night.*
 
-**determine on** \[doing\] something: to decide definitely to do
-something
+**Determine on** \[doing\] something&mdash;to decide definitely to do something.
 
-**define** is to demark sharply the outlines or limits of an area or
-concept
+**Define**&mdash;to demark sharply the outlines or limits of an area or concept:
 
-> *To define the legal boundaries of a property*
+  > *To **define** the legal boundaries of a property.*
 
 [*Source*](https://www.askdifference.com/establish-vs-define/)
 
@@ -1360,15 +1359,15 @@ concept
 ## договор \| контракт \| соглашение
 
 В гражданском праве **контрактом** считается соглашение, одной из сторон
-которого выступает государство. Контракт заключается на бюджетные
-деньги. В отличие от контракта, **договор** может заключаться между
-любыми лицами. В российском праве **соглашением** является любая
-договоренность между сторонами. Это понятие гораздо шире, чем договор и
-тем более контракт. Соглашение может быть и устным, под договором же в
-большинстве случаев подразумевается бумажный документ. Рассматриваемый
-термин фигурирует в выражениях «дополнительное соглашение к договору» и
-«соглашение о расторжении договора (контракта)». Это устоявшиеся
-выражения, соответствующие обычаям делового оборота.
+которого выступает государство. Контракт заключается на бюджетные деньги. В
+отличие от контракта, ***договор*** может заключаться между любыми лицами. В
+российском праве **соглашением** является любая договоренность между сторонами.
+Это понятие гораздо шире, чем ***договор*** и тем более ***контракт***.
+***Соглашение*** может быть и устным, под ***договором*** же в большинстве
+случаев подразумевается бумажный документ. Рассматриваемый термин фигурирует в
+выражениях *дополнительное соглашение к **договору*** и ***соглашение** о
+расторжении **договора** (**контракта**)*. Это устоявшиеся выражения,
+соответствующие обычаям делового оборота.
 
 [*Источник*](https://zakupki-kontur.ru/news/kontrakt-i-dogovor-v-chem-otlichie/)
 
