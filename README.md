@@ -2057,9 +2057,9 @@ When you are ***installing*** a program, you are also performing its initial
 
 - see if something (e.g., a sum) is correct or accurate:
 
-> *Will you **check** my addition?*
+  > *Will you **check** my addition?*
 
-**Check that**&mdash;to make sure that.
+**Check that**&mdash;to make sure.
 
 **Verify**&mdash;to confirm the truth or correctness of (something):
 
@@ -2070,21 +2070,21 @@ just means something was investigated with no indication of the outcome.
 
 **Validate**:
 
-- make legally valid (ratify);
+- Make legally valid (ratify).
 
-- grant official sanction to by marking:
+- Grant official sanction to by marking:
 
-  > ***Validate** a passport*
+  > ***Validate** a passport.*
 
-- support or corroborate on a sound or authoritative basis:
+- Support or corroborate on a sound or authoritative basis:
 
-  > *Experiments designed to **validate** the hypothesis*
+  > *Experiments designed to **validate** the hypothesis.*
 
-- recognize, establish, or illustrate the worthiness:
+- Recognize, establish, or illustrate the worthiness:
 
-  > ***Validate** one’s concerns*
+  > ***Validate** one’s concerns.*
 
-See also [validation \| verification](#validation--verification)
+See also [validation \| verification](#validation--verification).
 
 *Sources:
 [1](https://forum.wordreference.com/threads/check-vs-verify.580470),
@@ -2131,17 +2131,16 @@ See also: [check \| check that \| validate \| verify](#check--check-that--valida
 
 ## stop + -ing \| stop to + infinitive
 
-We use the **-ing** form after stop to indicate that an action or event
-is no longer continuing:
+We use the ***-ing*** form after stop to indicate that an action or event is no
+longer continuing:
 
-> *It's stopped raining. Let's go for a walk.*
+> *It’s **stopped raining**. Let’s go for a walk.*
 
-We use the **to-infinitive** after stop to indicate that someone stops
-doing something in order to do something else:
+We use the ***to-infinitive*** after stop to indicate that someone stops doing
+something in order to do something else:
 
-> *On the way to Edinburgh, we stopped to look at an old castle. (We were
-> travelling, then we stopped our journey in order to look at the
-> castle.)*
+> *On the way to Edinburgh, we **stopped to** look at an old castle.* (We were
+  travelling, then we stopped our journey in order to look at the castle.)
 
 [*Source*](https://dictionary.cambridge.org/ru/грамматика/британская-грамматика/stop-ing-form-or-to-infinitive)
 
@@ -2149,18 +2148,18 @@ doing something in order to do something else:
 
 ## request \| require
 
-**Request** = ask for
+**Request**&mdash;ask for.
 
-**Require** = need
+**Require**&mdash;need.
 
-> *I **require** (need) another cup of coffee. I will **request** (ask for)
-> one when my butler answers the bell.*
+> *I **require** (need) another cup of coffee. I will **request** (ask for) one
+  when my butler answers the bell.*
 
-There is a difference when **require** is used transitively. This is a
+There is a difference when ***require*** is used transitively. This is a
 forceful demand:
 
-> *You are required to visit your local police station to produce your
-> driving license.*
+> *You are **required** to visit your local police station to produce your
+  driving license.*
 
 [*Source*](https://forum.wordreference.com/threads/require-request.693183/)
 
@@ -2168,9 +2167,9 @@ forceful demand:
 
 ## big \| large
 
-**Big** can refer to the physical size of an object, but it also means
-that something is serious or important, while **large** only refers to
-the physical size. They can only be used with countable nouns:
+***Big*** can refer to the physical size of an object, but it also means that
+something is serious or important, while ***large*** only refers to the
+physical size. They can only be used with countable nouns:
 
 > *a **big** city*
 
@@ -2179,98 +2178,111 @@ the physical size. They can only be used with countable nouns:
 But not with uncountable nouns! Instead of saying ~~big traffic~~, say *a
 lot of traffic.*
 
-Use **big** in the following cases:
+Use ***big*** in the following cases:
 
-1. More than average (see **large** below):
+1. More than average (see ***large*** below):
 
->> *Our office is quite big.*
+   > *Our office is quite **big**.*
 
 2. Very important:
 
->> *This is a big decision.*
+   > *This is a **big** decision.*
 
 3. Successful:
 
->> *Milan is a big fashion hub.*
+   > *Milan is a **big** fashion hub.*
 
 4. Powerful:
 
->> *There was a big earthquake yesterday.*
+   > *There was a **big** earthquake yesterday.*
 
 5. Of a large degree:
 
->> *She is a big fan of that movie.*
+   > *She is a **big** fan of that movie.*
 
->> *People of our generation are big social media users.*
+   > *People of our generation are **big** social media users.*
 
 6. Older (informal):
 
->> *Have you met my big brother yet?*
+   > *Have you met my **big** brother yet?*
 
 7. With fixed phrases:
 
-    - big fish
-    - big deal
-    - The Big Apple
-    - to think big, etc.
+   - big fish
 
-Use **large** in the following cases:
+   - big deal
 
-1.  More than average. Same meaning as **big**, but more formal:
+   - The Big Apple
 
->> *The town was quite large with lots of business buildings.*
+   - to think big, etc.
 
-2.  With quantity words:
+Use ***large*** in the following cases:
 
-    - a large area
-    - a large volume
-    - a large part of
-    - to a large extent
-    - a large amount
-    - on a large scale
-    - a large number of
-    - a large quantity of
-    - a large proportion
-    - a large percentage of
+1. More than average. Same meaning as ***big***, but more formal:
 
-3.  Body sizes. Following the convention, clothing sizes are Small (S),
-    Medium (M) and Large (L). In very rare occasions will you see
-    Big (B) instead. Calling someone \'fat\' or \'chubby\' does not
-    sound nice to anyone\'s ears, so in most cases, it is better to
-    leave it out and not mention it. However, if you really need to
-    describe someone and you have to mention their \'largeness\', it
-    sounds nicer to say **large** than anything else.
+   > *The town was quite **large** with lots of business buildings.*
 
->> *Please, go talk to the chairman of the conference, he\'s super nice and
-helpful. If you don\'t know him, he is the **large** man in the navy suit.*
+2. With quantity words:
 
-4.  With fixed phrases:
+   - a large area
 
-    - At large:
+   - a large volume
 
-        -   Free, not captured yet:
+   - a large part of
 
-        >> *The police haven't caught the thief yet; he is still **at large**.*
+   - to a large extent
 
-        -   In general:
+   - a large amount
 
-        >> *There has been a loss of community values in society **at large**.*
+   - on a large scale
 
-    - By and large (in general, overall):
+   - a large number of
 
-        > ***By and large**, the company has been very good to me over the last
-          couple of years.*
+   - a large quantity of
 
-    - Larger than life:
+   - a large proportion
 
-        -   A person that attracts special attention because of their
-            flamboyant appearance or behavior:
+   - a large percentage of
 
-        >> *I've always thought that the marketing manager seemed **larger than life**.*
+3. Body sizes. Following the convention, clothing sizes are Small (S), Medium
+   (M) and Large (L). In very rare occasions will you see Big (B) instead.
+   Calling someone *fat* or *chubby* does not sound nice to anyone’s ears, so
+   in most cases, it is better to leave it out and not mention it. However, if
+   you really need to describe someone and you have to mention their
+   *largeness*, it sounds nicer to say ***large*** than anything else.
 
-        - Something that seems disproportionately important:
+   > *Please, go talk to the chairman of the conference, he’s super nice and
+     helpful. If you don’t know him, he is the **large** man in the navy suit.*
 
-        >> *Your problems always seem **larger than life** at that time of night.*
+4. With fixed phrases:
+
+   - At large:
+
+     - Free, not captured yet:
+
+       > *The police haven’t caught the thief yet; he is still **at large**.*
+
+     - In general:
+
+       > *There has been a loss of community values in society **at large**.*
+
+   - By and large (in general, overall):
+
+     > ***By and large**, the company has been very good to me over the last
+       couple of years.*
+
+   - Larger than life:
+
+     - A person that attracts special attention because of their flamboyant
+       appearance or behavior:
+
+       > *I’ve always thought that the marketing manager seemed **larger than
+         life**.*
+
+     - Something that seems disproportionately important:
+
+       > *Your problems always seem **larger than life** at that time of
+         night.*
 
 [*Source*](https://blog.talaera.com/grammar-tips-big-vs-large)
 
