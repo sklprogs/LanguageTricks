@@ -4180,24 +4180,24 @@ interpretation which must allow for possibilities.
 
 ## задание \| задача
 
-**Задача** существует в контексте цели, **задание** &mdash;
-в контексте процесса.
+***Задача*** существует в контексте цели, ***задание*** &mdash; в контексте
+процесса.
 
-Например, мастер на автовазе дает слесарю ***задание*** *выточить
-деталь*. В данном случае процесс &mdash; это производство автомобиля.
-Если задание не выполнено, то возможно альтернативное задание
-в рамках процесса, например, *«Купить на Ali Express эту деталь»*.
+Например, мастер на автовазе дает слесарю ***задание*** *выточить деталь*. В
+данном случае процесс &mdash; это производство автомобиля. Если задание не
+выполнено, то возможно альтернативное задание в рамках процесса, например,
+*«Купить на Ali Express эту деталь»*.
 
-Но *«Выпускать надежные авто»* &mdash; это уже ***задача***. В данном
-случае целью может быть *«Делать лучшие автомобили в мире»*, и если
-не выполнить поставленную задачу, то цель не может быть достигнута.
-Но задача в отличие от задания менее точно описана, она указывает
-лишь направление, а исполнители следуя указанному курсу могут сами
-решать какие ресурсы и методы использовать для ее достижения.
+Но *«Выпускать надежные авто»* &mdash; это уже ***задача***. В данном случае
+целью может быть *«Делать лучшие автомобили в мире»*, и если не выполнить
+поставленную задачу, то цель не может быть достигнута. Но ***задача*** в
+отличие от ***задания*** менее точно описана, она указывает лишь направление, а
+исполнители следуя указанному курсу могут сами решать какие ресурсы и методы
+использовать для ее достижения.
 
-У ***задачи*** есть какой-то определенный ответ. Ответом
-на ***задание*** же может быть как конкретное число, так и некоторый
-мало-мальски расплывчатый ответ.
+У ***задачи*** есть какой-то определенный ответ. Ответом на ***задание*** же
+может быть как конкретное число, так и некоторый мало-мальски расплывчатый
+ответ.
 
 > *Шахматная **задача***
 
@@ -4221,16 +4221,15 @@ interpretation which must allow for possibilities.
 
 > *He **died by** a bullet.*
 
-If you fell twenty stories, we might say that you ***died from***
-falling, but you ***died of*** massive trauma and bloodloss (caused
-by the fall).
+If you fell twenty stories, we might say that you ***died from*** falling, but
+you ***died of*** massive trauma and bloodloss (caused by the fall).
 
-Both *died of cancer* or *died from cancer* would probably be
-acceptable to an English speaker.
+Both *died of cancer* or *died from cancer* would probably be acceptable to an
+English speaker.
 
-When someone ***dies by** the sword*, for example, we don’t literally
-mean that they died from a sword to the heart. Rather we mean that
-they were prone to violence, and themselves died violently.
+When someone ***dies by** the sword*, for example, we don’t literally mean that
+they died from a sword to the heart. Rather we mean that they were prone to
+violence, and themselves died violently.
 
 You would more commonly see *death by X* as opposed to *died by X*:
 
@@ -4242,28 +4241,25 @@ You would more commonly see *death by X* as opposed to *died by X*:
 
 ## maximal \| maximum, minimal \| minimum
 
-**Maximum** and **minimum** relate to absolute values — there is
+***Maximum*** and ***minimum*** relate to absolute values&mdash;there is
 nothing higher than the maximum and nothing lower than the minimum.
                                                                                                     
-***Minimal***  means *very small* as opposed to *the lowest
-possible*; the same distinction is true of ***maximum*** and
-***maximal***:
+***Minimal***  means *very small* as opposed to *the lowest possible*; the same
+distinction is true of ***maximum*** and ***maximal***:
 
 > *I want to buy this at **minimal** cost.*
 
 > *This action carries a **minimal** risk.*
 
-In some areas of mathematics (e.g., in *maximal element*, *maximal
-matching*), a *maximal value* (you can’t use *the* with this meaning)
-is essentially a local maximum&mdash;it’s a maximum value in its
-neighborhood.
+In some areas of mathematics (e.g., in *maximal element*, *maximal matching*),
+a *maximal value* (you can’t use *the* with this meaning) is essentially a
+local maximum&mdash;it’s a maximum value in its neighborhood.
 
-A *clique* is a set of people all of whom know each other. A clique
-is ***maximal*** if adding anyone else to the set destroys the clique
-property, that is, there is no larger clique that contains it.
-A clique is ***maximum*** if there is no larger clique. There can be
-many maximum cliques. Every maximum clique is maximal, but not
-vice-versa.
+A *clique* is a set of people all of whom know each other. A clique is
+***maximal*** if adding anyone else to the set destroys the clique property,
+that is, there is no larger clique that contains it. A clique is ***maximum***
+if there is no larger clique. There can be many maximum cliques. Every maximum
+clique is maximal, but not vice-versa.
 
 [*Source*](https://english.stackexchange.com/questions/38260/maximum-vs-maximal)
 
@@ -4327,42 +4323,42 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 **Критический**:
 
-  - содержащий критику:
+- содержащий критику:
 
-    > ***Критическая** статья*
+  > ***Критическая** статья*
 
-  - находящийся в состоянии кризиса, опасный:
+- находящийся в состоянии кризиса, опасный:
 
-    > ***Критическая** ситуация*
+  > ***Критическая** ситуация*
 
-  - обладающий способностью к критике:
+- обладающий способностью к критике:
 
-    > ***Критический** ум* — способный относиться с критикой
-      к чему-нибудь, видеть недостатки
+  > ***Критический** ум* &mdash; способный относиться с критикой к чему-нибудь,
+    видеть недостатки
 
-    > ***Критически** мыслить* — быть настроенным на поиск ошибок или
-      недоработок
+  > ***Критически** мыслить* &mdash; быть настроенным на поиск ошибок или
+    недоработок
 
-    > ***Критически** настроен* — воспринимать все скептически
+  > ***Критически** настроен* &mdash; воспринимать все скептически
 
 **Критичный**:
 
-  - наиболее важный, решающий:
+- наиболее важный, решающий:
 
-    > ***Критичный** период*
+  > ***Критичный** период*
 
-  - содержащий в себе критику, исполненный критики:
+- содержащий в себе критику, исполненный критики:
 
-    > ***Критичный** тон* — тон разговора, исполненный критики
-      (возможно, надменности)
+  > ***Критичный** тон* &mdash; тон разговора, исполненный критики (возможно,
+    надменности)
 
-    > ***Критичный** подход* — подход к чему-либо с позиции недоверия
+  > ***Критичный** подход* &mdash; подход к чему-либо с позиции недоверия
 
-    > ***Критичный** человек* — человек, который склонен критиковать,
-      не доверять
+  > ***Критичный** человек* &mdash; человек, который склонен критиковать, не
+    доверять
 
-    > ***Критичный** склад ума* — склад ума, при котором человек
-      склонен искать подвох, ошибки, прочее
+  > ***Критичный** склад ума* &mdash; склад ума, при котором человек склонен
+    искать подвох, ошибки, прочее
 
 См. также [critical \| crucial](#critical--crucial)
 
@@ -4382,23 +4378,21 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 # critical \| crucial
 
-**critical**:
+**Critical**:
 
-  - very judgmental:
+- very judgmental:
 
-    > *Don’t you think you’re being too **critical** about my
-    report?*
+  > *Don’t you think you’re being too **critical** about my report?*
 
-  - an element of danger is often implied:
+- an element of danger is often implied:
 
-    > ***Critical** condition*
+  > ***Critical** condition*
 
-**crucial**:
+**Crucial**:
 
-  - of the utmost importance:
+- of the utmost importance:
 
-    > *It’s **crucial** that you get this paperwork done before work
-      ends.*
+  > *It’s **crucial** that you get this paperwork done before work ends.*
 
 [*Source*](https://ru.hinative.com/questions/736734)
 
@@ -4408,24 +4402,24 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 
 **moment**:
 
-  - a point of time (instant):
+- a point of time (instant):
 
-    > *A **moment** of dreadful suspense*
+  > *A **moment** of dreadful suspense*
 
-  - a comparatively brief period of time:
+- a comparatively brief period of time:
 
-    > ***Moments** of solitude*
+  > ***Moments** of solitude*
 
-**instant**&mdash;an infinitesimal[^infinitesimal] space of time,
-especially a point in time separating two states:
+**instant**&mdash;an infinitesimal[^infinitesimal] space of time, especially a
+point in time separating two states:
 
 > *At the **instant** of death*
 
-A ***moment*** is a short period of time which can represent anything
-from an instant up to several minutes, whereas an ***instant*** is
-the shortest possible moment.
+A **moment** is a short period of time which can represent anything from an
+instant up to several minutes, whereas an **instant** is the shortest possible
+moment.
 
-[^infinitesimal]: `['ɪnfɪnɪ'tesɪm(ə)l]`, бесконечно малый
+[^infinitesimal]: \['ɪnfɪnɪ'tesɪm(ə)l\], бесконечно малый
 
 *Sources: [1](https://www.quora.com/Whats-the-difference-between-moment-and-instant),
 [2](https://www.merriam-webster.com/dictionary/instant)*
