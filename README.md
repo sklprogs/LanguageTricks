@@ -126,6 +126,8 @@
 
 [die by \| die from \| die of](#die-by--die-from--die-of)
 
+[directive \| instruction](#directive--instruction)
+
 [disperse \| dissolve](#disperse--dissolve)
 
 [disturbance (plural)](#disturbance-plural)
@@ -1087,7 +1089,7 @@ words that start with the letters after A.
   we spend on food.*
 
 They can be used interchangeably if there is no order to what is being started
-with/from, though with is more correct in my opinion. When order matters,
+with/from, though ***with*** is more correct in my opinion. When order matters,
 ***starting from*** includes all items starting with and coming after.
 
 [*Source*](https://english.stackexchange.com/questions/112972/starting-with-vs-starting-from/112975)
@@ -4644,6 +4646,41 @@ Raw goods used for military construction projects could be a case where
 
 ***
 
+## argument \| key \| option \| parameter
+
+**Parameter**&mdash;a variable in the declaration of a function.
+
+**Argument**&mdash;the actual value of this variable that gets passed to the
+function.
+
+***Parameters*** are named at declaration time, ***arguments*** are known only
+at call time.
+
+[*Source*](https://stackoverflow.com/questions/156767/whats-the-difference-between-an-argument-and-a-parameter)
+
+***
+
+## directive \| instruction
+
+### IT
+
+An ***instruction*** is directly translated to something the CPU can execute. A
+***directive*** is something the assembler can interpret and use it while
+assembling, it does not produce any machine code.
+
+### General
+
+A **directive** is mainly an order, usually issued by an authority. A directive
+may establish policy, assign responsibilities, define objectives and delegate
+authority. ***Instructions***, on the other hand, act as guidelines. They often
+appear as a series of steps or stages one must complete one after the other.
+Instructions are mainly associated with instruction or teaching.
+
+*Sources: [1](https://de-engineer.github.io/Understanding-booting-process-and-writing-own-os),
+[2](http://www.differencebetween.info/difference-between-directive-and-instruction)*
+
+***
+
 ## usage
 
 countable or uncountable
@@ -4793,20 +4830,6 @@ quora.com
 
 
 [*Source*]()
-
-***
-
-## argument \| key \| option \| parameter
-
-**Parameter**&mdash;a variable in the declaration of a function.
-
-**Argument**&mdash;the actual value of this variable that gets passed to the
-function.
-
-***Parameters*** are named at declaration time, ***arguments*** are known only
-at call time.
-
-[*Source*](https://stackoverflow.com/questions/156767/whats-the-difference-between-an-argument-and-a-parameter)
 
 ***
 
