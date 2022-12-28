@@ -144,6 +144,8 @@
 
 [dummy \| fake \| mock \| stub](#dummy--fake--mock--stub)
 
+[during \| while](#during--while)
+
 [during \| within](#during--within)
 
 [duty \| responsibility](#duty--responsibility)
@@ -4690,7 +4692,43 @@ Instructions are mainly associated with instruction or teaching.
 *A **method for** teaching* = a system designed for teaching
 
 *Sources: [1](https://hinative.com/questions/14244463),
-[2](https://forum.wordreference.com/threads/a-method-of-vs-a-method-for.3371036/)*
+[2](https://forum.wordreference.com/threads/a-method-of-vs-a-method-for.3371036)*
+
+***
+
+## during \| while
+
+**During** is a preposition followed by a noun or pronoun.
+
+**While** is a conjunction followed by a clause.
+
+*I learned some Russian **while** I was studying in Russia.*
+
+*I met a nice French girl **during** my stay in Switzerland.*
+
+### during + ing vs while + ing:
+
+A participial phrase[^participial-phrase] in which the present
+participle[^present-participle] *reading* modifies *I*:
+
+***While reading** the book, I fell asleep.*
+
+~~***During reading** the book*...~~
+
+For the present participle, you should use **while**. For it to be a gerund, it
+needs a determiner:
+
+***During my reading** the book, I fell asleep.*
+
+That’s a bit awkward, but grammatically correct.
+
+[^participial-phrase]: причастный оборот
+
+[^present-participle]: причастие настоящего времени
+
+*Sources: [1](https://www.englishgrammar.org/while-and-during),
+[2](https://forum.wordreference.com/threads/during-vs-while-gerund.2624153),
+[3](https://ell.stackexchange.com/questions/261606/is-it-possible-to-use-gerund-after-during)*
 
 ***
 
