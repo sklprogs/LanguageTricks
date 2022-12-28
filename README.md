@@ -4743,10 +4743,10 @@ indicated or experienced:
 
 ***It*** identifies the person, and ***this*** introduces the person.
 
-> *This is my mother.* \[You are introducing your mother to your friends\]
+> ***This** is my mother.* \[You are introducing your mother to your friends\]
 
-> *It’s my mother.* \[You get a call from your mother when you are with your
-  friends, and you want to identify the caller\]
+> ***It**’s my mother.* \[You get a call from your mother when you are with
+  your friends, and you want to identify the caller\]
 
 [*Source*](https://wabstalk.com/difference-between-it-and-this-meaning-usage-and-important)
 
