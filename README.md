@@ -220,6 +220,8 @@
 
 [interfere in \| interfere with](#interfere-in--interfere-with)
 
+[it is \| this is](#it-is--this-is)
+
 [knowledge about \| knowledge of \| ~~knowledge on~~](#knowledge-about--knowledge-of--knowledge-on)
 
 [lack \| miss](#lack--miss)
@@ -4700,25 +4702,25 @@ Instructions are mainly associated with instruction or teaching.
 
 **During** is a preposition followed by a noun or pronoun:
 
-*I learned some Russian **while** I was studying in Russia.*
+> *I learned some Russian **while** I was studying in Russia.*
 
 **While** is a conjunction followed by a clause:
 
-*I met a nice French girl **during** my stay in Switzerland.*
+> *I met a nice French girl **during** my stay in Switzerland.*
 
 ### during + ing vs while + ing:
 
 A participial phrase[^participial-phrase] in which the present
 participle[^present-participle] *reading* modifies *I*:
 
-***While reading** the book, I fell asleep.*
+> ***While reading** the book, I fell asleep.*
 
-~~***During reading** the book*...~~
+> ~~***During reading** the book*...~~
 
 For the present participle, you should use **while**. For it to be a gerund, it
 needs a determiner:
 
-***During my reading** the book, I fell asleep.*
+> ***During my reading** the book, I fell asleep.*
 
 That’s a bit awkward, but grammatically correct.
 
@@ -4729,6 +4731,24 @@ That’s a bit awkward, but grammatically correct.
 *Sources: [1](https://www.englishgrammar.org/while-and-during),
 [2](https://forum.wordreference.com/threads/during-vs-while-gerund.2624153),
 [3](https://ell.stackexchange.com/questions/261606/is-it-possible-to-use-gerund-after-during)*
+
+***
+
+## it is \| this is
+
+**This** is used to identify a specific person or thing close by or being
+indicated or experienced:
+
+> ***This** is the Spoken English Institute I told you about.*
+
+***It*** identifies the person, and ***this*** introduces the person.
+
+> *This is my mother.* \[You are introducing your mother to your friends\]
+
+> *It’s my mother.* \[You get a call from your mother when you are with your
+  friends, and you want to identify the caller\]
+
+[*Source*](https://wabstalk.com/difference-between-it-and-this-meaning-usage-and-important)
 
 ***
 
