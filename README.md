@@ -238,6 +238,8 @@
 
 [means](#means)
 
+[method for \| method of](#method-for--method-of)
+
 [miss from \| miss in](#miss-from--miss-in)
 
 [need for \| need of](#need-for--need-of)
@@ -4678,6 +4680,17 @@ Instructions are mainly associated with instruction or teaching.
 
 *Sources: [1](https://de-engineer.github.io/Understanding-booting-process-and-writing-own-os),
 [2](http://www.differencebetween.info/difference-between-directive-and-instruction)*
+
+***
+
+## method for \| method of
+
+**Method of** is how you do it. *A **method of** teaching* = a way to teach
+
+*A **method for** teaching* = a system designed for teaching
+
+*Sources: [1](https://hinative.com/questions/14244463),
+[2](https://forum.wordreference.com/threads/a-method-of-vs-a-method-for.3371036/)*
 
 ***
 
