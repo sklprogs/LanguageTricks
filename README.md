@@ -4722,9 +4722,9 @@ needs a determiner:
 
 That’s a bit awkward, but grammatically correct.
 
-[^participial-phrase]: причастный оборот
+[^participial-phrase]: participial phrase = причастный оборот
 
-[^present-participle]: причастие настоящего времени
+[^present-participle]: present participle = причастие настоящего времени
 
 *Sources: [1](https://www.englishgrammar.org/while-and-during),
 [2](https://forum.wordreference.com/threads/during-vs-while-gerund.2624153),
