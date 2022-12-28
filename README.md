@@ -4698,11 +4698,11 @@ Instructions are mainly associated with instruction or teaching.
 
 ## during \| while
 
-**During** is a preposition followed by a noun or pronoun.
-
-**While** is a conjunction followed by a clause.
+**During** is a preposition followed by a noun or pronoun:
 
 *I learned some Russian **while** I was studying in Russia.*
+
+**While** is a conjunction followed by a clause:
 
 *I met a nice French girl **during** my stay in Switzerland.*
 
