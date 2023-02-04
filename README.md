@@ -4846,7 +4846,7 @@ pediaa.com
 
 ***
 
-## assume \| imply \| infer \| suggest \| suppose
+## assume \| imply \| infer \| presume \| suggest \| suppose
 
 [*Source*]()
 
@@ -4911,6 +4911,172 @@ quora.com
 ***
 
 ## log in to
+
+[*Source*]()
+
+***
+
+## ensure \| insure
+
+[*Source*]()
+
+***
+
+## illegit \| illegitimate \| illicit
+
+[*Source*]()
+
+***
+
+## absent \| missing
+
+[*Source*]()
+
+***
+
+## any longer \| anymore
+
+[*Source*](teasing a child)
+
+***
+
+## point at \| point to
+
+[*Source*]()
+
+***
+
+## on the list \| in the list
+
+[*Source*]()
+
+***
+
+## menace \| threat
+
+[*Source*]()
+
+***
+
+## issue \| problem
+
+[*Source*]()
+
+***
+
+## install in \| install on \| install to
+
+See also: [installation \| setup](#installation--setup)
+
+[*Source*]()
+
+***
+
+## запрос на \| запрос о
+
+[*Source*]()
+
+***
+
+## upon \| when
+
+[*Source*]()
+
+***
+
+## change \| modify
+
+[*Source*]()
+
+***
+
+## notify of \| notify on
+
+[*Source*]()
+
+***
+
+## partition \| volume
+
+[*Source*]()
+
+***
+
+## if \| in case
+
+[*Source*]()
+
+***
+
+## special \| specialized
+
+[*Source*]()
+
+***
+
+## along with \| together with
+
+[*Source*](AruAruEigo hinative.com)
+
+***
+
+## statistics about \| statistics on
+
+[*Source*](wordreference.com)
+
+***
+
+## according to \| according with
+
+[*Source*]()
+
+***
+
+## safety \| security
+
+[*Source*]()
+
+***
+
+## испугать \| напугать
+
+[*Source*]()
+
+***
+
+## pass \| transfer \| transmit \| transport
+
+[*Source*]()
+
+***
+
+## compare against \| compare to
+
+See also: [compare to \| compare with](#compare-to-compare-with)
+
+[*Source*](oneminuteenglish.org)
+
+***
+
+## there are a lot of \| there is a lot of
+
+[*Source*]()
+
+***
+
+## incursion \| invasion
+
+[*Source*]()
+
+***
+
+## choose \| select
+
+[*Source*]()
+
+***
+
+## sick \| sickly
 
 [*Source*]()
 
