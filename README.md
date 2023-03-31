@@ -62,6 +62,8 @@
 
 [can be further \| can further be](#can-be-further--can-further-be)
 
+[cannot \| failed \| unable](#cannot--failed--unable)
+
 [cause \| reason](#cause--reason)
 
 [check \| check that \| validate \| verify](#check--check-that--validate--verify)
@@ -4752,6 +4754,27 @@ indicated or experienced:
 
 ***
 
+## cannot \| failed \| unable
+
+***Unable*** is about not being able to perform an action or achieve a result
+due to certain circumstances.
+
+***Fail*** is about making an effort and getting an unsuccessful result.
+
+***Cannot*** is about not having the general possibility to do something.
+
+> ***Unable** to perform the operation because the current plan state is
+\{stateName\}.* \[circumstances that prevent us from performing the action\]
+
+> ***Failed** to delete the account.* \[we tried but did not succeed\]
+
+> *You **cannot** select more than ${maxItems} items.* \[no general possibility
+to perform the action\]
+
+[*Source*](https://helpcenter.veeam.com/docs/styleguide/tw/unable_failed_cannot.html)
+
+***
+
 ## usage
 
 countable or uncountable
@@ -5077,6 +5100,18 @@ See also: [compare to \| compare with](#compare-to-compare-with)
 ***
 
 ## sick \| sickly
+
+[*Source*]()
+
+***
+
+## built-in \| in-built
+
+[*Source*]()
+
+***
+
+## докер \| портовик
 
 [*Source*]()
 
