@@ -4945,9 +4945,9 @@ quora.com
 
 ***
 
-## illegit \| illegitimate \| illicit
+## illegal \| illegit \| illegitimate \| illicit
 
-[*Source*]()
+[*Source*](stackexchange.com)
 
 ***
 
@@ -5112,6 +5112,87 @@ See also: [compare to \| compare with](#compare-to-compare-with)
 ***
 
 ## докер \| портовик
+
+[*Source*]()
+
+***
+
+## R \| TM
+
+*Sources: [1](https://www.e-startupindia.com/learn/difference-between-trademark-and-registered-trademark-symbol),
+[2](https://cleartax.in/s/registered-unregistered-trademark-differences)*
+
+***
+
+## consist of \| comprise
+
+[*Source*]()
+
+***
+
+## excess \| extra
+
+[*Source*]()
+
+***
+
+## initiate \| start
+
+[*Source*]()
+
+***
+
+## one \| single
+
+[*Source*]()
+
+***
+
+## creature \| critter
+
+[*Source*]()
+
+***
+
+## outside \| outside of
+
+[*Source*]()
+
+***
+
+## protect against \| protect from
+
+[*Source*]()
+
+***
+
+## divide into \| divide to
+
+See also [divide \| separate](#divide--separate)
+
+[*Source*]()
+
+***
+
+## incorrect \| invalid
+
+[*Source*]()
+
+***
+
+## any \| any of
+
+[*Source*]()
+
+***
+
+## aim at \| aim for \| aim to
+
+[*Source*]()
+
+***
+
+## safety \| security
 
 [*Source*]()
 
