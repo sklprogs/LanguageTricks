@@ -5198,3 +5198,39 @@ See also [divide \| separate](#divide--separate)
 
 ***
 
+## no less than \| not less than
+
+[*Source*]()
+
+***
+
+## embed in \| embed into \| ~~embed to~~
+
+[*Source*]()
+
+***
+
+## integrate into \| integrate with
+
+[*Source*](https://www.noslangues-outlanguages.gc.ca/en/writing-tips-plus/integrate-integrate-into-integrate-with)
+
+***
+
+## and so on \| etc.
+
+[*Source*]()
+
+***
+
+## match \| match against \| match to \| match with
+
+[*Source*](languagetips.wordpress.com)
+
+***
+
+## for all of these \| for all these
+
+[*Source*]()
+
+***
+
