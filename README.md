@@ -5234,3 +5234,69 @@ See also [divide \| separate](#divide--separate)
 
 ***
 
+## split into \| split to
+
+[*Source*]()
+
+***
+
+## being used \| in use
+
+[*Source*]()
+
+***
+
+## download onto \| download to
+
+[*Source*]()
+
+***
+
+## common \| general
+
+[*Source*]()
+
+***
+
+## reason for \| reason of
+
+[*Source*]()
+
+***
+
+## acknowledge \| consider \| recognize \| regard
+
+[*Source*](forum.wordreference.com)
+
+***
+
+## depend on \| depend upon
+
+[*Source*]()
+
+***
+
+## handle \| process
+
+[*Source*]()
+
+***
+
+## irrespective of \| irrespectively of
+
+[*Source*]()
+
+***
+
+## equivalent of \| equivalent to
+
+[*Source*]()
+
+***
+
+## none has \| none have
+
+[*Source*]()
+
+***
+
