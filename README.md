@@ -5300,3 +5300,32 @@ See also [divide \| separate](#divide--separate)
 
 ***
 
+## warn about \| warn of \| warn on
+
+[*Source*]()
+
+***
+
+## expert \| specialist
+
+[*Source*]()
+
+***
+
+## multiple \| several
+
+[*Source*]()
+
+***
+
+## element \| item
+
+[*Source*]()
+
+***
+
+## corresponding \| respective
+
+[*Source*]()
+
+***
