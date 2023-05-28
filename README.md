@@ -176,6 +176,8 @@
 
 [experience \| an experience \| experiences](#experience--an-experience--experiences)
 
+[expert \| specialist](#expert--specialist)
+
 [explanation](#explanation)
 
 [explanation for \| explanation of \| explanation to](#explanation-for--explanation-of--explanation-to)
@@ -187,6 +189,8 @@
 [furthermore, however, moreover, therefore (punctuation)](#furthermore-however-moreover-therefore-punctuation)
 
 [gain \| profit](#gain--profit)
+
+[handle \| process](#handle--process)
 
 [hear about \| hear of](#hear-about--hear-of)
 
@@ -239,6 +243,8 @@
 [material \| materiel](#material--materiel)
 
 [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
+
+[menace \| threat](#menace--threat)
 
 [minimal \| minimum](#minimal--minimum)
 
@@ -4775,6 +4781,80 @@ to perform the action\]
 
 ***
 
+## expert \| specialist
+
+**Expert**&mdash;you know something well, or are good at doing it. You may or
+may not be good at other things.
+
+**Specialist**&mdash;you specialise in that thing. You may or may not be good
+at it.
+
+***Specialist*** = wide knowledge + less experience
+
+***Expert*** = extensive knowledge + extensive experience
+
+[*Source*](https://www.italki.com/en/post/question-455449)
+
+***
+
+## handle \| process
+
+***Handle***&mdash;something physical, does something to help the general
+function. To manage it, deal with it.
+                                                                                                                                                                                              
+***Process*** infers more of an operation by a machine or something that a
+computer does.
+
+There’s often no difference intended. ***Process*** sometimes suggests that
+there is a standard method already established to do something. So, if it’s a
+new problem or situation, you can ***handle*** it, but not really process it.
+
+*Sources: [1](https://forum.wordreference.com/threads/process-vs-handle.2012584),
+[2](https://www.englishforums.com/English/ProcessVsHandle/xmdhq/post.htm)*
+
+***
+
+## menace \| threat
+
+**Threat**: potential to danger                                                                                                                                                                   
+
+**Menace**: bothersome
+
+Both menace and threat are used to describe someone or something that is
+dangerous and will probably cause trouble:                                                                        
+                                                                                                                                                                                              
+> *I don’t see my new coworker as a **threat** to my position in the office.*
+
+> *“Injustice anywhere is a **threat** to justice everywhere.”&mdash;Martin
+  Luther King, Jr.*
+
+> *If you drink and drive, you are a **menace** to public safety.*
+
+> *I could hear the **menace** in Jenny’s voice.*
+
+However, ***threat*** would not be the right word to describe an unruly little
+boy. While ***menace*** is also used to mean *annoying*, ***threat*** implies
+something more serious.
+
+If you make a threat, it means you state that you are planning to cause
+somebody harm:
+                                                                                                                                                                                              
+> *After publishing the article, the journalist received death **threats**.*
+
+> *John is prepared to carry out his **threat** to fire underachieving
+  employees.*
+
+*Sources: [1](https://ru.hinative.com/questions/257159),
+[2](https://www.myenglishteacher.eu/blog/menace-threat-difference)*
+
+***
+
+## issue \| problem
+
+[*Source*]()
+
+***
+
 ## usage
 
 countable or uncountable
@@ -4970,18 +5050,6 @@ quora.com
 ***
 
 ## on the list \| in the list
-
-[*Source*]()
-
-***
-
-## menace \| threat
-
-[*Source*]()
-
-***
-
-## issue \| problem
 
 [*Source*]()
 
@@ -5276,12 +5344,6 @@ See also [divide \| separate](#divide--separate)
 
 ***
 
-## handle \| process
-
-[*Source*]()
-
-***
-
 ## irrespective of \| irrespectively of
 
 [*Source*]()
@@ -5306,12 +5368,6 @@ See also [divide \| separate](#divide--separate)
 
 ***
 
-## expert \| specialist
-
-[*Source*]()
-
-***
-
 ## multiple \| several
 
 [*Source*]()
@@ -5325,6 +5381,12 @@ See also [divide \| separate](#divide--separate)
 ***
 
 ## corresponding \| respective
+
+[*Source*]()
+
+***
+
+## damage \| harm
 
 [*Source*]()
 
