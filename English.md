@@ -5139,3 +5139,98 @@ See also [divide \| separate](#divide--separate)
 [*Source*]()
 
 ***
+
+## hare \| rabbit
+
+[*Source*]()
+
+***
+
+## disguise \| guise
+
+[*Source*]()
+
+***
+
+## match to \| match with
+
+[*Source*](languagetips.wordpress.com)
+
+***
+
+## light \| lite
+
+[*Source*](gingersoftware.com)
+
+***
+
+## dealer \| distibutor \| vendor
+
+[*Source*](tutorialspoint.com)
+
+***
+
+## the moment \| the moment that \| the moment when
+
+[*Source*]()
+
+***
+
+## at the level \| on the level
+
+[*Source*]()
+
+***
+
+## element \| item
+
+[*Source*]()
+
+***
+
+## being used \| in use
+
+[*Source*]()
+
+***
+
+## corresponding \| respective
+
+[*Source*]()
+
+***
+
+## all of the \| all the
+
+[*Source*]()
+
+***
+
+## change \| modify
+
+[*Source*](langeek.co)
+
+***
+
+## I assure you \| I can assure you
+
+*See also*: [assure of that \| assure that](#assure-of-that--assure-that)
+
+[*Source*]()
+
+***
+
+## assure of that \| assure that
+
+*See also*: [I assure you \| I can assure you](#i-assure-you--i-can-assure-you)
+
+[*Source*]()
+
+***
+
+## not available \| unavailable
+
+[*Source*]()
+
+***
+
