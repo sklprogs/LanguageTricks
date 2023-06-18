@@ -58,6 +58,8 @@
 
 [bound to \| bound with](#bound-to--bound-with)
 
+[bunny \| rabbit](#bunny--rabbit)
+
 [by email \| ~~through email~~ \| via email](#by-email--through-email--via-email)
 
 [can be further \| can further be](#can-be-further--can-further-be)
@@ -129,6 +131,8 @@
 [die by \| die from \| die of](#die-by--die-from--die-of)
 
 [directive \| instruction](#directive--instruction)
+
+[disguise \| guise](#disguise--guise)
 
 [disperse \| dissolve](#disperse--dissolve)
 
@@ -4609,6 +4613,34 @@ somebody harm:
 
 ***
 
+## bunny \| rabbit
+
+***Bunny*** is a term used to refer to rabbits affectionately or even baby
+rabbits. The main difference is just that ***bunnies*** are young and
+***rabbits*** are adults.
+
+Baby rabbits can also be referred to as kittens, kits, or kitties.
+
+[*Source*](https://a-z-animals.com/blog/bunny-vs-rabbit-3-main-differences)
+
+***
+
+## disguise \| guise
+
+***Guise*** is generally used to describe a behavior where ***disguise*** is
+generally about appearance, clothing etc.
+
+Both involve the art of deception: it’s the methods that differ. ***Guise*** is
+about trying on new attitudes and mannerisms, such as speaking and acting in
+the guise of a native in a place where you are actually a tourist.
+***Disguise*** involves hiding your real identity, disappearing in the new
+role.
+
+*Sources: [1](https://www.italki.com/en/post/question-90806),
+[2](https://www.vocabulary.com/dictionary/guise)*
+
+***
+
 ## issue \| problem
 
 [*Source*]()
@@ -4696,10 +4728,6 @@ wikidiff.com
 pediaa.com
 
 [*Source*]()
-
-***
-
-## специфичный = специфический
 
 ***
 
@@ -5140,18 +5168,6 @@ See also [divide \| separate](#divide--separate)
 
 ***
 
-## hare \| rabbit
-
-[*Source*]()
-
-***
-
-## disguise \| guise
-
-[*Source*]()
-
-***
-
 ## match to \| match with
 
 [*Source*](languagetips.wordpress.com)
@@ -5234,3 +5250,8 @@ See also [divide \| separate](#divide--separate)
 
 ***
 
+## fool \| trick
+
+[*Source*]()
+
+***
