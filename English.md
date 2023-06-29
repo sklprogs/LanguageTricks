@@ -5255,3 +5255,16 @@ See also [divide \| separate](#divide--separate)
 [*Source*]()
 
 ***
+
+## common interest \| shared interest
+
+[*Source*]()
+
+***
+
+## be different \| differ
+
+[*Source*]()
+
+***
+
