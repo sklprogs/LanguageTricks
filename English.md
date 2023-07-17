@@ -310,6 +310,8 @@
 
 [salary \| wages](#salary--wages)
 
+[schema \| schemata \| scheme](#schema--schemata--scheme)
+
 [separated by \| separated with](#separated-by--separated-with)
 
 [shameful \| shameless](#shameful--shameless)
@@ -4641,6 +4643,35 @@ role.
 
 ***
 
+## schema \| schemata \| scheme
+
+### General
+
+***Schema*** is a more technical term than *scheme*. It refers to drawings or diagrams that provide a structured framework or outline of a plan. It is also a philosophical term referring to how categories are associated with emotion. A ***scheme*** is more generally an organized plan and, unlike *schema*, can also be used as a verb.
+
+Exception: *color scheme*. If we all spoke more strictly, this would probably be ~~*color schema*~~, but in fact, *scheme* and *schema* are very close words, both derived from one Ancient Latin/Greek word, and so in casual usage can seem interchangeable. Since scientists no longer rely on ***schema*** as an important term of scientific practice, or debate, it has lost the institutional rigor it once enjoyed and is now slowly morphing together with ***scheme***.
+
+***Schemata*** (=schemas) is a plural form of *schema*.
+
+### IT
+
+**Schema** or **scheme**:
+
+- in general terms, any organization, coding, outline or plan of concepts;
+
+- machine-processable specification which defines the structure and syntax of metadata specifications in a formal schema language.
+
+**Encoding scheme**&mdash;a set of rules for encoding information that supports a specific community of users.
+
+**Schema**&mdash;the structure of a database; encapsulates tables and columns, allows for normalization and regulation of the data being entered into the database.
+
+*Sources: [1](https://grammarhow.com/schema-vs-scheme),
+[2](https://english.stackexchange.com/questions/40702/difference-between-scheme-and-schema),
+[3](https://www.igi-global.com/dictionary/schema-or-scheme-plurals-schemas-or-schemata-schemes/42128),
+[4](https://web.archive.org/web/20201025152956/https://medium.com/the-marcy-lab-school/the-scheme-of-a-schema-f27e74ade503)*
+
+***
+
 ## issue \| problem
 
 [*Source*]()
@@ -5268,12 +5299,6 @@ See also [divide \| separate](#divide--separate)
 
 ***
 
-## schema \| scheme
-
-[*Source*]()
-
-***
-
 ## attention \| caution \| note \| warning
 
 [*Source*](proz.com)
@@ -5287,6 +5312,12 @@ See also [divide \| separate](#divide--separate)
 ***
 
 ## at location \| in location
+
+[*Source*]()
+
+***
+
+## outline \| sketch
 
 [*Source*]()
 
