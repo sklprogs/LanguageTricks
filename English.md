@@ -190,6 +190,8 @@
 
 [for + gerund \| to + infinitive](#for--gerund--to--infinitive)
 
+[~~for more detail~~ \| for more details \| in detail \| ~~in details~~ \| in more detail \| ~~in more details~~](#for-more-detail--for-more-details--in-detail--in-details--in-more-detail--in-more-details)
+
 [furthermore, however, moreover, therefore (punctuation)](#furthermore-however-moreover-therefore-punctuation)
 
 [gain \| profit](#gain--profit)
@@ -4669,6 +4671,26 @@ Exception: *color scheme*. If we all spoke more strictly, this would probably be
 [2](https://english.stackexchange.com/questions/40702/difference-between-scheme-and-schema),
 [3](https://www.igi-global.com/dictionary/schema-or-scheme-plurals-schemas-or-schemata-schemes/42128),
 [4](https://web.archive.org/web/20201025152956/https://medium.com/the-marcy-lab-school/the-scheme-of-a-schema-f27e74ade503)*
+
+***
+
+## ~~for more detail~~ \| for more details \| in detail \| ~~in details~~ \| in more detail \| ~~in more details~~
+
+> ***For more details** about the program, see the information packet.*
+
+~~***In details***~~ is never correct as we’re not using the plural form of *detail* after *in*.
+
+***In more detail*** looks at finding out about specifics for a topic. Generally, someone already has a good understanding of the basics.
+
+> *Can you discuss this project with me **in more detail**?*
+
+***In detail*** looks for a full and comprehensive explanation of something. Often, they will not already have any understanding of what’s going on.
+
+> *I need you to explain, **in detail**, why you did those things.*
+
+*Sources: [1](https://grammarhow.com/in-more-detail),
+[2](https://www.grammargiant.com/confused-words/For-More-Detail-or-For-More-Details),
+[3](https://ru.pinterest.com/pin/is-it-in-detail-or-in-details--926123110843060460)*
 
 ***
 
