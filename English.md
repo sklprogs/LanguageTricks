@@ -4727,15 +4727,15 @@ We’d be less likely to say, ~~*It’s **in use** from time to time*~~, althoug
 
 ## run in Windows \| run on Windows \| run under Windows
 
-run on windows: 602,000 results on the web
+*run on windows*: 602,000 results on the web
 
-run under windows: 278,000 results on the web
+*run under windows*: 278,000 results on the web
 
-The Corpus of Contemporary American English has twelve records for run on Windows and eleven for run under Windows. The British National Corpus shows a decisive preference for the latter, with nine records, against one for the former.
+The Corpus of Contemporary American English has twelve records for *run on* Windows and eleven for *run under* Windows. The British National Corpus shows a decisive preference for the latter, with nine records, against one for the former.
 
-Originally operating systems would be seen roughly like a set of rules, in which case you ***run under*** a set of rules. Nowadays an operating system is seen as a basis for building things upon, like a foundation, in which case you run ***on*** a foundation. Both are valid.
+Originally operating systems would be seen roughly like a set of rules, in which case you ***run under*** a set of rules. Nowadays an operating system is seen as a basis for building things upon, like a foundation, in which case you ***run on*** a foundation. Both are valid.
 
-As generic word usage, you would say *on a platform*, not *in a platform*. Saying that the program runs ***in** Linux* calls up the idea of using Linux as a container or environment. This is not wrong, but it’s less common.
+As generic word usage, you would say *on a platform*, not *in a platform*. Saying that the program ***runs in** Linux* calls up the idea of using Linux as a container or environment. This is not wrong, but it’s less common.
 
 > *A machine is **running** a certain operating system.*
 
