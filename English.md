@@ -42,6 +42,8 @@
 
 [attention \| the attention](#attention--the-attention)
 
+[be different \= differ](#be-different--differ)
+
 [before \| till \| until](#before--till--until)
 
 [beverage \| drink](#beverage--drink)
@@ -4694,6 +4696,12 @@ Exception: *color scheme*. If we all spoke more strictly, this would probably be
 
 ***
 
+## be different = differ
+
+[*Source*](https://hinative.com/questions/18946693#answer-44542133)
+
+***
+
 ## issue \| problem
 
 [*Source*]()
@@ -5310,12 +5318,6 @@ See also [divide \| separate](#divide--separate)
 ***
 
 ## common interest \| shared interest
-
-[*Source*]()
-
-***
-
-## be different \| differ
 
 [*Source*]()
 
