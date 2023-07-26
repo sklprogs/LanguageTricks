@@ -46,6 +46,8 @@
 
 [before \| till \| until](#before--till--until)
 
+[being used \| in use](#being-used--in-use)
+
 [beverage \| drink](#beverage--drink)
 
 [big \| large](#big--large)
@@ -4702,6 +4704,25 @@ Exception: *color scheme*. If we all spoke more strictly, this would probably be
 
 ***
 
+## being used \| in use
+
+Interchangeable:
+
+> *I am unable to delete this file because it is **being used** by another person or program.*
+
+> *I am unable to delete this file because it is **in use** by another person or program.*
+
+The continuous tense works better to suggest intermittent use:
+
+> It’s being used from time to time.
+
+We’d be less likely to say, ~~*It’s **in use** from time to time*~~, although it’s certainly possible.
+
+*Sources: [1](https://www.englishforums.com/English/BeingUsedVSInUse/wgwqd/post.htm),
+[2](https://forum.wordreference.com/threads/difference-between-being-used-and-used.3357676/#post-17018749)*
+
+***
+
 ## issue \| problem
 
 [*Source*]()
@@ -5140,12 +5161,6 @@ See also [divide \| separate](#divide--separate)
 ***
 
 ## split into \| split to
-
-[*Source*]()
-
-***
-
-## being used \| in use
 
 [*Source*]()
 
