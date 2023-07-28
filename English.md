@@ -192,6 +192,8 @@
 
 [explode \| implode](#explode--implode)
 
+[fast \| quick](#fast--quick)
+
 [for + gerund \| to + infinitive](#for--gerund--to--infinitive)
 
 [~~for more detail~~ \| for more details \| in detail \| ~~in details~~ \| in more detail \| ~~in more details~~](#for-more-detail--for-more-details--in-detail--in-details--in-more-detail--in-more-details)
@@ -4744,6 +4746,22 @@ As generic word usage, you would say *on a platform*, not *in a platform*. Sayin
 *Sources: [1](https://english.stackexchange.com/questions/95409/running-on-windows-vs-running-under-windows),
 [2](https://textranch.com/272675/run-on-windows/or/run-under-windows),
 [3](https://ell.stackexchange.com/questions/72067/which-is-the-right-preposition-when-referring-to-os-in-or-on)*
+***
+
+## fast \| quick
+
+**Quick** refers to something happening in a short time, or a shorter than expected time:
+
+> *We stopped for a **quick** snack.* (~~fast snack~~)
+
+> *I just need a **quick** answer.* (~~fast answer~~)
+
+**Fast** refers to things that happen or go at high speed, e.g. a train, a person running:
+
+> *She loves **fast** cars.* (~~quick cars~~)
+
+[*Source*](https://dictionary.cambridge.org/grammar/british-grammar/fast-quick-or-quickly)
+
 ***
 
 ## issue \| problem
