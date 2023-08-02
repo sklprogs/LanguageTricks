@@ -238,6 +238,8 @@
 
 [interfere in \| interfere with](#interfere-in--interfere-with)
 
+[issue \| problem](#issue--problem)
+
 [it is \| this is](#it-is--this-is)
 
 [knowledge about \| knowledge of \| ~~knowledge on~~](#knowledge-about--knowledge-of--knowledge-on)
@@ -4786,7 +4788,11 @@ Although references to people are considered a group or class, you’d still use
 
 ## issue \| problem
 
-[*Source*]()
+An ***issue*** is a situation that needs a discussion or a debate, whereas a ***problem*** requires an urgent solution.
+
+An ***issue*** has little or no impact, whereas a ***problem*** can significantly affect people.
+
+[*Source*](https://askanydifference.com/difference-between-issue-and-problem)
 
 ***
 
