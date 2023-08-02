@@ -344,6 +344,8 @@
 
 [suggest \| suggest that](#suggest--suggest-that)
 
+[that \| who](#that--who)
+
 [think about \| think of](#think-about--think-of)
 
 [throw at \| throw to](#throw-at--throw-to)
@@ -4761,6 +4763,24 @@ As generic word usage, you would say *on a platform*, not *in a platform*. Sayin
 > *She loves **fast** cars.* (~~quick cars~~)
 
 [*Source*](https://dictionary.cambridge.org/grammar/british-grammar/fast-quick-or-quickly)
+
+***
+
+## that \| who
+
+**That**&mdash;a generic group or class.
+
+> *I need a new laptop **that** can handle the level of work I do and all the programs I use daily.*
+
+> *My daughter belongs to a team **that** cares so much for each other.*
+
+**Who**&mdash;something living like a person or pet.
+
+Although references to people are considered a group or class, you’d still use ***who*** here just as you would for an individual person.
+
+> *My teacher is someone **who** engages with the students and teaches us through fun activities.*
+
+[*Source*](https://grammarist.com/usage/that-who)
 
 ***
 
