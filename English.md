@@ -166,6 +166,8 @@
 
 [em dash \| en dash \| hyphen \| minus \| three-em dash \| two-em dash](#em-dash--en-dash--hyphen--minus--three-em-dash--two-em-dash)
 
+[enable \| ensure](#enable--ensure)
+
 [enchantress \| mage \| magician \| necromancer \| shaman \| sorcerer \| warlock \| witch \| witch doctor \| wizard](#enchantress--mage--magician--necromancer--shaman--sorcerer--warlock--witch--witch-doctor--wizard)
 
 [enhance \| improve](#enhance--improve)
@@ -4793,6 +4795,14 @@ An ***issue*** is a situation that needs a discussion or a debate, whereas a ***
 An ***issue*** has little or no impact, whereas a ***problem*** can significantly affect people.
 
 [*Source*](https://askanydifference.com/difference-between-issue-and-problem)
+
+***
+
+## enable \| ensure
+
+Insurance *guarantees* (***ensures***) protection in the event of a flood. A rain storm *causes* (***enables***) a flood.
+
+[*Source*](https://ru.hinative.com/questions/10197663)
 
 ***
 
