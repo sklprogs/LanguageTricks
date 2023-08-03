@@ -1072,9 +1072,9 @@ stronger feeling of movement:
 
 ## starting from \| starting with
 
-> *Please give me all the names **starting with** A.*
-
 ***Starting with*** A includes only words that start with the letter A.
+
+> *Please give me all the names **starting with** A.*
 
 ***Starting from*** A gives you all the words that start with A and all the
 words that start with the letters after A.
