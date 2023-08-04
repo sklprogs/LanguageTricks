@@ -258,6 +258,8 @@
 
 [load \| the load](#load--the-load)
 
+[~~log in to~~ \| log into \| ~~login to~~](#log-in-to--log-into--login-to)
+
 [made from \| made of](#made-from--made-of)
 
 [material \| materiel](#material--materiel)
@@ -4821,6 +4823,20 @@ Insurance *guarantees* (***ensures***) protection in the event of a flood. A rai
 
 ***
 
+## ~~log in to~~ \| log into \| ~~login to~~
+
+It should go without saying that *into* is a single word. It’s a preposition that expresses movement towards something else.
+
+> *I went into the building* (not ~~*went in to*~~ = I went in (somewhere) to do an activity called “the building”)
+
+> *I went in to drink* (not ~~*went into*~~ = I went into a place called “drink”)
+
+***Login*** can be either a noun or adjective, therefore should not be followed by *to*.
+
+[*Source*](https://grammarhow.com/log-in-to-vs-log-into-vs-login-to)
+
+***
+
 ## usage
 
 countable or uncountable
@@ -4970,12 +4986,6 @@ quora.com
 ***
 
 ## recommend that \| recommend to
-
-[*Source*]()
-
-***
-
-## log in to
 
 [*Source*]()
 
