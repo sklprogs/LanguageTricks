@@ -4858,7 +4858,7 @@ In computing, **rebooting** is the process by which a running computer system is
 
 ## ahead of \| before
 
-***Before***&mdash;when you haven’t yet done something:
+***Before***&mdash;you haven’t yet done something:
 
 > ***Before** you eat your breakfast, please take out the trash.* (= You haven’t eaten breakfast yet.)
 
