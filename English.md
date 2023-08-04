@@ -16,6 +16,8 @@
 
 [After that,](#after-that)
 
+[ahead of \| before](#ahead-of--before)
+
 [allow for \| allow of \| allow that \| allow to](#allow-for--allow-of--allow-that--allow-to)
 
 [allow + -ing \| allow that](#allow---ing--allow-that)
@@ -4851,6 +4853,22 @@ This is because *include* has a strong tendency to be used with *in*. Except aft
 In computing, **rebooting** is the process by which a running computer system is restarted, either intentionally or unintentionally. Reboots can be either a **cold reboot** (= *hard reboot*) in which the power to the system is physically turned off and back on again; or a **warm reboot** (= *soft reboot*) in which the system restarts while still powered up. The term **restart** (as a system command) is used to refer to a reboot when the operating system closes all programs and finalizes all pending input and output operations before initiating a soft reboot.
 
 [*Source*](https://en.wikipedia.org/wiki/Reboot)
+
+***
+
+## ahead of \| before
+
+***Before***&mdash;when you haven’t yet done something:
+
+> ***Before** you eat your breakfast, please take out the trash.* (= You haven’t eaten breakfast yet.)
+
+***Ahead of***&mdash;to do something in advance:
+
+> *You handed the project in **ahead of** time.* (= You did it before you had to.)
+
+> *You are **ahead of** me.* (= You progressed more than me.)
+
+[*Source*](https://hinative.com/questions/4732877#answer-12642044)
 
 ***
 
