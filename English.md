@@ -310,6 +310,8 @@
 
 [provide \| provide for \| provide with](#provide--provide-for--provide-with)
 
+[reboot \| restart](#reboot--restart)
+
 [regime \| regimen \| regiment](#regime--regimen--regiment)
 
 [related to \| relates to \| relating to](#related-to--relates-to--relating-to)
@@ -4841,6 +4843,14 @@ Most often, ***in the list*** is used after some form of the word include:
 This is because *include* has a strong tendency to be used with *in*. Except after *include*, I recommend that you use ***on the list***.
 
 [*Source*](https://www.britannica.com/dictionary/eb/qa/is-it-correct-to-say-on-the-list-or-in-the-list)
+
+***
+
+## reboot \| restart
+
+In computing, **rebooting** is the process by which a running computer system is restarted, either intentionally or unintentionally. Reboots can be either a **cold reboot** (= *hard reboot*) in which the power to the system is physically turned off and back on again; or a **warm reboot** (= *soft reboot*) in which the system restarts while still powered up. The term **restart** (as a system command) is used to refer to a reboot when the operating system closes all programs and finalizes all pending input and output operations before initiating a soft reboot.
+
+[*Source*](https://en.wikipedia.org/wiki/Reboot)
 
 ***
 
