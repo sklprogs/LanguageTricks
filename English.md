@@ -2270,17 +2270,6 @@ express someone’s dedication.
 
 ***
 
-## временной \| временный
-
-**Временный** &mdash; непостоянный.
-
-**Временной** &mdash; относящийся ко времени, например временной интервал с
-двух до пяти часов.
-
-[*Источник*](https://hinative.com/ru/questions/4625640)
-
-***
-
 ## bound to \| bound with
 
 ***Bind to*** is used to describe the action of tying or attaching an object to
@@ -4778,7 +4767,7 @@ As generic word usage, you would say *on a platform*, not *in a platform*. Sayin
 
 ## that \| who
 
-**That**&mdash;a generic group or class.
+**That**&mdash;a generic group or class:
 
 > *I need a new laptop **that** can handle the level of work I do and all the programs I use daily.*
 
@@ -4786,7 +4775,7 @@ As generic word usage, you would say *on a platform*, not *in a platform*. Sayin
 
 **Who**&mdash;something living like a person or pet.
 
-Although references to people are considered a group or class, you’d still use ***who*** here just as you would for an individual person.
+Although references to people are considered a group or class, you’d still use ***who*** here just as you would for an individual person:
 
 > *My teacher is someone **who** engages with the students and teaches us through fun activities.*
 
@@ -4814,7 +4803,7 @@ Insurance *guarantees* (***ensures***) protection in the event of a flood. A rai
 
 ## designed for \| designed to
 
-***design to***&mdash;this is used for what an object has been made to do itself
+***design to***&mdash;this is used for what an object has been made to do itself:
 
 > *Buildings can be **designed to** absorb and retain heat*
 
@@ -4827,7 +4816,7 @@ Insurance *guarantees* (***ensures***) protection in the event of a flood. A rai
 
 ## ~~log in to~~ \| log into \| ~~login to~~
 
-It should go without saying that *into* is a single word. It’s a preposition that expresses movement towards something else.
+It should go without saying that *into* is a single word. It’s a preposition that expresses movement towards something else:
 
 > *I went into the building* (not ~~*went in to*~~ = I went in (somewhere) to do an activity called “the building”)
 
@@ -4841,7 +4830,7 @@ It should go without saying that *into* is a single word. It’s a preposition t
 
 ## in the list \| on the list
 
-In almost all contexts, it is customary and correct to say ***on the list***.
+In almost all contexts, it is customary and correct to say ***on the list***:
 
 > *China is high **on my list** of places to go.*
 
