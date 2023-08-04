@@ -4812,12 +4812,12 @@ Insurance *guarantees* (***ensures***) protection in the event of a flood. A rai
 
 ***design to***&mdash;this is used for what an object has been made to do itself
 
-> *Will covid-19 vaccines save lives? Current trials aren’t **designed to** tell us*
+> *Buildings can be **designed to** absorb and retain heat*
 
 > *The book is **designed for** learning English* (not ~~designed to learn~~, the book cannot learn English for itself)
 
 *Sources: [1](https://english.stackexchange.com/questions/229507/design-to-vs-design-for),
-[2](https://www.bmj.com/content/371/bmj.m4037)*
+[2](https://www.powerthesaurus.org/designed_to/sentences)*
 
 ***
 
