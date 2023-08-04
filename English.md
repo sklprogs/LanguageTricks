@@ -132,6 +132,8 @@
 
 [dependence \| dependency](#dependence--dependency)
 
+[designed for \| designed to](#designed-for--designed-to)
+
 [die by \| die from \| die of](#die-by--die-from--die-of)
 
 [directive \| instruction](#directive--instruction)
@@ -4803,6 +4805,19 @@ An ***issue*** has little or no impact, whereas a ***problem*** can significantl
 Insurance *guarantees* (***ensures***) protection in the event of a flood. A rain storm *causes* (***enables***) a flood.
 
 [*Source*](https://ru.hinative.com/questions/10197663)
+
+***
+
+## designed for \| designed to
+
+***design to***&mdash;this is used for what an object has been made to do itself
+
+> *Will covid-19 vaccines save lives? Current trials aren’t **designed to** tell us*
+
+> *The book is **designed for** learning English* (not ~~designed to learn~~, the book cannot learn English for itself)
+
+*Sources: [1](https://english.stackexchange.com/questions/229507/design-to-vs-design-for),
+[2](https://www.bmj.com/content/371/bmj.m4037)*
 
 ***
 
