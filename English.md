@@ -214,11 +214,11 @@
 
 [host \| node](#host--node)
 
-[job \| work](#job--work)
-
 [I have got \| I have gotten](#i-have-got--i-have-gotten)
 
 [~~in free time~~ \| in my free time](#in-free-time--in-my-free-time)
+
+[in the list \| on the list](#in-the-list--on-the-list)
 
 [in the photo \| in the picture \| on the postcard \| on the screen](#in-the-photo--in-the-picture--on-the-postcard--on-the-screen)
 
@@ -245,6 +245,8 @@
 [issue \| problem](#issue--problem)
 
 [it is \| this is](#it-is--this-is)
+
+[job \| work](#job--work)
 
 [knowledge about \| knowledge of \| ~~knowledge on~~](#knowledge-about--knowledge-of--knowledge-on)
 
@@ -4837,6 +4839,22 @@ It should go without saying that *into* is a single word. It’s a preposition t
 
 ***
 
+## in the list \| on the list
+
+In almost all contexts, it is customary and correct to say ***on the list***.
+
+> *China is high **on my list** of places to go.*
+
+Most often, ***in the list*** is used after some form of the word include:
+
+> *Both publishers and artists are **included in** the list.*
+
+This is because *include* has a strong tendency to be used with *in*. Except after *include*, I recommend that you use ***on the list***.
+
+[*Source*](https://www.britannica.com/dictionary/eb/qa/is-it-correct-to-say-on-the-list-or-in-the-list)
+
+***
+
 ## usage
 
 countable or uncountable
@@ -5016,12 +5034,6 @@ quora.com
 ***
 
 ## point at \| point to
-
-[*Source*]()
-
-***
-
-## on the list \| in the list
 
 [*Source*]()
 
