@@ -176,6 +176,8 @@
 
 [enhance \| improve](#enhance--improve)
 
+[entire \| whole](#entire--whole)
+
 [error \| failure \| fault](#error--failure--fault)
 
 [error \| mistake](#error--mistake)
@@ -4869,6 +4871,33 @@ In computing, **rebooting** is the process by which a running computer system is
 > *You are **ahead of** me.* (= You progressed more than me.)
 
 [*Source*](https://hinative.com/questions/4732877#answer-12642044)
+
+***
+
+## entire \| whole
+
+**Whole**&mdash;a single object that has not been subdivided:
+
+> *a **whole** loaf of bread*
+
+> *a **whole** person*
+
+**Entire**&mdash;no part has been left out:
+
+> *the **entire** lot of cars* (not ~~***whole***~~, this is a collection of distinct objects)
+
+***Entire*** usually feels stronger. Use it when you want to emphasise how “100%” something is:
+
+> *Wow! You're going to eat the **entire** thing?* ([illustration](https://www.clarkandmiller.com/wp-content/uploads/2021/01/whole-vs-entire-comic-480x694.png))
+
+Common phrases with ***whole***:
+
+> *as a whole, on the whole*, etc.
+
+The expression *whole life* considers one’s life to be a single unit that has not been subdivided. An *entire life* means all the parts (years? experiences?) of a life. In this case either could be used.
+
+*Sources: [1](https://www.clarkandmiller.com/how-to-use-whole-and-entire),
+[2](https://english.stackexchange.com/questions/9615/whole-vs-entire)*
 
 ***
 
