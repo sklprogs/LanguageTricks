@@ -352,6 +352,8 @@
 
 [starting from \| starting with](#starting-from--starting-with)
 
+[statistics about \| statistics on](#statistics-about--statistics-on)
+
 [stop + -ing \| stop to + infinitive](#stop---ing--stop-to--infinitive)
 
 [subject \| topic](#subject--topic)
@@ -4901,6 +4903,18 @@ The expression *whole life* considers one’s life to be a single unit that has 
 
 ***
 
+## statistics about \| statistics on
+
+> *statistics **on/about** the suicide rate*
+
+***statistics on***&mdash;direct suicide rate statistics&mdash;deaths per year, per age group, etc.
+
+***statistics about***&mdash;the direct statistics \+ statistics which are related in some way (number of divorces, reported happiness levels).
+
+[*Source*](https://forum.wordreference.com/threads/statistics-on-about.3085846/#post-15602853)
+
+***
+
 ## usage
 
 countable or uncountable
@@ -5138,12 +5152,6 @@ See also: [installation \| setup](#installation--setup)
 ## along with \| together with
 
 [*Source*](AruAruEigo hinative.com)
-
-***
-
-## statistics about \| statistics on
-
-[*Source*](wordreference.com)
 
 ***
 
