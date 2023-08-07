@@ -44,6 +44,8 @@
 
 [attention \| the attention](#attention--the-attention)
 
+[await \| wait](#await--wait)
+
 [be different \= differ](#be-different--differ)
 
 [before \| till \| until](#before--till--until)
@@ -4912,6 +4914,24 @@ The expression *whole life* considers one’s life to be a single unit that has 
 ***statistics about***&mdash;the direct statistics \+ statistics which are related in some way (number of divorces, reported happiness levels).
 
 [*Source*](https://forum.wordreference.com/threads/statistics-on-about.3085846/#post-15602853)
+
+***
+
+## await \| wait
+
+| wait                                       | await                            |
+|--------------------------------------------|----------------------------------|
+| 1. used with a preposition (*for*, *on*)   | 1. must be followed by an object |
+| 2. less formal                             | 2. more formal                   |
+| 3. can be used with both things and people | 3. can only be used with things  |
+
+> *I’ve been **waiting for** you for ages.*
+
+> *We’re **waiting on** confirmation of the process for this.*
+
+> *I’m **awaiting** your reply.* (~~*awaiting you*~~)
+
+[*Source*](https://www.englishlessonviaskype.com/wait-vs-await)
 
 ***
 
