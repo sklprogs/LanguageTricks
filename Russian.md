@@ -137,7 +137,7 @@
 
 > Microsoft Word, OpenOffice.org Writer, WordPad
 
-[*Source*](https://thedifference.ru/chem-otlichaetsya-tekstovyj-processor-ot-tekstovogo-redaktora/)
+[*Источник*](https://thedifference.ru/chem-otlichaetsya-tekstovyj-processor-ot-tekstovogo-redaktora/)
 
 ***
 
@@ -280,25 +280,25 @@
 
 > *Колышками **обозначили** места посадки деревьев.*
 
-[*Source*](https://kak-pravilno.net/oznachaet-ili-oboznachaet-kak-pravilno)
+[*Источник*](https://kak-pravilno.net/oznachaet-ili-oboznachaet-kak-pravilno)
 
 ***
 
 ## специфичный = специфический
 
-[*Source*]()
+[*Источник*]()
 
 ***
 
 ## испугать \| напугать
 
-[*Source*]()
+[*Источник*]()
 
 ***
 
 ## докер \| портовик
 
-[*Source*]()
+[*Источник*]()
 
 ***
 
@@ -310,12 +310,12 @@
 
 ## специфический = специфичный
 
-[*Source*]()
+[*Источник*]()
 
 ***
 
 ## битва \| сражение
 
-[*Source*]()
+[*Источник*]()
 
 ***
