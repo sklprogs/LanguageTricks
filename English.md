@@ -709,13 +709,27 @@ With that type of sentence, you could replace ***data*** with a word such as
 
 ## usage \| use
 
-In general when thinking about how these words are different it is helpful to
-keep in mind that the term ***usage*** refers to conventions or patterns and
-often refers to language or words and how they are used, accepted, and
-understood. The word ***use*** has a much broader meaning and is found in more
-contexts. In my opinion, when in doubt, use the word ***use***.
+**Use**&mdash;the act of putting something into service or action.
 
-[*Source*](https://blogs.transparent.com/english/use-versus-usage/)
+> *Yes, I made **use** of the code you gave me.*
+
+**Usage**:
+
+- a customary or firmly established practice, conventions or patterns;
+
+- the customary manner in which words are used in a language:
+
+> *The word prevarication is not common **usage**.* (\= *The word prevarication is not **in** common **use**.*)
+
+- the act of using (especially when specifying a quantity):
+
+> *Our town was asked to reduce water **usage** because of the drought.*
+
+***Use*** has a much broader meaning and is found in more contexts. In my opinion, when in doubt, use the word ***use***.
+
+Sources: *[1](https://blogs.transparent.com/english/use-versus-usage),
+[2](https://languagetool.org/insights/post/word-choice-use-or-usage),
+[3](https://english.stackexchange.com/questions/34712/use-vs-usage)*
 
 ***
 
