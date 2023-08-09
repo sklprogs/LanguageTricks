@@ -709,7 +709,7 @@ With that type of sentence, you could replace ***data*** with a word such as
 
 ## usage \| use
 
-**Use**&mdash;the act of putting something into service or action.
+**Use**&mdash;the act of putting something into service or action:
 
 > *Yes, I made **use** of the code you gave me.*
 
@@ -719,11 +719,13 @@ With that type of sentence, you could replace ***data*** with a word such as
 
 - the customary manner in which words are used in a language:
 
-> *The word prevarication is not common **usage**.* (\= *The word prevarication is not **in** common **use**.*)
+  > *The word prevarication is not common **usage**.* (\= *The word prevarication is not **in** common **use**.*)
 
 - the act of using (especially when specifying a quantity):
 
-> *Our town was asked to reduce water **usage** because of the drought.*
+  > *Electricity **usage** monitors are easy to use and can measure the electricity **usage** of any device that runs on 120 volts.* ([quotation](https://www.energy.gov/energysaver/estimating-appliance-and-home-electronic-energy-use)
+
+  > *Our town was asked to reduce water **usage** because of the drought.*
 
 ***Use*** has a much broader meaning and is found in more contexts. In my opinion, when in doubt, use the word ***use***.
 
