@@ -676,8 +676,8 @@ with minimum waste, expense, or unnecessary effort:
 **Efficacy**&mdash;the power or capacity to produce a desired effect; widely
 used, among other places, in the medical field:
 
-> *There is in still limited information on the **efficacy** of this cancer
-treatment.*
+  > *There is in still limited information on the **efficacy** of this cancer
+    treatment.*
 
 **Efficiency**&mdash;the quality or property of being efficient.
 
@@ -711,7 +711,7 @@ With that type of sentence, you could replace ***data*** with a word such as
 
 **Use**&mdash;the act of putting something into service or action:
 
-  > *Yes, I made **use** of the code you gave me.*
+    > *Yes, I made **use** of the code you gave me.*
 
 **Usage**:
 
@@ -747,8 +747,8 @@ Sources: *[1](https://blogs.transparent.com/english/use-versus-usage),
 Generally, a **complement** is always the response to incompleteness that
 provides the required essential part:
 
-> *Soul is the complement for a human body to become a human being* (without
-  soul the body is not human being).
+  > *Soul is the complement for a human body to become a human being* (without
+    soul the body is not human being).
 
 - A **supplement** is always the response to extra needs or demand:
 
