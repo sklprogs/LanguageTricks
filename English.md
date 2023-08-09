@@ -80,6 +80,8 @@
 
 [check if \| check whether](#check-if--check-whether)
 
+[cite \| quote](#cite--quote)
+
 [class \| lesson](#class--lesson)
 
 [comma before a subordinate conjunction](#comma-before-a-subordinate-conjunction)
@@ -4961,8 +4963,22 @@ Originally ***quote*** is a verb and ***quotation*** is a noun.
 
 English scholars and puritans would still prefer to go by the word ***quotation*** rather than *quote*, but in the informal setting, ***quote*** is the preferred choice. With the prolific use of *quote* instead of *quotation* in many online and offline resources, you are safe to use the words interchangeably.
 
+*See also:* [cite \| quote](#cite--quote)
+
 Sources: *[1](https://dictionary.cambridge.org/dictionary/english-russian/quote),
 [2](https://www.thoughtco.com/difference-between-quote-and-quotation-2831596)*
+
+***
+
+## cite \| quote
+
+**Quoting**&mdash;repeating something someone has said or written verbatim.
+
+**Citing**&mdash;giving reference to a particular subject or words or thought by some person for substantiating oneself.
+
+*See also:* [quotation \| quote](#quotation--quote)
+
+[*Source*](http://www.differencebetween.net/language/words-language/difference-between-cite-and-quote)
 
 ***
 
