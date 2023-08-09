@@ -316,6 +316,8 @@
 
 [provide \| provide for \| provide with](#provide--provide-for--provide-with)
 
+[quotation \| quote](#quotation--quote)
+
 [reboot \| restart](#reboot--restart)
 
 [regime \| regimen \| regiment](#regime--regimen--regiment)
@@ -4948,6 +4950,19 @@ The expression *whole life* considers one’s life to be a single unit that has 
 > *I’m **awaiting** your reply.* (~~*awaiting you*~~)
 
 [*Source*](https://www.englishlessonviaskype.com/wait-vs-await)
+
+***
+
+## quotation \| quote
+
+Originally ***quote*** is a verb and ***quotation*** is a noun.
+
+**quote** (noun)&mdash;short for *quotation*
+
+English scholars and puritans would still prefer to go by the word ***quotation*** rather than *quote*, but in the informal setting, ***quote*** is the preferred choice. With the prolific use of *quote* instead of *quotation* in many online and offline resources, you are safe to use the words interchangeably.
+
+Sources: *[1](https://dictionary.cambridge.org/dictionary/english-russian/quote),
+[2](https://www.thoughtco.com/difference-between-quote-and-quotation-2831596)*
 
 ***
 
