@@ -711,7 +711,7 @@ With that type of sentence, you could replace ***data*** with a word such as
 
 **Use**&mdash;the act of putting something into service or action:
 
-> *Yes, I made **use** of the code you gave me.*
+  > *Yes, I made **use** of the code you gave me.*
 
 **Usage**:
 
@@ -723,7 +723,7 @@ With that type of sentence, you could replace ***data*** with a word such as
 
 - the act of using (especially when specifying a quantity):
 
-  > *Electricity **usage** monitors are easy to use and can measure the electricity **usage** of any device that runs on 120 volts.* ([quotation](https://www.energy.gov/energysaver/estimating-appliance-and-home-electronic-energy-use)
+  > *Electricity **usage** monitors are easy to use and can measure the electricity **usage** of any device that runs on 120 volts.* ([quotation](https://www.energy.gov/energysaver/estimating-appliance-and-home-electronic-energy-use))
 
   > *Our town was asked to reduce water **usage** because of the drought.*
 
