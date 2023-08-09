@@ -711,7 +711,7 @@ With that type of sentence, you could replace ***data*** with a word such as
 
 **Use**&mdash;the act of putting something into service or action:
 
-  > *Yes, I made **use** of the code you gave me.*
+> *Yes, I made **use** of the code you gave me.*
 
 **Usage**:
 
@@ -747,8 +747,8 @@ Sources: *[1](https://blogs.transparent.com/english/use-versus-usage),
 Generally, a **complement** is always the response to incompleteness that
 provides the required essential part:
 
-   > *Soul is the complement for a human body to become a human being* (without
-     soul the body is not human being).
+> *Soul is the complement for a human body to become a human being* (without
+soul the body is not human being).
 
 - A **supplement** is always the response to extra needs or demand:
 
