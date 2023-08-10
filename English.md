@@ -911,10 +911,6 @@ things I’m offering to sell.
 | informal        | formal           |
 | casual language | business setting |
 
-***Extra*** is an informal word and would be used in casual language.
-
-***Additional*** is a formal word and would be used more in a business setting.
-
 **Extra**:
 
 - Beyond what is due, usual, expected, or necessary; additional; supernumerary;
@@ -925,7 +921,7 @@ things I’m offering to sell.
 
 ***Additional*** means a number has been added to the basic number.
 
-***Extra*** often means beyond what is necessary or needed. Additional room may
+***Extra*** often means beyond what is necessary or needed. ***Additional*** room may
 be needed; extra room may never be used. Compare these to *spare*. A spare tire
 or a spare room may never be used, but they have the specific purpose of being
 available in an emergency. Often when something is extra you get rid of it.
