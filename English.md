@@ -906,11 +906,19 @@ things I’m offering to sell.
 
 ## additional \| extra
 
+| Extra           | Additional       |
+|-----------------|------------------|
+| informal        | formal           |
+| casual language | business setting |
+
+***Extra*** is an informal word and would be used in casual language.
+
+***Additional*** is a formal word and would be used more in a business setting.
+
 **Extra**:
 
 - Beyond what is due, usual, expected, or necessary; additional; supernumerary;
   also, extraordinarily good; superior; as, extra work; extra pay.
-
 - Something in addition to what is due, expected, or customary; something in
   addition to the regular charge or compensation, or for which an additional
   charge is made; as, at European hotels lights are extras.
@@ -922,7 +930,8 @@ be needed; extra room may never be used. Compare these to *spare*. A spare tire
 or a spare room may never be used, but they have the specific purpose of being
 available in an emergency. Often when something is extra you get rid of it.
 
-[*Source*](https://www.englishforums.com/English/AdditionalVsExtra/zwcgr/post.htm)
+Sources: *[1](https://www.englishforums.com/English/AdditionalVsExtra/zwcgr/post.htm),
+[2](https://hinative.com/questions/16871585#answer-39699012)*
 
 ***
 
