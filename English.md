@@ -922,9 +922,9 @@ things I’m offering to sell.
 ***Additional*** means a number has been added to the basic number.
 
 ***Extra*** often means beyond what is necessary or needed. ***Additional*** room may
-be needed; extra room may never be used. Compare these to *spare*. A spare tire
+be needed; *extra* room may never be used. Compare these to *spare*. A spare tire
 or a spare room may never be used, but they have the specific purpose of being
-available in an emergency. Often when something is extra you get rid of it.
+available in an emergency. Often when something is *extra* you get rid of it.
 
 Sources: *[1](https://www.englishforums.com/English/AdditionalVsExtra/zwcgr/post.htm),
 [2](https://hinative.com/questions/16871585#answer-39699012)*
