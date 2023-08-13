@@ -76,7 +76,7 @@
 
 [cause \| reason](#cause--reason)
 
-[check \| check that \| validate \| verify](#check--check-that--validate--verify)
+[check \| check for \| check that \| validate \| verify](#check--check-for--check-that--validate--verify)
 
 [check if \| check whether](#check-if--check-whether)
 
@@ -1987,7 +1987,7 @@ When you are ***installing*** a program, you are also performing its initial
 
 ***
 
-## check \| check that \| validate \| verify
+## check \| check for \| check that \| validate \| verify
 
 **Check** means to:
 
@@ -2002,6 +2002,12 @@ When you are ***installing*** a program, you are also performing its initial
 - see if something (e.g., a sum) is correct or accurate:
 
   > *Will you **check** my addition?*
+
+**Check for**&mdash;verify the existance of something:
+
+> *Please **check** my card; it may contain spelling mistakes.* (\= review it, examine it, correct it)
+
+> *Please **check for** my card; I mailed it two days ago.* (\= look for it, see if the card has arrived yet)
 
 **Check that**&mdash;to make sure.
 
@@ -2033,7 +2039,8 @@ See also [validation \| verification](#validation--verification).
 *Sources:
 [1](https://forum.wordreference.com/threads/check-vs-verify.580470),
 [2](https://www.parson-europe.com/en/blog/check-if-or-check-or-have-you-tried-turning-it-and-again),
-[3](https://www.merriam-webster.com/dictionary/validate)*
+[3](https://www.merriam-webster.com/dictionary/validate),
+[4](https://forum.wordreference.com/threads/to-check-or-to-check-for.15379)*
 
 ***
 
