@@ -1944,6 +1944,8 @@ showing that two alternatives are possible.
 > *Squiggly didn’t know if Aardvark would arrive Friday or Saturday.* =
   Aardvark may not arrive at all.
 
+*See also* [check \| check for \| check that \| validate \| verify](#check--check-for--check-that--validate--verify).
+
 *Sources:
 [1](https://www.usingenglish.com/forum/threads/is-there-a-difference-between-check-if-and-check-whether.28260/),
 [2](https://www.quickanddirtytips.com/education/grammar/if-versus-whether)*
