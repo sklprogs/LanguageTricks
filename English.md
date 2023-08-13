@@ -5610,3 +5610,11 @@ See also [divide \| separate](#divide--separate)
 [*Source*]()
 
 ***
+
+## effort at \| effort in \| effort of
+
+
+
+[*Source*](https://ell.stackexchange.com/questions/65234/effort-at-of-in-shooting)
+
+***
