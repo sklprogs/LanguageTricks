@@ -2036,7 +2036,7 @@ just means something was investigated with no indication of the outcome.
 
   > ***Validate** one’s concerns.*
 
-See also [check if \| check whether](#check-if--check-whether), [validation \| verification](#validation--verification).
+*See also* [check if \| check whether](#check-if--check-whether), [validation \| verification](#validation--verification).
 
 *Sources:
 [1](https://forum.wordreference.com/threads/check-vs-verify.580470),
