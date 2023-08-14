@@ -172,6 +172,8 @@
 
 [efficient \| effective](#efficient--effective)
 
+[effort at \| effort in \| effort of \| effort to](#effort-at--effort-in--effort-of--effort-to)
+
 [em dash \| en dash \| hyphen \| minus \| three-em dash \| two-em dash](#em-dash--en-dash--hyphen--minus--three-em-dash--two-em-dash)
 
 [enable \| ensure](#enable--ensure)
@@ -5618,9 +5620,15 @@ See also [divide \| separate](#divide--separate)
 
 ***
 
-## effort at \| effort in \| effort of
+## effort at \| effort in \| effort of \| effort to
 
+effort\[s\] ***to*** {infinitive} is a more common form.
 
+***effort at*** focuses on energy/resources that are required for the effort.
+
+***effort in*** emphasizes that something requires certain energy/resources for the success.
+
+One can say *trapping effort*, or *effort ***of*** trapping*, but the meaning is different than with the preposition *in* or *at*. In a noun-noun construct the first noun (the noun adjunct) serves the role of an adjective.
 
 [*Source*](https://ell.stackexchange.com/questions/65234/effort-at-of-in-shooting)
 
