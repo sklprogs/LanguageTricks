@@ -268,7 +268,7 @@
 
 [load \| the load](#load--the-load)
 
-[~~log in to~~ \| log into \| ~~login to~~](#log-in-to--log-into--login-to)
+[## ~~log in to~~ \| log into \| ~~login to~~ \| log on](#log-in-to--log-into--login-to--log-on)
 
 [made from \| made of](#made-from--made-of)
 
@@ -4858,7 +4858,7 @@ Insurance *guarantees* (***ensures***) protection in the event of a flood. A rai
 
 ***
 
-## ~~log in to~~ \| log into \| ~~login to~~
+## ~~log in to~~ \| log into \| ~~login to~~ \| log on
 
 It should go without saying that *into* is a single word. It’s a preposition that expresses movement towards something else:
 
@@ -4868,7 +4868,14 @@ It should go without saying that *into* is a single word. It’s a preposition t
 
 ***Login*** can be either a noun or adjective, therefore should not be followed by *to*.
 
-[*Source*](https://grammarhow.com/log-in-to-vs-log-into-vs-login-to)
+When you ***log on*** to something, you are simply accessing digital material, without necessarily needing to provide credentials:
+
+> ***Log on** to the news website of your choice and choose an article to discuss in class next week.*
+
+A *login* usually requires credentials.
+
+*Sources: [1](https://grammarhow.com/log-in-to-vs-log-into-vs-login-to),
+[2](https://writingexplained.org/log-in-or-log-on-difference)*
 
 ***
 
