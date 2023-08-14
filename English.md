@@ -268,7 +268,7 @@
 
 [load \| the load](#load--the-load)
 
-[## ~~log in to~~ \| log into \| ~~login to~~ \| log on](#log-in-to--log-into--login-to--log-on)
+[~~log in to~~ \| log into \| ~~login to~~ \| log on](#log-in-to--log-into--login-to--log-on)
 
 [made from \| made of](#made-from--made-of)
 
