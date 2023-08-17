@@ -90,6 +90,8 @@
 
 [common \| general](#common--general)
 
+[common knowledge \| common sense](#common-knowledge--common-sense)
+
 [common knowledge \| general knowledge](#common-knowledge--general-knowledge)
 
 [common language \| general language](#common-language--general-language)
@@ -5060,6 +5062,22 @@ Sources: *[1](https://dictionary.cambridge.org/dictionary/english-russian/quote)
 *See also* [common \| general](#common--general), [common language \| general language](#common-language--general-language)
 
 [*Source*](https://www.writingtips.cc/difference-between-common-knowledge-and-general-knowledge)
+
+***
+
+## common knowledge \| common sense
+
+**Common sense**[^common sense] is how normal people behave without being taught:
+
+> *It is **common sense** to not drink spoiled milk.*
+
+**Common knowledge** is something everyone was taught:
+
+> *It is **common knowledge** that the Earth revolves around the sun.*
+
+[^common sense]: common sense = здравый смысл
+
+[*Source*](https://hinative.com/questions/6731276)
 
 ***
 
