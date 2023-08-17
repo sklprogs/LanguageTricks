@@ -5067,7 +5067,7 @@ Sources: *[1](https://dictionary.cambridge.org/dictionary/english-russian/quote)
 
 ## common knowledge \| common sense
 
-**Common sense**[^common sense] is how normal people behave without being taught:
+**Common sense**[^common_sense] is how normal people behave without being taught:
 
 > *It is **common sense** to not drink spoiled milk.*
 
@@ -5075,7 +5075,7 @@ Sources: *[1](https://dictionary.cambridge.org/dictionary/english-russian/quote)
 
 > *It is **common knowledge** that the Earth revolves around the sun.*
 
-[^common sense]: common sense = здравый смысл
+[^common_sense]: common sense = здравый смысл
 
 [*Source*](https://hinative.com/questions/6731276)
 
