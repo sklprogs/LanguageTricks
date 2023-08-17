@@ -330,6 +330,8 @@
 
 [quotation \| quote](#quotation--quote)
 
+[ratio between ... and \| ratio of ... to](#ratio-between--and--ratio-of--to)
+
 [reboot \| restart](#reboot--restart)
 
 [regime \| regimen \| regiment](#regime--regimen--regiment)
@@ -4994,7 +4996,7 @@ Originally ***quote*** is a verb and ***quotation*** is a noun.
 
 English scholars and puritans would still prefer to go by the word ***quotation*** rather than *quote*, but in the informal setting, ***quote*** is the preferred choice. With the prolific use of *quote* instead of *quotation* in many online and offline resources, you are safe to use the words interchangeably.
 
-*See also:* [cite \| quote](#cite--quote)
+*See also* [cite \| quote](#cite--quote)
 
 Sources: *[1](https://dictionary.cambridge.org/dictionary/english-russian/quote),
 [2](https://www.thoughtco.com/difference-between-quote-and-quotation-2831596)*
@@ -5007,7 +5009,7 @@ Sources: *[1](https://dictionary.cambridge.org/dictionary/english-russian/quote)
 
 **Citing**&mdash;giving reference to a particular subject or words or thought by some person for substantiating oneself.
 
-*See also:* [quotation \| quote](#quotation--quote)
+*See also* [quotation \| quote](#quotation--quote)
 
 [*Source*](http://www.differencebetween.net/language/words-language/difference-between-cite-and-quote)
 
@@ -5029,7 +5031,11 @@ Sources: *[1](https://dictionary.cambridge.org/dictionary/english-russian/quote)
 
 > ***General** anesthesia is used during major surgeries.*
 
-*See also* [common knowledge \| general knowledge](#common-knowledge--general-knowledge), [common language \| general language](#common-language--general-language)
+*See also*:
+
+[common knowledge \| general knowledge](#common-knowledge--general-knowledge)
+
+[common language \| general language](#common-language--general-language)
 
 [*Source*](https://thecontentauthority.com/blog/common-vs-general)
 
@@ -5078,6 +5084,34 @@ Sources: *[1](https://dictionary.cambridge.org/dictionary/english-russian/quote)
 [^common_sense]: common sense = здравый смысл
 
 [*Source*](https://hinative.com/questions/6731276)
+
+***
+
+## effort at \| effort in \| effort of \| effort to
+
+effort\[s\] ***to*** {infinitive} is a more common form.
+
+***effort at*** focuses on energy/resources that are required for the effort.
+
+***effort in*** emphasizes that something requires certain energy/resources for the success.
+
+One can say *trapping effort*, or *effort ***of*** trapping*, but the meaning is different than with the preposition *in* or *at*. In a noun-noun construct the first noun (the noun adjunct) serves the role of an adjective.
+
+[*Source*](https://ell.stackexchange.com/questions/65234/effort-at-of-in-shooting)
+
+***
+
+## ratio between ... and \| ratio of ... to
+
+Some believe that ***the between ... and*** construct is less formal, others mention that it is not uncommon (even in math).
+
+> *The **ratio between** girls and boys in the drama club is about 4 **to** 1.*
+
+> *BMI is the **ratio of** someone’s weight **to** their height.*
+
+> *BMI is the **ratio between** someone’s weight **and** their height.*
+
+[*Source*](https://ell.stackexchange.com/questions/4279/when-describing-a-ratio-should-between-or-of-be-used)
 
 ***
 
@@ -5693,19 +5727,5 @@ See also [divide \| separate](#divide--separate)
 ## outline \| sketch
 
 [*Source*]()
-
-***
-
-## effort at \| effort in \| effort of \| effort to
-
-effort\[s\] ***to*** {infinitive} is a more common form.
-
-***effort at*** focuses on energy/resources that are required for the effort.
-
-***effort in*** emphasizes that something requires certain energy/resources for the success.
-
-One can say *trapping effort*, or *effort ***of*** trapping*, but the meaning is different than with the preposition *in* or *at*. In a noun-noun construct the first noun (the noun adjunct) serves the role of an adjective.
-
-[*Source*](https://ell.stackexchange.com/questions/65234/effort-at-of-in-shooting)
 
 ***
