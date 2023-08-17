@@ -88,6 +88,12 @@
 
 [comma use with if necessary \| if required \| when needed, etc.](#comma-use-with-if-necessary--if-required--when-needed-etc)
 
+[common \| general](#common--general)
+
+[common knowledge \| general knowledge](#common-knowledge--general-knowledge)
+
+[common language \| general language](#common-language--general-language)
+
 [communicate to \| communicate with](#communicate-to--communicate-with)
 
 [company name](#company-name)
@@ -5002,6 +5008,58 @@ Sources: *[1](https://dictionary.cambridge.org/dictionary/english-russian/quote)
 *See also:* [quotation \| quote](#quotation--quote)
 
 [*Source*](http://www.differencebetween.net/language/words-language/difference-between-cite-and-quote)
+
+***
+
+## common \| general
+
+**Common**&mdash;frequently occurring:
+
+> *One **common** mistake people make is not reading the instructions carefully.*
+
+> *The park has a **common** area where people can relax and enjoy the outdoors.*
+
+> *The **common** cold is a viral infection that affects the upper respiratory tract.*
+
+**General**&mdash;broad or nonspecific:
+
+> *The **general** consensus is that we need to improve our communication skills.*
+
+> ***General** anesthesia is used during major surgeries.*
+
+*See also* [common knowledge \| general knowledge](#common-knowledge--general-knowledge), [common language \| general language](#common-language--general-language)
+
+[*Source*](https://thecontentauthority.com/blog/common-vs-general)
+
+***
+
+## common language \| general language
+
+| Common Language: | General Language: |
+|------------------|-------------------|
+| 1) used in everyday conversation and informal settings | 1) used in formal settings, such as academic or professional writing |
+| 2) can be useful for building rapport with others and making complex ideas more accessible | 2) is characterized by precision, clarity, and attention to detail |
+| 3) May lack precision and clarity, and can lead to misunderstandings in certain contexts | 3) May be less accessible to those who are not familiar with the specific jargon and terminology used in a particular field |
+
+*See also* [common \| general](#common--general), [common knowledge \| general knowledge](#common-knowledge--general-knowledge)
+
+[*Source*](https://thecontentauthority.com/blog/common-vs-general)
+
+***
+
+## common knowledge \| general knowledge
+
+**Common knowledge**&mdash;something that is generally known to most people:
+
+> *It is **common knowledge** to most trout-fishers that the May Fly has decreased over many parts of the country.*
+
+**General knowledge**&mdash;basic understanding of a subject or a variety of subjects:
+
+> *Many of them do not have familiarity with poetry, not to mention the **general knowledge** and cultural literacy.*
+
+*See also* [common \| general](#common--general), [common language \| general language](#common-language--general-language)
+
+[*Source*](https://www.writingtips.cc/difference-between-common-knowledge-and-general-knowledge)
 
 ***
 
