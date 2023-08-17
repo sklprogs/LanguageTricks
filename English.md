@@ -5017,9 +5017,9 @@ Sources: *[1](https://dictionary.cambridge.org/dictionary/english-russian/quote)
 
 > *One **common** mistake people make is not reading the instructions carefully.*
 
-> *The park has a **common** area where people can relax and enjoy the outdoors.*
-
 > *The **common** cold is a viral infection that affects the upper respiratory tract.*
+
+> *The park has a **common** area where people can relax and enjoy the outdoors.*
 
 **General**&mdash;broad or nonspecific:
 
@@ -5035,11 +5035,11 @@ Sources: *[1](https://dictionary.cambridge.org/dictionary/english-russian/quote)
 
 ## common language \| general language
 
-| Common Language: | General Language: |
-|------------------|-------------------|
+| common language | general language |
+|-----------------|------------------|
 | 1) used in everyday conversation and informal settings | 1) used in formal settings, such as academic or professional writing |
 | 2) can be useful for building rapport with others and making complex ideas more accessible | 2) is characterized by precision, clarity, and attention to detail |
-| 3) May lack precision and clarity, and can lead to misunderstandings in certain contexts | 3) May be less accessible to those who are not familiar with the specific jargon and terminology used in a particular field |
+| 3) may lack precision and clarity, and can lead to misunderstandings in certain contexts | 3) may be less accessible to those who are not familiar with the specific jargon and terminology used in a particular field |
 
 *See also* [common \| general](#common--general), [common knowledge \| general knowledge](#common-knowledge--general-knowledge)
 
