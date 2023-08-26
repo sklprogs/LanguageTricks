@@ -266,6 +266,8 @@
 
 [job \| work](#job--work)
 
+[killing \| murder](#killing--murder)
+
 [knowledge about \| knowledge of \| ~~knowledge on~~](#knowledge-about--knowledge-of--knowledge-on)
 
 [lack \| miss](#lack--miss)
@@ -5114,6 +5116,20 @@ Some believe that ***the between ... and*** construct is less formal, others men
 [*Source*](https://ell.stackexchange.com/questions/4279/when-describing-a-ratio-should-between-or-of-be-used)
 
 ***
+
+## killing \| murder
+
+All murders are killings but not all killings are murders. Accidental killing is not murder.
+
+| killing | murder |
+|---------|--------|
+| with or without intention | with intention |
+| death of any living being | death of humans only |
+
+[*Source*](https://anydifferencebetween.com/difference-between-killing-and-murdering-explained)
+
+***
+
 
 ## usage
 
