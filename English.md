@@ -38,6 +38,8 @@
 
 [ask for approval \| ask for an approval](#ask-for-approval--ask-for-an-approval)
 
+[at a path \| on a path](#at-a-path-on-a-path)
+
 [at each step \| in each step \| on each step](#at-each-step--in-each-step--on-each-step)
 
 [at the beginning \| in the beginning](#at-the-beginning--in-the-beginning)
@@ -421,6 +423,18 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## at a path \| on a path
+
+When you are ***at a path***, you are facing it, having not yet taken it.
+
+When you are ***on a path***, you have begun to take it and are in the act of following it.
+
+See also [at each step \| in each step \| on each step](#at-each-step--in-each-step--on-each-step)
+
+[*Source*](https://english.stackexchange.com/questions/486165/difference-between-at-every-step-and-on-every-step/486191#486191)
 
 ***
 
@@ -5169,6 +5183,8 @@ All murders are killings but not all killings are murders. Accidental killing is
 > *While climbing the ladder to pick cherries, "Warning: Serious Injury May Occur if extended beyond 5 Meters" was written **on every step**.*
 
 > *In building any model airplane with high voltage, safety equipment must be worn on every step, when performing steps 8 thru 14 below* [Whenever steps 8 thru 14 are performed, no matter which step it is between 8 and 14, safety equipment is necessary to prevent serious injury.)
+
+See also [at a path \| on a path](#at-a-path-on-a-path)
 
 *Sources: [1](https://english.stackexchange.com/questions/108584/at-step-or-in-step),
 [2](https://english.stackexchange.com/questions/486165/difference-between-at-every-step-and-on-every-step)*
