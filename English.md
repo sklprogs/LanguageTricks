@@ -38,7 +38,7 @@
 
 [ask for approval \| ask for an approval](#ask-for-approval--ask-for-an-approval)
 
-[at each step \| in each step](#at-each-step--in-each-step)
+[at each step \| in each step \| on each step](#at-each-step--in-each-step--on-each-step)
 
 [at the beginning \| in the beginning](#at-the-beginning--in-the-beginning)
 
@@ -5154,7 +5154,7 @@ All murders are killings but not all killings are murders. Accidental killing is
 
 ***
 
-## at each step \| in each step
+## at each step \| in each step \| on each step
 
 ***In each step***&mdash;something is done or happens as part of the process:
 
@@ -5164,7 +5164,14 @@ All murders are killings but not all killings are murders. Accidental killing is
 
 > *Creating a report takes three steps. **At each step** the author is required to check with a reviewer that it has been done correctly.*
 
-[*Source*](https://english.stackexchange.com/questions/108584/at-step-or-in-step)
+***On*** turns the emphasis away from the person taking action, to emphasis the step as more crucial. *Step* could be a physical step (on a staircase or ladder) or a specific procedure one must do or follow:
+
+> *While climbing the ladder to pick cherries, "Warning: Serious Injury May Occur if extended beyond 5 Meters" was written **on every step**.*
+
+> *In building any model airplane with high voltage, safety equipment must be worn on every step, when performing steps 8 thru 14 below* [Whenever steps 8 thru 14 are performed, no matter which step it is between 8 and 14, safety equipment is necessary to prevent serious injury.)
+
+*Sources: [1](https://english.stackexchange.com/questions/108584/at-step-or-in-step),
+[2](https://english.stackexchange.com/questions/486165/difference-between-at-every-step-and-on-every-step)*
 
 ***
 
