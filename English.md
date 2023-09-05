@@ -72,6 +72,8 @@
 
 [bound to \| bound with](#bound-to--bound-with)
 
+[building \| compiling](#building--compiling)
+
 [bunny \| rabbit](#bunny--rabbit)
 
 [by email \| ~~through email~~ \| via email](#by-email--through-email--via-email)
@@ -423,6 +425,16 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## building \| compiling
+
+***Building*** is done when preparing an application for release, which includes ***compiling***, packaging, testing, etc.
+
+***Compiling*** is done at any time the compiler is involved in translating programming language code to machine code.
+
+[*Source*](https://softwareengineering.stackexchange.com/questions/140321/what-is-the-difference-between-building-and-compiling)
 
 ***
 
