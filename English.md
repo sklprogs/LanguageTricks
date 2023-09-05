@@ -430,9 +430,9 @@
 
 ## building \| compiling
 
-***Building*** is done when preparing an application for release, which includes ***compiling***, packaging, testing, etc.
-
 ***Compiling*** is done at any time the compiler is involved in translating programming language code to machine code.
+
+***Building*** is done when preparing an application for release, which includes ***compiling***, packaging, testing, etc.
 
 [*Source*](https://softwareengineering.stackexchange.com/questions/140321/what-is-the-difference-between-building-and-compiling)
 
