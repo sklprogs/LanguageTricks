@@ -266,7 +266,7 @@
 
 [instant \| moment](#instant--moment)
 
-[integrate in \| integrate into \| integrate with](#integrate-in--integrate-into--integrate-with)
+[integrate \| integrate in \| integrate into \| ~~integrate to~~ \| integrate with](#integrate--integrate-in--integrate-into--integrate-to--integrate-with)
 
 [interfere in \| interfere with](#interfere-in--interfere-with)
 
@@ -430,7 +430,7 @@
 
 ***
 
-## integrate in \| integrate into \| integrate with
+## integrate \| integrate in \| integrate into \| ~~integrate to~~ \| integrate with
 
 **Integrate in**&mdash;combine many things into a whole:
 
@@ -449,6 +449,10 @@
 > *I’d like to propose **integration with** the other political party.*
 
 While *integrate in* and *integrate into* can be synonyms, ***integrate with*** cannot and specifically implies two groups merging together, rather than an entity merging into a larger group or adapting to the larger group.
+
+While prepositions help clarify what exactly is being integrated in which situations, ***integrate*** can be used without a preposition:
+
+> *They **integrated** the immigrants.*
 
 [*Source*](https://grammarhow.com/integrate-in-integrate-into-integrate-with/)
 
