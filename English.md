@@ -440,6 +440,8 @@
 
 In software development, ***integrating*** two different programs means making them work together seamlessly without any conflicts or issues, while ***merging*** them could mean combining their codebases into a single program.
 
+*See also* [integrate \| integrate in \| integrate into \| ~~integrate to~~ \| integrate with](#integrate--integrate-in--integrate-into--integrate-to--integrate-with)
+
 [*Source*](https://thecontentauthority.com/blog/integrate-vs-merge)
 
 ***
@@ -468,7 +470,7 @@ While prepositions help clarify what exactly is being integrated in which situat
 
 > *They **integrated** the immigrants.*
 
-See also [integrate \| merge](#integrate--merge)
+*See also* [integrate \| merge](#integrate--merge)
 
 [*Source*](https://grammarhow.com/integrate-in-integrate-into-integrate-with/)
 
@@ -490,7 +492,7 @@ When you are ***at a path***, you are facing it, having not yet taken it.
 
 When you are ***on a path***, you have begun to take it and are in the act of following it.
 
-See also [at each step \| in each step \| on each step](#at-each-step--in-each-step--on-each-step)
+*See also* [at each step \| in each step \| on each step](#at-each-step--in-each-step--on-each-step)
 
 [*Source*](https://english.stackexchange.com/questions/486165/difference-between-at-every-step-and-on-every-step/486191#486191)
 
