@@ -52,6 +52,8 @@
 
 [being used \| in use](#being-used--in-use)
 
+[beside \| besides](#beside--besides)
+
 [beverage \| drink](#beverage--drink)
 
 [big \| large](#big--large)
@@ -5130,6 +5132,25 @@ All murders are killings but not all killings are murders. Accidental killing is
 
 ***
 
+## beside \| besides
+
+***Beside*** (next to, aside of) tells us the location of something and physically places two nouns side by side:
+
+> *The barn **beside** the farmer’s house was falling down.*
+
+> *Will you sit **beside** me at dinner?*
+
+***Beside the point*** is a common idiom that means “unimportant” or “not relevant to the matter at hand”.
+
+***Besides***&mdash;in addition, in addition to, moreover, as well:
+
+> *I dislike fishing; **besides** (= moreover, what’s more), I don’t even own a boat.*
+
+> *Do you have any M&Ms **besides** (= in addition to) the green ones?*
+
+[*Source*](http://web.archive.org/web/20230530052858/www.grammarly.com/blog/beside-vs-besides)
+
+***
 
 ## usage
 
