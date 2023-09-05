@@ -5648,7 +5648,7 @@ See also [divide \| separate](#divide--separate)
 
 ## match \| match against \| match to \| match with
 
-[*Source*](languagetips.wordpress.com)
+[*Source*](https://languagetips.wordpress.com/2010/02/24/language-tips-match-withto-trademarks-and-generic-tems/)
 
 ***
 
@@ -5855,6 +5855,24 @@ See also [divide \| separate](#divide--separate)
 ***
 
 ## outline \| sketch
+
+[*Source*]()
+
+***
+
+## use | utilize
+
+[*Source*]()
+
+***
+
+## it is | this is
+
+[*Source*]()
+
+***
+
+## entry | record
 
 [*Source*]()
 
