@@ -38,6 +38,8 @@
 
 [ask for approval \| ask for an approval](#ask-for-approval--ask-for-an-approval)
 
+[at each step \| in each step](#at-each-step--in-each-step)
+
 [at the beginning \| in the beginning](#at-the-beginning--in-the-beginning)
 
 [at the end \| in the end](#in-the-end--at-the-end)
@@ -5149,6 +5151,20 @@ All murders are killings but not all killings are murders. Accidental killing is
 > *Do you have any M&Ms **besides** (= in addition to) the green ones?*
 
 [*Source*](http://web.archive.org/web/20230530052858/www.grammarly.com/blog/beside-vs-besides)
+
+***
+
+## at each step \| in each step
+
+***In each step***&mdash;something is done or happens as part of the process:
+
+> *Assembling the furniture consists of seven steps. **In each step** a new piece is added to the assembly.*
+
+***At each step***&mdash;something is done additionally to the process:
+
+> *Creating a report takes three steps. **At each step** the author is required to check with a reviewer that it has been done correctly.*
+
+[*Source*](https://english.stackexchange.com/questions/108584/at-step-or-in-step)
 
 ***
 
