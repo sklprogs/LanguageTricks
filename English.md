@@ -266,6 +266,8 @@
 
 [instant \| moment](#instant--moment)
 
+[integrate in \| integrate into \| integrate with](#integrate-in--integrate-into--integrate-with)
+
 [interfere in \| interfere with](#interfere-in--interfere-with)
 
 [issue \| problem](#issue--problem)
@@ -425,6 +427,30 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## integrate in \| integrate into \| integrate with
+
+**Integrate in**&mdash;combine many things into a whole:
+
+> *We have **integrated in** companies many times.*
+
+> *The **integration in** the bone is the most important part of the surgery.*
+
+**Integrate into**&mdash;make something part of a larger whole:
+
+> *They’re going to **integrate into** our building.*
+
+***Integrate into*** can be a synonym of ***integrate in*** with the nuance that a smaller group becomes part of a larger whole
+
+**Integrate with**&mdash;combine two similarly sized groups together:
+
+> *I’d like to propose **integration with** the other political party.*
+
+While *integrate in* and *integrate into* can be synonyms, ***integrate with*** cannot and specifically implies two groups merging together, rather than an entity merging into a larger group or adapting to the larger group.
+
+[*Source*](https://grammarhow.com/integrate-in-integrate-into-integrate-with/)
 
 ***
 
@@ -5589,12 +5615,6 @@ See also [divide \| separate](#divide--separate)
 ## embed in \| embed into \| ~~embed to~~
 
 [*Source*]()
-
-***
-
-## integrate into \| integrate with
-
-[*Source*](https://www.noslangues-outlanguages.gc.ca/en/writing-tips-plus/integrate-integrate-into-integrate-with)
 
 ***
 
