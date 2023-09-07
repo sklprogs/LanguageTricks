@@ -84,6 +84,8 @@
 
 [cause \| reason](#cause--reason)
 
+[change \| modify](#change--modify)
+
 [check \| check for \| check that \| validate \| verify](#check--check-for--check-that--validate--verify)
 
 [check if \| check whether](#check-if--check-whether)
@@ -429,6 +431,23 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## change \| modify
+
+***Change*** refers to a complete transformation, while **modify** means to make minor adjustments or alterations.
+
+|        | Change | Modify |
+|--------|--------|--------|
+| Definition | Making something different or altering its original state. | Making partial or minor alterations to something without fundamentally changing its essence or nature. |
+| Scope | Can be major or minor, intentional or unintentional. | Generally minor, intentional. |
+| Result | Fundamental transformation of the object, concept, or situation. | Improved functionality, performance, or effectiveness of the object, concept, or situation. |
+| Examples | - *change in weather patterns* | - *modifying a recipe* |
+|          | - *change in leadership, change in technology* | - *modifying a car* |
+|          | - *change in personal habits* | - *modifying a software program* |
+
+[*Source*](https://thecontentauthority.com/blog/change-vs-modify)
 
 ***
 
