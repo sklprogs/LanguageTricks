@@ -44,7 +44,7 @@
 
 [at the beginning \| in the beginning](#at-the-beginning--in-the-beginning)
 
-[at the end \| in the end](#in-the-end--at-the-end)
+[at the end \| in the end](#at-the-end--in-the-end)
 
 [attention \| the attention](#attention--the-attention)
 
@@ -93,6 +93,8 @@
 [cite \| quote](#cite--quote)
 
 [class \| lesson](#class--lesson)
+
+[close \| exit \| quit](#close--exit--quit)
 
 [comma before a subordinate conjunction](#comma-before-a-subordinate-conjunction)
 
@@ -431,6 +433,36 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## close \| exit \| quit
+
+### General
+
+**Quit**&mdash;to give up, stop doing something:
+
+> ***Quit** your job*
+
+**Exit**&mdash;to leave:
+
+> ***Exit** the building*
+
+### IT
+
+Microsoft guidelines suggest ***exit***, Apple guidelines suggest ***quit***.
+
+**Close** on Windows usually means closing the current window or tab only.
+
+| Conventional terms  |          |            |
+|---------------------|----------|------------|
+| Windows (old)       | Open/Run | Close/Exit |
+| Windows 8           | Open     | Close      |
+| Mac OS X            | Open     | Quit       |
+| Unix (command line) | Run      | Exit       |
+
+*Sources: [1](https://hinative.com/questions/2525867#answer-6430280),
+[2](https://ux.stackexchange.com/questions/50893/do-we-exit-quit-or-close-an-application)*
 
 ***
 
