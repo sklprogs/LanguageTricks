@@ -450,7 +450,7 @@
 
 1) as stated or attested by:
 
-> ***According to** John, the bank closes at 3 p.m. \[ ~~***In accordance with**~~ is unusual\]
+> ***According to** John, the bank closes at 3 p.m.* \[ ~~*in accordance with*~~ is unusual\]
 
 2) in conformity with:
 
@@ -464,7 +464,7 @@
 
 **Accordance with**&mdash;in compliance or in agreement:
 
-> ***In accordance with** the Geneva Convention...
+> ***In accordance with** the Geneva Convention...*
 
 **Accord** is a synonym of *agreement* or *harmony*:
 
