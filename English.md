@@ -364,6 +364,8 @@
 
 [residual \| residue \| residues](#residual--residue--residues)
 
+[restricted for \| restricted to](#restricted-for--restricted-to)
+
 [restriction of \| restriction on](#restriction-of--restriction-on)
 
 [router (pronunciation)](#router-pronunciation)
@@ -438,13 +440,25 @@
 
 ***
 
+## restricted for \| restricted to
+
+> *Access to this content is **restricted for** our subscribers* \[=subscribers may not access the content\]
+
+> *Access to this content is **restricted to** our subscribers* \[=only subscribers may access the content\]
+
+*See also* [restriction of \| restriction on](#restriction-of--restriction-on)
+
+[*Source*](https://english.stackexchange.com/questions/473317/restricted-for-or-restricted-to)
+
+***
+
 ## restriction of \| restriction on
 
-***Restriction on*** relates primarily to what person or thing is restricted:
+***Restriction on*** relates to what person or thing is restricted:
 
 > *Since his release from jail, the only **restriction on** Joe is his requirement to see his parole officer every Tuesday at 8 a.m.*
 
-***Restriction of*** relates primarily to the kind of restriction involved:
+***Restriction of*** relates to the kind of restriction involved:
 
 > ***Restriction of** voting rights based on race is unconstitutional.*
 
@@ -453,6 +467,8 @@ When both the object and type of restriction are involved, either preposition is
 > *Now that Joe is no longer on parole, only the **restriction on** his voting rights remains* \[draws attention to the fact that Joe is still subject to restrictions\]
 
 > *Now that Joe is no longer on parole, only the **restriction of** his voting rights remains* \[draws attention to the kind of restrictions that Joe is still subject to\]
+
+*See also* [restricted for \| restricted to](#restricted-for--restricted-to)
 
 [*Source*](https://ell.stackexchange.com/questions/247658/whats-the-difference-between-restriction-on-and-restriction-of)
 
