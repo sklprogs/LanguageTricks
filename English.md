@@ -450,17 +450,17 @@
 
 1) as stated or attested by:
 
-> ***According to** John, the bank closes at 3 p.m.* \[ ~~*in accordance with*~~ is unusual\]
+   > ***According to** John, the bank closes at 3 p.m.* \[ ~~*in accordance with*~~ is unusual\]
 
-2) in conformity with:
+1) in conformity with:
 
-> *He acted **according to** his promise.*
+   > *He acted **according to** his promise.*
 
-3) depending on:
+1) depending on:
 
-> *You will be paid **according to** the amount of work you have done.*
+   > *You will be paid **according to** the amount of work you have done.*
 
-> *Books arranged **according to** their subjects.*
+   > *Books arranged **according to** their subjects.*
 
 **Accordance with**&mdash;in compliance or in agreement:
 
@@ -662,7 +662,7 @@ When you are ***on a path***, you have begun to take it and are in the act of fo
 If someone is **able to** do something, they can do it and it is not unusual or
 surprising if they do it:
 
-> *The doctor said that after a few years I\'d be **able to** get out of bed.*
+> *The doctor said that after a few years I’d be **able to** get out of bed.*
 
 > *Will you be **able to** play on Saturday?*
 
