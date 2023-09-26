@@ -477,9 +477,9 @@
 
 > *In this system, ~~in accordance to~~ **in accord with** Kohn’s theorem, strong reduction of the energy level separation caused by the electron‐electron interaction compensates the depolarization shift.*
 
-> *We have observed fine structures near sample edges that shift inward with an increase in magnetic field ~~in accordance with~~ **in accord with** the shift of the positions of the quantum‐Hall edge states.
+> *We have observed fine structures near sample edges that shift inward with an increase in magnetic field ~~in accordance with~~ **in accord with** the shift of the positions of the quantum‐Hall edge states.*
 
-> *The simulated x‐ray diffraction pattern, density, and bulk modulus of Cco‐C8 are ~~in good accordance with~~ **in good accord with** the experimental data on structurally undetermined superhard carbon recovered from cold compression of carbon nanotube bundles.*
+> *The simulated x‐ray diffraction pattern, density, and bulk modulus of Cco‐C₈ are ~~in good accordance with~~ **in good accord with** the experimental data on structurally undetermined superhard carbon recovered from cold compression of carbon nanotube bundles.*
 
 *Sources: [1](https://english.stackexchange.com/questions/400974/are-in-accordance-with-and-according-to-interchangeable),
 [2](https://ru.hinative.com/questions/19561453),
