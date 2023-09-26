@@ -86,6 +86,8 @@
 
 [change \| modify](#change--modify)
 
+[character \| glyph \| symbol](#character--glyph--symbol)
+
 [check \| check for \| check that \| validate \| verify](#check--check-for--check-that--validate--verify)
 
 [check if \| check whether](#check-if--check-whether)
@@ -437,6 +439,24 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## character \| glyph \| symbol
+
+### General
+
+A **character** is the symbol representing a letter.
+
+A **glyph** is the specific shape, design, or representation of a character.
+
+### IT
+
+**Symbols** are names with identity (language identifiers). *Symbol* has no single universal definition and is of a semantically higher level than a *character*. In a programming language characters are meaningless until they form a statement, a keyword, an operator, an identifier, a constant or a value. What a symbol is exactly varies over languages and/or compiler implementations. In the Microsoft world they relate to debugging, they map points in a compiled program to source code locations.
+
+*Sources: [1](https://www.creativelive.com/blog/6-typography-terms-that-get-confused),
+[2](https://softwareengineering.stackexchange.com/questions/432762/is-there-the-difference-between-symbols-and-characters-in-programming),
+[3](https://stackoverflow.com/questions/57349076/what-is-the-difference-between-a-symbol-and-its-name)*
 
 ***
 
