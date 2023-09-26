@@ -2,6 +2,8 @@
 
 [able to \| capable of](#able-to--capable-of)
 
+[according to \| ~~according with~~ \| in accord with \| ~~in accordance to~~ \| in accordance with \| ~~in according with~~](#according-to--according-with--in-accord-with--in-accordance-to--in-accordance-with--in-according-with)
+
 [accidentally \| coincidentally \| coincidently \| incidentally](#accidentally--coincidentally--coincidently--incidentally)
 
 [accurate \| precise](#accurate--precise)
@@ -439,6 +441,54 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## according to \| ~~according with~~ \| in accord with \| ~~in accordance to~~ \| in accordance with \| ~~in according with~~
+
+**According to**:
+
+1) as stated or attested by:
+
+> ***According to** John, the bank closes at 3 p.m. \[ ~~***In accordance with**~~ is unusual\]
+
+2) in conformity with:
+
+> *He acted **according to** his promise.*
+
+3) depending on:
+
+> *You will be paid **according to** the amount of work you have done.*
+
+> *Books arranged **according to** their subjects.*
+
+**Accordance with**&mdash;in compliance or in agreement:
+
+> ***In accordance with** the Geneva Convention...
+
+**Accord** is a synonym of *agreement* or *harmony*:
+
+> *This view is not **in accord with** reality.*
+
+| category | in accord    | in accordance |
+|----------|--------------|---------------|
+| meaning  | in agreement | in compliance |
+| field    | physics      | legal         |
+
+> *In this system, ~~in accordance to~~ **in accord with** Kohn’s theorem, strong reduction of the energy level separation caused by the electron‐electron interaction compensates the depolarization shift.*
+
+> *We have observed fine structures near sample edges that shift inward with an increase in magnetic field ~~in accordance with~~ **in accord with** the shift of the positions of the quantum‐Hall edge states.
+
+> *The simulated x‐ray diffraction pattern, density, and bulk modulus of Cco‐C8 are ~~in good accordance with~~ **in good accord with** the experimental data on structurally undetermined superhard carbon recovered from cold compression of carbon nanotube bundles.*
+
+*Sources: [1](https://english.stackexchange.com/questions/400974/are-in-accordance-with-and-according-to-interchangeable),
+[2](https://ru.hinative.com/questions/19561453),
+[3](https://forum.wordreference.com/threads/as-per-according-in-accordance-with.548106/#post-3081201),
+[4](https://www.englishforums.com/English/InAccordanceAccordanceWith/jvbl/post.htm),
+[5](https://forum.wordreference.com/threads/according-to-according-with.931916/#post-4921192),
+[6](https://prostoenglishblog.ru/englishvocabulary/tpost/upztkzse51-according-to-ili-in-accordance-with),
+[7](https://grammarist.com/usage/accord-accordance),
+[8](http://people.physics.illinois.edu/Celia/MsP/Accord-Accordance.pdf)*
 
 ***
 
@@ -5597,12 +5647,6 @@ See also: [installation \| setup](#installation--setup)
 ## along with \| together with
 
 [*Source*](AruAruEigo hinative.com)
-
-***
-
-## according to \| according with
-
-[*Source*]()
 
 ***
 
