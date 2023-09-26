@@ -364,6 +364,8 @@
 
 [residual \| residue \| residues](#residual--residue--residues)
 
+[restriction of \| restriction on](#restriction-of--restriction-on)
+
 [router (pronunciation)](#router-pronunciation)
 
 [run in Windows \| run on Windows \| run under Windows](#run-in-windows--run-on-windows--run-under-windows)
@@ -433,6 +435,26 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## restriction of \| restriction on
+
+***Restriction on*** relates primarily to what person or thing is restricted:
+
+> *Since his release from jail, the only **restriction on** Joe is his requirement to see his parole officer every Tuesday at 8 a.m.*
+
+***Restriction of*** relates primarily to the kind of restriction involved:
+
+> ***Restriction of** voting rights based on race is unconstitutional.*
+
+When both the object and type of restriction are involved, either preposition is acceptable:
+
+> *Now that Joe is no longer on parole, only the **restriction on** his voting rights remains* \[draws attention to the fact that Joe is still subject to restrictions\]
+
+> *Now that Joe is no longer on parole, only the **restriction of** his voting rights remains* \[draws attention to the kind of restrictions that Joe is still subject to\]
+
+[*Source*](https://ell.stackexchange.com/questions/247658/whats-the-difference-between-restriction-on-and-restriction-of)
 
 ***
 
