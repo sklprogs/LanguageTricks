@@ -448,11 +448,11 @@
 
 ## containing \| that contains
 
-> *I have a jug **that contains** 2 litres of water.* \[=to contain; the jug is capable of containing 2 litres\]
+> *I have a jug **that contains** 2 litres of water* \[=to contain; the jug is capable of containing 2 litres\]
 
-> *I have a jug **containing** 2 litres of water.* \[the jug already has 2 litres of water in it\]
+> *I have a jug **containing** 2 litres of water* \[the jug already has 2 litres of water in it\]
 
-[*Source:*](https://ell.stackexchange.com/questions/238779/that-contains-vs-containing/238780#238780)
+[*Source*](https://ell.stackexchange.com/questions/238779/that-contains-vs-containing/238780#238780)
 
 ***
 
