@@ -136,6 +136,8 @@
 
 [contain \| include](#contain--include)
 
+[containing \| that contains](#containing--that-contains)
+
 [content \| contents](#content--contents)
 
 [cost \| price](#cost--price)
@@ -441,6 +443,16 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## containing \| that contains
+
+> *I have a jug **that contains** 2 litres of water.* \[=to contain; the jug is capable of containing 2 litres\]
+
+> *I have a jug **containing** 2 litres of water.* \[the jug already has 2 litres of water in it\]
+
+[*Source:*](https://ell.stackexchange.com/questions/238779/that-contains-vs-containing/238780#238780)
 
 ***
 
