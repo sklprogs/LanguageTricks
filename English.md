@@ -86,6 +86,8 @@
 
 [cause \| reason](#cause--reason)
 
+[change in \| change of \| change to](#change-in--change-of--change-to)
+
 [change \| modify](#change--modify)
 
 [character \| glyph \| symbol](#character--glyph--symbol)
@@ -443,6 +445,18 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## change in \| change of \| change to
+
+| Form                     | Meaning                                         | Example                                      |
+|--------------------------|-------------------------------------------------|----------------------------------------------|
+| ***change in***          | shows a state, condition, character, or quality | ***change in** attitudes*                    |
+| ***change of***          | implies some sort of replacement                | ***change of** government*                   |
+| ***change from ... to*** | implies transition / transformation             | *a color **change from** green **to** brown* |
+
+[*Source*](https://english.stackexchange.com/questions/405625/changes-in-changes-of-or-changes-to/405636#405636)
 
 ***
 
