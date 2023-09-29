@@ -82,6 +82,8 @@
 
 [can be further \| can further be](#can-be-further--can-further-be)
 
+[canceled \| cancelled](#canceled--cancelled)
+
 [cannot \| failed \| unable](#cannot--failed--unable)
 
 [cause \| reason](#cause--reason)
@@ -445,6 +447,18 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## canceled \| cancelled
+
+***canceled*** = AmE
+
+***cancelled*** = BrE
+
+American English typically doubles the consonant only when the stress is on the syllable attached to the suffix, as in *remit* and *remitting*.
+
+[*Source*](https://www.merriam-webster.com/grammar/canceled-or-cancelled)
 
 ***
 
