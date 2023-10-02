@@ -418,6 +418,8 @@
 
 [throw at \| throw to](#throw-at--throw-to)
 
+[~~transform to~~ \| transform into](#transform-to--transform-into)
+
 [translate into \| translate to](#translate-into--translate-to)
 
 [troop \| troupe](#troop--troupe)
@@ -447,6 +449,12 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## ~~transform to~~ \| transform into
+
+[*Source*](https://english.stackexchange.com/questions/515071/using-to-instead-of-into-in-transform-a-into-b/515073#515073)
 
 ***
 
