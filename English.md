@@ -424,6 +424,10 @@
 
 [throw at \| throw to](#throw-at--throw-to)
 
+[transfer \| transit](#transfer--transit)
+
+[transfer \| transmit](#transfer--transmit)
+
 [~~transform to~~ \| transform into](#transform-to--transform-into)
 
 [translate into \| translate to](#translate-into--translate-to)
@@ -455,6 +459,57 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## transfer \| transit
+
+**Transit**&mdash;pass through a place or area:
+
+> *You **transit** through an airport on your way to your final destination*
+
+**Transfer**&mdash;move something from one place to another:
+
+> ***Transfer** from one flight to another at the airport*
+
+*See also* [transfer \| transmit](#transfer--transmit)
+
+[*Source*](https://thecontentauthority.com/blog/transfer-vs-transmit)
+
+***
+
+## transfer \| transmit
+
+### General
+
+| Case | Transfer | Transmit |
+|------|----------|----------|
+| Definition | Move something from one place to another | Send or communicate something from one person or place to another, typically through a medium such as air, water, or wire |
+| Nature | Typically implies a physical movement | Movement of information or energy |
+| Ownership | Changes location and/or ownership: | Doesn’t change ownership&mdash;it’s shared information: *Radio and TV waves* |
+|           | - ***transfer** ownership of a car to someone else* | - ***transmit** a message to someone* |
+|           | - ***transfer** money from one account to another*  | - ***transmit** data from one device to another* |
+| Sending and receiving | Both sending and receiving | Sending something away without necessarily knowing where it will end up: *Television transmission* |
+
+> *The radio station **transmits** its signal across the city.*
+
+> *The doctor believes the virus was **transmitted** through the air.*
+
+> *The computer program can **transmit** data over a network.*
+
+### IT
+
+| Case | Transmit | Transfer |
+|------|----------|----------|
+| Definition | Send data or information over a network or through a device | Move physical objects or materials from one place to another |
+| Example | - *You **transmit** a file from one computer to another over a local network.* | - *You **transfer** files from a USB drive to your computer.* |
+|         | - *The virus can **transmit** from one computer to another through a shared network.* | - *Please **transfer** the documents to my email address.* |
+
+*See also* [transfer \| transit](#transfer--transit)
+
+*Sources: [1](https://www.usingenglish.com/forum/threads/transfer-vs-transmission.35828/),
+[2](https://english.stackexchange.com/questions/273292/transfer-vs-transmit),
+[3](https://thecontentauthority.com/blog/transfer-vs-transmit)*
 
 ***
 
@@ -5760,12 +5815,6 @@ See also: [installation \| setup](#installation--setup)
 
 ***
 
-## pass \| transfer \| transmit \| transport
-
-[*Source*]()
-
-***
-
 ## compare against \| compare to
 
 See also: [compare to \| compare with](#compare-to-compare-with)
@@ -6132,5 +6181,11 @@ See also [divide \| separate](#divide--separate)
 ## entry | record
 
 [*Source*]()
+
+***
+
+## pass \| transfer \| transport
+
+***
 
 ***
