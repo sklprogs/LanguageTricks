@@ -456,11 +456,9 @@
 
 ## notify about \| notify of \| ~~notify on~~
 
-*Inform* and ***notify*** require two objects (somebody and something):
+***Notify about*** = ***notify of*** (although *some* native speakers think that *of* sounds better):
 
-> *Please **notify <ins>us</ins> of** any change of address.*
-
-***Notify about*** = ***notify of*** (although *some* native speakers think that *of* sounds better)
+> *Please **notify <ins>us</ins> of** any change of address* \[at least *someone* is required\]
 
 | Pattern                      | Example                                                                          |
 |------------------------------|----------------------------------------------------------------------------------|
