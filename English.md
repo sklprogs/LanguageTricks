@@ -222,6 +222,8 @@
 
 [evaluation \| an evaluation](#evaluation--an-evaluation)
 
+[everybody \| everyone](#everybody--everyone)
+
 [except \| except for](#except--except-for)
 
 [expand \| extend](#expand--extend)
@@ -400,6 +402,8 @@
 
 [solution for \| solution of \| solution to](#solution-for--solution-of--solution-to)
 
+[somebody \| someone](#somebody--someone)
+
 [special \| specific](#special--specific)
 
 [starting from \| starting with](#starting-from--starting-with)
@@ -451,6 +455,22 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## everybody \| everyone
+
+## somebody \| someone
+
+***Someone*** is more formal than ***somebody*** (just as ***anyone*** is more formal than ***anybody***, and ***everyone*** is more formal than ***everybody***).
+
+***Someone*** is used more frequently than ***somebody***. ***Everybody*** is used more often than ***everyone*** in spoken language.
+
+*See also* [anybody \| anyone](#anybody--anyone)
+
+*Sources: [1](https://www.britannica.com/dictionary/eb/qa/difference-between-someone-and-somebody),
+[2](https://dictionary.cambridge.org/grammar/british-grammar/anyone-anybody-or-anything)
+[3](https://www.britannica.com/dictionary/eb/qa/everybody-or-everyone)*
 
 ***
 
@@ -1678,6 +1698,8 @@ of people.
 ***Anybody*** is sometimes considered inappropriate for formal conversations,
 it is more appropriate for personal conversations. ***Anyone*** is universally
 used in both formal and informal conversation settings.
+
+*See also* [everybody \| everyone](#everybody--everyone)
 
 [*Source*](http://www.differencebetween.net/language/difference-between-anyone-and-anybody/)
 
