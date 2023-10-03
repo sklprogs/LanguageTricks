@@ -328,6 +328,8 @@
 
 [new \| novel](#new--novel)
 
+[notify about \| notify of \| ~~notify on~~](#notify-about--notify-of--notify-on)
+
 [on \| onto](#on--onto)
 
 [operation \| an operation \| operations](#operation--an-operation--operations)
@@ -449,6 +451,44 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## notify about \| notify of \| ~~notify on~~
+
+*Inform* and ***notify*** require two objects (somebody and something):
+
+> *Please **notify <ins>us</ins> of** any change of address.*
+
+***Notify about*** = ***notify of*** (although *some* native speakers think that *of* sounds better)
+
+| Pattern                      | Example                                                                          |
+|------------------------------|----------------------------------------------------------------------------------|
+| notify somebody              | *Competition winners will be **notified** by post.*                              |
+|                              | *You must **notify** us in writing if you wish to cancel your subscription.*     |
+| notify somebody of something | *The police must be **notified of** the date of the demonstration.*              |
+| notify something to somebody | *The date of the demonstration must be **notified** to the police.*              |
+| notify somebody that         | *Members have been **notified that** there will be a small increase in the fee.* |
+
+***Notify on*** has another meaning:
+
+> *After a few minutes I get a **notification on** my iPhone, you can continue the journey!*
+
+> *But I got a push **notification on** my Redbox app.*
+
+> *Does the Member State submit a non confidential version of the **notification on** a voluntary basis?*
+
+> *Slovenia withdrew its rescue aid **notification on** 1 August 2011.*
+
+*See also* [inform about \| inform of \| inform on](#inform-about--inform-of--inform-on)
+
+*Sources: [1](https://blog.harwardcommunications.com/2010/11/09/how-to-use-%E2%80%9Cinform%E2%80%9D-and-%E2%80%9Cnotify%E2%80%9D/),
+[2](https://forum.wordreference.com/threads/notify-someone-about-something.1636891/),
+[3](https://idioms.thefreedictionary.com/notify+someone+about),
+[4](https://www.oxfordlearnersdictionaries.com/definition/english/notify),
+[5](https://forum.wordreference.com/threads/notify-of-about-for.3757133/),
+[6](https://english.stackexchange.com/questions/259459/is-it-get-notified-on-or-get-notified-of),
+[7](https://textranch.com/648925/notification-on/or/notification-about/)*
 
 ***
 
@@ -2870,6 +2910,8 @@ kidnapped but also the details:
 
 **Inform on**&mdash;give incriminating information about someone to an
 authority.
+
+*See also* [notify about \| notify of \| ~~notify on~~](#notify-about--notify-of--notify-on)
 
 [*Source*](https://ell.stackexchange.com/questions/40623/inform-about-vs-inform-of)
 
@@ -5663,12 +5705,6 @@ See also: [installation \| setup](#installation--setup)
 ***
 
 ## change \| modify
-
-[*Source*]()
-
-***
-
-## notify of \| notify on
 
 [*Source*]()
 
