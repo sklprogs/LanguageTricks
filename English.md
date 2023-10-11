@@ -308,6 +308,8 @@
 
 [load \| the load](#load--the-load)
 
+[located \| placed \| positioned \| situated](#located--placed--positioned--situated)
+
 [~~log in to~~ \| log into \| ~~login to~~ \| log on](#log-in-to--log-into--login-to--log-on)
 
 [made from \| made of](#made-from--made-of)
@@ -459,6 +461,57 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## located \| placed \| positioned \| situated
+
+### Located vs positioned
+
+***Location*** refers to a specific place or area, while ***position*** refers to the arrangement or placement of something within that location relative to a reference point or system. For example, if you’re talking about a building, its location would be its physical address or coordinates, while its position could refer to its orientation on a plot of land or its location in a city’s skyline.
+
+| Context   | Location | Position |
+|-----------|----------|----------|
+| Geography | The location of a city on a map | The position of a landmark within that city |
+| Business  | The location of a company’s headquarters | The position of an employee within that company |
+| Design    | The location of a design element on a webpage | The position of that element in relation to other elements |
+
+### Located vs situated
+
+***Situated***: emphasis on context, surroundings, not just the coordinates, less used in casual conversation:
+
+> *This sylvan abode is beautifully **situated** in the Green Mountains of Vermont.*
+
+> *The car is <u>precariously</u> **situated** on the cliff.* [The car’s orientation is precarious in addition to its location]
+
+Carries an echo of situation:
+
+> *How did you get me into this **situation** (~~*location*~~)?*
+
+### Located vs placed
+
+***Located*** means you found something:
+
+> *I **located** the car.*
+
+***Placed*** means you set, or left something somewhere:
+
+> *I **placed** the keys on the table.*
+
+> *Did you **locate** the hidden camera that I **placed** in your...*
+
+### Aspects
+
+1. In biology, it’s common to use the term ***position*** (but not ~~*location*~~) when referring to the specific location of a gene on a chromosome.
+
+1. In engineering, ***situated*** means *within a situation*, rather than *located in a specific place*.
+
+1. ***Situated*** is used in the real-estate-ad kind of prose, in collocations with *beautifully, delightfully, ideally, picturesquely, pleasantly, well, conveniently, inconveniently, centrally, remotely, and quietly*.
+
+*Sources: [1](https://thecontentauthority.com/blog/location-vs-position),
+[2](https://sesquiotic.com/2013/04/08/situated-located/),
+[3](https://english.stackexchange.com/questions/7567/situated-vs-located),
+[4](https://ru.hinative.com/questions/2566036)*
 
 ***
 
