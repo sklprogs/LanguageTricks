@@ -478,13 +478,14 @@ if you are checking the ***state*** of your computer, you are checking its curre
 
 ***State*** is “all the rest”: it is either n-dimensional, or it does not refer to something that can be ordered by quality.
 
-The package's ***state*** can be *mint*, *broken*, *partly broken*, while its ***status*** can be *ready*, *in delivery*, *delayed*, *delivered*, *lost*.
+> The package’s ***state*** can be *mint*, *broken*, *partly broken*, while its ***status*** can be *ready*, *in delivery*, *delayed*, *delivered*, *lost*.
 
-> *A soldier's **state** is wounded and his **status** is awaiting surgery.*
+> A soldier’s ***state*** is *wounded* and his ***status*** is *awaiting surgery*.
 
-> *A lab specimen's **state** is frozen and its **status** to be discarded in 2029.*
+> A lab specimen’s ***state*** is *frozen* and its **status** is *to be discarded in 2029*.
 
 | Field | State | Status | Example |
+|-------|-------|--------|---------|
 | IT | the current condition of a system or application | the information about the system or application that is displayed to the user | An application might display the ***status*** of a file transfer process, while the ***state*** of the application might be *running* or *idle*. **Status** (jargon) might refer to a specific message or code that indicates whether a task has been completed successfully or not. |
 | Psychology | current mental and emotional condition | position or role in a social hierarchy | A person’s ***state*** might be *happy* or *anxious*, while their status might be *leader* or *follower*. |
 | Law | jurisdiction or government under which the individual or entity falls | legal position or standing within that jurisdiction | An individual might have the legal ***status*** of *citizen* within a particular ***state***. |
