@@ -40,6 +40,8 @@
 
 [ask for approval \| ask for an approval](#ask-for-approval--ask-for-an-approval)
 
+[aspects \| peculiarities](#aspects--peculiarities)
+
 [at a path \| on a path](#at-a-path--on-a-path)
 
 [at each step \| in each step \| on each step](#at-each-step--in-each-step--on-each-step)
@@ -463,6 +465,38 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## aspects \| peculiarities
+
+**Peculiar**&mdash;unusual and strange, sometimes in an unpleasant way:
+
+> *She has the most **peculiar** ideas.*
+
+> *What a **peculiar** smell!*
+
+> *It’s **peculiar** that they didn't tell us they were going away.*
+
+> *The video on road accidents made me feel rather **peculiar*** (= ill, BrE).
+
+**Peculiarity**&mdash;the quality of being strange or unusual, or an unusual characteristic or habit:
+
+> *You couldn’t help but be aware of the **peculiarity** of the situation.*
+
+> *Well, we all have our little **peculiarities**, don’t we?*
+
+**Aspect**&mdash;one part of a situation, problem, subject, etc.:
+
+> *Which **aspects** of the job do you most enjoy?*
+
+> *That’s the most worrying **aspect** of the situation.*
+
+> *Lighting is a vitally important **aspect** of filmmaking.*
+
+*Sources: [1](https://dictionary.cambridge.org/dictionary/english/peculiar),
+[2](https://dictionary.cambridge.org/dictionary/english/peculiarity),
+[3](https://dictionary.cambridge.org/dictionary/english/aspect)*
 
 ***
 
