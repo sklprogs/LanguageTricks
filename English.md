@@ -1672,21 +1672,21 @@ with/from, though ***with*** is more correct in my opinion. When order matters,
 - When pointing out that one phrase is a translation of another, i.e. when the
   target is a phrase rather than a language, ***to*** is used instead:
 
-  > *"Good morning!" was translated **to** "Guten Morgen!".*
+  > *“Good morning!” was translated **to** "Guten Morgen!".*
 
 - Both variants are common for the pattern *from a language (in)to another
   language*:
 
-  > *She translated the text from English **into** German.*
+  > *She translated the text [u]from[/u] English **into** German.*
 
-  > *She translated the text from English **to** German.* (also possible)
+  > *She translated the text [u]from[/u] English **to** German.* (also possible)
 
 While the variant with ***into*** is more common in English literature (and is
 also usually the the variant described in dictionaries and therefore the more
 recommendable variant for non-native speakers), the variant with ***to*** seems
 to be more common on the Internet and in everyday usage.
 
-- Note that when "language to language" is used as an adjective phrase, the
+- Note that when “language to language” is used as an adjective phrase, the
   situation is reversed, and only ***to*** is common:
 
   > *We need to prepare an English-**to**-French translation.*
