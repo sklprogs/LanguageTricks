@@ -410,6 +410,8 @@
 
 [starting from \| starting with](#starting-from--starting-with)
 
+[state \| status](#state--status)
+
 [statistics about \| statistics on](#statistics-about--statistics-on)
 
 [stop + -ing \| stop to + infinitive](#stop---ing--stop-to--infinitive)
@@ -461,6 +463,35 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## state \| status
+
+**State**&mdash;the condition or mode of something at a particular time (temporary).
+
+**Status**&mdash;the position or standing of something in relation to others; it describes in what step of a certain process an object is (permanent or long-lasting).
+
+if you are checking the ***state*** of your computer, you are checking its current condition. On the other hand, if you are checking the ***status*** of your computer, you are checking its position in relation to others (e.g. whether it is online or offline).
+
+***Status*** is one-dimensional, i.e., it is determined by a single value (e.g., the social rank of a person, the amount of progress made by a project, the goodness of an outcome, etc.) usually ranging from good to bad, desirable to undesirable, or the like.
+
+***State*** is “all the rest”: it is either n-dimensional, or it does not refer to something that can be ordered by quality.
+
+The package's ***state*** can be *mint*, *broken*, *partly broken*, while its ***status*** can be *ready*, *in delivery*, *delayed*, *delivered*, *lost*.
+
+> *A soldier's **state** is wounded and his **status** is awaiting surgery.*
+
+> *A lab specimen's **state** is frozen and its **status** to be discarded in 2029.*
+
+| Field | State | Status | Example |
+| IT | the current condition of a system or application | the information about the system or application that is displayed to the user | An application might display the ***status*** of a file transfer process, while the ***state*** of the application might be *running* or *idle*. **Status** (jargon) might refer to a specific message or code that indicates whether a task has been completed successfully or not. |
+| Psychology | current mental and emotional condition | position or role in a social hierarchy | A person’s ***state*** might be *happy* or *anxious*, while their status might be *leader* or *follower*. |
+| Law | jurisdiction or government under which the individual or entity falls | legal position or standing within that jurisdiction | An individual might have the legal ***status*** of *citizen* within a particular ***state***. |
+| Medicine | current physical condition | overall prognosis | A patient’s ***state*** might be *stable* or *critical*, while their ***status*** might be *improving* or *worsening*. |
+
+*Sources: [1](https://thecontentauthority.com/blog/state-vs-status),
+[2](https://english.stackexchange.com/questions/12958/status-vs-state)*
 
 ***
 
