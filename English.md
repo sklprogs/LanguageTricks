@@ -216,6 +216,8 @@
 
 [entire \| whole](#entire--whole)
 
+[equivalent of \| equivalent to](#equivalent-of--equivalent-to)
+
 [error \| failure \| fault](#error--failure--fault)
 
 [error \| mistake](#error--mistake)
@@ -465,6 +467,16 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## equivalent of \| equivalent to
+
+> *To be **equivalent to** something*
+
+> *To be <ins>the</ins> **equivalent of** something*
+
+[*Source*](https://forum.wordreference.com/threads/equivalent-to-vs-equivalent-of.2673133/)
 
 ***
 
