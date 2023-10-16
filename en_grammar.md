@@ -6,15 +6,17 @@
 
 ### Conjunction (connector of clauses)
 
-> *He couldn’t see her; **otherwise**, he would have to tell her the truth.* (~~, otherwise,~~: two independent clauses are connected. Always place a comma after *otherwise* here.[^otherwise_controversy])
+> *He couldn’t see her; **otherwise**, he would have to tell her the truth.* (~~, otherwise,~~: two independent clauses are connected. Always place a comma after *otherwise* here.[^otherwise])
 
-[^otherwise_controversy] Some sources allow *, otherwise, * or *Otherwise∅*
+[^otherwise]: Some sources allow *, otherwise, * or *Otherwise∅*
 
 > He couldn’t see her. Otherwise, he would have to tell her the truth.
 
-We can use ; or . interchangeably. Many people use semi-colons when they want the sentence to continue a little longer, while periods are useful for breaking up sentences or long bodies of text.
+We can use <ins>;</ins> or <ins>.</ins> interchangeably. Many people use <ins>;</ins> when they want the sentence to continue a little longer, while <ins>.</ins> are useful for breaking up sentences or long bodies of text.
 
-### Part of a parenthetical element (поясняющая конструкция)
+### Part of a parenthetical element[^parenthetical]
+
+[^parenthetical]: Parenthetical element = поясняющая конструкция
 
 > *My job, **otherwise** known as hell on earth, is causing me to have a lot of issues.*
 
@@ -32,7 +34,7 @@ Many people avoid using this old-fashioned structure today because it’s not to
 
 > *There will be no surprises – pleasant or **otherwise**.*
 
-*Sources:*[1](https://grammarhow.com/otherwise-comma/),
+*Sources: [1](https://grammarhow.com/otherwise-comma/),
 [2](https://www.dictionary.com/browse/otherwise),
 [3](https://www.onestopenglish.com/your-english/your-english-word-grammar-otherwise/157482.article)*
 
