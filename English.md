@@ -480,11 +480,17 @@
 
 ![startup_code](https://i.stack.imgur.com/UToTu.png)
 
-*Sources: [1](https://english.stackexchange.com/questions/154467/at-startup-vs-on-startup),
-[2](https://books.google.com/ngrams/graph?content=on+startup%2Cat+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
-[3](https://books.google.com/ngrams/graph?content=on+system+startup%2Cat+system+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
-[4](https://books.google.com/ngrams/graph?content=on+application+startup%2Cat+application+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
-[5](https://books.google.com/ngrams/graph?content=on+Windows+startup%2Cat+Windows+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
+Google Books Ngram Viewer statistics (by 2019):
+
+*At startup* is [2.56 times](https://books.google.com/ngrams/graph?content=on+startup%2Cat+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3) more popular than *on startup*;
+
+*at system startup* is [4.3 times](https://books.google.com/ngrams/graph?content=on+system+startup%2Cat+system+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3) more popular than *on system startup*;
+
+*at Windows startup* is [27 times](https://books.google.com/ngrams/graph?content=on+Windows+startup%2Cat+Windows+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3) more popular than *on Windows startup* (2017), the latter is not registered in 2019;
+
+*at application startup* is [1.43 times](https://books.google.com/ngrams/graph?content=on+application+startup%2Cat+application+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3) more popular than *on application startup*.
+
+[*Source*](https://english.stackexchange.com/questions/154467/at-startup-vs-on-startup)
 
 ***
 
