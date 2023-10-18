@@ -480,7 +480,7 @@
 
 ***Demands*** has an element of *want*, while ***requirements*** has a sense of *need*:
 
-> *I may **demand** to see the manager on duty if I am upset over poor customer service.
+> *I may **demand** to see the manager on duty if I am upset over poor customer service.*
 
 > *I may **require** to use the rest room!*
 
