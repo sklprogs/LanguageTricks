@@ -3348,7 +3348,6 @@ an archaic form:
 
 ***Requirement on*** a person or something that is required to do something:
 
-“”
 > *The second element is a new **requirement on** private landlords to check tenants’ immigration status.*
 
 > *The **requirement on** the ECB[^ecb] is to keep inflation below but close to 2 per cent.*
