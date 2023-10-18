@@ -1,6 +1,7 @@
 # Index
 
 [none (singular or plural)](#none-singular-or-plural)
+
 [otherwise](#otherwise)
 
 ***
