@@ -474,7 +474,7 @@
 
 [what \| which](#what--which)
 
-[whether or not](#whether-or-not)
+[whether \| whether or not](#whether--whether-or-not)
 
 [for patent translators](#for-patent-translators)
 
@@ -2131,11 +2131,11 @@ perform an adverbial function.
 
 ***
 
-## whether or not
+## whether \| whether or not
 
 The *or not* portion of ***whether or not*** is often unnecessary and can be
-removed, but sometimes it is essential. Here’s the trick: ***Whether or not***
-should be used when one’s response is the same, regardless of the outcome.
+removed, but sometimes it is essential. ***Whether or not*** should be used
+when one’s response is the same, regardless of the outcome.
 Conversely, ***whether*** should be used by itself to indicate only that the
 outcome itself is undetermined.
 
@@ -2144,7 +2144,12 @@ outcome itself is undetermined.
 
 > *I will be there **whether or not** I am prepared.*
 
-[*Source*](https://mcelroytutoring.com/blog-post.php?id=4165)
+When ***whether*** means *if*, use one word. To decide which you should use, replace ***whether or not*** with *if* and *regardless of whether* and see which one makes sense. If the sentence doesn’t make sense with *if*, you should use ***whether or not***.
+
+*See also* [check if \| check whether](#check-if--check-whether)
+
+*Sources: [1](https://mcelroytutoring.com/blog-post.php?id=4165),
+[2](https://prowritingaid.com/whether-or-not)*
 
 ***
 
@@ -2642,7 +2647,7 @@ showing that two alternatives are possible.
 > *Squiggly didn’t know if Aardvark would arrive Friday or Saturday.* =
   Aardvark may not arrive at all.
 
-*See also* [check \| check for \| check that \| validate \| verify](#check--check-for--check-that--validate--verify).
+*See also* [check \| check for \| check that \| validate \| verify](#check--check-for--check-that--validate--verify), [whether \| whether or not](#whether--whether-or-not)
 
 *Sources:
 [1](https://www.usingenglish.com/forum/threads/is-there-a-difference-between-check-if-and-check-whether.28260/),
