@@ -6322,12 +6322,6 @@ See also [divide \| separate](#divide--separate)
 
 ***
 
-## none has \| none have
-
-[*Source*]()
-
-***
-
 ## warn about \| warn of \| warn on
 
 [*Source*]()
