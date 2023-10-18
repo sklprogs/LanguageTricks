@@ -334,6 +334,8 @@
 
 [miss from \| miss in](#miss-from--miss-in)
 
+[mount at \| mount in \| mount on \| ~~mount to~~](#mount-at--mount-in--mount-on--mount to)
+
 [need for \| need of](#need-for--need-of)
 
 [new \| novel](#new--novel)
@@ -469,6 +471,31 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## mount at \| mount in \| mount on \| ~~mount to~~
+
+Google Books Ngram Viewer [suggests](https://books.google.com/ngrams/graph?content=mounted+on+the+mount+point%2Cmounted+to+the+mount+point%2Cmounted+in+the+mount+point%2Cmounted+at+the+mount+point&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3) *mounted **on** the mount point* only.
+
+Levin (English Verb Classes and Alternations) places *mount* under “Verbs of Putting”, and specifically says that the preposition ***to*** is wrong for such verbs. She lists some “Verbs of Combining and Attaching” which take the preposition *to* (*add*, *connect*, *join*, *link*), but does not include *mount* among them.
+
+Other uses:
+
+> *In the same year the entartete Kunst exhibition was **mounted in** Munich.*
+
+> *The Party bitterly opposed the conspiracy theory that Evatt **mounted at** the Petrov Royal Commission.*
+
+> *Residents suggest the deployment of an army unit to curb constant attacks **mounted by** the Somali Bandits in the area.*
+
+> *These towers were manned day and night and were **mounted with**[^mount_with] a machine gun, rifle and searchlight.*
+
+[^mount_with]: mount with = оборудовать, оснащать
+
+> *Demands are **mounting for** a high-powered investigation with Liberal shadow minister Senator David Johnston today warning sex abuse claims were harming the reputation of the Catholic Church.*
+
+*Sources: [1](https://www.englishforums.com/English/ToMountPreposition/bzhxpd/post.htm),
+[2](https://lingohelp.me/preposition-after-verb/mount-on-in-to-at-by/)*
 
 ***
 
