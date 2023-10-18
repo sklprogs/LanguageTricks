@@ -384,7 +384,7 @@
 
 [request \| require](#request--require)
 
-[requirement for \| requirement to](#requirement-for--requirement-to)
+[requirement for \| requirement of \| requirement on \| requirement to](#requirement-for--requirement-of--requirement-on--requirement-to)
 
 [residual \| residue \| residues](#residual--residue--residues)
 
@@ -3344,14 +3344,40 @@ an archaic form:
 
 ***
 
-## requirement for \| requirement to
+## requirement for \| requirement of \| requirement on \| requirement to
+
+***Requirement on*** a person or something that is required to do something:
+
+“”
+> *The second element is a new **requirement on** private landlords to check tenants’ immigration status.*
+
+> *The **requirement on** the ECB[^ecb] is to keep inflation below but close to 2 per cent.*
+
+[^ecb]: ECB = European Central Bank
+
+***Requirement of*** a person or something that has required someone to do something:
+
+> *Such a declaration is a **requirement of** the law.*
+
+> *Pain tolerance is an essential **requirement of** his profession.*
+
+***Requirement for*** something that is required:
+
+> *Water is a fundamental **requirement for** life.*
 
 > *The **requirements for** the training course are stringent.*
 
-> *The **requirement to** complete the trip* (*to* is attached to the verb as
-an infinitive).
+In ***requirement to*** *to* is attached to the verb as an infinitive:
 
-[*Source*](https://www.usingenglish.com/forum/threads/52223-requirement-to-for)
+> *Stella strongly feels the **requirement to** do so, I think.*
+
+> *The current **requirement to** disclose portfolio information semiannually remains appropriate.*
+
+*Sources: [1](https://www.usingenglish.com/forum/threads/52223-requirement-to-for),
+[2](https://app.ludwig.guru/s/requirement+on),
+[3](https://app.ludwig.guru/s/Requirement+of),
+[4](https://app.ludwig.guru/s/Requirement+for),
+[5](https://app.ludwig.guru/s/requirement+to)*
 
 ***
 
