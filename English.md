@@ -5504,7 +5504,9 @@ In computing, **rebooting** is the process by which a running computer system is
 
 ***Entire*** usually feels stronger. Use it when you want to emphasise how “100%” something is:
 
-> *Wow! You’re going to eat the **entire** thing?* ([illustration](https://www.clarkandmiller.com/wp-content/uploads/2021/01/whole-vs-entire-comic-480x694.png))
+> *Wow! You’re going to eat the **entire** thing?*
+
+![entire_thing](https://www.clarkandmiller.com/wp-content/uploads/2021/01/whole-vs-entire-comic-480x694.png)
 
 Common phrases with ***whole***:
 
