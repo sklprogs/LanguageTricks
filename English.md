@@ -226,6 +226,8 @@
 
 [error \| mistake](#error--mistake)
 
+[essential \| necessary](#essential--necessary)
+
 [essentially \| substantially](#essentially--substantially)
 
 [evaluation \| an evaluation](#evaluation--an-evaluation)
@@ -473,6 +475,26 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## essential \| necessary
+
+***Essential*** means something is indispensable or vital to the existence, function, or success of something else, and cannot be omitted or replaced:
+
+> *Water is **essential** for life.*
+
+> *Good communication skills are **essential** for success in business.*
+
+***Necessary*** refers to something that is required or needed in order to achieve a particular goal or outcome. It suggests that something is required for a specific purpose or situation, but may not be indispensable or vital in all circumstances:
+
+> *It is **necessary** to have a driver’s license to operate a vehicle.*
+
+> *It is **necessary** to study for the exam in order to pass.*
+
+*See also* [essentially \| substantially](#essentially--substantially)
+
+[*Source*](https://langeek.co/en/grammar/course/1199/essential-vs-necessary)
 
 ***
 
@@ -1679,11 +1701,15 @@ countries.
 
 **Essentially** = in its essence.
 
+### Patents
+
 ***Essentially*** should be avoided at all costs unless you are trying to convey
 the meaning of a *required* feature. Casual use of ***essentially*** will mean
 ending up littering your translation with necessary features, which once again
 has a significant impact on the scope of protection. If in doubt, go with
 ***substantially***.
+
+*See also* [essential \| necessary](#essential--necessary)
 
 *Sources: [1](https://diffsense.com/diff/essentially/substantially),
 [2](https://www.patenttranslationsinternational.com/resources/advice-for-translators/)*
