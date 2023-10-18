@@ -168,6 +168,8 @@
 
 [delete \| remove](#delete--remove)
 
+[demand \| need \| requirement](#demand--need--requirement)
+
 [dependant \| dependent](#dependant--dependent)
 
 [dependence \| dependency](#dependence--dependency)
@@ -471,6 +473,42 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## demand \| need \| requirement
+
+***Demands*** has an element of *want*, while ***requirements*** has a sense of *need*:
+
+> *I may **demand** to see the manager on duty if I am upset over poor customer service.
+
+> *I may **require** to use the rest room!*
+
+**Need**&mdash;a basic necessity or desire that an individual requires to survive or thrive:
+
+> *Children have a fundamental **need** for love and affection from their parents.*
+
+**Requirement**&mdash;a specific condition or demand that must be met to achieve a particular objective or goal:
+
+> *Passing the exam is a **requirement** for obtaining a driver’s license.*
+
+Compare:
+
+> *I **need** a degree to get this job* \[a degree is a personal desire or preference, rather than a necessary qualification\].
+
+> *A degree is a **requirement** for this job* \[a degree is a non-negotiable qualification\].
+
+> *It is a **requirement** that all employees attend the meeting* \[there will be consequences for those who do not attend\].
+
+> *It is necessary for all employees to attend the meeting* \[simply emphasizes the importance of attending without implying consequences\].
+
+### Business
+
+***Needs*** are goals and objectives a business must achieve, whereas ***requirements*** are the things we need to do in order to achieve a need. Converting business needs into specific, measurable, relevant requirements is very important for the success of a business.
+
+*Sources: [1](https://www.englishforums.com/English/DemandRequirements/cxlvb/post.htm),
+[2](https://thecontentauthority.com/blog/need-vs-requirement),
+[3](https://pediaa.com/what-is-the-difference-between-need-and-requirement/)*
 
 ***
 
