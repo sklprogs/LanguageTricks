@@ -258,6 +258,8 @@
 
 [gain \| profit](#gain--profit)
 
+[goal \| objective](#goal--objective)
+
 [handle \| process](#handle--process)
 
 [hear about \| hear of](#hear-about--hear-of)
@@ -475,6 +477,24 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## goal \| objective
+
+**Goal**&mdash;an achievable outcome that is typically broad and long-term. A company might use goals to inform yearly strategies that each department will execute.
+
+An ***objective*** defines the specific, measurable actions each team employee must take to achieve the overall goal.
+
+***Goals*** provide direction whereas ***objectives*** measure how you should follow that direction.
+
+| Goal | Objective |
+|------|-----------|
+| Open a new company HQ in Phoenix, AZ by Q4. | Obtain all licensing and permit documents by Q2. |
+| Increase company market share by 10%. | Grow customer base by 22% month-over-month for the next 12 months. |
+| Reduce donut cost by 18% in the next five years. | Switch to a lower-cost sugar provider in the next six months. |
+
+[*Source*](https://blog.hubspot.com/marketing/goals-vs-objectives)
 
 ***
 
