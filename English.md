@@ -480,7 +480,7 @@
 
 ## essential \| necessary
 
-***Essential*** means something is indispensable or vital to the existence, function, or success of something else, and cannot be omitted or replaced:
+***Essential*** means something is indispensable or vital to the *existence*, *function*, or *success* of something else, and cannot be omitted or replaced:
 
 > *Water is **essential** for life.*
 
