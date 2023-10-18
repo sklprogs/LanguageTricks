@@ -354,6 +354,8 @@
 
 [opposite \| opposite to](#opposite--opposite-to)
 
+[outside \| outside of](#outside--outside-of)
+
 [package \| packet \| parcel](#package--packet--parcel)
 
 [part \| a part](#part--a-part)
@@ -477,6 +479,20 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## outside \| outside of
+
+***Outside of***:
+
+- not recommended for formal writing;
+- tends to be more commonly used in the US than in Britain;
+- often used as a colloquial way of saying *except for*, *other than*, *apart from*:
+
+> ***Outside of** what I just mentioned, I can’t think of any reason not to.*
+
+[*Source*](https://english.stackexchange.com/questions/9700/outside-or-outside-of)
 
 ***
 
@@ -6180,12 +6196,6 @@ See also: [compare to \| compare with](#compare-to-compare-with)
 ***
 
 ## creature \| critter
-
-[*Source*]()
-
-***
-
-## outside \| outside of
 
 [*Source*]()
 
