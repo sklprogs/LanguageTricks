@@ -148,6 +148,8 @@
 
 [content \| contents](#content--contents)
 
+[correct errors \| eliminate errors \| fix errors \| rectify errors \| remove errors \| repair errors \| resolve errors](#correct-errors--eliminate-errors--fix-errors--rectify-errors--remove-errors--repair-errors--resolve-errors)
+
 [cost \| price](#cost--price)
 
 [cover by \| cover in \| cover with](#cover-by--cover-in--cover-with)
@@ -481,6 +483,17 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## correct errors \| eliminate errors \| fix errors \| rectify errors \| remove errors \| repair errors \| resolve errors
+
+There is no unanimous opinion on what to use.
+
+![errors.svg](resources/charts/errors.svg)
+
+*Sources: [1](https://books.google.com/ngrams/graph?content=fix+errors%2Celiminate+errors%2Cresolve+errors%2Cremove+errors%2Crepair+errors%2Ccorrect+errors%2Crectify+errors&year_start=1900&year_end=2008&corpus=en-2012&smoothing=3),
+[2](https://ell.stackexchange.com/questions/78777/which-verb-should-go-before-error-eliminate-resolve-remove-or)*
 
 ***
 
