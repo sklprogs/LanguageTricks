@@ -370,6 +370,8 @@
 
 [permission \| privilege](#permission--privilege)
 
+[possible \| potential](#possible--potential)
+
 [practice \| practise](#practice--practise)
 
 [privilege \| right](#privilege--right)
@@ -479,6 +481,22 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## possible \| potential
+
+**Possible**&mdash;capable of happening, existing, or being true without contradicting proven facts, laws, or circumstances:
+
+> *Is it **possible** to move faster than the speed of light?*
+
+**Potential**&mdash;capable of being but not yet in existence; latent or undeveloped:
+
+> *A **potential** problem.*
+
+> *A substance with many **potential** uses.*
+
+[*Source*](https://www.askdifference.com/potential-vs-possible/)
 
 ***
 
