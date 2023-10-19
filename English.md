@@ -608,7 +608,7 @@ Other uses:
 
 > *Demands are **mounting for** a high-powered investigation with Liberal shadow minister Senator David Johnston today warning sex abuse claims were harming the reputation of the Catholic Church.*
 
-![mount_chart.svg](resources/mount_chart.svg)
+![mount.svg](resources/charts/mount.svg)
 
 *Sources: [1](https://www.englishforums.com/English/ToMountPreposition/bzhxpd/post.htm),
 [2](https://lingohelp.me/preposition-after-verb/mount-on-in-to-at-by/)*
