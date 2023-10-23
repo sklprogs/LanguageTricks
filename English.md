@@ -5578,11 +5578,13 @@ As generic word usage, you would say *on a platform*, not *in a platform*. Sayin
 
 > *My daughter belongs to a team **that** cares so much for each other.*
 
-**Who**&mdash;something living like a person or pet.
+**Who**&mdash;something living like a person or pet:
+
+> *My teacher is someone **who** engages with the students and teaches us through fun activities.*
 
 Although references to people are considered a group or class, you’d still use ***who*** here just as you would for an individual person:
 
-> *My teacher is someone **who** engages with the students and teaches us through fun activities.*
+> *My readers are the kind of people **who** enjoy reading fantasy romance books.*
 
 [*Source*](https://grammarist.com/usage/that-who)
 
