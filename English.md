@@ -252,6 +252,8 @@
 
 [fast \| quick](#fast--quick)
 
+[field \| text box](#field--text-box)
+
 [for + gerund \| to + infinitive](#for--gerund--to--infinitive)
 
 [~~for more detail~~ \| for more details \| in detail \| ~~in details~~ \| in more detail \| ~~in more details~~](#for-more-detail--for-more-details--in-detail--in-details--in-more-detail--in-more-details)
@@ -483,6 +485,14 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## field \| text box
+
+**Text boxes** are ***fields*** that let you enter text.
+
+[*Source*](https://www.indeed.com/career-advice/career-development/gui-meaning)
 
 ***
 
