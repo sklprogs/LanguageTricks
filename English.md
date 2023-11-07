@@ -28,7 +28,9 @@
 
 [amend \| emend \| mend](#amend--emend--mend)
 
-[among \| amongst \| between](#among--amongst--between)
+[among \| amongst](#among--amongst)
+
+[among \| between](#among--between)
 
 [answer \| reply \| response](#answer--reply--response)
 
@@ -487,6 +489,16 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## among \| amongst
+
+***Among*** = ***amongst***.
+
+***Among*** is more common in AmE, while ***amongst*** is used almost exclusively in BrE. ***Amongst*** is often considered old-fashioned or pretentious in AmE. Some British publications, including major newspapers, issue style guides that insist on using ***among***.
+
+[*Source*](https://www.dictionary.com/e/among-vs-amongst/)
 
 ***
 
@@ -4091,7 +4103,7 @@ Usage examples:
 
 ***
 
-## among \| amongst \| between
+## among \| between
 
 ***Between***&mdash;you’re referring to two things:
 
@@ -4106,6 +4118,8 @@ Usage examples:
 > *You’re **among** friends.*
 
 > ***Among** the many options available to you.*
+
+*See also* [among \| amongst](#among--amongst)
 
 [*Source*](https://www.merriam-webster.com/words-at-play/between-among-amongst-use)
 
