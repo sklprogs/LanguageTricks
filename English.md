@@ -442,6 +442,8 @@
 
 [substitute for \| substitute with](#substitute-for--substitute-with)
 
+[such \| such a](#such--such-a)
+
 [suggest \| suggest that](#suggest--suggest-that)
 
 [that \| who](#that--who)
@@ -485,6 +487,31 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## such \| such a
+
+| Form | Type of nouns | Example |
+|------|---------------|---------|
+| such a(n) | countable, singular | ***such an** apple* |
+| such | countable, plural | ***such** apples* |
+| such | uncountable | ***Such** bravery is to be commended.* |
+
+Same nouns can be countable or uncountable, singular or plural in different contexts:
+
+> ***Such** honor is to be revered.*
+
+> ***Such an** honor is to be bestowed.*
+
+> ***Such** honors are to be bestowed.*
+
+***Such a*** is required before singular countable nouns even if no emphasis is intended:
+
+> *Throughout this article, we refer to **such a** block or range of nodes with the term “context node”.*
+
+*Sources: [1](https://ell.stackexchange.com/questions/64937/such-vs-such-a),
+[2](https://ell.stackexchange.com/questions/114262/when-to-use-such-before-a-noun-and-when-to-use-such-a-an)*
 
 ***
 
