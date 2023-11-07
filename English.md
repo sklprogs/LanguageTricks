@@ -492,6 +492,30 @@
 
 ***
 
+## issue \| problem
+
+An ***issue*** is a situation that needs a discussion or a debate, whereas a ***problem*** requires an urgent solution.
+
+An ***issue*** has little or no impact, whereas a ***problem*** can significantly affect people.
+
+**Problem**:
+1. A difficulty that has to be resolved or dealt with. 
+   > *She’s leaving because she faced numerous **problems** to do with racism.*
+1. A question to be answered, schoolwork exercise.
+   > *Study hard, but don’t overdo it. The **problems** in the exam won’t be difficult to solve.*
+1. A puzzling circumstance.
+1. Objection.
+   > *You got a **problem** with that?*
+1. Difficulty in accepting or understanding or refusal to accept or understand.
+   > *You made your best honest effort; if they judge you harshly, that’s their **problem**, not yours.*
+1. (climbing) A set of moves required to complete a climb.
+
+*Sources: [1](https://askanydifference.com/difference-between-issue-and-problem),
+[2](https://en.wiktionary.org/wiki/problem#English),
+[3](https://en.wiktionary.org/wiki/issue#English)*
+
+***
+
 ## among \| amongst
 
 ***Among*** = ***amongst***.
@@ -5638,16 +5662,6 @@ Although references to people are considered a group or class, you’d still use
 > *My readers are the kind of people **who** enjoy reading fantasy romance books.*
 
 [*Source*](https://grammarist.com/usage/that-who)
-
-***
-
-## issue \| problem
-
-An ***issue*** is a situation that needs a discussion or a debate, whereas a ***problem*** requires an urgent solution.
-
-An ***issue*** has little or no impact, whereas a ***problem*** can significantly affect people.
-
-[*Source*](https://askanydifference.com/difference-between-issue-and-problem)
 
 ***
 
