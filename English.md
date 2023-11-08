@@ -502,9 +502,9 @@
 
 > ***In general**, the lesson was difficult.*
 
-> *The lesson was, **in general**, difficult.* \[less common, adds emphasis to *in general*\]
+> *The lesson was, **in general**, difficult.* \[Less common, adds emphasis to *in general*\]
 
-Placing ***in general*** or ***generally*** at the end of a sentence makes the idea sound uncertain, or more hesitant / tentative:
+Placing ***in general*** or ***generally*** at the end of a sentence makes the idea sound uncertain or more hesitant:
 
 > *I like this band, **generally**.*
 
