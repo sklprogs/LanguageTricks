@@ -264,6 +264,8 @@
 
 [gain \| profit](#gain--profit)
 
+[generally \| in general](#generally--in-general)
+
 [goal \| objective](#goal--objective)
 
 [handle \| process](#handle--process)
@@ -489,6 +491,24 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## generally \| in general
+
+***Generally*** (adverb) = ***in general*** (idiom)
+
+***In general*** almost always comes at the start of a sentence, adding emphasis, or rather acting like an introduction. It should not come before a verb, though it can come after a verb, in commas:
+
+> ***In general**, the lesson was difficult.*
+
+> *The lesson was, **in general**, difficult.* \[less common, adds emphasis to *in general*\]
+
+Placing ***in general*** or ***generally*** at the end of a sentence makes the idea sound uncertain, or more hesitant / tentative:
+
+> *I like this band, **generally**.*
+
+[*Source*](https://englishlessonsbrighton.co.uk/general-vs-generally/)
 
 ***
 
