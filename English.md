@@ -158,7 +158,7 @@
 
 [crash \| crush](#crash--crush)
 
-[create \| generate \| make](#create--generate--make)
+[create \| generate \| make \| produce](#create--generate--make--produce)
 
 [critical \| crucial](#critical--crucial)
 
@@ -496,15 +496,44 @@
 
 ***
 
-## create \| generate \| make
+## create \| generate \| make \| produce
 
-**Create**&mdash;to make something from nothing, or to make something using a lot of creativity. A chef might ***create*** a new dish, but after it’s been created, he might find himself ***making*** it every night.
+***Produce*** is used to emphasise the the process of forming the end product. The method and rate of production is being highlighted. You produce something by consuming raw materials or some other input and then transforming it to make the end product. Something that is produced is provided to a user, customer, market or similar:
+
+> *This school **produces** really talented students.*
+
+> *The farm **produces** more wheat than it did five years ago.*
+
+> *The factory **produces** high quality auto parts.*
+
+***Create*** is used to describe making a single object or result. It emphasises the end result rather than the process of making it. *Create* is normally used in situations where creativity or artistry is required to make the result:
+
+> *We have **created** the greatest bridge in all the world.*
+
+> *Can you please **create** something really special for my mother’s birthday?*
+
+> *I think he wanted to **create** chaos to break the company.*
+
+A chef might ***create*** a new dish, but after it’s been created, he might find himself ***making*** it every night.
+
+***Generate*** is used when the thing being made is measured in a continuous quantity, not a single object or a countable number of objects. For example you can generate power (not countable, not a single object) but you can’t generate a set of knives (countable objects). Note, you can’t generate love or peace - you have to make peace.
+
+> *The power station **generates** lots of electricity.*
+
+> *Our department **generates** the most profit for the company.*
+
+> *I’ve **generated** more success for this business than any of you.*
+
+> *The fire **generates** a lot of heat.*
+
+### IT
 
 **Generate**&mdash;produce something through a series of step prescribed by an algorithm. It’s a pretty safe word for anything built by software (~~*generate a cake*~~).
 
 A button that said *Generate Video* might be emphasizing that the software will now make the video as was set up by the user, while a button that said *Create Video* might emphasize that the user is about to put the finishing touches on her creation. Yet *Make Video* is a viable option, too. One might argue that *make* is the simplest word of the three, and it might therefore be apt for software that might be used by children.
 
-[*Source*](https://ell.stackexchange.com/questions/76985/create-vs-generate-vs-make)
+*Sources: [1](https://ell.stackexchange.com/questions/76985/create-vs-generate-vs-make),
+[2](https://www.ukentry.com/produce-create-generate-difference.html)*
 
 ***
 
