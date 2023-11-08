@@ -158,6 +158,8 @@
 
 [crash \| crush](#crash--crush)
 
+[create \| generate \| make](#create--generate--make)
+
 [critical \| crucial](#critical--crucial)
 
 [data (singular \| plural)](#data-singular--plural)
@@ -491,6 +493,18 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## create \| generate \| make
+
+**Create**&mdash;to make something from nothing, or to make something using a lot of creativity. A chef might ***create*** a new dish, but after it’s been created, he might find himself ***making*** it every night.
+
+**Generate**&mdash;produce something through a series of step prescribed by an algorithm. It’s a pretty safe word for anything built by software (~~*generate a cake*~~).
+
+A button that said *Generate Video* might be emphasizing that the software will now make the video as was set up by the user, while a button that said *Create Video* might emphasize that the user is about to put the finishing touches on her creation. Yet *Make Video* is a viable option, too. One might argue that *make* is the simplest word of the three, and it might therefore be apt for software that might be used by children.
+
+[*Source*](https://ell.stackexchange.com/questions/76985/create-vs-generate-vs-make)
 
 ***
 
