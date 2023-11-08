@@ -498,7 +498,7 @@
 
 ## create \| generate \| make \| produce
 
-***Produce*** is used to emphasise the the process of forming the end product. The method and rate of production is being highlighted. You produce something by consuming raw materials or some other input and then transforming it to make the end product. Something that is produced is provided to a user, customer, market or similar:
+***Produce*** is used to emphasise the process of forming the end product. The method and rate of production is being highlighted. You produce something by consuming raw materials or some other input and then transforming it to make the end product. Something that is produced is provided to a user, customer, market or similar:
 
 > *This school **produces** really talented students.*
 
