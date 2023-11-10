@@ -3887,6 +3887,8 @@ not considered to be hosts.
 > *Room to Read **provides** girls **with** scholarships that cover the cost of
   housing, food, and books.*
 
+> ***Provide** the Partner **with** explanations on matters, arising in connection with execution of this Agreement.*
+
 In this sentence, *girls* is the indirect object and *scholarships* is the
 direct object.
 
@@ -3906,8 +3908,9 @@ parents providing for their family:
   abutments*~~ (= stronger abutments are somehow supposed to invoke storms).
 
 *Sources:
-[1](https://learningenglish.voanews.com/a/everyday-grammar-prepositions-provide/2701412.html),
-[2](https://ell.stackexchange.com/questions/30456/provide-vs-provide-for)*
+[1](https://web.archive.org/web/20230602005445/https://learningenglish.voanews.com/a/everyday-grammar-prepositions-provide/2701412.html),
+[2](https://ell.stackexchange.com/questions/30456/provide-vs-provide-for),
+[3](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/provide+with+explanation)*
 
 ***
 
