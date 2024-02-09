@@ -218,6 +218,8 @@
 
 [em dash \| en dash \| hyphen \| minus \| three-em dash \| two-em dash](#em-dash--en-dash--hyphen--minus--three-em-dash--two-em-dash)
 
+[emulator \| simulator](#emulator--simulator)
+
 [enable \| ensure](#enable--ensure)
 
 [enchantress \| mage \| magician \| necromancer \| shaman \| sorcerer \| warlock \| witch \| witch doctor \| wizard](#enchantress--mage--magician--necromancer--shaman--sorcerer--warlock--witch--witch-doctor--wizard)
@@ -497,6 +499,21 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## emulator \| simulator
+
+A ***simulator*** focuses on a system model, aiming to mimic some conditions and operations that lead to a final result. An ***emulator*** provides a recreated environment to observe these conditions and execute these operations as in the original system. So, we can explore systems’ processing routines and operational behaviors besides only their results.
+
+|            | Simulation | Emulation |
+|------------|------------|-----------|
+| **Works with**  | Software (algorithmic description of processes) | Software and hardware (recreation of the entire system) |
+| **Executes as** | A faster version of the original process (typically) | An equivalent version of the original system |
+| **Aims to**     | Analyze the final state of the model and its results | Analyze the entire processing of a task, its results, and collateral effects in the system |
+| **Examples**    | Flight simulators, weather forecasting | Android emulator, virtual machines |
+
+[*Source*](https://www.baeldung.com/cs/simulation-vs-emulation)
 
 ***
 
