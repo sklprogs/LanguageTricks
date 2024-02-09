@@ -504,7 +504,9 @@
 
 ## emulator \| simulator
 
-A ***simulator*** focuses on a system model, aiming to mimic some conditions and operations that lead to a final result. An ***emulator*** provides a recreated environment to observe these conditions and execute these operations as in the original system. So, we can explore systems’ processing routines and operational behaviors besides only their results.
+A ***simulator*** focuses on a system model, aiming to mimic some conditions and operations that lead to a final result.
+
+An ***emulator*** provides a recreated environment to observe these conditions and execute these operations as in the original system. So, we can explore systems’ processing routines and operational behaviors besides only their results.
 
 |            | Simulation | Emulation |
 |------------|------------|-----------|
