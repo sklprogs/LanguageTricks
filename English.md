@@ -210,9 +210,9 @@
 
 [duty \| responsibility](#duty--responsibility)
 
-[efficacy \| efficiency](#efficacy--efficiency)
+[effective \| efficient](#effective--efficient)
 
-[efficient \| effective](#efficient--effective)
+[effectiveness \| ~~effectivity~~ \| efficacy \| efficiency](#effectiveness--effectivity--efficacy--efficiency)
 
 [effort at \| effort in \| effort of \| effort to](#effort-at--effort-in--effort-of--effort-to)
 
@@ -267,6 +267,8 @@
 [gain \| profit](#gain--profit)
 
 [generally \| in general](#generally--in-general)
+
+[given that \| provided that](#given-that--provided-that)
 
 [goal \| objective](#goal--objective)
 
@@ -457,6 +459,8 @@
 [think about \| think of](#think-about--think-of)
 
 [throw at \| throw to](#throw-at--throw-to)
+
+[time for \| time of \| time (required) for \| time (required) to](#time-for--time-of--time-required-for--time-required-to)
 
 [transfer \| transit](#transfer--transit)
 
@@ -1530,11 +1534,13 @@ with minimum waste, expense, or unnecessary effort:
 
 > *My new car is very fuel-**efficient**, and it gets 40 miles per gallon.*
 
+*See also* [effectiveness \| ~~effectivity~~ \| efficacy \| efficiency](#effectiveness--effectivity--efficacy--efficiency)
+
 [*Source*](https://writingexplained.org/effective-vs-efficient-difference)
 
 ***
 
-## efficacy \| efficiency
+## effectiveness \| ~~effectivity~~ \| efficacy \| efficiency
 
 **Efficacy**&mdash;the power or capacity to produce a desired effect; widely
 used, among other places, in the medical field:
@@ -1544,7 +1550,22 @@ used, among other places, in the medical field:
 
 **Efficiency**&mdash;the quality or property of being efficient.
 
-[*Source*](https://writingexplained.org/efficacy-vs-efficiency-difference)
+***Efficacy*** means getting things done (is it working?), ***effectiveness*** means doing the right things (is it actually working well?), and ***efficiency*** means doing things right (is it working in the most economical way?). It’s helpful to think of them in this particular order. First, make sure the solution can actually achieve the desired result, even if that efficacy requires very specific conditions. Then, test your solution in a real-world environment. Finally, if the solution is effective, figure out ways to make it more economical—more efficient.
+
+### Medical
+
+**Efficacy** is the degree to which a vaccine prevents disease, and possibly also transmission, under ideal and controlled circumstances&mdash;comparing a vaccinated group with a placebo group.
+
+***Effectiveness*** refers to how well it performs in the real world.
+
+Although a vaccine that has high ***efficacy***&mdash;such as Moderna’s COVID-19 vaccine with 94.5% efficacy&mdash;would be expected to be highly effective in the real world, it is unlikely to translate into the same ***effectiveness*** in practice.
+
+*See also* [effective \| efficient](#effective--efficient)
+
+*Sources: [1](https://writingexplained.org/efficacy-vs-efficiency-difference),
+[2](https://www.gavi.org/vaccineswork/what-difference-between-efficacy-and-effectiveness),
+[3](https://nesslabs.com/efficacy-effectiveness-efficiency),
+[4](https://www.usingenglish.com/forum/threads/is-effectivity-a-relevant-word.142360)*
 
 ***
 
@@ -6052,6 +6073,46 @@ See also [at a path \| on a path](#at-a-path--on-a-path)
 
 *Sources: [1](https://english.stackexchange.com/questions/108584/at-step-or-in-step),
 [2](https://english.stackexchange.com/questions/486165/difference-between-at-every-step-and-on-every-step)*
+
+***
+
+## given that \| provided that
+
+***Given that*** \= because:
+
+> *The tour wasn’t as pleasant as we thought it would be, **given that** the coach broke down on the way.*
+
+***Provided that*** \= *only if* \[some condition has to be met in order for something else to be true\]:
+
+> *We will have a pleasant tour **provided that** the coach does not break down.*
+
+[*Source*](https://english.stackexchange.com/questions/279316/the-difference-between-given-that-and-provided-that-cae-book-reference)
+
+***
+
+## time for \| time of \| time (required) for \| time (required) to
+
+*The **time of** the exam* will usually mean *the time appointed for the exam to start*:
+
+> *The **time of** the exam is 2:00 pm.*
+
+*The **time for** the exam* means one of the following:
+
+- the time appointed for the exam to start;
+- the time allotted for the exam to last;
+- the time actually spent on the exam.
+
+To eliminate ambiguity, use *The time allotted for* or *The time allowed for*.
+
+~~*The required time of/for assembling*~~ is at best poor style. Much better is *the **time required to** assemble/**for** assembling*.
+
+***time to***: *time to + \<infinitive\>*
+
+***time for***: *time for + \<gerund\> (..-ing)*
+
+*Sources: [1](https://forum.wordreference.com/threads/time-for-vs-time-of.2721884/),
+[2](https://english.stackexchange.com/questions/85010/time-of-something-time-for-something-or-something-else),
+[3](https://ell.stackexchange.com/questions/87485/time-to-or-time-for)*
 
 ***
 
