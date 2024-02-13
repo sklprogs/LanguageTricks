@@ -162,6 +162,8 @@
 
 [critical \| crucial](#critical--crucial)
 
+[custom \| customized](#custom--customized)
+
 [data (singular \| plural)](#data-singular--plural)
 
 [data \| information](#data--information)
@@ -499,6 +501,29 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## custom \| customized
+
+**Customized**: modified from something that already exists, such as a Web site template or a general-purpose application program:
+
+> ***Customized** design* \[a slightly modified version of a design that we’ve already created\]
+
+**Custom**: developed from the beginning for one specific client. In BrE one can also use *bespoke*, a term that was originally used for men’s clothing.
+
+> ***Custom** design* \[a completely fresh design, made just for you\]
+
+*Sources: [1](https://forum.wordreference.com/threads/custom-customized.2938512/#post-14872193),
+[2](https://casakids.com/blogs/news/differences-between-ready-made-standard-custom-and-customized-design-furniture)*
+
+***
+
+## register \| registry
+
+
+
+[*Source*]()
 
 ***
 
