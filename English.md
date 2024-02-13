@@ -404,6 +404,8 @@
 
 [regime \| regimen \| regiment](#regime--regimen--regiment)
 
+[register \| registry](#register--registry)
+
 [related to \| relates to \| relating to](#related-to--relates-to--relating-to)
 
 [replace by \| replace with](#replace-by--replace-with)
@@ -521,9 +523,29 @@
 
 ## register \| registry
 
+A **register** is a list or record of people or things, typically used for administrative purposes.
 
+A **registry** is a centralized database or system used for regulatory or informational purposes that contains information about a specific type of entity, such as a product, service, or organization.
 
-[*Source*]()
+A **register** is a list or record of names or items, while a **registry** is a place where information is stored or recorded.
+
+| Field | Register | Registry |
+|-------|----------|----------|
+| IT | A small amount of memory that is used to store data that is frequently accessed by the CPU. | A hierarchical database that contains configuration settings for Windows and installed applications. |
+| Law   | A document that contains a list of legal transactions. | A public record or database that contains information about legal matters. |
+| Examples | *land **register** | ***registry** of wills* |
+|          | ***register** of deeds* | ***registry** of trademarks* |
+
+### Regional differences
+
+| Definition | Term | Field |
+|------------|------|-------|
+| A government office where births, deaths, and marriages are recorded. | ***register** office* | BrE |
+|                                                                       | *vital records office* | AmE |
+| A government office that handles vehicle registrations. | ***registry** office* | some regions |
+|                                                         | Department of Motor Vehicles (DMV) | other regions |
+
+[*Source*](https://thecontentauthority.com/blog/register-vs-registry)
 
 ***
 
