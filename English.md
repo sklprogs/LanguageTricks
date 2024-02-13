@@ -538,8 +538,8 @@ A **register** is a list or record of names or items, while a **registry** is a 
 
 ### Regional differences
 
-| Definition | Term \/ Field |
-|------------|--------------|
+| Definition | Term \/ Field | Alternative \/ Field |
+|------------|---------------|----------------------|
 | A government office where births, deaths, and marriages are recorded. | ***register** office* (BrE) | *vital records office* (AmE) |
 | A government office that handles vehicle registrations. | ***registry** office* (some regions) | Department of Motor Vehicles (DMV) (other regions) |
 
