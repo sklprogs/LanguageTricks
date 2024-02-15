@@ -1,12 +1,24 @@
 # Index
 
-[none (singular or plural)](#none-singular-or-plural)
+[Capitalization](#capitalization)
 
-[otherwise](#otherwise)
+[None (singular or plural)](#none-singular-or-plural)
+
+[Otherwise](#otherwise)
 
 ***
 
-## none (singular or plural)
+## Capitalization
+
+### TOC
+
+If you use a certain capitalization in the title of a chapter, then use the same capitalization whenever you mention that title elsewhere, including within the Table of Contents.
+
+[*Source*](https://writing.stackexchange.com/questions/61942/should-the-table-of-contents-be-title-case)
+
+***
+
+## None (singular or plural)
 
 | Role | Example | Explanation |
 |------|---------|-------------|
@@ -20,7 +32,7 @@
 
 ***
 
-## otherwise
+## Otherwise
 
 ### Conjunction (connector of clauses)
 
