@@ -2,9 +2,48 @@
 
 [Capitalization](#capitalization)
 
+[Comma](#comma)
+
+[Formatting Punctuation Marks](#formatting-punctuation-marks)
+
 [None (singular or plural)](#none-singular-or-plural)
 
 [Otherwise](#otherwise)
+
+***
+
+## Comma
+
+### Comma before *such as*
+
+| Type of a phrase | Comma before *such as* | Example | Explanation |
+|------------------|------------------------|---------|-------------|
+| Restrictive | \- | *Bands **such as** The Who and Deep Purple are known for playing loud.* | *such as* cannot be omitted |
+| Non-restrictive | \+ | *I’m a big fan of frozen desserts, **such as** popsicles and ice cream.* | *such as* can be omitted: \= *I’m a big fan of frozen desserts.* |
+
+*Sources: [1](https://prowritingaid.com/such-as-comma)*
+
+***
+
+## Formatting Punctuation Marks
+
+### Italicizing Comma After an Italic Word
+
+If the commas are not logically part of the italicized material, they should not be italicized.
+
+> We rented the movie *Planes, Trains and Automobiles*. \[The comma is part of the title\]
+
+### Punctuation Mark and a Word Before
+
+The formatting of the punctuation mark should match the formatting of the word before, but there can be exceptions:
+
+> The difference is statistically significant (*p* < .05).
+
+### Colon at the End of a Heading
+
+Do not underline the colon at the end of a heading.
+
+[*Source*](https://iconlogic.blogs.com/weblog/2011/04/writing-grammar-do-i-italicize-the-comma-after-an-italic-word.html)
 
 ***
 
