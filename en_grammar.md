@@ -21,15 +21,15 @@ Capitalize ***to*** if:
   > ***To** Infinity and Beyond*
 - it is used as an adverb (*to and fro*, *come to*, *pull to*):
   > *Walking **To** <ins>and Fro</ins>*
+  
   > *<ins>Pull</ins> the Door **To** and Lock It*
+
 - it is the last word of the title \[depends on a style guide\]:
   > *Music That You Can Dance **To***
 
 Do not capitalize ***to*** in all other cases:
 - *Back *to* the 50s* \[preposition, all style guides\]
 - *You Don’t Have **to** Tell Me* \[infinitive, depends on a style guide\]
-
-According to the AP rules (but not AMA, APA, Bluebook, Chicago, MLA, New York Times, Wikipedia), *to* is capitalized when it is part of an infinitive.
 
 *Sources: [1](https://writing.stackexchange.com/questions/61942/should-the-table-of-contents-be-title-case),
 [2](https://titlecaseconverter.com/blog/is-to-capitalized)*
