@@ -1,5 +1,7 @@
 # Index
 
+[Articles](#articles)
+
 [Capitalization](#capitalization)
 
 [Comma](#comma)
@@ -9,6 +11,20 @@
 [None (singular or plural)](#none-singular-or-plural)
 
 [Otherwise](#otherwise)
+
+***
+
+## Articles
+
+### installation
+
+- *(countable \& uncountable)* Installation is the act of installing.
+- *(countable)* An installation is something that is installed.
+
+![for_custom_installation.svg](resources/charts/for_custom_installation.svg)
+
+*Sources: [1](https://simple.wiktionary.org/wiki/installation),
+[2](https://books.google.com/ngrams/graph?content=for+a+custom+installation%2Cfor+custom+installation%2Cfor+the+custom+installation&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
 
 ***
 
