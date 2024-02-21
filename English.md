@@ -276,7 +276,7 @@
 
 [goal \| objective](#goal--objective)
 
-[hamper \| hinder](#hamper--hinder)
+[hamper \| hinder \| impair \| undermine](#hamper--hinder--impair--undermine)
 
 [handle \| process](#handle--process)
 
@@ -508,13 +508,29 @@
 
 ***
 
-## hamper \| hinder
+## hamper \| hinder \| impair \| undermine
+
+**Hinder**&mdash;to stop or slow down:
+
+> *The avalanche **hindered** the car from going forward.*
+
+**Impair***&mdash;to reduce:
+
+> *The darness **impaired** his vision.*
+ 
+**Undermine**&mdash;to make (someone or something) weaker or less effective usually in a secret or gradual way:
+
+> *She tried to **undermine** my authority by complaining about me to my boss.*
+
+> *The events of the past year have **undermined** people’s confidence in the government.*
 
 If something ***hinders*** you, it keeps you from moving forward. It’s usually an outside obstruction.
 
 If something ***hampers*** you, then it prevents you from doing something freely. The problem is inherent, or at least immediate (e.g. *wet clothes which hamper a swimmer*).
 
-[*Source*](https://www.italki.com/en/post/question-206106)
+*Sources: [1](https://www.italki.com/en/post/question-206106),
+[2](https://www.italki.com/en/post/PjcKB8PbA2O1eK0pUhceg0),
+[3](https://www.britannica.com/dictionary/undermine)*
 
 ***
 
