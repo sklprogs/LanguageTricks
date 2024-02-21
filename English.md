@@ -276,6 +276,8 @@
 
 [goal \| objective](#goal--objective)
 
+[hamper \| hinder](#hamper--hinder)
+
 [handle \| process](#handle--process)
 
 [hear about \| hear of](#hear-about--hear-of)
@@ -503,6 +505,16 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## hamper \| hinder
+
+If something ***hinders*** you, it keeps you from moving forward. It’s usually an outside obstruction.
+
+If something ***hampers*** you, then it prevents you from doing something freely. The problem is inherent, or at least immediate (e.g. *wet clothes which hamper a swimmer*).
+
+[*Source*](https://www.italki.com/en/post/question-206106)
 
 ***
 
