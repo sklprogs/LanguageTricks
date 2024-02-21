@@ -514,7 +514,7 @@
 
 > *The avalanche **hindered** the car from going forward.*
 
-**Impair***&mdash;to reduce:
+**Impair**&mdash;to reduce:
 
 > *The darness **impaired** his vision.*
  
