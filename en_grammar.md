@@ -1,33 +1,23 @@
 # Index
 
 [Articles](#articles)
-
 - [installation](#installation-articles)
-
 - [mode](#mode-articles)
-
 - [reaction](#reaction-articles)
-   
 - [threat](#threat-articles)
 
 [Capitalization](#capitalization)
-
 - [table of contents](#table-of-contents-capitalization)
-
 - [to](#to-capitalization)
 
 [Commas](#commas)
-
 - [but](#but-commas)
-
 - [otherwise](#otherwise-commas)
-
 - [such as](#such-as-commas)
 
 [Formatting Punctuation Marks](#formatting-punctuation-marks)
 
 [Singular or plural](#singular-or-plural)
-
 - [none](#none-singular-or-plural)
 
 ***
