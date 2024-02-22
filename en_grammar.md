@@ -5,6 +5,8 @@
 - [installation](#installation-articles)
 
 - [mode](#mode-articles)
+
+- [reaction](#reaction-articles)
    
 - [threat](#threat-articles)
 
@@ -31,6 +33,14 @@
 ***
 
 ## Articles
+
+### Reaction \[Articles\]
+
+![as_a_reaction_to.svg](resources/charts/as_a_reaction_to.svg)
+
+[*Source*](https://books.google.com/ngrams/graph?content=as+a+reaction+to%2Cas+reaction+to%2Cas+the+reaction+to&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)
+
+***
 
 ### Threat \[Articles\]
 
