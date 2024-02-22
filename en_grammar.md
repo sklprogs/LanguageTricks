@@ -2,11 +2,11 @@
 
 [Articles](#articles)
 
-   [installation](#installation--articles)
+   [installation](#installation-articles)
 
-   [mode](#mode--articles)
+   [mode](#mode-articles)
    
-   [threat](#threat--articles)
+   [threat](#threat-articles)
 
 [Capitalization](#capitalization)
 
