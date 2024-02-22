@@ -8,6 +8,7 @@
 
 [Capitalization](#capitalization)
 - [table of contents](#table-of-contents-capitalization)
+- [tables](#tables-capitalization)
 - [to](#to-capitalization)
 
 [Commas](#commas)
@@ -159,6 +160,28 @@ Do not underline the colon at the end of a heading.
 ***
 
 ## Capitalization
+
+### Tables \[Capitalization\]
+
+\[Microsoft Style Guide\]
+
+Use sentence-style capitalization for:
+- the table title;
+- each column header;
+- the text in cells unless there’s a reason not to (for example, keywords that must be lowercase).
+
+| Tables are sometimes useful for	| Example |
+|---------------------------------|---------|
+| Data or values | Text formats and their associated HTML codes |
+| Simple instructions | User interface actions and their associated keyboard shortcuts |
+| Categories of things with examples | SKUs[^SKU] and the products they include |
+| Collections of things with two or more attributes | Event dates with times and locations |
+
+[^SKU]: Stock Keeping Unit = артикул (код товара)
+
+[*Source*](https://learn.microsoft.com/en-us/style-guide/scannable-content/tables)
+
+***
 
 ### Table of Contents \[Capitalization\]
 
