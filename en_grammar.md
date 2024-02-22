@@ -16,6 +16,8 @@
 
 [Commas](#commas)
 
+- [but](#but-commas)
+
 - [otherwise](#otherwise-commas)
 
 - [such as](#such-as-commas)
@@ -64,6 +66,26 @@ We don’t need the definite article before one item/user/table/mode that can be
 ***
 
 ## Commas
+
+### But \[Commas\]
+
+| Comma position | Put in a comma | Case explanation | Example |
+|----------------|----------------|-------------|---------|
+| Before | \+ | *But* connects two independent clauses[^independent_clause]. | *The rules aren’t written down anywhere, **but** the important rules rarely are.* |
+|        |    |                                                              | *I have a gym membership, **but** I rarely use it.* |
+|        |    |                                                              | *I want to go to Italy this year, **but** my kinds want to go to Greece.* |
+|        | \- | *But* connects an independent clause with a dependent clause. | *You had a birthday party **but** didn’t tell me about it?* |
+|        |    |                                                               | *You left me with nothing **but** a btoken promise.* |
+| After  | \+ | You’re interrupting the sentence flow with another word or clause immediately after *but&, to create emphasis. | *I enjoyed the book, **but**, to be honest, I didn’t completely understand it.* |
+|        |    |                                                                                                                | ***But**, as you know, the dodo bird went extinct long ago.* |
+|        |    |                                                                                                                | *I tried to go to the grocery store, **but**, as it turns out, it closed early.* |
+|        |    |                                                                                                                | ***But**, my dear, you didn’t tell me the whole story.* |
+
+[^independent_clause]: An independent clause is a string of words that can stand on its own as a complete sentence, with a subject and an object.
+
+[*Source*](https://prowritingaid.com/comma-before-or-after-but)
+
+***
 
 ### Otherwise \[Commas\]
 
