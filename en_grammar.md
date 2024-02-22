@@ -1,4 +1,4 @@
-# Index
+# General Index
 
 [Articles](#articles)
 
@@ -11,6 +11,12 @@
 [None (singular or plural)](#none-singular-or-plural)
 
 [Otherwise](#otherwise)
+
+# Detailed Index
+
+[installation](#installation)
+
+[mode](#mode)
 
 ***
 
@@ -28,6 +34,19 @@
 
 ***
 
+### mode
+
+We don’t need the definite article before one item/user/table/mode that can be uniquely identified from others in a certain set of items/users/tables/modes:
+
+> *My cell-phone is <ins>on silent</ins> **mode**.*
+
+![in_standalone_mode.svg](resources/charts/in_standalone_mode.svg)
+
+*Sources: [1](https://ell.stackexchange.com/questions/61397/a-definite-article-before-silent-mode),
+[2](https://books.google.com/ngrams/graph?content=in+the+standalone+mode%2Cin+a+standalone+mode%2Cin+standalone+mode&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
+
+***
+
 ## Comma
 
 ### Comma before *such as*
@@ -37,7 +56,7 @@
 | Restrictive | \- | *Bands **such as** The Who and Deep Purple are known for playing loud.* | *such as* cannot be omitted |
 | Non-restrictive | \+ | *I’m a big fan of frozen desserts, **such as** popsicles and ice cream.* | *such as* can be omitted: \= *I’m a big fan of frozen desserts.* |
 
-*Sources: [1](https://prowritingaid.com/such-as-comma)*
+[*Source*](https://prowritingaid.com/such-as-comma)
 
 ***
 
