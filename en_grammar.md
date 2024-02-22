@@ -1,6 +1,12 @@
-# General Index
+# Index
 
 [Articles](#articles)
+
+   [installation](#installation--articles)
+
+   [mode](#mode--articles)
+   
+   [threat](#threat--articles)
 
 [Capitalization](#capitalization)
 
@@ -12,17 +18,19 @@
 
 [Otherwise](#otherwise)
 
-# Detailed Index
-
-[installation](#installation)
-
-[mode](#mode)
-
 ***
 
 ## Articles
 
-### installation
+### Threat \[Articles\]
+
+![pose_a_threat.svg](resources/charts/pose_a_threat.svg)
+
+[*Source*](https://books.google.com/ngrams/graph?content=pose+a+threat%2Cpose+the+threat%2Cpose+threat&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)
+
+***
+
+### Installation \[Articles\]
 
 - *(countable \& uncountable)* Installation is the act of installing.
 - *(countable)* An installation is something that is installed.
@@ -34,7 +42,7 @@
 
 ***
 
-### mode
+### Mode \[Articles\]
 
 We don’t need the definite article before one item/user/table/mode that can be uniquely identified from others in a certain set of items/users/tables/modes:
 
