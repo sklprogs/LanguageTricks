@@ -360,6 +360,8 @@
 
 [mount at \| mount in \| mount on \| ~~mount to~~](#mount-at--mount-in--mount-on--mount-to)
 
+[named \| ~~named as~~](#named--named-as)
+
 [need for \| need of](#need-for--need-of)
 
 [new \| novel](#new--novel)
@@ -505,6 +507,18 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## named \| ~~named as~~
+
+Using ***named as*** isn’t strictly ungrammatical, but it’s not standard usage.
+
+> *This method, **named** ABC, is used to calculate the temperature of these categories of objects.*
+
+Non-restrictive phrases are set off in commas.
+
+[*Source*](https://ell.stackexchange.com/questions/11313/named-or-named-as)
 
 ***
 
