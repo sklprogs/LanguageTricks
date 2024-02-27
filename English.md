@@ -506,8 +506,6 @@
 
 [whether \| whether or not](#whether--whether-or-not)
 
-[for patent translators](#for-patent-translators)
-
 [привести в соответствие](#привести-в-соответствие)
 
 ***
@@ -2296,12 +2294,6 @@ motion. Engines produce thrust.
 caused by friction and differences in air pressure.
 
 [*Source*](https://howthingsfly.si.edu/forces-flight/four-forces)
-
-***
-
-## for patent translators
-
-[*Source*](https://www.patenttranslationsinternational.com/resources/advice-for-translators/)
 
 ***
 
