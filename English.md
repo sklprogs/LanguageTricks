@@ -5824,11 +5824,9 @@ We’d be less likely to say, ~~*It’s **in use** from time to time*~~, althoug
 
 ## run in Windows \| run on Windows \| run under Windows
 
-*run on windows*: 602,000 results on the web
+![run_on_windows.svg](resources/charts/run_on_windows.svg)
 
-*run under windows*: 278,000 results on the web
-
-The Corpus of Contemporary American English has twelve records for *run on Windows* and eleven for *run under Windows*. The British National Corpus shows a decisive preference for the latter, with nine records, against one for the former.
+![run_on_under_windows_coca.svg](resources/charts/run_on_under_windows_coca.svg) ![run_on_under_windows_bnc.svg](resources/charts/run_on_under_windows_bnc.svg)
 
 Originally operating systems would be seen roughly like a set of rules, in which case you ***run under*** a set of rules. Nowadays an operating system is seen as a basis for building things upon, like a foundation, in which case you ***run on*** a foundation. Both are valid.
 
@@ -5840,7 +5838,8 @@ As generic word usage, you would say *on a platform*, not *in a platform*. Sayin
 
 *Sources: [1](https://english.stackexchange.com/questions/95409/running-on-windows-vs-running-under-windows),
 [2](https://textranch.com/272675/run-on-windows/or/run-under-windows),
-[3](https://ell.stackexchange.com/questions/72067/which-is-the-right-preposition-when-referring-to-os-in-or-on)*
+[3](https://ell.stackexchange.com/questions/72067/which-is-the-right-preposition-when-referring-to-os-in-or-on),
+[4](https://books.google.com/ngrams/graph?content=run+in+Windows%2Crun+on+Windows%2Crun+under+Windows&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
 ***
 
 ## fast \| quick
