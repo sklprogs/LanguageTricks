@@ -406,7 +406,7 @@
 
 [reboot \| restart](#reboot--restart)
 
-[recommend that \| ~~recommend to~~](#recommend-that--recommend-to)
+[recommend that you \| recommend you \| ~~recommend to~~ \| ~~recommend you to~~](#recommend-that-you--recommend-you--recommend-to--recommend-you-to)
 
 [regime \| regimen \| regiment](#regime--regimen--regiment)
 
@@ -512,7 +512,7 @@
 
 ***
 
-## recommend that \| ~~recommend to~~
+## recommend that you \| recommend you \| ~~recommend to~~ \| ~~recommend you to~~
 
 > &check; *I **recommend that you define** those parameters beforehand.*
 
@@ -520,7 +520,14 @@
 
 > &cross; *I **recommend <ins>you</ins> to define** those parameters beforehand.* \[My recommendation (to some other currently unspecified person) is that you are the person best-suited to the task.\]
 
-[*Source*](https://english.stackexchange.com/questions/35953/recommend-you-to-vs-recommend-that-you)
+> &check; *I **recommend that you hide** your friend list from others.* \[Best option.\]
+
+> &check; *I **recommend hiding** your friend list from others.* \[Also possible.\]
+
+> &cross; *I ~~**recommend to hide**~~ your friend list from others.* \[*Recommend* can’t take an infinitive unless it has a direct object.\]
+
+*Sources: [1](https://english.stackexchange.com/questions/35953/recommend-you-to-vs-recommend-that-you),
+[2](https://forum.wordreference.com/threads/recommend-that-recommend-to-recommend-ing.3582437)*
 
 ***
 
