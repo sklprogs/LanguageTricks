@@ -6418,12 +6418,6 @@ See also: [installation \| setup](#installation--setup)
 
 ***
 
-## запрос на \| запрос о
-
-[*Source*]()
-
-***
-
 ## upon \| when
 
 [*Source*]()
