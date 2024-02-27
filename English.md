@@ -406,6 +406,8 @@
 
 [reboot \| restart](#reboot--restart)
 
+[recommend that \| ~~recommend to~~](#recommend-that--recommend-to)
+
 [regime \| regimen \| regiment](#regime--regimen--regiment)
 
 [register \| registry](#register--registry)
@@ -507,6 +509,18 @@
 [for patent translators](#for-patent-translators)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## recommend that \| ~~recommend to~~
+
+> &check; *I **recommend that you define** those parameters beforehand.*
+
+> &check; *I **recommend you define** those parameters beforehand.*
+
+> &cross; *I **recommend <ins>you</ins> to define** those parameters beforehand.* \[My recommendation (to some other currently unspecified person) is that you are the person best-suited to the task.\]
+
+[*Source*](https://english.stackexchange.com/questions/35953/recommend-you-to-vs-recommend-that-you)
 
 ***
 
@@ -6363,14 +6377,6 @@ quora.com
 ***
 
 ## Asian \| Asiatic \| Asianic
-
-
-
-[*Source*]()
-
-***
-
-## recommend that \| recommend to
 
 [*Source*]()
 
