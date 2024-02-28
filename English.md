@@ -404,6 +404,8 @@
 
 [ratio between ... and \| ratio of ... to](#ratio-between--and--ratio-of--to)
 
+[react on \| react to](#react-on--react-to)
+
 [reboot \| restart](#reboot--restart)
 
 [recommend that you \| recommend you \| ~~recommend to~~ \| ~~recommend you to~~](#recommend-that-you--recommend-you--recommend-to--recommend-you-to)
@@ -507,6 +509,24 @@
 [whether \| whether or not](#whether--whether-or-not)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## react on \| react to
+
+We ***react to*** a stimulus or situation:
+
+> *The dog **reacted to** the bell by salivating.*
+
+***React on***[^react_on] can refer to something which is affected:
+
+> *These chemicals **react on** plastics.*
+
+From a grammatical perspective, the plastics are not the stimulus. There is a reaction when the chemicals are applied to plastics.
+
+[^react_on]: влиять на (кого-либо, что-либо); реагировать на
+
+[*Source*](https://ell.stackexchange.com/questions/121545/whats-the-difference-between-react-on-and-react-to)
 
 ***
 
