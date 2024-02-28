@@ -510,8 +510,6 @@
 
 [whether \| whether or not](#whether--whether-or-not)
 
-[привести в соответствие](#привести-в-соответствие)
-
 ***
 
 ## each \| each and every \| every
@@ -1520,14 +1518,6 @@ The carpenter took a stock of bamboo and carved a vase out of it. The carpenter
 of** bamboo.
 
 [*Source*](https://www.usingenglish.com/forum/threads/14802-made-of-vs-made-from)
-
-***
-
-## привести в соответствие
-
-bring into compliance
-
-bring to correspondence
 
 ***
 
