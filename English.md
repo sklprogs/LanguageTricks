@@ -212,6 +212,8 @@
 
 [duty \| responsibility](#duty--responsibility)
 
+[each \| every](#each--every)
+
 [effective \| efficient](#effective--efficient)
 
 [effectiveness \| ~~effectivity~~ \| efficacy \| efficiency](#effectiveness--effectivity--efficacy--efficiency)
@@ -509,6 +511,48 @@
 [whether \| whether or not](#whether--whether-or-not)
 
 [привести в соответствие](#привести-в-соответствие)
+
+***
+
+## each \| every
+
+If you want to emphasize a person or a thing, use ***each***:
+
+> ***Each** season of the show has ten episodes.*
+
+> *They **each** have their own car.*
+
+> *My brothers lost the bet and paid $25 **each**.*
+
+If you want to emphasize the group, use ***every***:
+
+> *We enjoyed **every** second of the movie.*
+
+> ***Every** doctor in that hospital is kind, compassionate, and caring.* \[\=All doctors...\]
+
+***Every*** is also used to indicate how often something occurs:
+
+> *The train stops **every** 30 minutes to let passengers off.*
+
+When placed before a singular noun, *each* and *every* are both correct. In this case, the verb that follows would also be singular:
+
+> ***Each** day is special.* \[\= ***Every** day is special.*\]
+
+Only ***each*** can be used after a plural subject and would be followed by a plural verb form:
+
+> *<ins>They</ins> **each** have their own office.*
+
+The only time ***every*** can be used with a plural noun is if you use the phrase *every one of*:
+
+> ***Every** <ins>one of</ins> the gift bags had cash.*
+
+*Each and every* is sometimes used to add emphasis:
+
+> *I love **each and every** one of my students.*
+
+Although it’s common in speech, it should be avoided in writing as it is considered redundant.
+
+[*Source*](https://languagetool.org/insights/post/word-choice-each-and-every)
 
 ***
 
