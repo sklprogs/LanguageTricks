@@ -212,7 +212,7 @@
 
 [duty \| responsibility](#duty--responsibility)
 
-[each \| every](#each--every)
+[each \| each and every \| every](#each--each-and-every--every)
 
 [effective \| efficient](#effective--efficient)
 
@@ -514,7 +514,7 @@
 
 ***
 
-## each \| every
+## each \| each and every \| every
 
 If you want to emphasize a person or a thing, use ***each***:
 
@@ -534,19 +534,19 @@ If you want to emphasize the group, use ***every***:
 
 > *The train stops **every** 30 minutes to let passengers off.*
 
-When placed before a singular noun, *each* and *every* are both correct. In this case, the verb that follows would also be singular:
+When placed before a singular noun, ***each*** and ***every*** are both correct. In this case, the verb that follows would also be singular:
 
 > ***Each** day is special.* \[\= ***Every** day is special.*\]
 
 Only ***each*** can be used after a plural subject and would be followed by a plural verb form:
 
-> *<ins>They</ins> **each** have their own office.*
+> *<ins>They</ins> **each** <ins>have</ins> their own office.*
 
-The only time ***every*** can be used with a plural noun is if you use the phrase *every one of*:
+The only time ***every*** can be used with a plural noun is if you use *every one of*:
 
 > ***Every** <ins>one of</ins> the gift bags had cash.*
 
-*Each and every* is sometimes used to add emphasis:
+***Each and every*** is sometimes used to add emphasis:
 
 > *I love **each and every** one of my students.*
 
