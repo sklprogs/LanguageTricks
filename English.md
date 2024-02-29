@@ -470,6 +470,8 @@
 
 [suggest \| suggest that](#suggest--suggest-that)
 
+[~~switch into~~ \| switch to](#switch-into--switch-to)
+
 [that \| who](#that--who)
 
 [think about \| think of](#think-about--think-of)
@@ -509,6 +511,15 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## ~~switch into~~ \| switch to
+
+![switch_to.svg](resources/charts/switch_to.svg)
+
+*Sources: [1](https://forum.wordreference.com/threads/switch-into-to.3219784),
+[2](https://books.google.com/ngrams/graph?content=switch+into%2Cswitch+to&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
 
 ***
 
