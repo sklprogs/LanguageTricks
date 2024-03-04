@@ -1,10 +1,12 @@
 # Index
 
 [Articles](#articles)
-- [installation](#installation-articles)
-- [mode](#mode-articles)
-- [reaction](#reaction-articles)
-- [threat](#threat-articles)
+- [Abbreviations](#abbreviations-articles)
+- [Words and phrases](#words-and-phrases)
+  - [as a reaction to](#as-a-reaction-to-articles)
+  - [installation](#installation-articles)
+  - [mode](#mode-articles)
+  - [pose a threat](#pose-a-threat)
 
 [Capitalization](#capitalization)
 - [table of contents](#table-of-contents-capitalization)
@@ -25,7 +27,45 @@
 
 ## Articles
 
-### Reaction \[Articles\]
+### Abbreviations \[Articles\]
+
+***Acronyms*** (which are read as words) tend not to require preceding articles at all except when they are used adjectivally[^adjectivally]:
+
+> *The patient was diagnosed with AIDS.*
+
+> ***The** AIDS <ins>patient</ins>*
+
+***Initialisms*** (which are pronounced as individual letters) tend to use a preceding article (whether definite or indefinite):
+
+> ***a** CD*
+
+> ***an** NGO*
+
+> ***the** EU*
+
+Articles are often omitted in front of abbreviations:
+
+> *CDC (~~the CDC~~)*
+
+| Sound type | Article | Example |
+|------------|--------------|---------|
+| Consonant  | **A**  | ***a** PhD* |
+|            |          | ***a** NASA launch* |
+|            |          | ***a** UNICEF greeting card* |
+| Vowel or consonant pronounced with an initial vowel sound | **An** | ***an** APA style of referencing* |
+|                                                           |        | ***an** IQ test* |
+|                                                           |        | ***an** MP’s riding* |
+
+[^adjectivally]: Adjectivally \= как часть прилагательного.
+
+*Sources: [1](https://www.proof-reading-service.com/en/blog/appropriate-use-articles-abbreviations),
+[2](https://wwwnc.cdc.gov/eid/page/abbreviations-acronyms-initialisms)*
+
+***
+
+### Words and Phrases
+
+#### As a reaction to \[Articles\]
 
 ![as_a_reaction_to.svg](resources/charts/as_a_reaction_to.svg)
 
@@ -33,7 +73,7 @@
 
 ***
 
-### Threat \[Articles\]
+#### Pose a threat \[Articles\]
 
 ![pose_a_threat.svg](resources/charts/pose_a_threat.svg)
 
