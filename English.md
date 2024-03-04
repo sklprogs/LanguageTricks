@@ -1,6 +1,6 @@
 # Index
 
-[abbreviation \| acronym \| initialism](#abbreviation--acronym--initialism)
+[abbreviation \| acronym \| backronym \| initialism](#abbreviation--acronym--backronym--initialism)
 
 [able to \| capable of](#able-to--capable-of)
 
@@ -518,21 +518,23 @@
 
 ***
 
-## abbreviation \| acronym \| initialism
+## abbreviation \| acronym \| backronym \| initialism
 
 | Term | Definition | Example | Complete form |
 |------|------------|---------|---------------|
 | ***Abbreviation*** | The shortened form of a word or phrase intended to speed up communication and\/or use fewer symbols. | *vs.* | versus |
 |                    |                                                                                                      | *dept.* | department |
-| **Acronym** | An abbreviation made up of parts of the phrase it stands for and pronounced as a word. | *NATO* | The North Atlantic Treaty Organization |
-|             |                                                                                        | *AIDS* | acquired immunodeficiency syndrome |
-|             |                                                                                        | *laser* | light amplification by the stimulated emission of radiation |
-|             |                                                                                        | *GABA* | Gamma-Aminobutyric Acid |
+| ***Acronym*** | An abbreviation made up of parts of the phrase it stands for and pronounced as a word. | *NATO* | The North Atlantic Treaty Organization |
+|               |                                                                                        | *AIDS* | acquired immunodeficiency syndrome |
+|               |                                                                                        | *laser* | light amplification by the stimulated emission of radiation |
+|               |                                                                                        | *GABA* | Gamma-Aminobutyric Acid |
 | ***Initialism*** | An acronym that is pronounced as individual letters. | *DNA* | Deoxyribonucleic Acid |
 |                  |                                                      | *RT-PCR* | Reverse transcription polymerase chain reaction |
+| ***Backronym*** | An acronym which meaning was created after the abbreviation. | *SOS* | Save Our Ship |
 
 *Sources: [1](https://wwwnc.cdc.gov/eid/page/abbreviations-acronyms-initialisms),
-[2](https://www.writersdigest.com/write-better-fiction/abbreviation-vs-acronym-vs-initialism-grammar-rules)*
+[2](https://www.writersdigest.com/write-better-fiction/abbreviation-vs-acronym-vs-initialism-grammar-rules),
+[3](https://simple.wikipedia.org/wiki/Backronym)*
 
 ***
 
