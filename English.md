@@ -314,6 +314,8 @@
 
 [instant \| moment](#instant--moment)
 
+[instruction for \| instruction on](#instruction-for--instruction-on)
+
 [integrate \| integrate in \| integrate into \| ~~integrate to~~ \| integrate with](#integrate--integrate-in--integrate-into--integrate-to--integrate-with)
 
 [integrate \| merge](#integrate--merge)
@@ -511,6 +513,17 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## instruction for \| instruction on
+
+| on | on\/for |
+|----|-----|
+| ***instruction on** <ins>how to</ins> make* | ***instruction on** making* \[\= ***instruction for** making*\] |
+| ***instruction on** <ins>how to</ins> prepare* | ***instruction on** preparing* \[\= ***instruction for** preparing*\] |
+
+[*Source*](https://hinative.com/questions/17783065#answer-41836291)
 
 ***
 
