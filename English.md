@@ -525,11 +525,11 @@
 | ***Abbreviation*** | The shortened form of a word or phrase intended to speed up communication and\/or use fewer symbols. | *vs.* | versus |
 |                    |                                                                                                      | *dept.* | department |
 | **Acronym** | An abbreviation made up of parts of the phrase it stands for and pronounced as a word. | *NATO* | The North Atlantic Treaty Organization |
-|             |                                                                                        | *AIDS* | Acquired immunodeficiency syndrome |
-|             |                                                                                        | laser* | Light amplification by the stimulated emission of radiation |
+|             |                                                                                        | *AIDS* | acquired immunodeficiency syndrome |
+|             |                                                                                        | *laser* | light amplification by the stimulated emission of radiation |
 |             |                                                                                        | *GABA* | Gamma-Aminobutyric Acid |
-| ***Initialism*** | An acronym that is pronounced as individual letters | *DNA* | Deoxyribonucleic Acid |
-|                  |                                                     | *RT-PCR* | Reverse transcription polymerase chain reaction |
+| ***Initialism*** | An acronym that is pronounced as individual letters. | *DNA* | Deoxyribonucleic Acid |
+|                  |                                                      | *RT-PCR* | Reverse transcription polymerase chain reaction |
 
 *Sources: [1](https://wwwnc.cdc.gov/eid/page/abbreviations-acronyms-initialisms),
 [2](https://www.writersdigest.com/write-better-fiction/abbreviation-vs-acronym-vs-initialism-grammar-rules)*
