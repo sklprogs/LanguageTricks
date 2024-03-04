@@ -58,6 +58,8 @@ Articles are often omitted in front of abbreviations:
 
 [^adjectivally]: Adjectivally \= как часть прилагательного.
 
+*See also [abbreviation \| acronym \| backronym \| initialism](./English.md#abbreviation--acronym--backronym--initialism)*
+
 *Sources: [1](https://www.proof-reading-service.com/en/blog/appropriate-use-articles-abbreviations),
 [2](https://wwwnc.cdc.gov/eid/page/abbreviations-acronyms-initialisms)*
 
