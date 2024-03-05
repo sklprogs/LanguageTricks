@@ -86,6 +86,8 @@
 
 [bunny \| rabbit](#bunny--rabbit)
 
+[by means of planting \| by planting \| through planting \| using planting \| via planting](#by-means-of-planting--by-planting--through-planting--using-planting--via-planting)
+
 [by email \| ~~through email~~ \| via email](#by-email--through-email--via-email)
 
 [can be further \| can further be](#can-be-further--can-further-be)
@@ -515,6 +517,22 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## by means of planting \| by planting \| through planting \| using planting \| via planting
+
+| Example | Emphasizes |
+|---------|------------|
+| ***by** planting* | the direct action of planting itself in achieving a desired outcome |
+| ***by means of** planting* | a specific technique or process that involves planting |
+| ***through** planting* | the role of planting as a conduit for achieving a larger goal or objective |
+| ***using** planting* | the practical application or utilization of planting as a resource |
+| ***via*** | a means of transportation or a route taken to reach a destination |
+
+*See also [by email \| ~~through email~~ \| via email](#by-email--through-email--via-email)*
+
+[*Soruce*](https://thecontentauthority.com/blog/how-to-use-via-planting-in-a-sentence)
 
 ***
 
@@ -4255,6 +4273,8 @@ particularly useful and important only to me.
 
 ***By*** is the most popular, ***via*** is used sometimes, ***through*** is not
 used in this construction.
+
+*See also [by means of planting \| by planting \| through planting \| using planting \| via planting](#by-means-of-planting--by-planting--through-planting--using-planting--via-planting)*
 
 [*Source*](https://forum.wordreference.com/threads/through-email-by-email-via-email.3086548/)
 
