@@ -29,11 +29,23 @@
 
 ### Abbreviations \[Articles\]
 
+#### Acronyms
+
 ***Acronyms*** (which are read as words) tend not to require preceding articles at all except when they are used adjectivally[^adjectivally]:
 
 > *The patient was diagnosed with AIDS.*
 
+> *UNESCO designates World Heritage Sites.*
+
+> *Finland is not a member of NATO.*
+
 > ***The** AIDS <ins>patient</ins>*
+
+> *The Giza pyramids are **a** UNESCO <ins>World Heritage Site</ins>.*
+
+> ***The** UNICEF <ins>campaign</ins> raised awareness.*
+
+#### Initialisms
 
 ***Initialisms*** (which are pronounced as individual letters) tend to use a preceding article (whether definite or indefinite):
 
@@ -43,9 +55,23 @@
 
 > ***the** EU*
 
-Articles are often omitted in front of abbreviations:
+> *He has a new job at **the** BBC.*
 
-> *CDC (~~the CDC~~)*
+> ***The** UN was voting later that day.*
+
+> ***An** FBI agent has infiltrated the group.*
+
+> ***The** DVD player is broken.*
+
+However, when you use an initialism as a noun that names a condition or illness, a substance, or a method of doing something, you do not usually need an article:
+
+> *DDT[^ddt] has been banned for many years.*
+
+> *Too much typing has given me RSI[^rsi].*
+
+> *The course teaches you how to use CPR[^cpr].*
+
+#### Pronunciation
 
 | Sound type | Article | Example |
 |------------|--------------|---------|
@@ -58,10 +84,17 @@ Articles are often omitted in front of abbreviations:
 
 [^adjectivally]: Adjectivally \= как часть прилагательного.
 
+[^ddt]: DDT \= ДДТ (insecticide).
+
+[^rsi]: RSI (Repetitive Strain Injury) \= заболевание, связанное с неправильной ежедневной многочасовой работой за клавиатурой компьютера (боль или покалывание в пальцах и кистях рук).
+
+[^cpr]: CPR (cardiopulmonary resuscitation) \= искусственное дыхание.
+
 *See also [abbreviation \| acronym \| backronym \| initialism](./English.md#abbreviation--acronym--backronym--initialism)*
 
 *Sources: [1](https://www.proof-reading-service.com/en/blog/appropriate-use-articles-abbreviations),
-[2](https://wwwnc.cdc.gov/eid/page/abbreviations-acronyms-initialisms)*
+[2](https://wwwnc.cdc.gov/eid/page/abbreviations-acronyms-initialisms),
+[3](https://proofed.com/writing-tips/using-articles-a-an-the-before-acronyms-and-initialisms)*
 
 ***
 
