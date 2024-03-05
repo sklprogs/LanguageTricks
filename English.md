@@ -90,6 +90,8 @@
 
 [by email \| ~~through email~~ \| via email](#by-email--through-email--via-email)
 
+[by software \| by using software \| using software \| ~~via software~~ \| with software](#by-software--by-using-software--using-software--via-software--with-software)
+
 [can be further \| can further be](#can-be-further--can-further-be)
 
 [canceled \| cancelled](#canceled--cancelled)
@@ -520,6 +522,22 @@
 
 ***
 
+## by software \| by using software \| using software \| ~~via software~~ \| with software
+
+| Example | Comment |
+|---------|---------|
+| ***by** software* | The software did all the work, without any human intervention. The work is actually done *by* a human with the help of the software. |
+| ***by using** software* | Sounds correct and complete because you need both a preposition (*by*) and a verb (*use*). |
+| ***with** software* | OK, but *using* is better&mdash;*with* doesn’t tell you what the person would be doing with the software (*using* it). |
+| ***using*** | *Use* is a verb and thus indicates an action. |
+| ~~***via** software* | Sounds awkward in this context. *Via* is mostly used as a synonym of *by way of*, as in *I’m flying to Hawaii via California*. It can also be used to mean something is like a stepping-stone in a less literal sense, as in *She arrived at the answer via brainstorming.* *Via* would be used when you are talking about a path (literal or figurative) to somewhere with any number of “stops” on the way. In this context, the software is not like a stop on the way, but is the thing the person is using. |
+
+*See also [by email \| ~~through email~~ \| via email](#by-email--through-email--via-email), [by means of planting \| by planting \| through planting \| using planting \| via planting](#by-means-of-planting--by-planting--through-planting--using-planting--via-planting)*
+
+[*Source*](https://ell.stackexchange.com/questions/194845/by-with-using-or-via-here)
+
+***
+
 ## by means of planting \| by planting \| through planting \| using planting \| via planting
 
 | Example | Emphasizes |
@@ -530,9 +548,20 @@
 | ***using** planting* | the practical application or utilization of planting as a resource |
 | ***via*** | a means of transportation or a route taken to reach a destination |
 
-*See also [by email \| ~~through email~~ \| via email](#by-email--through-email--via-email)*
+*See also [by email \| ~~through email~~ \| via email](#by-email--through-email--via-email), [by software \| by using software \| using software \| ~~via software~~ \| with software](#by-software--by-using-software--using-software--via-software--with-software)*
 
-[*Soruce*](https://thecontentauthority.com/blog/how-to-use-via-planting-in-a-sentence)
+[*Source*](https://thecontentauthority.com/blog/how-to-use-via-planting-in-a-sentence)
+
+***
+
+## by email \| ~~through email~~ \| via email
+
+***By*** is the most popular, ***via*** is used sometimes, ***through*** is not
+used in this construction.
+
+*See also [by means of planting \| by planting \| through planting \| using planting \| via planting](#by-means-of-planting--by-planting--through-planting--using-planting--via-planting), [by software \| by using software \| using software \| ~~via software~~ \| with software](#by-software--by-using-software--using-software--via-software--with-software)*
+
+[*Source*](https://forum.wordreference.com/threads/through-email-by-email-via-email.3086548/)
 
 ***
 
@@ -4266,17 +4295,6 @@ everyone because it is a good book and so it useful for me too but not
 particularly useful and important only to me.
 
 [*Source*](https://www.quora.com/Which-is-correct-It-is-useful-to-me-or-It-is-useful-for-me)
-
-***
-
-## by email \| ~~through email~~ \| via email
-
-***By*** is the most popular, ***via*** is used sometimes, ***through*** is not
-used in this construction.
-
-*See also [by means of planting \| by planting \| through planting \| using planting \| via planting](#by-means-of-planting--by-planting--through-planting--using-planting--via-planting)*
-
-[*Source*](https://forum.wordreference.com/threads/through-email-by-email-via-email.3086548/)
 
 ***
 
