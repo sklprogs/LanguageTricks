@@ -530,7 +530,7 @@
 | ***by using** software* | Sounds correct and complete because you need both a preposition (*by*) and a verb (*use*). |
 | ***with** software* | OK, but *using* is better&mdash;*with* doesn’t tell you what the person would be doing with the software (*using* it). |
 | ***using*** | *Use* is a verb and thus indicates an action. |
-| ~~***via** software* | Sounds awkward in this context. *Via* is mostly used as a synonym of *by way of*, as in *I’m flying to Hawaii via California*. It can also be used to mean something is like a stepping-stone in a less literal sense, as in *She arrived at the answer via brainstorming.* *Via* would be used when you are talking about a path (literal or figurative) to somewhere with any number of “stops” on the way. In this context, the software is not like a stop on the way, but is the thing the person is using. |
+| ~~***via** software*~~ | Sounds awkward in this context. *Via* is mostly used as a synonym of *by way of*, as in *I’m flying to Hawaii via California*. It can also be used to mean something is like a stepping-stone in a less literal sense, as in *She arrived at the answer via brainstorming.* *Via* would be used when you are talking about a path (literal or figurative) to somewhere with any number of “stops” on the way. In this context, the software is not like a stop on the way, but is the thing the person is using. |
 
 *See also [by email \| ~~through email~~ \| via email](#by-email--through-email--via-email), [by means of planting \| by planting \| through planting \| using planting \| via planting](#by-means-of-planting--by-planting--through-planting--using-planting--via-planting)*
 
