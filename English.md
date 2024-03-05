@@ -534,7 +534,8 @@
 
 *See also [by email \| ~~through email~~ \| via email](#by-email--through-email--via-email), [by means of planting \| by planting \| through planting \| using planting \| via planting](#by-means-of-planting--by-planting--through-planting--using-planting--via-planting)*
 
-[*Source*](https://ell.stackexchange.com/questions/194845/by-with-using-or-via-here)
+*Sources: [1](https://ell.stackexchange.com/questions/194845/by-with-using-or-via-here),
+[2](https://forum.wordreference.com/threads/via-through-by-using-the-web-interface.2742782)*
 
 ***
 
