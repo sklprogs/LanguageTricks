@@ -26,6 +26,8 @@
 
 [allow + -ing \| allow that](#allow---ing--allow-that)
 
+[also \| besides \| furthermore \| moreover](#also--besides--furthermore--moreover)
+
 [also can \| can also](#also-can--can-also)
 
 [amend \| emend \| mend](#amend--emend--mend)
@@ -513,6 +515,21 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## also \| besides \| furthermore \| moreover
+
+| Word | Role | Example |
+|------|------|---------|
+| **Also** | Simple addition. | *I like green. I **also** like blue.* |
+| **Furthermore** | Addition and advancing an argument. You have a line of reasoning, and you are furthering that same particular line with additional evidence. It conveys a sense of building. | *You are a bad person. You cheat and you lie. **Furthermore**, you steal.* |
+| **Moreover** | Addition, advancing an argument, and indicating that the added reason is of a <ins>different</ins> kind than previously furnished reasons. Even if you weren’t convinced by this particular line of reasoning, there’s this other line of reasoning that is fundamentally different but still points to the same conclusion. | *I don’t like Rufus the dog. He’s disobedient and mean. **Moreover**, Julie doesn’t like Rufus the dog, either.* |
+| | | *Our XRD and FTIR results support conclusion X. **Moreover**, conclusion X is consistent with similar literature reports for comparable systems.* |
+| | | *Our XRD and FTIR results support conclusion X. Conclusion X is **moreover** consistent with similar literature reports for comparable systems.* |
+| **Besides** | The next level up from *moreover*. *Besides* signals that the game is over. You are adding a cherry on top, and\/or you are negating the importance of the entire argument. Even if the entire previous argument were completely wrong, you should accept the conclusion for this other reason. | *This restaurant is gross and disgusting. **Furthermore**, I get sick every time I eat there. **Moreover**, we’re in a hurry. **Besides**, I’m not even hungry.* |
+
+[*Source*](https://wp.nyu.edu/sciwriabudhabi/2018/07/31/also-furthermore-moreover-besides)
 
 ***
 
@@ -6222,6 +6239,8 @@ All murders are killings but not all killings are murders. Accidental killing is
 > *I dislike fishing; **besides** (= moreover, what’s more), I don’t even own a boat.*
 
 > *Do you have any M&Ms **besides** (= in addition to) the green ones?*
+
+*See also [also \| besides \| furthermore \| moreover](#also--besides--furthermore--moreover)*
 
 [*Source*](http://web.archive.org/web/20230530052858/www.grammarly.com/blog/beside-vs-besides)
 
