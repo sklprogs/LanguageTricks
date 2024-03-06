@@ -18,10 +18,13 @@
 - [but](#but-commas)
 - [furthermore](#furthermore-however-moreover-therefore-commas)
 - [however](#furthermore-however-moreover-therefore-commas)
+- [if necessary](#if-necessary-if-required-when-needed-etc-commas)
+- [if required](#if-necessary-if-required-when-needed-etc-commas)
 - [moreover](#furthermore-however-moreover-therefore-commas)
-- [therefore](#furthermore-however-moreover-therefore-commas)
 - [otherwise](#otherwise-commas)
+- [therefore](#furthermore-however-moreover-therefore-commas)
 - [such as](#such-as-commas)
+- [when needed](#if-necessary-if-required-when-needed-etc-commas)
 
 [Formatting Punctuation Marks](#formatting-punctuation-marks)
 
@@ -155,6 +158,26 @@ We don’t need the definite article before one item/user/table/mode that can be
 ***
 
 ## Commas
+
+### If necessary, if required, when needed, etc. \[Commas\]
+
+At the start of a sentence, use a comma after *if necessary, if needed, when required, where needed*, etc.:
+
+> ***If necessary**, I can stay up late to complete the work.*
+
+Normally, you don’t need a comma in mid-sentence or at the end of the sentence:
+
+> *I will help you **if needed**.*
+
+However, use commas to set off these expressions if they interrupt the sentence flow or provide an explanatory note:
+
+> *Use disposable gloves, **when required**, before handling food.*
+
+> *The British army needs women and men who are willing to fight for their country, **if necessary**.*
+
+[*Source*](https://www.pristineword.com/comma-if-necessary/)
+
+***
 
 ### Furthermore, however, moreover, therefore \[Commas\]
 
