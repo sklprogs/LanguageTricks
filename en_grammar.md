@@ -4,6 +4,7 @@
 - [Abbreviations](#abbreviations-articles)
 - [Words and phrases](#words-and-phrases)
   - [as a reaction to](#as-a-reaction-to-articles)
+  - [for compliance with](#for-compliance-with-articles)
   - [installation](#installation-articles)
   - [mode](#mode-articles)
   - [pose a threat](#pose-a-threat)
@@ -99,6 +100,14 @@ However, when you use an initialism as a noun that names a condition or illness,
 ***
 
 ### Words and Phrases
+
+#### For compliance with \[Articles\]
+
+![for_compliance_with.svg](resources/charts/for_compliance_with.svg)
+
+[*Source*](https://books.google.com/ngrams/graph?content=for+the+compliance+with%2Cfor+compliance+with&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)
+
+***
 
 #### As a reaction to \[Articles\]
 
