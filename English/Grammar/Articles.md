@@ -124,7 +124,7 @@ However, when you use an initialism as a noun that names a condition or illness,
 
 [^cpr]: CPR (cardiopulmonary resuscitation) \= искусственное дыхание.
 
-*See also [abbreviation \| acronym \| backronym \| initialism](../Vocabulary/English.md#abbreviation--acronym--backronym--initialism)*
+*See also [abbreviation \| acronym \| backronym \| initialism](../Vocabulary.md#abbreviation--acronym--backronym--initialism)*
 
 *Sources: [1](https://www.proof-reading-service.com/en/blog/appropriate-use-articles-abbreviations),
 [2](https://wwwnc.cdc.gov/eid/page/abbreviations-acronyms-initialisms),
