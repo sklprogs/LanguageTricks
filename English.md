@@ -3722,17 +3722,20 @@ substitute, then it is ***replaced by***.
 
 > *I’ll have to **inform** her **of** Joe’s kidnapping.*
 
-**Inform about** means, not only will she be informed that Joe is
-kidnapped but also the details:
+**Inform about** means, not only will she be informed that Joe is kidnapped but also the details:
 
 > *I’ll have to **inform** her **about** Joe’s kidnapping.*
 
-**Inform on**&mdash;give incriminating information about someone to an
-authority.
+**Inform on**&mdash;give incriminating information about someone to an authority.
+
+However, in the passive *inform on* merely indicates an area of coverage:
+
+> *He is well **informed on** a wide variety of topics.*
 
 *See also* [notify about \| notify of \| ~~notify on~~](#notify-about--notify-of--notify-on)
 
-[*Source*](https://ell.stackexchange.com/questions/40623/inform-about-vs-inform-of)
+*Sources: [1](https://ell.stackexchange.com/questions/40623/inform-about-vs-inform-of),
+[2](https://ell.stackexchange.com/questions/47148/inform-about-vs-inform-of-vs-inform-on)*
 
 ***
 
