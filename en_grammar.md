@@ -15,17 +15,19 @@
 - [to](#to-capitalization)
 
 [Commas](#commas)
-- [but](#but-commas)
-- [furthermore](#furthermore-however-moreover-therefore-commas)
-- [however](#furthermore-however-moreover-therefore-commas)
-- [if necessary](#if-necessary-if-required-when-needed-where-needed-etc-commas)
-- [if required](#if-necessary-if-required-when-needed-where-needed-etc-commas)
-- [moreover](#furthermore-however-moreover-therefore-commas)
-- [otherwise](#otherwise-commas)
-- [therefore](#furthermore-however-moreover-therefore-commas)
-- [such as](#such-as-commas)
-- [when needed](#if-necessary-if-required-when-needed-where-needed-etc-commas)
-- [where needed](#if-necessary-if-required-when-needed-where-needed-etc-commas)
+- [Before a subordinate conjunction](#before-a-subordinate-conjunction-commas)
+- [Words and phrases](#words-and-phrases-commas)
+  - [but](#but-commas)
+  - [furthermore](#furthermore-however-moreover-therefore-commas)
+  - [however](#furthermore-however-moreover-therefore-commas)
+  - [if necessary](#if-necessary-if-required-when-needed-where-needed-etc-commas)
+  - [if required](#if-necessary-if-required-when-needed-where-needed-etc-commas)
+  - [moreover](#furthermore-however-moreover-therefore-commas)
+  - [otherwise](#otherwise-commas)
+  - [therefore](#furthermore-however-moreover-therefore-commas)
+  - [such as](#such-as-commas)
+  - [when needed](#if-necessary-if-required-when-needed-where-needed-etc-commas)
+  - [where needed](#if-necessary-if-required-when-needed-where-needed-etc-commas)
 
 [Formatting Punctuation Marks](#formatting-punctuation-marks)
 
@@ -160,7 +162,27 @@ We don’t need the definite article before one item/user/table/mode that can be
 
 ## Commas
 
-### If necessary, if required, when needed, where needed, etc. \[Commas\]
+### Before a subordinate conjunction \[Commas\]
+
+A subordinate clause[^subordinate_clause] will not form a complete sentence. It will instead make a reader want additional information to finish the thought. The examples of subordinate conjunctions[^subordinate_conjunction] are *after, although, as, because, before, even if, even, though, if, in order that, once, since, so that, than, that, though, unless*, etc.
+
+The rule is to use a comma after the subordinate clause rather than before the subordinate conjunction:
+
+> *Jonathon spent his class time reading comic books since his average was a 45 one week before final exams.*
+
+> *Since Jonathon’s class average was a 45 one week before final exams, he spent his class time reading comic books.*
+
+[^subordinate_clause]: Subordinate clause \= придаточное (зависимое) предложение.
+
+[^subordinate_conjunction]: Subordinate conjunction \= подчинительный союз.
+
+[*Source*](https://prowritingaid.com/grammar/1000080/Should-I-use-a-comma-before-a-subordinate-conjunction)
+
+***
+
+### Words and Phrases \[Commas\]
+
+#### If necessary, if required, when needed, where needed, etc. \[Commas\]
 
 At the start of a sentence, use a comma after *if necessary, if needed, when required, where needed*, etc.:
 
@@ -180,7 +202,7 @@ However, use commas to set off these expressions if they interrupt the sentence 
 
 ***
 
-### Furthermore, however, moreover, therefore \[Commas\]
+#### Furthermore, however, moreover, therefore \[Commas\]
 
 1. At the beginning of a sentence: put a comma after these words (some modern writers are now dropping the comma).
 
@@ -214,7 +236,7 @@ However, use commas to set off these expressions if they interrupt the sentence 
 
 ***
 
-### But \[Commas\]
+#### But \[Commas\]
 
 | Comma position | Put in a comma | Case explanation | Example |
 |----------------|----------------|-------------|---------|
@@ -234,9 +256,9 @@ However, use commas to set off these expressions if they interrupt the sentence 
 
 ***
 
-### Otherwise \[Commas\]
+#### Otherwise \[Commas\]
 
-#### Conjunction (connector of clauses)
+##### Conjunction (connector of clauses)
 
 > *He couldn’t see her; **otherwise**, he would have to tell her the truth.* (~~, otherwise,~~: two independent clauses are connected. Always place a comma after *otherwise* here.[^otherwise])
 
@@ -246,7 +268,7 @@ However, use commas to set off these expressions if they interrupt the sentence 
 
 We can use <ins>;</ins> or <ins>.</ins> interchangeably. Many people use <ins>;</ins> when they want the sentence to continue a little longer, while <ins>.</ins> are useful for breaking up sentences or long bodies of text.
 
-#### Part of a parenthetical element[^parenthetical]
+##### Part of a parenthetical element[^parenthetical]
 
 [^parenthetical]: Parenthetical element = поясняющая конструкция
 
@@ -254,7 +276,7 @@ We can use <ins>;</ins> or <ins>.</ins> interchangeably. Many people use <ins>;<
 
 > *You shouldn’t have said that to Mr. Hampshire, **otherwise** known as Paul.*
 
-#### Adjective
+##### Adjective
 
 Many people avoid using this old-fashioned structure today because it’s not too particular with its meaning.
 
@@ -272,7 +294,7 @@ Many people avoid using this old-fashioned structure today because it’s not to
 
 ***
 
-### Such as \[Commas\]
+#### Such as \[Commas\]
 
 | Type of a phrase | Comma before *such as* | Example | Explanation |
 |------------------|------------------------|---------|-------------|
