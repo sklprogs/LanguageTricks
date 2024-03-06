@@ -116,10 +116,6 @@
 
 [close \| exit \| quit](#close--exit--quit)
 
-[comma before a subordinate conjunction](#comma-before-a-subordinate-conjunction)
-
-[comma use with if necessary \| if required \| when needed, etc.](#comma-use-with-if-necessary--if-required--when-needed-etc)
-
 [common \| general](#common--general)
 
 [common knowledge \| common sense](#common-knowledge--common-sense)
@@ -273,8 +269,6 @@
 [for + gerund \| to + infinitive](#for--gerund--to--infinitive)
 
 [~~for more detail~~ \| for more details \| in detail \| ~~in details~~ \| in more detail \| ~~in more details~~](#for-more-detail--for-more-details--in-detail--in-details--in-more-detail--in-more-details)
-
-[furthermore, however, moreover, therefore (punctuation)](#furthermore-however-moreover-therefore-punctuation)
 
 [gain \| profit](#gain--profit)
 
@@ -3415,30 +3409,6 @@ simply don’t need *as*.
 
 ***
 
-## comma use with if necessary \| if required \| when needed, etc.
-
-At the start of a sentence, use a comma after ***if necessary \| if
-needed \| when required \| where needed*** \| etc.
-
-> ***If necessary**, I can stay up late to complete the work.*
-
-Normally, you don’t need a comma in mid-sentence or at the end of the
-sentence:
-
-> *I will help you **if needed**.*
-
-However, use commas to set off these expressions if they interrupt the
-sentence flow or provide an explanatory note:
-
-> *Use disposable gloves, **when required**, before handling food.*
-
-> *The British army needs women and men who are willing to fight for their
-  country, **if necessary**.*
-
-[*Source*](https://www.pristineword.com/comma-if-necessary/)
-
-***
-
 ## affirm \| confirm
 
 **Affirm**&mdash;to validate or state positively, to assert as valid and to
@@ -4307,27 +4277,6 @@ particularly useful and important only to me.
 
 ***
 
-## comma before a subordinate conjunction
-
-A subordinate clause will not form a complete sentence. It will instead make a
-reader want additional information to finish the thought. The examples of
-subordinate conjunctions are ***after, although, as, because, before, even if,
-even, though, if, in order that, once, since, so that, than, that, though,
-unless***, etc.
-
-The rule is to use a comma after the subordinate clause rather than before the
-subordinate conjunction:
-
-> *Jonathon spent his class time reading comic books since his average was a 45
-  one week before final exams.*
-
-> *Since Jonathon’s class average was a 45 one week before final exams, he
-  spent his class time reading comic books.*
-
-[*Source*](https://prowritingaid.com/grammar/1000080/Should-I-use-a-comma-before-a-subordinate-conjunction)
-
-***
-
 ## load \| the load
 
 ***Load*** can be countable or uncountable. If you are talking about a specific
@@ -4909,46 +4858,6 @@ apparently by mere chance:
 [2](https://forum.wordreference.com/threads/coincidentally-vs-incidentally.3338234/),
 [3](https://www.dictionary.com/browse/coincidence),
 [4](https://theknowledgeburrow.com/is-it-coincidentally-or-coincidently/)*
-
-***
-
-## furthermore, however, moreover, therefore (punctuation)
-
-1. At the beginning of a sentence: put a comma after these words (some modern
-   writers are now dropping the comma).
-
-   > ***Therefore**, we will proceed with the order.*
-
-   > ***However**, we still have hope.*
-
-   1.1. A traditional rule stated that ***however*** meaning *nevertheless*
-        should not be used at the beginning of a sentence. Most style guides
-        consider this rule old-fashioned.
-
-2. Use a semicolon and comma to introduce a new independent clause (a group of
-   words that contains a subject and verb and expresses a complete thought.)
-
-   > *She always meets her deadlines; **furthermore**, her work is good.*
-
-   > *We plan to stay for another year; **however**, Peter is leaving now.*
-
-   2.1. Some writers are now treating *however, therefore, moreover* and
-        *furthermore* as conjunctions and just using a comma:
-   
-     > *We plan to stay for another year, **however** Peter is leaving now.*
-
-   2.2. You can also use ***however*** as a conjunction to mean *by whatever
-        means*:
-   
-     > *I don’t care **however** you do it, just get it done.*
-
-3. As intensifiers or for emphasis:
-
-   > *You can, **therefore**, do whatever you like.*
-
-   > *The vegetables, **furthermore**, are good for you.*
-
-[*Source*](https://onlinewritingtraining.com.au/however-therefore-furthermore/)
 
 ***
 
@@ -6384,14 +6293,6 @@ To eliminate ambiguity, use *The time allotted for* or *The time allowed for*.
 ## usage
 
 countable or uncountable
-
-[*Source*]()
-
-***
-
-## comma before which
-
-grammar-monster.com
 
 [*Source*]()
 
