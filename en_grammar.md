@@ -18,13 +18,14 @@
 - [but](#but-commas)
 - [furthermore](#furthermore-however-moreover-therefore-commas)
 - [however](#furthermore-however-moreover-therefore-commas)
-- [if necessary](#if-necessary-if-required-when-needed-etc-commas)
-- [if required](#if-necessary-if-required-when-needed-etc-commas)
+- [if necessary](#if-necessary-if-required-when-needed-where-needed-etc-commas)
+- [if required](#if-necessary-if-required-when-needed-where-needed-etc-commas)
 - [moreover](#furthermore-however-moreover-therefore-commas)
 - [otherwise](#otherwise-commas)
 - [therefore](#furthermore-however-moreover-therefore-commas)
 - [such as](#such-as-commas)
-- [when needed](#if-necessary-if-required-when-needed-etc-commas)
+- [when needed](#if-necessary-if-required-when-needed-where-needed-etc-commas)
+- [where needed](#if-necessary-if-required-when-needed-where-needed-etc-commas)
 
 [Formatting Punctuation Marks](#formatting-punctuation-marks)
 
@@ -159,7 +160,7 @@ We don’t need the definite article before one item/user/table/mode that can be
 
 ## Commas
 
-### If necessary, if required, when needed, etc. \[Commas\]
+### If necessary, if required, when needed, where needed, etc. \[Commas\]
 
 At the start of a sentence, use a comma after *if necessary, if needed, when required, where needed*, etc.:
 
