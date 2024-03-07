@@ -520,7 +520,7 @@
 
 ## scan method \= scanning method
 
-![scanning_method.svg](../../resources/charts/scanning_method.svg)
+![scanning_method.svg](../resources/charts/scanning_method.svg)
 
 *Sources: [1](https://english.stackexchange.com/questions/103082/scan-method-vs-scanning-method/104238#104238),
 [2](https://books.google.com/ngrams/graph?content=scan+method%2Cscanning+method&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
