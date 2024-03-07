@@ -440,6 +440,8 @@
 
 [salary \| wages](#salary--wages)
 
+[scan method \= scanning method](#scan-method--scanning-method)
+
 [schema \| schemata \| scheme](#schema--schemata--scheme)
 
 [separated by \| separated with](#separated-by--separated-with)
@@ -513,6 +515,15 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## scan method \= scanning method
+
+![scanning_method.svg](../../resources/charts/scanning_method.svg)
+
+*Sources: [1](https://english.stackexchange.com/questions/103082/scan-method-vs-scanning-method/104238#104238),
+[2](https://books.google.com/ngrams/graph?content=scan+method%2Cscanning+method&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
 
 ***
 
