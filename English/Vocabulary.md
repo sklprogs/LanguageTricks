@@ -224,8 +224,6 @@
 
 [effort at \| effort in \| effort of \| effort to](#effort-at--effort-in--effort-of--effort-to)
 
-[em dash \| en dash \| hyphen \| minus \| three-em dash \| two-em dash](#em-dash--en-dash--hyphen--minus--three-em-dash--two-em-dash)
-
 [emulator \| simulator](#emulator--simulator)
 
 [enable \| ensure](#enable--ensure)
@@ -4194,91 +4192,6 @@ parents providing for their family:
 [1](https://web.archive.org/web/20230602005445/https://learningenglish.voanews.com/a/everyday-grammar-prepositions-provide/2701412.html),
 [2](https://ell.stackexchange.com/questions/30456/provide-vs-provide-for),
 [3](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/provide+with+explanation)*
-
-***
-
-## em dash \| en dash \| hyphen \| minus \| three-em dash \| two-em dash
-
-***Дефис*** (hyphen, -) употребляют в середине слова:
-
-- в составных словах:
-
-  > *three-em dash*
-
-  > *off-white shirt*
-
-- для обозначения переносов
-
-- для отделения корней от префиксов и суффиксов:
-
-  > *co-worker*
-
-- в названиях:
-
-  > *Tay-Sachs disease*
-
-***Минус*** (minus, −) может быть немного длиннее дефиса. Употребляется для
-обозначения отрицательного числа или операции вычитания. В зависимости от
-шрифта можно заменить дефисом или коротким тире.
-
-***Короткое тире*** (En dash, &ndash;) равно по ширине букве n в прописном или
-строчном варианте, в зависимости от шрифта. В некоторых шрифтах может быть
-длиннее или короче.
-
-- обозначение диапазонов:
-
-  > *June 18&ndash;20*
-
-- акцент на контрасте или взаимоотношении между двумя объектами:
-
-  > *New York&ndash;London flight*
-
-  > *Radical&ndash;Unionist coalition*
-
-  > *mother&ndash;daughter relationship*
-
-- некоторые предпочитают заменять этим знаком длинное тире.
-
-***Длинное тире*** (Em dash, &mdash;) равно по ширине букве *m* в прописном или
-строчном варианте, а в некоторых шрифтах и длиннее. Если поставить рядом
-несколько длинных тире, они образуют сплошную линию.
-
-- вместо запятой, двоеточия или скобок. Разница в том, что длинное тире
-  обозначает более длинную и выразительную интонационную паузу.
-
-- отделение источника в цитатах:
-
-  > *In matters of grave importance, style, not sincerity, is the vital thing.*
-   &mdash; Oscar Wilde
-
-- в американском английском длинное тире не принято отделять пробелами от
-  предшествующего слова:
-
-  > *A flock of sparrows&mdash;some of them juveniles&mdash;alighted and sang.*
-
-- иногда вместо длинного тире используют короткое тире с пробелом:
-
-  > *A flock of sparrows &ndash; some of them juveniles &ndash; alighted and
-    sang.*
-
-**Двойное длинное тире** (two-em dash, &mdash;&mdash;) &mdash; два длинных
-тире, поставленных рядом без пробела. Указывает, что часть слова опущена.
-Обычно так обозначают имена либо ругательства:
-
-> *Mr. L&mdash;&mdash; told Ms. T&mdash;&mdash; that he would be
-  d&mdash;&mdash;d if he invited her out again.*
-
-**Тройное длинное тире** (three-em dash, &mdash;&mdash;&mdash;) &mdash; три
-длинных тире, поставленных рядом без пробела. Указывает, что опущено
-(повторяющееся) слово. Особенно актуален этот знак для библиографий, где
-тройное тире вместо имени автора означает, что автор тот же, что и для
-предыдущего пункта в списке.
-
-Правила не универсальны. Иногда в сложносоставных прилагательных употребляют
-короткое тире вместо дефиса или не отделяют длинное тире от текста пробелами
-даже в британском варианте английского.
-
-[*Источник*](https://ru.just-translate-it.com/eshhe-nemnogo-o-tire/)
 
 ***
 
