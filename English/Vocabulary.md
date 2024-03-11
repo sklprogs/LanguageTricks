@@ -292,6 +292,8 @@
 
 [~~in free time~~ \| in my free time](#in-free-time--in-my-free-time)
 
+[In that case \| In this case](#in-that-case-in-this-case)
+
 [in the list \| on the list](#in-the-list--on-the-list)
 
 [in the photo \| in the picture \| on the postcard \| on the screen](#in-the-photo--in-the-picture--on-the-postcard--on-the-screen)
@@ -515,6 +517,23 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## In that case \| In this case
+
+| Phrase | Pattern | Explanation | Example |
+|--------|---------|-------------|---------|
+| **In this case** | “in this example” | Develops a point or idea from the previous situation | *Sometimes our printer runs out of ink. **In this case**, we must write out all of our forms manually.* |
+| | | | *Sometimes my manager makes me work late. **In this case**, I got away with it, but I might not be so lucky again.* |
+| **In that case** | “if that’s the situation, I’ll do this instead” | Presents a counterpoint after receiving news that changes your mind | *\- We’re closing soon.* |
+| | | | *\- In that case, I’ll hurry up.* |
+
+***In this case,*** is much more likely to be seen in writing because it’s used to elaborate points or to expand on a situation.
+
+You should place a comma after both phrases. They work as their own separate clause to introduce a new idea, meaning they need a comma to help break up the flow of the sentence.
+
+[*Source*](https://grammarhow.com/in-that-case-vs-in-this-case)
 
 ***
 
