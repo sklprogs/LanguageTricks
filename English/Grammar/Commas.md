@@ -13,7 +13,7 @@
   - [perhaps](#perhaps)
     - [at the beginning of a sentence](#perhaps-at-the-beginning-of-a-sentence)
     - [in the middle of a sentence](#perhaps-in-the-middle-of-a-sentence)
-    - [at the end of a nonessential clause](#comma-after-perhaps-at-the-end-of-a-nonessential-clause)
+    - [at the end of a nonessential clause](#perhaps-at-the-end-of-a-nonessential-clause)
   - [therefore](#furthermore-however-moreover-therefore)
   - [such as](#such-as)
   - [when needed](#if-necessary-if-required-when-needed-where-needed-etc)
@@ -54,13 +54,13 @@ As is the case with *perhaps* at the beginning of a sentence, you would only use
 
 In this sentence, setting *perhaps* apart with the commas makes it sound a little more sinister and serious.
 
-#### Comma after *perhaps* at the end of a nonessential clause
+#### *Perhaps* at the end of a nonessential clause
 
 If *perhaps* comes at the end of a nonessential element in a sentence, it should be followed by a comma.
 
 A nonessential element is a part of the sentence that could be removed without changing its meaning:
 
-> *She was talking to some people, <ins>her neighbors **perhaps**</ins>, when we drove up.*
+> *She was talking to some people, <ins>her neighbors</ins> **perhaps**, when we drove up.*
 
 [*Source*](https://web.archive.org/web/20240311160041/https://linguaholic.com/linguablog/comma-after-perhaps)
 
