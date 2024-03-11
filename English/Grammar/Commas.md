@@ -6,6 +6,8 @@
   - [however](#furthermore-however-moreover-therefore)
   - [if necessary](#if-necessary-if-required-when-needed-where-needed-etc)
   - [if required](#if-necessary-if-required-when-needed-where-needed-etc)
+  - [In that case,](#in-that-case)
+  - [In this case,](#in-this-case)
   - [moreover](#furthermore-however-moreover-therefore)
   - [otherwise](#otherwise)
   - [therefore](#furthermore-however-moreover-therefore)
@@ -15,6 +17,15 @@
 - [Before a subordinate conjunction](#before-a-subordinate-conjunction)
 
 ## Words and Phrases
+
+### In that case,
+### In this case,
+
+You should place a comma after both phrases. They work as their own separate clause to introduce a new idea, meaning they need a comma to help break up the flow of the sentence.
+
+See also [In that case \| In this case](../Vocabulary.md#in-that-case--in-this-case)
+
+***
 
 ### except
 
