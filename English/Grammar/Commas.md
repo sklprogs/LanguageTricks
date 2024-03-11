@@ -1,6 +1,7 @@
 # Index \[Commas in English\]
 - [Words and phrases](#words-and-phrases)
   - [but](#but)
+  - [except](#except)
   - [furthermore](#furthermore-however-moreover-therefore)
   - [however](#furthermore-however-moreover-therefore)
   - [if necessary](#if-necessary-if-required-when-needed-where-needed-etc)
@@ -13,25 +14,32 @@
   - [where needed](#if-necessary-if-required-when-needed-where-needed-etc)
 - [Before a subordinate conjunction](#before-a-subordinate-conjunction)
 
-## Before a subordinate conjunction
+## Words and Phrases
 
-A subordinate clause[^subordinate_clause] will not form a complete sentence. It will instead make a reader want additional information to finish the thought. The examples of subordinate conjunctions[^subordinate_conjunction] are *after, although, as, because, before, even if, even, though, if, in order that, once, since, so that, than, that, though, unless*, etc.
+### except
 
-The rule is to use a comma after the subordinate clause rather than before the subordinate conjunction:
+If the word after *except* is a noun or pronoun or if it’s another preposition, particularly *for*, then *except* is a preposition.
 
-> *Jonathon spent his class time reading comic books since his average was a 45 one week before final exams.*
+If *except* is acting as a preposition in a parenthetical phrase <ins>in the middle</ins> of a sentence, you should use commas. But if it’s a prepositional phrase[^prepositional_phrase] <ins>at the end</ins> of a sentence, no comma is necessary.
 
-> *Since Jonathon’s class average was a 45 one week before final exams, he spent his class time reading comic books.*
 
-[^subordinate_clause]: Subordinate clause \= придаточное (зависимое) предложение.
+| Role | Comma Before | Example |
+|------|--------------|---------|
+| Conjunction | \+ | *I wanted to go shopping, **except** I was broke until payday.* |
+| | | *The teacher always lets students have their phones out, **except** <ins>when</ins> the principal is in the room.* |
+| | | *I go for a run every day, **except** Sundays and holidays, to work out and relieve stress.* |
+| | | *She invited everyone in the class, **except** Joan and me, to her birthday party.* |
+| Preposition | \- | *She tried everything from the buffet **except** the fish.* |
+| | | *She had fond memories of all her visits to the lake **except** <ins>for</ins> the time she was bitten by leeches.* |
+| | | *The library opens at 10 a.m. every day **except** Thursdays.*
 
-[^subordinate_conjunction]: Subordinate conjunction \= подчинительный союз.
+[^parenthetical_element]: Parenthetical element \= поясняющая конструкция.
 
-[*Source*](https://prowritingaid.com/grammar/1000080/Should-I-use-a-comma-before-a-subordinate-conjunction)
+[^prepositional_phrase]: Prepositional phrase \= предложный оборот.
+
+[*Source*](https://prowritingaid.com/comma-before-except)
 
 ***
-
-## Words and Phrases
 
 ### If necessary, if required, when needed, where needed, etc.
 
@@ -153,5 +161,23 @@ Many people avoid using this old-fashioned structure today because it’s not to
 | Non-restrictive | \+ | *I’m a big fan of frozen desserts, **such as** popsicles and ice cream.* | *such as* can be omitted: \= *I’m a big fan of frozen desserts.* |
 
 [*Source*](https://prowritingaid.com/such-as-comma)
+
+***
+
+## Before a subordinate conjunction
+
+A subordinate clause[^subordinate_clause] will not form a complete sentence. It will instead make a reader want additional information to finish the thought. The examples of subordinate conjunctions[^subordinate_conjunction] are *after, although, as, because, before, even if, even, though, if, in order that, once, since, so that, than, that, though, unless*, etc.
+
+The rule is to use a comma after the subordinate clause rather than before the subordinate conjunction:
+
+> *Jonathon spent his class time reading comic books since his average was a 45 one week before final exams.*
+
+> *Since Jonathon’s class average was a 45 one week before final exams, he spent his class time reading comic books.*
+
+[^subordinate_clause]: Subordinate clause \= придаточное (зависимое) предложение.
+
+[^subordinate_conjunction]: Subordinate conjunction \= подчинительный союз.
+
+[*Source*](https://prowritingaid.com/grammar/1000080/Should-I-use-a-comma-before-a-subordinate-conjunction)
 
 ***
