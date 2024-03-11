@@ -527,7 +527,7 @@
 | **In this case** | “in this example” | Develops a point or idea from the previous situation | *Sometimes our printer runs out of ink. **In this case**, we must write out all of our forms manually.* |
 | | | | *Sometimes my manager makes me work late. **In this case**, I got away with it, but I might not be so lucky again.* |
 | **In that case** | “if that’s the situation, I’ll do this instead” | Presents a counterpoint after receiving news that changes your mind | *\- We’re closing soon.* |
-| | | | *\- In that case, I’ll hurry up.* |
+| | | | *\- **In that case**, I’ll hurry up.* |
 
 ***In this case,*** is much more likely to be seen in writing because it’s used to elaborate points or to expand on a situation.
 
