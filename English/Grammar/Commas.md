@@ -23,7 +23,7 @@
 
 You should place a comma after both phrases. They work as their own separate clause to introduce a new idea, meaning they need a comma to help break up the flow of the sentence.
 
-See also [In that case \| In this case](../Vocabulary.md#in-that-case--in-this-case)
+*See also [In that case \| In this case](../Vocabulary.md#in-that-case--in-this-case) \[Vocabulary\]*
 
 ***
 
