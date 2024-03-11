@@ -10,6 +10,10 @@
   - [In this case,](#in-this-case)
   - [moreover](#furthermore-however-moreover-therefore)
   - [otherwise](#otherwise)
+  - [perhaps](#perhaps)
+    - [at the beginning of a sentence](#perhaps-at-the-beginning-of-a-sentence)
+    - [in the middle of a sentence](#perhaps-in-the-middle-of-a-sentence)
+    - [at the end of a nonessential clause](#comma-after-perhaps-at-the-end-of-a-nonessential-clause)
   - [therefore](#furthermore-however-moreover-therefore)
   - [such as](#such-as)
   - [when needed](#if-necessary-if-required-when-needed-where-needed-etc)
@@ -17,6 +21,48 @@
 - [Before a subordinate conjunction](#before-a-subordinate-conjunction)
 
 ## Words and Phrases
+
+### Perhaps
+
+#### *Perhaps* at the beginning of a sentence
+
+Although *perhaps* can be an introductory word, it generally does not require a comma:
+
+> ***Perhaps** Emma is not feeling well today.* \[*Perhaps* refers to not knowing how Emma is feeling.\]
+
+The comma indicates that there is a slight pause for some reason:
+
+> *\- Will Emma be joining us on the tour?*
+
+> *\- **Perhaps**, she is not feeling well today.* \[When it is a response to a yes\/no question, separating *perhaps* with a comma means that the speaker knows that Emma is definitely not feeling well today. *Perhaps* refers to not knowing whether Emma will be joining them.\]
+
+In more formal writing, in order to avoid a comma splice or sentence fragment, that reply should really be two separate sentences: 
+
+> ***Perhaps** she won’t. She is not feeling well today.*
+
+#### *Perhaps* in the middle of a sentence
+
+Usually, you would not use a comma after *perhaps* in the middle of a sentence:
+
+> *They are **perhaps** a little too eager to convince us that they won’t damage the car.*
+
+As is the case with *perhaps* at the beginning of a sentence, you would only use a comma around *perhaps* in the middle of a sentence if you needed to emphasize it for some reason:
+
+> *Many people have suggested that, **perhaps**, you are lying to us.*
+
+In this sentence, setting *perhaps* apart with the commas makes it sound a little more sinister and serious.
+
+#### Comma after *perhaps* at the end of a nonessential clause
+
+If *perhaps* comes at the end of a nonessential element in a sentence, it should be followed by a comma.
+
+A nonessential element is a part of the sentence that could be removed without changing its meaning:
+
+> *She was talking to some people, <ins>her neighbors **perhaps**</ins>, when we drove up.*
+
+[*Source*](https://web.archive.org/web/20240311160041/https://linguaholic.com/linguablog/comma-after-perhaps)
+
+***
 
 ### In that case,
 ### In this case,
@@ -27,7 +73,7 @@ You should place a comma after both phrases. They work as their own separate cla
 
 ***
 
-### except
+### Except
 
 If the word after *except* is a noun or pronoun or if it’s another preposition, particularly *for*, then *except* is a preposition.
 
