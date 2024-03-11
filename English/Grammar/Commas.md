@@ -14,6 +14,10 @@
     - [at the beginning of a sentence](#perhaps-at-the-beginning-of-a-sentence)
     - [in the middle of a sentence](#perhaps-in-the-middle-of-a-sentence)
     - [at the end of a nonessential clause](#perhaps-at-the-end-of-a-nonessential-clause)
+  - [possibly](#possibly)
+    - [at the beginning of a sentence](#possibly-at-the-beginning-of-a-sentence)
+    - [in the middle of a sentence](#possibly-in-the-middle-of-a-sentence)
+    - [at the end of a sentence](#possibly-at-the-end-of-a-sentence)
   - [therefore](#furthermore-however-moreover-therefore)
   - [such as](#such-as)
   - [when needed](#if-necessary-if-required-when-needed-where-needed-etc)
@@ -21,6 +25,39 @@
 - [Before a subordinate conjunction](#before-a-subordinate-conjunction)
 
 ## Words and Phrases
+
+### Possibly
+
+#### *Possibly* at the beginning of a sentence
+
+> *\- Will he come?*
+> *\- **Possibly** not.*
+
+> *\- Do you think this skirt might be too small for her?*
+> *\- **Possibly**, she has put on weight.*
+
+> ***Possibly**, the use of subject-based ratings leads to lower response rates than the use of investigator’s ratings.*
+
+#### *Possibly* in the middle of a sentence
+
+> *There are four, **possibly** five people who have been injured in the explosion.*
+
+> *He can’t **possibly** have drunk all that on his own!*
+
+> *The need for flexibility will be particularly important as economic conditions change, and **possibly** economic paradigms.*
+
+> *After that period, new parasitoids would emerge and **possibly** reduce further the spread of the virus.*
+
+> *However, they have not found favour with many workers, **possibly** due to complexity and expense.*
+
+#### *Possibly* at the end of a sentence
+
+> *\- Have another chocolate.*
+> *\- No, really, I <ins>couldn’t</ins> possibly.* \[politely refusing offers\]
+
+[*Source*](https://dictionary.cambridge.org/dictionary/english/possibly)
+
+***
 
 ### Perhaps
 
