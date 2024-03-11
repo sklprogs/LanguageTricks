@@ -34,7 +34,9 @@ The comma indicates that there is a slight pause for some reason:
 
 > *\- Will Emma be joining us on the tour?*
 
-> *\- **Perhaps**, she is not feeling well today.* \[When it is a response to a yes\/no question, separating *perhaps* with a comma means that the speaker knows that Emma is definitely not feeling well today. *Perhaps* refers to not knowing whether Emma will be joining them.\]
+> *\- **Perhaps**, she is not feeling well today.* \[*Perhaps* refers to not knowing whether Emma will be joining them.\]
+
+When it is a response to a yes\/no question, separating *perhaps* with a comma means that the speaker knows that Emma is definitely not feeling well today.
 
 In more formal writing, in order to avoid a comma splice or sentence fragment, that reply should really be two separate sentences: 
 
