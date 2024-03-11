@@ -292,7 +292,7 @@
 
 [~~in free time~~ \| in my free time](#in-free-time--in-my-free-time)
 
-[In that case \| In this case](#in-that-case-in-this-case)
+[In that case \| In this case](#in-that-case--in-this-case)
 
 [in the list \| on the list](#in-the-list--on-the-list)
 
