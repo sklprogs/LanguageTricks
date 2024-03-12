@@ -6653,12 +6653,6 @@ See also [divide \| separate](#divide--separate)
 
 ***
 
-## embed in \| embed into \| ~~embed to~~
-
-[*Source*]()
-
-***
-
 ## and so on \| etc.
 
 [*Source*]()

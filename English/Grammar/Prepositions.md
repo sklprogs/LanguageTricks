@@ -2,6 +2,29 @@
 
 [incorporate ∅ \| in \| into \| with \| within](#incorporate-∅--in--into--with--within)
 
+[embed in \| into \| ~~to~~](#embed-in--into--to)
+
+***
+
+## embed in \| into \| ~~to~~
+
+**Embed**:
+
+| Pattern | Explanation | Example |
+| --- | --- | --- |
+| *be **embedded in\/into** sth* | to put a computer or piece of electronic equipment inside a product in order to control the way it operates | *Microprocessors are **embedded into** products such as cars, fridges, traffic lights, and industrial equipment.* |
+| ***embed** sth **in** sth* | to include text, sound, images, video, etc. in a computer file, email message, or on a website | *When you upload a video, you get a code to **embed** it **in** your site.* |
+| ***embed*** (US also *imbed*) | to fix something firmly into a substance | *They are attached to the vein walls and **embedded in** carbonates just like the carbonaceous filaments.* |
+| | | *So the pattern for the “hero” was something thoroughly **embedded in** his social world.* |
+| | | *The development of scientific management was **embedded in** political and moral controversy from the beginning.* |
+| | | *Technological knowledge can flow within the economic system **embedded in** new companies.* |
+| | | *We will show that our language is at least as expressive by showing how to **embed** several value-oriented secure languages **in** our account.* |
+
+![incorporate_into.svg](../../resources/charts/incorporate_into.svg)
+
+*Sources: [1](https://dictionary.cambridge.org/dictionary/english/embed),
+[2](https://books.google.com/ngrams/graph?content=embed+in%2Cembed+into&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
+
 ***
 
 ## incorporate ∅ \| in \| into \| with \| within
