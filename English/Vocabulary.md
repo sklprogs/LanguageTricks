@@ -534,13 +534,13 @@ In formal AmE, ***that*** is used in restrictive clauses, and ***which*** is use
 
 > *These pairs of pants, **which** no longer fit me, should be given away.*
 
-Note that in restrictive clauses, sometimes *that* can be omitted, especially in informal settings:
-
-> *Any book you like must be good.*
-
 If the relative clause contains information that is not essential to the meaning of the sentence, and is also preceded by a comma, a dash, or parenthesis, it’s probably nonrestrictive, so use ***which***. If not, odds are it’s restrictive, so use ***that***.
 
 However, the above distinction is a rule of formal AmE, and is not as strictly observed in BrE or in informal English of any type.
+
+Note that in restrictive clauses, sometimes *that* can be omitted, especially in informal settings:
+
+> *Any book you like must be good.*
 
 *See also [that \| who](#that--who)*
 
