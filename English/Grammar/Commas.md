@@ -22,9 +22,28 @@
   - [such as](#such-as)
   - [when needed](#if-necessary-if-required-when-needed-where-needed-etc)
   - [where needed](#if-necessary-if-required-when-needed-where-needed-etc)
+  - [which](#which)
 - [Before a subordinate conjunction](#before-a-subordinate-conjunction)
 
 ## Words and Phrases
+
+### Which
+
+| Role | Comma Before | Example |
+| Introduces a nonrestrictive phrase | \+ | *Everyone loved Robin’s video, **which** she had filmed in her garage.* |
+| | | *Jeff’s new car, **which** is less than a month old, already started leaking oil.* |
+| Part of a prepositional phrase (*as of which*, *in which* or *on which*) | \- | *The envelope <ins>in</ins> **which** the letter arrived had no return address.* |
+| | | *We heard three speeches, the longest of **which** went for an hour.* |
+| | | *The platform <ins>on</ins> **which** we built our program is very stable.* |
+| Introduces an indirect question | \- | *I asked Sam **which** bus I should take.* |
+
+If a phrase is restrictive instead of nonrestrictive, it means that you can’t take it out of the sentence without changing the meaning. Restrictive phrases are usually introduced by ***that*** instead of *which*, especially in AmE:
+
+> *Cars **that** Jeff buys always seem to break down.*
+
+[*Source*](https://web.archive.org/web/20231118131035/https://www.grammarly.com/blog/comma-before-which)
+
+***
 
 ### Possibly
 
