@@ -580,8 +580,8 @@ If you are embedding a map or a chart on your website, it may be more beneficial
 
 ***Embedding software*** within another system can provide a more customized experience for the user, but can also require more development time and resources. ***Integrating software*** can be a quicker and easier solution, but may not provide the same level of customization. It’s important to consider the specific needs and goals of the integration when making this decision.
 
-*See also [embed in \| into \| ~~to~~](../Grammar/Prepositions.md#embed-in--into--to),
-[incorporate ∅ \| in \| into \| with \| within](../Grammar/Prepositions.md#incorporate---in--into--with--within)*
+*See also [embed in \| into \| ~~to~~](./Grammar/Prepositions.md#embed-in--into--to),
+[incorporate ∅ \| in \| into \| with \| within](./Grammar/Prepositions.md#incorporate---in--into--with--within)*
 
 *Sources: [1](https://thecontentauthority.com/blog/embed-vs-integrate),
 [2](https://thecontentauthority.com/blog/incorporate-vs-integrate)*
