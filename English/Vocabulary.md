@@ -224,6 +224,8 @@
 
 [effort at \| effort in \| effort of \| effort to](#effort-at--effort-in--effort-of--effort-to)
 
+[e.g. \| for example \| for instance \| such as](#eg--for-example--for-instance--such-as)
+
 [emulator \| simulator](#emulator--simulator)
 
 [enable \| ensure](#enable--ensure)
@@ -517,6 +519,31 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## e.g. \| for example \| for instance \| such as
+
+Can be used interchangeably to illustrate a point. Using them alternately is a great way to avoid repetition:
+
+> *I love watching sitcoms, **for example** Friends, The Office, and Big Bang Theory.*
+
+> *I’m keen on fantasy literature, **for instance** Harry Potter, The Lord of the Rings, and The Chronicles of Narnia.*
+
+> *I can’t stand green vegetables, **such as** broccoli, spinach, or brussels sprouts.*
+ 
+> *Set an immediate timeline, **e.g.**, three weeks, to learn all this.*
+
+> *WIPA will launch a 12-week choral program for up to 60 older adults that explores musical themes (**e.g.**, Jazz, Rock, Great American Songbook, Classical) chosen by the participants.*
+
+Microsoft Style Guide suggests replacing ***e.g.*** with *for example*, *such as*, or *like*.
+
+![such_as.svg][../resources/charts/such_as.svg]
+
+*Sources: [1](https://www.myenglishteacher.eu/blog/difference-between-for-example-for-instance-and-such-as),
+[2](https://books.google.com/ngrams/graph?content=e.g.%2C+for+example%2C+for+instance%2C+such+as&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
+[3](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/e/eg),
+[4](https://www.merriam-webster.com/grammar/ie-vs-eg-abbreviation-meaning-usage-difference)*
 
 ***
 
