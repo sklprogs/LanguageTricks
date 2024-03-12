@@ -14,16 +14,25 @@
 | --- | --- | --- |
 | *be **embedded in\/into** sth* | to put a computer or piece of electronic equipment inside a product in order to control the way it operates | *Microprocessors are **embedded into** products such as cars, fridges, traffic lights, and industrial equipment.* |
 | ***embed** sth **in** sth* | to include text, sound, images, video, etc. in a computer file, email message, or on a website | *When you upload a video, you get a code to **embed** it **in** your site.* |
+| | | *The video was **embedded** on the homepage of the website.* |
+| | | *The tweet was **embedded in** the blog post.* |
+| | | *She **embedded** a link to the article **in** her email.* |
 | ***embed*** (US also *imbed*) | to fix something firmly into a substance | *They are attached to the vein walls and **embedded in** carbonates just like the carbonaceous filaments.* |
 | | | *So the pattern for the “hero” was something thoroughly **embedded in** his social world.* |
 | | | *The development of scientific management was **embedded in** political and moral controversy from the beginning.* |
 | | | *Technological knowledge can flow within the economic system **embedded in** new companies.* |
 | | | *We will show that our language is at least as expressive by showing how to **embed** several value-oriented secure languages **in** our account.* |
 
+An **embed code**[^embed_code] is essentially a piece of HTML code created by third-party websites for users to copy and paste into their own websites. The code would then show the media or feed on the user’s website as it shows on the original site.
+
+[^embed_code]: Embed code \= код для вставки; встроенный код.
+
 ![embed_in.svg](../../resources/charts/embed_in.svg)
 
 *Sources: [1](https://dictionary.cambridge.org/dictionary/english/embed),
-[2](https://books.google.com/ngrams/graph?content=embed+in%2Cembed+into&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
+[2](https://thecontentauthority.com/blog/imbed-vs-embed),
+[3](https://thecontentauthority.com/blog/embed-vs-integrate),
+[4](https://books.google.com/ngrams/graph?content=embed+in%2Cembed+into&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
 
 ***
 

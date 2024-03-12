@@ -226,6 +226,10 @@
 
 [e.g. \| for example \| for instance \| such as](#eg--for-example--for-instance--such-as)
 
+[embed \= imbed](#embed--imbed)
+
+[embed \| incorporate \| integrate](#embed--incorporate--integrate)
+
 [emulator \| simulator](#emulator--simulator)
 
 [enable \| ensure](#enable--ensure)
@@ -521,6 +525,66 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## embed \= imbed
+
+![embed_imbed.svg](../resources/charts/embed_imbed.svg)
+
+![embed_imbed_1900.svg](../resources/charts/embed_imbed_1900.svg)
+
+*See also [embed in \| into \| ~~to~~](../Grammar/Prepositions.md#embed-in--into--to)*
+
+*Sources: [1](https://thecontentauthority.com/blog/imbed-vs-embed),
+[2](https://www.dictionary.com/e/imbed-vs-embed),
+[3](https://books.google.com/ngrams/graph?content=embed%2Cimbed&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
+
+***
+
+## embed \| incorporate \| integrate
+
+***Embed*** refers to the process of inserting a third-party element into a website or application, such as a video, image, or social media post. The embedded element retains its original source and functionality, but is displayed within the host website or application. This is commonly done through the use of HTML code or an [embed code](../Grammar/Prepositions.md#embed-in--into--to) provided by the third-party source.
+
+***Incorporate*** refers to the act of bringing together or combining different elements into a single entity.
+
+***Integrate*** also refers to the act of combining different elements, but with a focus on creating a seamless whole. It implies a deeper level of integration than *incorporate*, where the different parts are not just brought together, but are also made to work together in a cohesive way.
+
+> *We need to **incorporate** ~~integrate~~ this new employee into our team*.
+
+> *We need to **integrate** ~~incorporate~~ this new software into our system.*
+
+> *The company plans to **incorporate** sustainable practices into their business model.*
+
+> *It’s important to **incorporate** feedback from customers into product development.*
+
+In general, ***embedding*** means to place something within another thing, while ***integrating*** means to combine multiple things into a single system.
+
+For example, when you ***embed*** a YouTube video on your website, you’re essentially placing the video player within your page. On the other hand, if you ***integrate*** your website with a payment processing system, you’re combining two separate systems into one cohesive whole.
+
+| Embed | Integrate |
+| --- | --- |
+| Inserting a third-party element | Combining two or more elements |
+| Retains original source and functionality | Creates a cohesive and unified whole |
+| Displayed within the host website or application | Allows different systems to communicate with each other |
+
+Rather than embedding a large PDF file on your website, it may be better to provide a link to the file instead.
+
+### Website Design
+
+***Embedding content*** within a webpage can provide a seamless experience for the user, as the content appears to be part of the page itself. However, this can also slow down the loading time of the page. On the other hand, ***integrating content*** can provide faster loading times, but may not appear as seamless to the user. It’s important to consider the overall design and functionality of the website when making this decision.
+
+If you are embedding a map or a chart on your website, it may be more beneficial for users to see the content in a larger format rather than integrated into the page. This allows users to interact with the content more easily and see more details.
+
+### Software Integration
+
+***Embedding software*** within another system can provide a more customized experience for the user, but can also require more development time and resources. ***Integrating software*** can be a quicker and easier solution, but may not provide the same level of customization. It’s important to consider the specific needs and goals of the integration when making this decision.
+
+*See also [embed in \| into \| ~~to~~](../Grammar/Prepositions.md#embed-in--into--to),
+[incorporate ∅ \| in \| into \| with \| within](../Grammar/Prepositions.md#incorporate---in--into--with--within)*
+
+*Sources: [1](https://thecontentauthority.com/blog/embed-vs-integrate),
+[2](https://thecontentauthority.com/blog/incorporate-vs-integrate)*
 
 ***
 
