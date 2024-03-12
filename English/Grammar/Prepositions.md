@@ -23,6 +23,6 @@ The distinction between motion and place is swiftly disappearing under the influ
 
 *Sources: [1](https://forum.wordreference.com/threads/incorporate-in-into.3044642),
 [2](https://dictionary.cambridge.org/dictionary/english/incorporate),
-[3]([https://books.google.com/ngrams/graph?content=incorporate+into%2Cincorporate+in%2Cincorporate+within&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3](https://books.google.com/ngrams/graph?content=incorporate+into%2Cincorporate+in%2Cincorporate+with%2Cincorporate+within&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)https://books.google.com/ngrams/graph?content=incorporate+into%2Cincorporate+in%2Cincorporate+with%2Cincorporate+within&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
+[3](https://books.google.com/ngrams/graph?content=incorporate+into%2Cincorporate+in%2Cincorporate+with%2Cincorporate+within&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
 
 ***
