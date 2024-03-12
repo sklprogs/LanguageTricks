@@ -538,7 +538,7 @@ Can be used interchangeably to illustrate a point. Using them alternately is a g
 
 Microsoft Style Guide suggests replacing ***e.g.*** with *for example*, *such as*, or *like*.
 
-![such_as.svg][../resources/charts/such_as.svg]
+![such_as.svg](../resources/charts/such_as.svg)
 
 *Sources: [1](https://www.myenglishteacher.eu/blog/difference-between-for-example-for-instance-and-such-as),
 [2](https://books.google.com/ngrams/graph?content=e.g.%2C+for+example%2C+for+instance%2C+such+as&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
