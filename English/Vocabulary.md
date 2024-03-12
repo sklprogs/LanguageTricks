@@ -1331,12 +1331,15 @@ Carries an echo of situation:
 
 ![transmitted_message.svg](../resources/charts/transmitted_message.svg)
 
+![transferred_files.svg](../resources/charts/transferred_files.svg)
+
 *See also* [transfer \| transit](#transfer--transit)
 
 *Sources: [1](https://www.usingenglish.com/forum/threads/transfer-vs-transmission.35828/),
 [2](https://english.stackexchange.com/questions/273292/transfer-vs-transmit),
 [3](https://thecontentauthority.com/blog/transfer-vs-transmit),
-[4](https://books.google.com/ngrams/graph?content=transferred+message%2Ctransmitted+message&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
+[4](https://books.google.com/ngrams/graph?content=transferred+message%2Ctransmitted+message&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
+[5](https://books.google.com/ngrams/graph?content=transferred+files%2Ctransmitted+files&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
 
 ***
 
