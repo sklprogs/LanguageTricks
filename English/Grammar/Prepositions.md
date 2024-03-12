@@ -1,6 +1,6 @@
 # Prepositions
 
-[incorporate ∅ \| in \| into \| with \| within](#incorporate-∅--in--into--with--within)
+[incorporate ∅ \| in \| into \| with \| within](#incorporate--in--into--with--within)
 
 [embed in \| into \| ~~to~~](#embed-in--into--to)
 
