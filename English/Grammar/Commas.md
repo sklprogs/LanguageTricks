@@ -30,6 +30,7 @@
 ### Which
 
 | Role | Comma Before | Example |
+| --- | --- | --- |
 | Introduces a nonrestrictive phrase | \+ | *Everyone loved Robin’s video, **which** she had filmed in her garage.* |
 | | | *Jeff’s new car, **which** is less than a month old, already started leaking oil.* |
 | Part of a prepositional phrase (*as of which*, *in which* or *on which*) | \- | *The envelope <ins>in</ins> **which** the letter arrived had no return address.* |
