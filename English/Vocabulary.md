@@ -1329,11 +1329,14 @@ Carries an echo of situation:
 | Example | - *You **transmit** a file from one computer to another over a local network.* | - *You **transfer** files from a USB drive to your computer.* |
 |         | - *The virus can **transmit** from one computer to another through a shared network.* | - *Please **transfer** the documents to my email address.* |
 
+![transmitted_message.svg](../resources/charts/transmitted_message.svg)
+
 *See also* [transfer \| transit](#transfer--transit)
 
 *Sources: [1](https://www.usingenglish.com/forum/threads/transfer-vs-transmission.35828/),
 [2](https://english.stackexchange.com/questions/273292/transfer-vs-transmit),
-[3](https://thecontentauthority.com/blog/transfer-vs-transmit)*
+[3](https://thecontentauthority.com/blog/transfer-vs-transmit),
+[4](https://books.google.com/ngrams/graph?content=transferred+message%2Ctransmitted+message&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
 
 ***
 
