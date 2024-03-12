@@ -534,7 +534,7 @@
 
 ![embed_imbed_1900.svg](../resources/charts/embed_imbed_1900.svg)
 
-*See also [embed in \| into \| ~~to~~](../Grammar/Prepositions.md#embed-in--into--to)*
+*See also [embed in \| into \| ~~to~~](./Grammar/Prepositions.md#embed-in--into--to)*
 
 *Sources: [1](https://thecontentauthority.com/blog/imbed-vs-embed),
 [2](https://www.dictionary.com/e/imbed-vs-embed),
@@ -544,7 +544,7 @@
 
 ## embed \| incorporate \| integrate
 
-***Embed*** refers to the process of inserting a third-party element into a website or application, such as a video, image, or social media post. The embedded element retains its original source and functionality, but is displayed within the host website or application. This is commonly done through the use of HTML code or an [embed code](../Grammar/Prepositions.md#embed-in--into--to) provided by the third-party source.
+***Embed*** refers to the process of inserting a third-party element into a website or application, such as a video, image, or social media post. The embedded element retains its original source and functionality, but is displayed within the host website or application. This is commonly done through the use of HTML code or an [embed code](./Grammar/Prepositions.md#embed-in--into--to) provided by the third-party source.
 
 ***Incorporate*** refers to the act of bringing together or combining different elements into a single entity.
 
