@@ -32,15 +32,14 @@
 
 | Role | Comma position | Explanation | Example |
 | --- | --- | --- | --- |
-| Starts a sentence | After | It’s used as an introductory clause and is immediately followed by a new example, so a comma is required. | *There are many ways we could achieve this. **For example**, you could look into cleaner ways to get energy.* |
-| Part of a mid-sentence clause | Before and after | It breaks up the flow of the sentence nicely, which allows someone to take a brief pause or breath before covering what the example is going to be. | *I can, for example, provide you with some services that will help you generate plenty of traffic to your site.* |
-| | | | *She will, **for example**, need to be able to do this without guidance next time.* |
-| | | | *I can do whatever it takes and will, **for example**, make the most of the situation when it arises again.* |
-| | | | *There are plenty of ways I can sort this out. I could, **for example**, make it all go away by paying them off for what they know!* |
-| In parenthesis | After (optional) | It’s very rare to come across *for example* without a comma. However, it is still acceptable. It mainly depends on style choices. Some people think it’s harder to read when the comma is included after *for example*, which is why it’s dropped. | *If you didn’t think it was wise (**for example** because someone told you otherwise), then I’ll be happy to learn more about your thoughts.* |
+| Starts a sentence | After | It’s used as an introductory clause and is immediately followed by a new example, so a comma is required. | *There are many ways we could achieve this. **For example,** you could look into cleaner ways to get energy.* |
+| Part of a mid-sentence clause | Before and after | It breaks up the flow of the sentence nicely, which allows someone to take a brief pause or breath before covering what the example is going to be. | *I can, **for example,** provide you with some services that will help you generate plenty of traffic to your site.* |
+| | | | *She will, **for example,** need to be able to do this without guidance next time.* |
+| | | | *I can do whatever it takes and will, **for example,** make the most of the situation when it arises again.* |
+| | | | *There are plenty of ways I can sort this out. I could, **for example,** make it all go away by paying them off for what they know!* |
+| In parentheses | After (optional) | It’s very rare to come across *for example* without a comma. However, it is still acceptable. It mainly depends on style choices. Some people think it’s harder to read when the comma is included after *for example*, which is why it’s dropped. | *If you didn’t think it was wise (**for example** because someone told you otherwise), then I’ll be happy to learn more about your thoughts.* |
 
-The traditional pattern is using commas after *for example*, but this is somewhat of a stylistic choice.
-*While it is common practice to do recalibration between trials, **for example(,)** in reading research, this is not always possible or feasible.*
+The traditional pattern is using commas after *for example*, but this is somewhat of a stylistic choice:
 
 | \# | Example |
 |----|---------|
