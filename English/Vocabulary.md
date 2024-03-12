@@ -480,6 +480,8 @@
 
 [~~switch into~~ \| switch to](#switch-into--switch-to)
 
+[that \| which](#that--which)
+
 [that \| who](#that--who)
 
 [think about \| think of](#think-about--think-of)
@@ -519,6 +521,30 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## that \| which
+
+In formal AmE, ***that*** is used in restrictive clauses, and ***which*** is used in nonrestrictive clauses:
+
+> *Do you remember the name of the book **that** Carla recommended to us?*
+
+> *The book, **which** I found at a dusty used bookstore, was a real page-turner.*
+
+> *These pairs of pants, **which** no longer fit me, should be given away.*
+
+Note that in restrictive clauses, sometimes *that* can be omitted, especially in informal settings:
+
+> *Any book you like must be good.*
+
+If the relative clause contains information that is not essential to the meaning of the sentence, and is also preceded by a comma, a dash, or parenthesis, it’s probably nonrestrictive, so use ***which***. If not, odds are it’s restrictive, so use ***that***.
+
+However, the above distinction is a rule of formal AmE, and is not as strictly observed in BrE or in informal English of any type.
+
+*See also [that \| who](#that--who)*
+
+[*Source*](https://www.dictionary.com/e/that-vs-which)
 
 ***
 
@@ -5908,6 +5934,8 @@ As generic word usage, you would say *on a platform*, not *in a platform*. Sayin
 Although references to people are considered a group or class, you’d still use ***who*** here just as you would for an individual person:
 
 > *My readers are the kind of people **who** enjoy reading fantasy romance books.*
+
+*See also [that \| which](#that--which)*
 
 [*Source*](https://grammarist.com/usage/that-who)
 
