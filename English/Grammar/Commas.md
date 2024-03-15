@@ -337,6 +337,8 @@ Eliminates ambiguity:
 
 > *...sugar, beef and veal<b>,</b> and milk products*
 
+Notwithstanding the reference to Oxford, the serial comma is more frequently used in AmE than in BrE, where it is generally used only when necessary to prevent confusion.
+
 The Oxford comma is a useful tool for the poor writer who knows not what he is doing. Is there any way you can say it so that the unintentional humorous ambiguity is removed? So here the Oxford comma rescues the sentence, but it’s not a good sentence to begin with. The following examples are not ambiguous:
 
 > *I would like to thank Ayn Rand, my parents and God.*
