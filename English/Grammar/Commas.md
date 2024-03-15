@@ -25,6 +25,9 @@
   - [where needed](#if-necessary-if-required-when-needed-where-needed-etc)
   - [which](#which)
 - [Before a subordinate conjunction](#before-a-subordinate-conjunction)
+- [Serial comma \(aka Oxford comma or Harvard comma\)](#serial-comma-aka-oxford-comma-or-harvard-comma)
+
+***
 
 ## Words and Phrases
 
@@ -323,5 +326,41 @@ The rule is to use a comma after the subordinate clause rather than before the s
 [^subordinate_conjunction]: Subordinate conjunction \= подчинительный союз.
 
 [*Source*](https://prowritingaid.com/grammar/1000080/Should-I-use-a-comma-before-a-subordinate-conjunction)
+
+***
+
+## Serial comma (aka Oxford comma or Harvard comma)
+
+Eliminates ambiguity:
+
+> *I would like to thank my parents, Ayn Rand**,** and God.*
+
+> *...sugar, beef and veal**,** and milk products*
+
+The Oxford comma is a useful tool for the poor writer who knows not what he is doing. Is there any way you can say it so that the unintentional humorous ambiguity is removed? So here the Oxford comma rescues the sentence, but it’s not a good sentence to begin with. The following examples are not ambiguous:
+
+> *I would like to thank Ayn Rand, my parents and God.*
+
+> *I would like to thank God, Ayn Rand and my parents.*
+
+The serial comma creates ambiguity by implying that Ayn Rand is God:
+
+> *I would like to thank God, Ayn Rand, and my parents.*
+
+### Oxford Comma Dispute
+
+The case began in 2014, when three truck drivers sued the dairy for what they said was four years’ worth of overtime pay they had been denied. Maine law requires time-and-a-half pay for each hour worked after 40 hours, but it carved out exemptions for:
+
+```
+The canning, processing, preserving, freezing, drying, marketing, storing, packing for shipment or distribution of:
+(1) Agricultural produce;
+(2) Meat and fish products; and
+(3) Perishable foods.
+```
+The court ruled that it was not clear whether the law exempted the distribution of the three categories that followed, or if it exempted packing for the shipment or distribution of them. Had there been a comma after “shipment,” the meaning would have been clear.
+
+*Sources: [1](https://grammar.fandom.com/wiki/Oxford_comma),
+[2](https://www.uoc.edu/portal/en/servei-linguistic/convencions/british-american-english/punctuation/index.html),
+[3](https://www.nytimes.com/2018/02/09/us/oxford-comma-maine.html)*
 
 ***
