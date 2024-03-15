@@ -333,9 +333,9 @@ The rule is to use a comma after the subordinate clause rather than before the s
 
 Eliminates ambiguity:
 
-> *I would like to thank my parents, Ayn Rand**,** and God.*
+> *I would like to thank my parents, Ayn Rand<ins>,</ins> and God.*
 
-> *...sugar, beef and veal**,** and milk products*
+> *...sugar, beef and veal<ins>,</ins> and milk products*
 
 The Oxford comma is a useful tool for the poor writer who knows not what he is doing. Is there any way you can say it so that the unintentional humorous ambiguity is removed? So here the Oxford comma rescues the sentence, but it’s not a good sentence to begin with. The following examples are not ambiguous:
 
