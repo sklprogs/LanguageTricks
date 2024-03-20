@@ -116,6 +116,8 @@
 
 [class \| lesson](#class--lesson)
 
+[click \| press \| tap](#click--press--tap)
+
 [close \| exit \| quit](#close--exit--quit)
 
 [common \| general](#common--general)
@@ -525,6 +527,19 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## click \| press \| tap
+
+**Click**&mdash;to activate a link or button on a computer screen with a mouse.
+
+**Press**&mdash;to press keys on a keyboard.
+
+**Tap**&mdash;to directly touch a touch sensitive screen.
+
+*Sources: [1](https://rephrasely.com/usage/click-vs-press),
+[2](https://english.stackexchange.com/questions/192523/click-tap-or-click-or-tap)*
 
 ***
 
