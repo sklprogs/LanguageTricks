@@ -97,30 +97,30 @@ Historically, a lot of compounds follow the pattern of entering English as open 
 *baseball* looks like an affectation.
 
 1. When a compound that is usually left open is used to modify another noun, that compound will usually take a hyphen:
-   > *a video-game collector*  
-   > *a food-truck business*  
-   > *a pet-store employee*  
-   > *made-for-TV movie*  
-   > *over-the-counter medication*  
+   > *a video-game collector*
+   > *a food-truck business*
+   > *a pet-store employee*
+   > *made-for-TV movie*
+   > *over-the-counter medication*
    Even in these instances, the hyphen is sometimes dropped: *real estate agent* or *health care legislation*.
 1. Hyphens also work well with compound adjectives that end in a participle:
-   > *a funny-looking badger*  
-   > *a sun-bleached roof*  
-   > *fire-roasted tomatoes*  
-   > *a money-grubbing thief*  
+   > *a funny-looking badger*
+   > *a sun-bleached roof*
+   > *fire-roasted tomatoes*
+   > *a money-grubbing thief*
 1. Hyphens are not used with *-ly* adverbs:
-   > *lightly salted peanuts*  
-   > *distantly related cousins*  
-   > *a poorly written sentence*  
+   > *lightly salted peanuts*
+   > *distantly related cousins*
+   > *a poorly written sentence*
 1. Hyphens are generally not used with suffixes:
-   > *threefold*  
-   > *knockout*  
-   > *pushover*  
+   > *threefold*
+   > *knockout*
+   > *pushover*
    But you need them occasionally for clarity. Hyphens are often used with suffixes, such as *–able*, *-elect*, *-like* and *-wise*:
-   > *president-elect*  
-   > *money-wise*  
+   > *president-elect*
+   > *money-wise*
 1. Hyphenate fractions and numbers when they are written in full:
-   > *three-tenths*  
+   > *three-tenths*
    > *twenty-five people*
 
 ![baseball_bat.svg](../resources/charts/baseball_bat.svg)
