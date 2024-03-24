@@ -62,6 +62,8 @@
 
 [await \| wait](#await--wait)
 
+[backward \= backwards](backward--backwards)
+
 [be different \= differ](#be-different--differ)
 
 [before \| till \| until](#before--till--until)
@@ -205,6 +207,8 @@
 [dosage \| dose](#dosage--dose)
 
 [dot \| full stop \| period \| point](#dot--full-stop--period--point)
+
+[downward \= downwards](downward--downwards)
 
 [drag \| lift \| thrust](#drag--lift--thrust)
 
@@ -460,6 +464,8 @@
 
 [signalling \| signaling](#signalling--signaling)
 
+[skyward \= skywards](skyward--skywards)
+
 [sniffing \| snooping \| spoofing](#sniffing--snooping--spoofing)
 
 [solution for \| solution of \| solution to](#solution-for--solution-of--solution-to)
@@ -485,6 +491,8 @@
 [suggest \| suggest that](#suggest--suggest-that)
 
 [~~switch into~~ \| switch to](#switch-into--switch-to)
+
+[toward \= towards](toward--towards)
 
 [that \| which](#that--which)
 
@@ -527,6 +535,27 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## toward \= towards
+## backward \= backwards
+## downward \= downwards
+## skyward \= skywards
+
+| Usage | Form |
+| --- | --- |
+| AmE | *upward, downward, skyward, toward* |
+| BrE | *upwards, downwards, skywards, towards* |
+
+> *She wrote her name **backward\/backwards** in her notebook.*
+
+Only ***backward*** is considered standard as an adjective; ***backwards*** is often used in <ins>casual</ins> speech and writing:
+
+> *The kid wearing the **backwards** hat is the one that broke the mailbox.* \[casual\]
+
+*Sources: [1](https://writingexplained.org/backward-or-backwards-difference),
+[2](https://www.thesaurus.com/e/grammar/backward-or-backwards)*
 
 ***
 
