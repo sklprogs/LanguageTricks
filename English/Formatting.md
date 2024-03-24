@@ -118,6 +118,12 @@ Historically, a lot of compounds follow the pattern of entering English as open 
 
 ![video_game_market.svg](../resources/charts/video_game_market.svg)
 
+![website.svg](../resources/charts/website.svg)
+
+![web_page.svg](../resources/charts/web_page.svg)
+
+![web_page_history.png](../resources/charts/web_page_history.png)
+
 Even in these instances, the hyphen is sometimes dropped: *real estate agent* or *health care legislation*.
 
 ![real_estate_agent.svg](../resources/charts/real_estate_agent.svg)
@@ -134,7 +140,7 @@ Even in these instances, the hyphen is sometimes dropped: *real estate agent* or
 
 > *a money-grubbing thief*
 
-3. Hyphens are not used with -ly adverbs:
+3. Hyphens are not used with *-ly* adverbs:
 
 > *lightly salted peanuts*
 
@@ -169,7 +175,9 @@ But you need them occasionally for clarity. Hyphens are often used with suffixes
 [5](https://books.google.com/ngrams/graph?content=video-game+store%2Cvideo+game+store%2Cvideogame+store&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
 [6](https://books.google.com/ngrams/graph?content=video-game+consoles%2Cvideo+game+consoles%2Cvideogame+consoles&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
 [7](https://books.google.com/ngrams/graph?content=video-game+market%2Cvideo+game+market%2Cvideogame+market&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
-[8](https://books.google.com/ngrams/graph?content=real+estate+agent%2Creal-estate+agent%2Crealestate+agent&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
-[9](https://books.google.com/ngrams/graph?content=health+care+legislation%2Chealth-care+legislation%2Chealthcare+legislation&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
+[8](https://books.google.com/ngrams/graph?content=web+site%2Cweb-site%2Cwebsite&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
+[9](https://books.google.com/ngrams/graph?content=web+page%2Cweb-page%2Cwebpage&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
+[10](https://books.google.com/ngrams/graph?content=real+estate+agent%2Creal-estate+agent%2Crealestate+agent&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
+[11](https://books.google.com/ngrams/graph?content=health+care+legislation%2Chealth-care+legislation%2Chealthcare+legislation&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
 
 ***
