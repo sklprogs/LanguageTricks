@@ -98,15 +98,15 @@ Historically, a lot of compounds follow the pattern of entering English as open 
 
 1. When a compound that is usually left open is used to modify another noun, that compound will usually take a hyphen:
 
-> *a video-game collector*
+   > *a video-game collector*
 
-> *a food-truck business*
+   > *a food-truck business*
 
-> *a pet-store employee*
+   > *a pet-store employee*
 
-> *made-for-TV movie*
+   > *made-for-TV movie*
 
-> *over-the-counter medication*
+   > *over-the-counter medication*
 
 ![baseball_bat.svg](../resources/charts/baseball_bat.svg)
 
@@ -132,41 +132,41 @@ Even in these instances, the hyphen is sometimes dropped: *real estate agent* or
 
 2. Hyphens also work well with compound adjectives that end in a participle:
 
-> *a funny-looking badger*
+   > *a funny-looking badger*
 
-> *a sun-bleached roof*
+   > *a sun-bleached roof*
 
-> *fire-roasted tomatoes*
+   > *fire-roasted tomatoes*
 
-> *a money-grubbing thief*
+   > *a money-grubbing thief*
 
 3. Hyphens are not used with *-ly* adverbs:
 
-> *lightly salted peanuts*
+   > *lightly salted peanuts*
 
-> *distantly related cousins*
+   > *distantly related cousins*
 
-> *a poorly written sentence*
+   > *a poorly written sentence*
 
 4. Hyphens are generally not used with suffixes:
 
-> *threefold*
+   > *threefold*
 
-> *knockout*
+   > *knockout*
 
-> *pushover*
+   > *pushover*
 
 But you need them occasionally for clarity. Hyphens are often used with suffixes, such as *–able*, *-elect*, *-like* and *-wise*:
 
-> *president-elect*
+   > *president-elect*
 
-> *money-wise*
+   > *money-wise*
 
 5. Hyphenate fractions and numbers when they are written in full:
 
-> *three-tenths*
+   > *three-tenths*
 
-> *twenty-five people*
+   > *twenty-five people*
 
 *Sources: [1](https://www.merriam-webster.com/grammar/hyphen-rules-open-closed-compound-words),
 [2](https://www.onlinegrammar.com.au/hyphens-and-their-usage),
