@@ -97,16 +97,31 @@ Historically, a lot of compounds follow the pattern of entering English as open 
 *baseball* looks like an affectation.
 
 1. When a compound that is usually left open is used to modify another noun, that compound will usually take a hyphen:
-
-> *a video-game collector*
-
-> *a food-truck business*
-
-> *a pet-store employee*
-
-> *made-for-TV movie*
-
-> *over-the-counter medication*
+   > *a video-game collector*
+   > *a food-truck business*
+   > *a pet-store employee*
+   > *made-for-TV movie*
+   > *over-the-counter medication*
+   Even in these instances, the hyphen is sometimes dropped: *real estate agent* or *health care legislation*.
+1. Hyphens also work well with compound adjectives that end in a participle:
+   > *a funny-looking badger*
+   > *a sun-bleached roof*
+   > *fire-roasted tomatoes*
+   > *a money-grubbing thief*
+1. Hyphens are not used with *-ly* adverbs:
+   > *lightly salted peanuts*
+   > *distantly related cousins*
+   > *a poorly written sentence*
+1. Hyphens are generally not used with suffixes:
+   > *threefold*
+   > *knockout*
+   > *pushover*
+   But you need them occasionally for clarity. Hyphens are often used with suffixes, such as *–able*, *-elect*, *-like* and *-wise*:
+   > *president-elect*
+   > *money-wise*
+1. Hyphenate fractions and numbers when they are written in full:
+   > *three-tenths*
+   > *twenty-five people*
 
 ![baseball_bat.svg](../resources/charts/baseball_bat.svg)
 
@@ -118,49 +133,11 @@ Historically, a lot of compounds follow the pattern of entering English as open 
 
 ![video_game_market.svg](../resources/charts/video_game_market.svg)
 
-Even in these instances, the hyphen is sometimes dropped: *real estate agent* or *health care legislation*.
-
 ![real_estate_agent.svg](../resources/charts/real_estate_agent.svg)
 
 ![health_care_legislation.svg](../resources/charts/health_care_legislation.svg)
 
-2. Hyphens also work well with compound adjectives that end in a participle:
-
-> *a funny-looking badger*
-
-> *a sun-bleached roof*
-
-> *fire-roasted tomatoes*
-
-> *a money-grubbing thief*
-
-3. Hyphens are not used with -ly adverbs:
-
-> *lightly salted peanuts*
-
-> *distantly related cousins*
-
-> *a poorly written sentence*
-
-4. Hyphens are generally not used with suffixes:
-
-> *threefold*
-
-> *knockout*
-
-> *pushover*
-
-But you need them occasionally for clarity. Hyphens are often used with suffixes, such as *–able*, *-elect*, *-like* and *-wise*:
-
-> *president-elect*
-
-> *money-wise*
-
-5. Hyphenate fractions and numbers when they are written in full:
-
-> *three-tenths*
-
-> *twenty-five people*
+![website.svg](../resources/charts/website.svg)
 
 *Sources: [1](https://www.merriam-webster.com/grammar/hyphen-rules-open-closed-compound-words),
 [2](https://www.onlinegrammar.com.au/hyphens-and-their-usage),
@@ -170,6 +147,7 @@ But you need them occasionally for clarity. Hyphens are often used with suffixes
 [6](https://books.google.com/ngrams/graph?content=video-game+consoles%2Cvideo+game+consoles%2Cvideogame+consoles&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
 [7](https://books.google.com/ngrams/graph?content=video-game+market%2Cvideo+game+market%2Cvideogame+market&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
 [8](https://books.google.com/ngrams/graph?content=real+estate+agent%2Creal-estate+agent%2Crealestate+agent&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
-[9](https://books.google.com/ngrams/graph?content=health+care+legislation%2Chealth-care+legislation%2Chealthcare+legislation&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
+[9](https://books.google.com/ngrams/graph?content=health+care+legislation%2Chealth-care+legislation%2Chealthcare+legislation&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
+[10](https://books.google.com/ngrams/graph?content=web+site%2Cweb-site%2Cwebsite&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
 
 ***
