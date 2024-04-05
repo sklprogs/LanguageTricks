@@ -1,5 +1,6 @@
 # Index \[Commas in English\]
 - [Words and phrases](#words-and-phrases)
+  - [and so on](and-so-on)
   - [but](#but)
   - [except](#except)
   - [for example](#for-example)
@@ -30,6 +31,14 @@
 ***
 
 ## Words and Phrases
+
+### And so on
+
+***And so on*** does not require a comma in front of it, see the [Oxford comma](#serial-comma-aka-oxford-comma-or-harvard-comma).
+
+[*Source*](https://hinative.com/questions/22592134)
+
+***
 
 ### For example
 
