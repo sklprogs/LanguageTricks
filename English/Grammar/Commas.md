@@ -1,6 +1,6 @@
 # Index \[Commas in English\]
 - [Words and phrases](#words-and-phrases)
-  - [and so on](and-so-on)
+  - [and so on](#and-so-on)
   - [but](#but)
   - [except](#except)
   - [for example](#for-example)
