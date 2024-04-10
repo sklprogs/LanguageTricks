@@ -144,6 +144,8 @@
 
 [condition for \| condition of](#condition-for--condition-of)
 
+[configuration \| options \| preferences \| properties \| setting](#configuration--options--preferences--properties--setting)
+
 [conjurer \| illusionist \| magician](#conjurer--illusionist--magician)
 
 [connect to \| connect with](#connect-to--connect-with)
@@ -535,6 +537,23 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## configuration \| options \| preferences \| properties \| setting
+
+**Setting** usually refers to a single variable that can be changed. **Configuration** refers to a group of settings.
+
+For example, changing the brightness of a phone screen is a ***setting***. But all of the settings you have chosen on your phone make up its ***configuration***.
+
+***Properties*** represent the characteristics of a single component or object in the application.
+
+***Options*** alter global ways that the application works (for example, options of a user interface) and can be disabled.
+
+***Settings*** and ***Preferences*** change qualities of how the application works. The implication here is to change, not disable.
+
+*Sources: [1](https://hinative.com/questions/1653320#answer-4076441),
+[2](https://stackoverflow.com/questions/2074384/options-settings-properties-configuration-preferences-when-and-why)*
 
 ***
 
