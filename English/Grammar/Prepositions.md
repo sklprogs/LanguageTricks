@@ -122,6 +122,138 @@
 
 [substitute for \| substitute with](#substitute-for--substitute-with)
 
+[suggest \| suggest that](#suggest--suggest-that)
+
+[~~switch into~~ \| switch to](#switch-into--switch-to)
+
+[think about \| think of](#think-about--think-of)
+
+[throw at \| throw to](#throw-at--throw-to)
+
+[time for \| time of \| time (required) for \| time (required) to](#time-for--time-of--time-required-for--time-required-to)
+
+[~~transform to~~ \| transform into](#transform-to--transform-into)
+
+[translate into \| translate to](#translate-into--translate-to)
+
+***
+
+## translate into \| translate to
+
+- When you speak about the target language of translation, the usual preposition is ***into***:
+
+  > *She translated the text **into** German.*
+
+- When pointing out that one phrase is a translation of another, i.e. when the target is a phrase rather than a language, ***to*** is used instead:
+
+  > *“Good morning!” was translated **to** “Guten Morgen!”.*
+
+- Both variants are common for the pattern *from a language (in)to another language*:
+
+  > *She translated the text <ins>from</ins> English **into** German.*
+
+  > *She translated the text <ins>from</ins> English **to** German.* (also possible)
+
+While the variant with ***into*** is more common in English literature (and is also usually the the variant described in dictionaries and therefore the more recommendable variant for non-native speakers), the variant with ***to*** seems to be more common on the Internet and in everyday usage.
+
+- Note that when “language to language” is used as an adjective phrase, the situation is reversed, and only ***to*** is common:
+
+  > *We need to prepare an English-**to**-French translation.*
+
+[*Source*](https://jakubmarian.com/translate-to-vs-translate-into-in-english)
+
+***
+
+## ~~transform to~~ \| transform into
+
+[*Source*](https://english.stackexchange.com/questions/515071/using-to-instead-of-into-in-transform-a-into-b/515073#515073)
+
+***
+
+## time for \| time of \| time (required) for \| time (required) to
+
+*The **time of** the exam* will usually mean *the time appointed for the exam to start*:
+
+> *The **time of** the exam is 2:00 pm.*
+
+*The **time for** the exam* means one of the following:
+
+- the time appointed for the exam to start;
+- the time allotted for the exam to last;
+- the time actually spent on the exam.
+
+To eliminate ambiguity, use *The time allotted for* or *The time allowed for*.
+
+~~*The required time of/for assembling*~~ is at best poor style. Much better is *the **time required to** assemble/**for** assembling*.
+
+***time to***: *time to + \<infinitive\>*
+
+***time for***: *time for + \<gerund\> (..-ing)*
+
+*Sources: [1](https://forum.wordreference.com/threads/time-for-vs-time-of.2721884/),
+[2](https://english.stackexchange.com/questions/85010/time-of-something-time-for-something-or-something-else),
+[3](https://ell.stackexchange.com/questions/87485/time-to-or-time-for)*
+
+***
+
+## throw at \| throw to
+
+**Throw at**&mdash;to throw something so that it HITS the target.
+
+**Throw to** can mean two things:
+
+1. If throwing to a person, it is usually so that they can catch the object.
+1. If throwing to something else, it is so that the object ends up near the target.
+
+[*Source*](https://hinative.com/ru/questions/209548)
+
+***
+
+## think about \| think of
+
+In many contexts, ***think of*** and ***think about*** are effectively interchangeable.
+
+> *I’m **thinking of\/about** looking for a new job.*
+
+In other contexts, to **think of** something means you’re at least aware of the thing, but may not have given it a great deal of consideration. If you ***think about*** something this normally implies more focused or extended attention.
+
+> *I never **thought of** doing that!* \[That possibility never crossed my mind.\]
+
+> *Have you **thought about** my birthday present?* \[Have you considered\/decided what to get me?\]
+
+[*Source*](https://english.stackexchange.com/questions/71003/difference-between-think-of-and-think-about?noredirect=1)
+
+***
+
+## ~~switch into~~ \| switch to
+
+![switch_to.svg](../resources/charts/switch_to.svg)
+
+*Sources: [1](https://forum.wordreference.com/threads/switch-into-to.3219784),
+[2](https://books.google.com/ngrams/graph?content=switch+into%2Cswitch+to&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
+
+***
+
+## suggest \| suggest that
+
+> *He **suggested going** to Glastonbury.*
+
+> *He **suggested my going** to Glastonbury.*
+
+> *I **suggested visiting** your grandmother.*
+
+> *I **suggested your visiting** your grandmother.*
+
+> *He **suggests that** I should go to New York.*
+
+> *He **suggests that** I go to New York.*
+
+> *He **suggests I should go** to New York.*
+
+> *He **suggests I go** to New York.*
+
+[*Source*](https://www.ef.com/wwen/english-resources/english-grammar/using-suggest)
+
 ***
 
 ## substitute for \| substitute with
