@@ -6,6 +6,22 @@
 
 [stop + -ing \| stop to + infinitive](#stop---ing--stop-to--infinitive)
 
+[try + -ing \| try to](#try---ing--try-to)
+
+***
+
+## try + -ing \| try to
+
+**Try + -ing** means that you are trying something as an experiment, especially as a possible solution to a problem, to see if it works or not:
+
+> *Have you **tried turning** the computer off and on again?*
+
+**Try + to + infinitive** means that something is difficult but you are making an effort to do it:
+
+> *I’m **trying to learn** Japanese but it’s very difficult.*
+
+[*Source*](https://learnenglish.britishcouncil.org/grammar/intermediate-to-upper-intermediate/verbs-followed-by-ing-or-by-to-infinitive-2)
+
 ***
 
 ## stop + -ing \| stop to + infinitive
