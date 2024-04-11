@@ -47,7 +47,9 @@ When we refer to the ways in which society in general goes forward and improves 
 
 Generally, you can use either.
 
-If you say *Money is **part** of the American Dream*, you mean that both ideas are strongly linked together. If you said *Money is **a part** of the American Dream*, it would mean that money is only a part of the American Dream. You would focus on just one part as opposed to the rest. The second solution is grammatically correct but seems awkward as it would be difficult to find a context in which it fits.
+If you say *Money is **part** of the American Dream*, you mean that both ideas are strongly linked together.
+
+If you said *Money is **a part** of the American Dream*, it would mean that money is only a part of the American Dream. You would focus on just one part as opposed to the rest. The second solution is grammatically correct but seems awkward as it would be difficult to find a context in which it fits.
 
 *See also* [part \| a part](#part--a-part)
 
