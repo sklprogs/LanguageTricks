@@ -1,5 +1,8 @@
 # Index \[Singular or plural in English\]
-[none][#none]
+
+[none](#none)
+
+***
 
 ## None
 
