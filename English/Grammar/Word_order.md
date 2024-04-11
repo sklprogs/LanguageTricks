@@ -2,7 +2,19 @@
 
 [also can \| can also](#also-can--can-also)
 
+[can be further \| can further be](#can-be-further--can-further-be)
+
 [yet](#yet)
+
+***
+
+## can be further \| can further be
+
+**Can further be**&mdash;pragmatically marked *furthermore* (in addition).
+
+**Can be further**&mdash;underlining what goes afterwards.
+
+[*Source*](https://english.stackexchange.com/questions/414029/can-further-be-vs-can-be-further)
 
 ***
 
