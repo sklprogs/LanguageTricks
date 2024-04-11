@@ -102,6 +102,230 @@
 
 [react on \| react to](#react-on--react-to)
 
+[replace by \| replace with](#replace-by--replace-with)
+
+[requirement for \| requirement of \| requirement on \| requirement to](#requirement-for--requirement-of--requirement-on--requirement-to)
+
+[restricted for \| restricted to](#restricted-for--restricted-to)
+
+[restriction of \| restriction on](#restriction-of--restriction-on)
+
+[run in Windows \| run on Windows \| run under Windows](#run-in-windows--run-on-windows--run-under-windows)
+
+[separated by \| separated with](#separated-by--separated-with)
+
+[solution for \| solution of \| solution to](#solution-for--solution-of--solution-to)
+
+[starting from \| starting with](#starting-from--starting-with)
+
+[statistics about \| statistics on](#statistics-about--statistics-on)
+
+***
+
+## statistics about \| statistics on
+
+> *statistics **on/about** the suicide rate*
+
+***statistics on***&mdash;direct suicide rate statistics&mdash;deaths per year, per age group, etc.
+
+***statistics about***&mdash;the direct statistics \+ statistics which are related in some way (number of divorces, reported happiness levels).
+
+[*Source*](https://forum.wordreference.com/threads/statistics-on-about.3085846/#post-15602853)
+
+***
+
+## starting from \| starting with
+
+***Starting with*** A includes only words that start with the letter A.
+
+> *Please give me all the names **starting with** A.*
+
+***Starting from*** A gives you all the words that start with A and all the words that start with the letters after A.
+
+> *Let’s start cutting back on our expenses, **starting with/from** the money we spend on food.*
+
+They can be used interchangeably if there is no order to what is being started with\/from, though ***with*** is more correct in my opinion. When order matters, ***starting from*** includes all items starting with and coming after.
+
+[*Source*](https://english.stackexchange.com/questions/112972/starting-with-vs-starting-from/112975)
+
+***
+
+## solution for \| solution of \| solution to
+
+Generally we use ***to***:
+
+> *We have the **solution to** all your problems.*
+
+You can use ***solutions for*** when speaking of the recipient of the solution, as opposed to linking a solution to a problem:
+
+> *We have **solutions for** your family in your time of need.*
+
+It depends on your use of the word *solution*:
+
+> *What’s the **solution to** the problem?* (The answer to the problem)
+
+> *He won £10,000 for the **solution of** the math problem.* (The solving of the problem)
+
+In chemistry:
+
+> *A **solution of** hydrogen peroxide and one of saturated potassium iodide.*
+
+*Sources:
+[1](https://forum.wordreference.com/threads/solution-for-to-a-problem.112398),
+[2](https://www.usingenglish.com/forum/threads/solution-to-or-solution-of.237314),
+[3](https://textranch.com/480641/solution-of/or/solution-to)*
+
+***
+
+## separated by \| separated with
+
+***By*** marks an agent phrase:
+
+> *The fighters were finally **separated by** the referee.*
+
+***With*** marks an instrumental phrase:
+
+> *The fighters were finally **separated with** a crowbar.*
+
+When you’re talking about metaphoric separation you have the option of treating the *separator* either as an agent itself, or as a tool (of another agent).
+
+The agent interpretation:
+
+> *The entries are **separated by** commas.*
+
+The instrument interpretation:
+
+> *The entries were **separated with** commas.*
+
+*A typewriter* is an instrument, but *a ghostwriter* is a human, and therefore an agent.
+
+In most cases ***by*** and ***with*** are interchangeable, yet it could vary in cases like:
+
+> *I **smell with** my nose.*
+
+> ~~*I smell by my nose.*~~
+
+One of the interchangeable cases is:
+
+> *This is **indicated by** a green light*.
+
+> *This is **indicated with** a green light*.
+
+If you are writing documentation for your application, use the correct word for readability:
+
+> *This should be **instantiated by** passing the arguments A, B and C.*
+
+> *They should be **separated by** a comma.*
+
+> *This should be **called with** D and E.*
+
+[*Source*](https://english.stackexchange.com/questions/199791/separated-by-separated-with-or-does-it-not-matter)
+
+***
+
+## run in Windows \| run on Windows \| run under Windows
+
+![run_on_windows.svg](resources/charts/run_on_windows.svg)
+
+![run_on_under_windows_coca.svg](resources/charts/run_on_under_windows_coca.svg) ![run_on_under_windows_bnc.svg](resources/charts/run_on_under_windows_bnc.svg)
+
+Originally operating systems would be seen roughly like a set of rules, in which case you ***run under*** a set of rules. Nowadays an operating system is seen as a basis for building things upon, like a foundation, in which case you ***run on*** a foundation. Both are valid.
+
+As generic word usage, you would say *on a platform*, not *in a platform*. Saying that the program ***runs in** Linux* calls up the idea of using Linux as a container or environment. This is not wrong, but it’s less common.
+
+> *A machine is **running** a certain operating system.*
+
+> *A program is **running on** a certain operating system.*
+
+*Sources: [1](https://english.stackexchange.com/questions/95409/running-on-windows-vs-running-under-windows),
+[2](https://textranch.com/272675/run-on-windows/or/run-under-windows),
+[3](https://ell.stackexchange.com/questions/72067/which-is-the-right-preposition-when-referring-to-os-in-or-on),
+[4](https://books.google.com/ngrams/graph?content=run+in+Windows%2Crun+on+Windows%2Crun+under+Windows&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
+
+***
+
+## restriction of \| restriction on
+
+***Restriction on*** relates to what person or thing is restricted:
+
+> *Since his release from jail, the only **restriction on** Joe is his requirement to see his parole officer every Tuesday at 8 a.m.*
+
+***Restriction of*** relates to the kind of restriction involved:
+
+> ***Restriction of** voting rights based on race is unconstitutional.*
+
+When both the object and type of restriction are involved, either preposition is acceptable:
+
+> *Now that Joe is no longer on parole, only the **restriction on** his voting rights remains* \[draws attention to the fact that Joe is still subject to restrictions\]
+
+> *Now that Joe is no longer on parole, only the **restriction of** his voting rights remains* \[draws attention to the kind of restrictions that Joe is still subject to\]
+
+*See also* [restricted for \| restricted to](#restricted-for--restricted-to)
+
+[*Source*](https://ell.stackexchange.com/questions/247658/whats-the-difference-between-restriction-on-and-restriction-of)
+
+***
+
+## restricted for \| restricted to
+
+> *Access to this content is **restricted for** our subscribers* \[=subscribers may not access the content\]
+
+> *Access to this content is **restricted to** our subscribers* \[=only subscribers may access the content\]
+
+*See also* [restriction of \| restriction on](#restriction-of--restriction-on)
+
+[*Source*](https://english.stackexchange.com/questions/473317/restricted-for-or-restricted-to)
+
+***
+
+## requirement for \| requirement of \| requirement on \| requirement to
+
+***Requirement on*** a person or something that is required to do something:
+
+> *The second element is a new **requirement on** private landlords to check tenants’ immigration status.*
+
+> *The **requirement on** the ECB[^ecb] is to keep inflation below but close to 2 per cent.*
+
+[^ecb]: ECB = European Central Bank
+
+***Requirement of*** a person or something that has required someone to do something:
+
+> *Such a declaration is a **requirement of** the law.*
+
+> *Pain tolerance is an essential **requirement of** his profession.*
+
+***Requirement for*** something that is required:
+
+> *Water is a fundamental **requirement for** life.*
+
+> *The **requirements for** the training course are stringent.*
+
+In ***requirement to*** *to* is attached to the verb as an infinitive:
+
+> *Stella strongly feels the **requirement to** do so, I think.*
+
+> *The current **requirement to** disclose portfolio information semiannually remains appropriate.*
+
+*Sources: [1](https://www.usingenglish.com/forum/threads/52223-requirement-to-for),
+[2](https://app.ludwig.guru/s/requirement+on),
+[3](https://app.ludwig.guru/s/Requirement+of),
+[4](https://app.ludwig.guru/s/Requirement+for),
+[5](https://app.ludwig.guru/s/requirement+to)*
+
+***
+
+## replace by \| replace with
+
+If you are referring to replacing something that is broken, old, or not working\/inoperative, then you ***replace*** it ***with*** a new one.
+
+If you are referring to filling the role of someone or something with a substitute, then it is ***replaced by***.
+
+> *Human bank tellers have all but been **replaced by** ATMs.*
+
+> *Adam was **replaced by** Bill* (Bill decided that Adam had to be replaced, but the sentence doesn’t say who Bill picked to replace Adam).
+
+[*Source*](https://forum.wordreference.com/threads/replaced-with-or-replaced-by.1985166)
+
 ***
 
 ## react on \| react to
