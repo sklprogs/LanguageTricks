@@ -56,7 +56,230 @@
 
 [explanation for \| explanation of \| explanation to](#explanation-for--explanation-of--explanation-to)
 
+[~~for more detail~~ \| for more details \| in detail \| ~~in details~~ \| in more detail \| ~~in more details~~](#for-more-detail--for-more-details--in-detail--in-details--in-more-detail--in-more-details)
+
+[hear about \| hear of](#hear-about--hear-of)
+
 [incorporate ∅ \| in \| into \| with \| within](#incorporate---in--into--with--within)
+
+[independent of \| ~~independently from~~ \| independently of](#independent-of--independently-from--independently-of)
+
+[inform about \| inform of \| inform on](#inform-about--inform-of--inform-on)
+
+[information about \| information of \| information on](#information-about--information-of--information-on)
+
+[instruction for \| instruction on](#instruction-for--instruction-on)
+
+[integrate \| integrate in \| integrate into \| ~~integrate to~~ \| integrate with](#integrate--integrate-in--integrate-into--integrate-to--integrate-with)
+
+[interfere in \| interfere with](#interfere-in--interfere-with)
+
+[in the photo \| in the picture \| on the postcard \| on the screen](#in-the-photo--in-the-picture--on-the-postcard--on-the-screen)
+
+[knowledge about \| knowledge of \| ~~knowledge on~~](#knowledge-about--knowledge-of--knowledge-on)
+
+***
+
+## knowledge about \| knowledge of \| ~~knowledge on~~
+
+**Knowledge about** implies knowing external details, without having experienced any of these:
+
+> ***Knowledge about** writers.*
+
+> ***Knowledge about** India, bicycles, heart disease.*
+
+**Knowledge of** implies a more intimate knowledge from the inside out:
+
+> *I would want to increase my **knowledge of** writers.*
+
+Know science, know music:
+
+> *Have **knowledge of** science /music* (not ~~*about*~~ them).
+
+~~**Knowledge on**~~ is virtually never used.
+
+*Sources:
+[1](https://forum.wordreference.com/threads/knowledge-of-about.1527465/),
+[2](https://english.stackexchange.com/questions/76633/knowledge-on-or-knowledge-of-which-one-is-correct/76640)*
+
+***
+
+## interfere in \| interfere with
+
+In the case of someone else's life, you can either ***interfere in*** or **with**. The former is critical of the fact that you meddled at all. The latter is critical of the results of your meddling.
+
+To **interfere with** means to disrupt:
+
+> *Wave patterns can **interfere with** each other* \[they are mutually disruptive\]
+
+Whilst it’s true that ***interfering in*** someone else’s affairs may be disruptive, it needn’t be. But if you ***interfere with*** their affairs, you’re definitely having a bad influence. There’s also the idiomatic usage of a paedophile ***interfering with*** a victim, which normally refers specifically to touching a child’s genitals.
+
+[*Source*](https://english.stackexchange.com/questions/38033/interfere-in-vs-interfere-with)
+
+***
+
+## integrate \| integrate in \| integrate into \| ~~integrate to~~ \| integrate with
+
+**Integrate in**&mdash;combine many things into a whole:
+
+> *We have **integrated in** companies many times.*
+
+> *The **integration in** the bone is the most important part of the surgery.*
+
+**Integrate into**&mdash;make something part of a larger whole:
+
+> *They’re going to **integrate into** our building.*
+
+***Integrate into*** can be a synonym of ***integrate in*** with the nuance that a smaller group becomes part of a larger whole
+
+**Integrate with**&mdash;combine two similarly sized groups together:
+
+> *I’d like to propose **integration with** the other political party.*
+
+While *integrate in* and *integrate into* can be synonyms, ***integrate with*** cannot and specifically implies two groups merging together, rather than an entity merging into a larger group or adapting to the larger group.
+
+While prepositions help clarify what exactly is being integrated in which situations, ***integrate*** can be used without a preposition:
+
+> *They **integrated** the immigrants.*
+
+*See also* [integrate \| merge](#integrate--merge)
+
+[*Source*](https://grammarhow.com/integrate-in-integrate-into-integrate-with/)
+
+***
+
+## instruction for \| instruction on
+
+| on | on\/for |
+|----|-----|
+| ***instruction on** <ins>how to</ins> make* | ***instruction on** making* \[\= ***instruction for** making*\] |
+| ***instruction on** <ins>how to</ins> prepare* | ***instruction on** preparing* \[\= ***instruction for** preparing*\] |
+
+[*Source*](https://hinative.com/questions/17783065#answer-41836291)
+
+***
+
+## information about \| information of \| information on
+
+**Information on** something would be information that is really in-depth, and quite into details. i.e. a study on history, or a book on biomedicine.
+
+**Information about** something has the implication that it is information that is a kind of summary about a subject i.e. a brochure will contain *information about something*, but you can’t really say ~~*A brochure on mechanics.*~~ You would use *A brochure about mechanics.*
+
+I would avoid using ***information of*** something for the reason that it could be misunderstood to mean *information belonging to something*.
+
+[*Source*](https://english.stackexchange.com/questions/32838/what-is-the-difference-between-information-on-information-of-information/32843)
+
+***
+
+## inform about \| inform of \| inform on
+
+***Inform of*** merely talks about the information of something:
+
+> *I’ll have to **inform** her **of** Joe’s kidnapping.*
+
+**Inform about** means, not only will she be informed that Joe is kidnapped but also the details:
+
+> *I’ll have to **inform** her **about** Joe’s kidnapping.*
+
+**Inform on**&mdash;give incriminating information about someone to an authority:
+
+> *John **informed on** the gang to the police.*
+
+However, in the passive *inform on* merely indicates an area of coverage:
+
+> *I am very **informed on** this matter.*
+
+> *He is well **informed on** a wide variety of topics.*
+
+*See also* [notify about \| notify of \| ~~notify on~~](#notify-about--notify-of--notify-on)
+
+*Sources: [1](https://ell.stackexchange.com/questions/40623/inform-about-vs-inform-of),
+[2](https://ell.stackexchange.com/questions/47148/inform-about-vs-inform-of-vs-inform-on),
+[3](https://oneminuteenglish.org/en/inform-of-about-on-by)*
+
+***
+
+## independent of \| ~~independently from~~ \| independently of
+
+~~***Independently from***~~ is not correct usage, as well as being very uncommon. From X would indicate either coming from X or going away from X, neither of which applies here, since independence does not come or go from something.
+
+***Independent*** is an adjective that defines a noun:
+
+> *Something is **independent** of ...*
+
+***Independently*** is an adverb that defines a verb:
+
+> *You do something **independently** of ...*
+
+The proper adverbial phrase is ***independently of***. The phrase ***independent of***, an adjective phrase, is sometimes WRONGLY asked to perform an adverbial function.
+
+*Sources:
+[1](https://english.stackexchange.com/questions/39349/independent-independently-of-from),
+[2](https://www.proz.com/kudoz/english/linguistics/1122474-independently-of.html)*
+
+***
+
+## in the photo \| in the picture \| on the postcard \| on the screen
+
+If you are talking about the subject of the picture, use ***in***:
+
+> *The boy **in** the picture is smiling.*
+
+> *The boy **in** the photograph is walking on the sand.*
+
+It seems simply wrong to talk about a person, or an object, ~~*on*~~ the photograph.
+
+If you are talking about the picture as a piece of paper/canvas/etc., use ***on***:
+
+> *Spilling water **on** the picture will ruin it.*
+
+It would be different talking about a postcard, because the picture\/photograph is, itself, on the postcard. So if the photograph of the boy on the beach was printed as a postcard&mdash;or a greeting card of any kind&mdash;then he would be the boy on the card.
+
+> *The boy **in** the photograph on the card.*
+
+Photo takes precedence over paper. We always speak of things in the picture\/in the photo, regardless of the medium (paper, digital image, etc.) I would say ***on** the computer screen* because it is the medium for displaying an image.
+
+> *The boy **in** the image on the computer screen.*
+
+If that image had been painted on canvas (or on a wall):
+
+> *The boy in the picture and **on** the canvas (**on** the wall).*
+
+[*Source*](https://forum.wordreference.com/threads/do-you-say-in-or-on-the-photo-postcard-picture-etc.103411/)
+
+***
+
+## hear about \| hear of
+
+See [think of \| think about](#think-of--think-about).
+
+You might say you’ve ***heard of*** something meaning no more than that you’re aware *something* exists. But if you’ve ***heard about*** *something* the implication is you’ve heard some important/current information about that thing.
+
+> *I’ve **heard of** Amy Winehouse*. [\The name is known to me, but I don’t necessarily know any more.\]
+
+> *I’ve **heard about** Amy Winehouse*. \[Strongly implies knowing of her untimely death.\]
+
+[*Source*](https://english.stackexchange.com/questions/71003/difference-between-think-of-and-think-about?noredirect=1)
+
+***
+
+## ~~for more detail~~ \| for more details \| in detail \| ~~in details~~ \| in more detail \| ~~in more details~~
+
+> ***For more details** about the program, see the information packet.*
+
+~~***In details***~~ is never correct as we’re not using the plural form of *detail* after *in*.
+
+***In more detail*** looks at finding out about specifics for a topic. Generally, someone already has a good understanding of the basics.
+
+> *Can you discuss this project with me **in more detail**?*
+
+***In detail*** looks for a full and comprehensive explanation of something. Often, they will not already have any understanding of what’s going on.
+
+> *I need you to explain, **in detail**, why you did those things.*
+
+*Sources: [1](https://grammarhow.com/in-more-detail),
+[2](https://www.grammargiant.com/confused-words/For-More-Detail-or-For-More-Details),
+[3](https://ru.pinterest.com/pin/is-it-in-detail-or-in-details--926123110843060460)*
 
 ***
 
