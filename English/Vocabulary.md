@@ -4,15 +4,11 @@
 
 [able to \| capable of](#able-to--capable-of)
 
-[according to \| ~~according with~~ \| in accord with \| ~~in accordance to~~ \| in accordance with \| ~~in according with~~](#according-to--according-with--in-accord-with--in-accordance-to--in-accordance-with--in-according-with)
-
 [accidentally \| coincidentally \| coincidently \| incidentally](#accidentally--coincidentally--coincidently--incidentally)
 
 [accurate \| precise](#accurate--precise)
 
 [activity \| activities \| assignment \| drill \| exercise \| problem \| task](#activity--activities--assignment--drill--exercise--problem--task)
-
-[add in \| add into \| add to](#add-in--add-into--add-to)
 
 [additional \| extra](#additional--extra)
 
@@ -22,13 +18,7 @@
 
 [ahead of \| before](#ahead-of--before)
 
-[allow for \| allow of \| allow that \| allow to](#allow-for--allow-of--allow-that--allow-to)
-
-[allow + -ing \| allow that](#allow---ing--allow-that)
-
 [also \| besides \| furthermore \| moreover](#also--besides--furthermore--moreover)
-
-[also can \| can also](#also-can--can-also)
 
 [amend \| emend \| mend](#amend--emend--mend)
 
@@ -44,21 +34,7 @@
 
 [artefact \| artifact](#artefact--artifact)
 
-[ask for approval \| ask for an approval](#ask-for-approval--ask-for-an-approval)
-
 [aspects \| peculiarities](#aspects--peculiarities)
-
-[at a path \| on a path](#at-a-path--on-a-path)
-
-[at each step \| in each step \| on each step](#at-each-step--in-each-step--on-each-step)
-
-[at startup \| on startup](#at-startup--on-startup)
-
-[at the beginning \| in the beginning](#at-the-beginning--in-the-beginning)
-
-[at the end \| in the end](#at-the-end--in-the-end)
-
-[attention \| the attention](#attention--the-attention)
 
 [await \| wait](#await--wait)
 
@@ -84,19 +60,9 @@
 
 [boring \| drilling](#boring--drilling)
 
-[bound to \| bound with](#bound-to--bound-with)
-
 [building \| compiling](#building--compiling)
 
 [bunny \| rabbit](#bunny--rabbit)
-
-[by means of planting \| by planting \| through planting \| using planting \| via planting](#by-means-of-planting--by-planting--through-planting--using-planting--via-planting)
-
-[by email \| ~~through email~~ \| via email](#by-email--through-email--via-email)
-
-[by software \| by using software \| using software \| ~~via software~~ \| with software](#by-software--by-using-software--using-software--via-software--with-software)
-
-[can be further \| can further be](#can-be-further--can-further-be)
 
 [canceled \| cancelled](#canceled--cancelled)
 
@@ -104,15 +70,11 @@
 
 [cause \| reason](#cause--reason)
 
-[change in \| change of \| change to](#change-in--change-of--change-to)
-
 [change \| modify](#change--modify)
 
 [character \| glyph \| symbol](#character--glyph--symbol)
 
 [check \| check for \| check that \| validate \| verify](#check--check-for--check-that--validate--verify)
-
-[check if \| check whether](#check-if--check-whether)
 
 [cite \| quote](#cite--quote)
 
@@ -130,11 +92,7 @@
 
 [common language \| general language](#common-language--general-language)
 
-[communicate to \| communicate with](#communicate-to--communicate-with)
-
 [company name](#company-name)
-
-[compare to \| compare with](#compare-to-compare-with)
 
 [competition \| contest](#competition--contest)
 
@@ -142,17 +100,9 @@
 
 [compose \| comprise \| contain](#compose--comprise--contain)
 
-[condition for \| condition of](#condition-for--condition-of)
-
 [configuration \| options \| preferences \| properties \| setting](#configuration--options--preferences--properties--setting)
 
 [conjurer \| illusionist \| magician](#conjurer--illusionist--magician)
-
-[connect to \| connect with](#connect-to--connect-with)
-
-[considered \| considered as](#considered--considered-as)
-
-[consist in \| consist of](#consist-in--consist-of)
 
 [contain \| include](#contain--include)
 
@@ -163,8 +113,6 @@
 [correct errors \| eliminate errors \| fix errors \| rectify errors \| remove errors \| repair errors \| resolve errors](#correct-errors--eliminate-errors--fix-errors--rectify-errors--remove-errors--repair-errors--resolve-errors)
 
 [cost \| price](#cost--price)
-
-[cover by \| cover in \| cover with](#cover-by--cover-in--cover-with)
 
 [crash \| crush](#crash--crush)
 
@@ -191,10 +139,6 @@
 [dependant \| dependent](#dependant--dependent)
 
 [dependence \| dependency](#dependence--dependency)
-
-[designed for \| designed to](#designed-for--designed-to)
-
-[die by \| die from \| die of](#die-by--die-from--die-of)
 
 [directive \| instruction](#directive--instruction)
 
@@ -230,8 +174,6 @@
 
 [effectiveness \| ~~effectivity~~ \| efficacy \| efficiency](#effectiveness--effectivity--efficacy--efficiency)
 
-[effort at \| effort in \| effort of \| effort to](#effort-at--effort-in--effort-of--effort-to)
-
 [e.g. \| for example \| for instance \| such as](#eg--for-example--for-instance--such-as)
 
 [embed \= imbed](#embed--imbed)
@@ -248,8 +190,6 @@
 
 [entire \| whole](#entire--whole)
 
-[equivalent of \| equivalent to](#equivalent-of--equivalent-to)
-
 [error \| failure \| fault](#error--failure--fault)
 
 [error \| mistake](#error--mistake)
@@ -258,31 +198,19 @@
 
 [essentially \| substantially](#essentially--substantially)
 
-[evaluation \| an evaluation](#evaluation--an-evaluation)
-
 [everybody \| everyone](#everybody--everyone)
 
-[except \| except for](#except--except-for)
-
 [expand \| extend](#expand--extend)
-
-[experience \| an experience \| experiences](#experience--an-experience--experiences)
 
 [expert \| specialist](#expert--specialist)
 
 [explanation](#explanation)
-
-[explanation for \| explanation of \| explanation to](#explanation-for--explanation-of--explanation-to)
 
 [explode \| implode](#explode--implode)
 
 [fast \| quick](#fast--quick)
 
 [field \| text box](#field--text-box)
-
-[for + gerund \| to + infinitive](#for--gerund--to--infinitive)
-
-[~~for more detail~~ \| for more details \| in detail \| ~~in details~~ \| in more detail \| ~~in more details~~](#for-more-detail--for-more-details--in-detail--in-details--in-more-detail--in-more-details)
 
 [gain \| profit](#gain--profit)
 
@@ -296,8 +224,6 @@
 
 [handle \| process](#handle--process)
 
-[hear about \| hear of](#hear-about--hear-of)
-
 [here \| in here](#here--in-here)
 
 [host \| node](#host--node)
@@ -310,19 +236,11 @@
 
 [in the list \| on the list](#in-the-list--on-the-list)
 
-[in the photo \| in the picture \| on the postcard \| on the screen](#in-the-photo--in-the-picture--on-the-postcard--on-the-screen)
-
-[independent of \| ~~independently from~~ \| independently of](#independent-of--independently-from--independently-of)
-
 [individual \| person](#individual--person)
 
 [individual \| personal](#individual--personal)
 
 [individually \| separately \| severally](#individually--separately--severally)
-
-[inform about \| inform of \| inform on](#inform-about--inform-of--inform-on)
-
-[information about \| information of \| information on](#information-about--information-of--information-on)
 
 [inside knowledge \| insider knowledge \| insider's knowledge](#inside-knowledge--insider-knowledge--insiders-knowledge)
 
@@ -330,13 +248,7 @@
 
 [instant \| moment](#instant--moment)
 
-[instruction for \| instruction on](#instruction-for--instruction-on)
-
-[integrate \| integrate in \| integrate into \| ~~integrate to~~ \| integrate with](#integrate--integrate-in--integrate-into--integrate-to--integrate-with)
-
 [integrate \| merge](#integrate--merge)
-
-[interfere in \| interfere with](#interfere-in--interfere-with)
 
 [issue \| problem](#issue--problem)
 
@@ -346,23 +258,13 @@
 
 [killing \| murder](#killing--murder)
 
-[knowledge about \| knowledge of \| ~~knowledge on~~](#knowledge-about--knowledge-of--knowledge-on)
-
 [lack \| miss](#lack--miss)
 
 [learn how to \| learn to](#learn-how-to--learn-to)
 
 [license \| permit](#license--permit)
 
-[literature \| the literature](#literature--the-literature)
-
-[load \| the load](#load--the-load)
-
 [located \| placed \| positioned \| situated](#located--placed--positioned--situated)
-
-[~~log in to~~ \| log into \| ~~login to~~ \| log on](#log-in-to--log-into--login-to--log-on)
-
-[made from \| made of](#made-from--made-of)
 
 [material \| materiel](#material--materiel)
 
@@ -374,33 +276,11 @@
 
 [means](#means)
 
-[method for \| method of](#method-for--method-of)
-
-[miss from \| miss in](#miss-from--miss-in)
-
-[mount at \| mount in \| mount on \| ~~mount to~~](#mount-at--mount-in--mount-on--mount-to)
-
 [named \| ~~named as~~](#named--named-as)
-
-[need for \| need of](#need-for--need-of)
 
 [new \| novel](#new--novel)
 
-[notify about \| notify of \| ~~notify on~~](#notify-about--notify-of--notify-on)
-
-[on \| onto](#on--onto)
-
-[operation \| an operation \| operations](#operation--an-operation--operations)
-
-[opposite \| opposite to](#opposite--opposite-to)
-
-[outside \| outside of](#outside--outside-of)
-
 [package \| packet \| parcel](#package--packet--parcel)
-
-[part \| a part](#part--a-part)
-
-[part of \| a part of](#part-of--a-part-of)
 
 [particular \| specific](#particular--specific)
 
@@ -416,15 +296,9 @@
 
 [privilege \| right](#privilege--right)
 
-[progress \| a progress \| the progress](#progress--a-progress--the-progress)
-
-[provide \| provide for \| provide with](#provide--provide-for--provide-with)
-
 [quotation \| quote](#quotation--quote)
 
 [ratio between ... and \| ratio of ... to](#ratio-between--and--ratio-of--to)
-
-[react on \| react to](#react-on--react-to)
 
 [reboot \| restart](#reboot--restart)
 
@@ -434,23 +308,11 @@
 
 [register \| registry](#register--registry)
 
-[related to \| relates to \| relating to](#related-to--relates-to--relating-to)
-
-[replace by \| replace with](#replace-by--replace-with)
-
 [request \| require](#request--require)
-
-[requirement for \| requirement of \| requirement on \| requirement to](#requirement-for--requirement-of--requirement-on--requirement-to)
 
 [residual \| residue \| residues](#residual--residue--residues)
 
-[restricted for \| restricted to](#restricted-for--restricted-to)
-
-[restriction of \| restriction on](#restriction-of--restriction-on)
-
 [router (pronunciation)](#router-pronunciation)
-
-[run in Windows \| run on Windows \| run under Windows](#run-in-windows--run-on-windows--run-under-windows)
 
 [said](#said)
 
@@ -460,8 +322,6 @@
 
 [schema \| schemata \| scheme](#schema--schemata--scheme)
 
-[separated by \| separated with](#separated-by--separated-with)
-
 [shameful \| shameless](#shameful--shameless)
 
 [signalling \| signaling](#signalling--signaling)
@@ -470,29 +330,13 @@
 
 [sniffing \| snooping \| spoofing](#sniffing--snooping--spoofing)
 
-[solution for \| solution of \| solution to](#solution-for--solution-of--solution-to)
-
 [somebody \| someone](#somebody--someone)
 
 [special \| specific](#special--specific)
 
-[starting from \| starting with](#starting-from--starting-with)
-
 [state \| status](#state--status)
 
-[statistics about \| statistics on](#statistics-about--statistics-on)
-
-[stop + -ing \| stop to + infinitive](#stop---ing--stop-to--infinitive)
-
 [subject \| topic](#subject--topic)
-
-[substitute for \| substitute with](#substitute-for--substitute-with)
-
-[such \| such a](#such--such-a)
-
-[suggest \| suggest that](#suggest--suggest-that)
-
-[~~switch into~~ \| switch to](#switch-into--switch-to)
 
 [toward \= towards](toward--towards)
 
@@ -500,39 +344,21 @@
 
 [that \| who](#that--who)
 
-[think about \| think of](#think-about--think-of)
-
-[throw at \| throw to](#throw-at--throw-to)
-
-[time for \| time of \| time (required) for \| time (required) to](#time-for--time-of--time-required-for--time-required-to)
-
 [transfer \| transit](#transfer--transit)
 
 [transfer \| transmit](#transfer--transmit)
-
-[~~transform to~~ \| transform into](#transform-to--transform-into)
-
-[translate into \| translate to](#translate-into--translate-to)
 
 [troop \| troupe](#troop--troupe)
 
 [trooper \| trouper](#trooper--trouper)
 
-[try + -ing \| try to](#try---ing--try-to)
-
-[typical for = typical of](#typical-for--typical-of)
-
 [update \| upgrade](#update--upgrade)
 
 [usage \| use](#usage--use)
 
-[useful for \| useful to](#useful-for--useful-to)
-
 [validation \| verification](#validation--verification)
 
 [variant \| variation](#variant--variation)
-
-[verb + infinitive \| verb + -ing](#verb--infinitive--verb---ing)
 
 [what \| which](#what--which)
 
@@ -741,50 +567,6 @@ You should place a comma after both phrases. They work as their own separate cla
 
 ***
 
-## by software \| by using software \| using software \| ~~via software~~ \| with software
-
-| Example | Comment |
-|---------|---------|
-| ***by** software* | The software did all the work, without any human intervention. The work is actually done *by* a human with the help of the software. |
-| ***by using** software* | Sounds correct and complete because you need both a preposition (*by*) and a verb (*use*). |
-| ***with** software* | OK, but *using* is better&mdash;*with* doesn’t tell you what the person would be doing with the software (*using* it). |
-| ***using*** | *Use* is a verb and thus indicates an action. |
-| ~~***via** software*~~ | Sounds awkward in this context. *Via* is mostly used as a synonym of *by way of*, as in *I’m flying to Hawaii via California*. It can also be used to mean something is like a stepping-stone in a less literal sense, as in *She arrived at the answer via brainstorming.* *Via* would be used when you are talking about a path (literal or figurative) to somewhere with any number of “stops” on the way. In this context, the software is not like a stop on the way, but is the thing the person is using. |
-
-*See also [by email \| ~~through email~~ \| via email](#by-email--through-email--via-email), [by means of planting \| by planting \| through planting \| using planting \| via planting](#by-means-of-planting--by-planting--through-planting--using-planting--via-planting)*
-
-*Sources: [1](https://ell.stackexchange.com/questions/194845/by-with-using-or-via-here),
-[2](https://forum.wordreference.com/threads/via-through-by-using-the-web-interface.2742782)*
-
-***
-
-## by means of planting \| by planting \| through planting \| using planting \| via planting
-
-| Example | Emphasizes |
-|---------|------------|
-| ***by** planting* | the direct action of planting itself in achieving a desired outcome |
-| ***by means of** planting* | a specific technique or process that involves planting |
-| ***through** planting* | the role of planting as a conduit for achieving a larger goal or objective |
-| ***using** planting* | the practical application or utilization of planting as a resource |
-| ***via*** | a means of transportation or a route taken to reach a destination |
-
-*See also [by email \| ~~through email~~ \| via email](#by-email--through-email--via-email), [by software \| by using software \| using software \| ~~via software~~ \| with software](#by-software--by-using-software--using-software--via-software--with-software)*
-
-[*Source*](https://thecontentauthority.com/blog/how-to-use-via-planting-in-a-sentence)
-
-***
-
-## by email \| ~~through email~~ \| via email
-
-***By*** is the most popular, ***via*** is used sometimes, ***through*** is not
-used in this construction.
-
-*See also [by means of planting \| by planting \| through planting \| using planting \| via planting](#by-means-of-planting--by-planting--through-planting--using-planting--via-planting), [by software \| by using software \| using software \| ~~via software~~ \| with software](#by-software--by-using-software--using-software--via-software--with-software)*
-
-[*Source*](https://forum.wordreference.com/threads/through-email-by-email-via-email.3086548/)
-
-***
-
 ## abbreviation \| acronym \| backronym \| initialism
 
 | Term | Definition | Example | Complete form |
@@ -802,26 +584,6 @@ used in this construction.
 *Sources: [1](https://wwwnc.cdc.gov/eid/page/abbreviations-acronyms-initialisms),
 [2](https://www.writersdigest.com/write-better-fiction/abbreviation-vs-acronym-vs-initialism-grammar-rules),
 [3](https://simple.wikipedia.org/wiki/Backronym)*
-
-***
-
-## instruction for \| instruction on
-
-| on | on\/for |
-|----|-----|
-| ***instruction on** <ins>how to</ins> make* | ***instruction on** making* \[\= ***instruction for** making*\] |
-| ***instruction on** <ins>how to</ins> prepare* | ***instruction on** preparing* \[\= ***instruction for** preparing*\] |
-
-[*Source*](https://hinative.com/questions/17783065#answer-41836291)
-
-***
-
-## ~~switch into~~ \| switch to
-
-![switch_to.svg](../resources/charts/switch_to.svg)
-
-*Sources: [1](https://forum.wordreference.com/threads/switch-into-to.3219784),
-[2](https://books.google.com/ngrams/graph?content=switch+into%2Cswitch+to&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
 
 ***
 
@@ -864,24 +626,6 @@ The only time ***every*** can be used with a plural noun is if you use *every on
 Although it’s common in speech, it should be avoided in writing as it is considered redundant.
 
 [*Source*](https://languagetool.org/insights/post/word-choice-each-and-every)
-
-***
-
-## react on \| react to
-
-We ***react to*** a stimulus or situation:
-
-> *The dog **reacted to** the bell by salivating.*
-
-***React on***[^react_on] can refer to something which is affected:
-
-> *These chemicals **react on** plastics.*
-
-From a grammatical perspective, the plastics are not the stimulus. There is a reaction when the chemicals are applied to plastics.
-
-[^react_on]: влиять на (кого-либо, что-либо); реагировать на
-
-[*Source*](https://ell.stackexchange.com/questions/121545/whats-the-difference-between-react-on-and-react-to)
 
 ***
 
@@ -1093,31 +837,6 @@ An ***issue*** has little or no impact, whereas a ***problem*** can significantl
 
 ***
 
-## such \| such a
-
-| Form | Type of nouns | Example |
-|------|---------------|---------|
-| such a(n) | countable, singular | ***such an** apple* |
-| such | countable, plural | ***such** apples* |
-| such | uncountable | ***Such** bravery is to be commended.* |
-
-Same nouns can be countable or uncountable, singular or plural in different contexts:
-
-> ***Such** honor is to be revered.*
-
-> ***Such an** honor is to be bestowed.*
-
-> ***Such** honors are to be bestowed.*
-
-***Such a*** is required before singular countable nouns even if no emphasis is intended:
-
-> *Throughout this article, we refer to **such a** block or range of nodes with the term “context node”.*
-
-*Sources: [1](https://ell.stackexchange.com/questions/64937/such-vs-such-a),
-[2](https://ell.stackexchange.com/questions/114262/when-to-use-such-before-a-noun-and-when-to-use-such-a-an)*
-
-***
-
 ## field \| text box
 
 **Text boxes** are ***fields*** that let you enter text.
@@ -1150,20 +869,6 @@ There is no unanimous opinion on what to use.
 > *A substance with many **potential** uses.*
 
 [*Source*](https://www.askdifference.com/potential-vs-possible/)
-
-***
-
-## outside \| outside of
-
-***Outside of***:
-
-- not recommended for formal writing;
-- tends to be more commonly used in the US than in Britain;
-- often used as a colloquial way of saying *except for*, *other than*, *apart from*:
-
-> ***Outside of** what I just mentioned, I can’t think of any reason not to.*
-
-[*Source*](https://english.stackexchange.com/questions/9700/outside-or-outside-of)
 
 ***
 
@@ -1238,65 +943,6 @@ Compare:
 *Sources: [1](https://www.englishforums.com/English/DemandRequirements/cxlvb/post.htm),
 [2](https://thecontentauthority.com/blog/need-vs-requirement),
 [3](https://pediaa.com/what-is-the-difference-between-need-and-requirement/)*
-
-***
-
-## mount at \| mount in \| mount on \| ~~mount to~~
-
-Google Books Ngram Viewer [suggests](https://books.google.com/ngrams/graph?content=mounted+on+the+mount+point%2Cmounted+to+the+mount+point%2Cmounted+in+the+mount+point%2Cmounted+at+the+mount+point&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3) *mounted **on** the mount point* only.
-
-Levin (English Verb Classes and Alternations) places *mount* under “Verbs of Putting”, and specifically says that the preposition ***to*** is wrong for such verbs. She lists some “Verbs of Combining and Attaching” which take the preposition *to* (*add*, *connect*, *join*, *link*), but does not include *mount* among them.
-
-Other uses:
-
-> *In the same year the entartete Kunst exhibition was **mounted in** Munich.*
-
-> *The Party bitterly opposed the conspiracy theory that Evatt **mounted at** the Petrov Royal Commission.*
-
-> *Residents suggest the deployment of an army unit to curb constant attacks **mounted by** the Somali Bandits in the area.*
-
-> *These towers were manned day and night and were **mounted with**[^mount_with] a machine gun, rifle and searchlight.*
-
-[^mount_with]: mount with = оборудовать, оснащать
-
-> *Demands are **mounting for** a high-powered investigation with Liberal shadow minister Senator David Johnston today warning sex abuse claims were harming the reputation of the Catholic Church.*
-
-![mount.svg](resources/charts/mount.svg)
-
-*Sources: [1](https://www.englishforums.com/English/ToMountPreposition/bzhxpd/post.htm),
-[2](https://lingohelp.me/preposition-after-verb/mount-on-in-to-at-by/)*
-
-***
-
-## at startup \| on startup
-
-***On startup*** refers to the startup event of the application.
-
-***At startup*** refers to the moment in time the operating system starts up.
-
-![startup_code](https://i.stack.imgur.com/UToTu.png)
-
-Google Books Ngram Viewer statistics (by 2019):
-
-*At startup* is [2.56 times](https://books.google.com/ngrams/graph?content=on+startup%2Cat+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3) more popular than *on startup*;
-
-*at system startup* is [4.3 times](https://books.google.com/ngrams/graph?content=on+system+startup%2Cat+system+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3) more popular than *on system startup*;
-
-*at Windows startup* is [27 times](https://books.google.com/ngrams/graph?content=on+Windows+startup%2Cat+Windows+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3) more popular than *on Windows startup* (2017), the latter is not registered in 2019;
-
-*at application startup* is [1.43 times](https://books.google.com/ngrams/graph?content=on+application+startup%2Cat+application+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3) more popular than *on application startup*.
-
-[*Source*](https://english.stackexchange.com/questions/154467/at-startup-vs-on-startup)
-
-***
-
-## equivalent of \| equivalent to
-
-> *To be **equivalent to** something*
-
-> *To be <ins>the</ins> **equivalent of** something*
-
-[*Source*](https://forum.wordreference.com/threads/equivalent-to-vs-equivalent-of.2673133/)
 
 ***
 
@@ -1489,48 +1135,6 @@ Carries an echo of situation:
 
 ***
 
-## notify about \| notify of \| ~~notify on~~
-
-***Notify about*** = ***notify of*** (although *some* native speakers think that *of* sounds better):
-
-> *Please **notify <ins>us</ins> of** any change of address* \[at least *someone* is required\]
-
-| Pattern                      | Example                                                                          |
-|------------------------------|----------------------------------------------------------------------------------|
-| notify somebody              | *Competition winners will be **notified** by post.*                              |
-|                              | *You must **notify** us in writing if you wish to cancel your subscription.*     |
-| notify somebody of something | *The police must be **notified of** the date of the demonstration.*              |
-| notify something to somebody | *The date of the demonstration must be **notified** to the police.*              |
-| notify somebody that         | *Members have been **notified that** there will be a small increase in the fee.* |
-
-***Notify on*** has another meaning:
-
-> *After a few minutes I get a **notification on** my iPhone, you can continue the journey!*
-
-> *But I got a push **notification on** my Redbox app.*
-
-> *Does the Member State submit a non confidential version of the **notification on** a voluntary basis?*
-
-> *Slovenia withdrew its rescue aid **notification on** 1 August 2011.*
-
-*See also* [inform about \| inform of \| inform on](#inform-about--inform-of--inform-on)
-
-*Sources: [1](https://blog.harwardcommunications.com/2010/11/09/how-to-use-%E2%80%9Cinform%E2%80%9D-and-%E2%80%9Cnotify%E2%80%9D/),
-[2](https://forum.wordreference.com/threads/notify-someone-about-something.1636891/),
-[3](https://idioms.thefreedictionary.com/notify+someone+about),
-[4](https://www.oxfordlearnersdictionaries.com/definition/english/notify),
-[5](https://forum.wordreference.com/threads/notify-of-about-for.3757133/),
-[6](https://english.stackexchange.com/questions/259459/is-it-get-notified-on-or-get-notified-of),
-[7](https://textranch.com/648925/notification-on/or/notification-about/)*
-
-***
-
-## ~~transform to~~ \| transform into
-
-[*Source*](https://english.stackexchange.com/questions/515071/using-to-instead-of-into-in-transform-a-into-b/515073#515073)
-
-***
-
 ## canceled \| cancelled
 
 ***canceled*** = AmE
@@ -1543,18 +1147,6 @@ American English typically doubles the consonant only when the stress is on the 
 
 ***
 
-## change in \| change of \| change to
-
-| Form               | Meaning                                   | Example                                    |
-|--------------------|-------------------------------------------|--------------------------------------------|
-| change in          | a state, condition, character, or quality | ***change in** attitudes*                  |
-| change of          | some sort of replacement                  | ***change of** government*                 |
-| change from ... to | transition / transformation               | *color **change from** green **to** brown* |
-
-[*Source*](https://english.stackexchange.com/questions/405625/changes-in-changes-of-or-changes-to/405636#405636)
-
-***
-
 ## containing \| that contains
 
 > *I have a jug **that contains** 2 litres of water* \[=to contain; the jug is capable of containing 2 litres\]
@@ -1562,54 +1154,6 @@ American English typically doubles the consonant only when the stress is on the 
 > *I have a jug **containing** 2 litres of water* \[the jug already has 2 litres of water in it\]
 
 [*Source*](https://ell.stackexchange.com/questions/238779/that-contains-vs-containing/238780#238780)
-
-***
-
-## according to \| ~~according with~~ \| in accord with \| ~~in accordance to~~ \| in accordance with \| ~~in according with~~
-
-**According to**:
-
-1) as stated or attested by:
-
-   > ***According to** John, the bank closes at 3 p.m.* \[ ~~*in accordance with*~~ is unusual\]
-
-1) in conformity with:
-
-   > *He acted **according to** his promise.*
-
-1) depending on:
-
-   > *You will be paid **according to** the amount of work you have done.*
-
-   > *Books arranged **according to** their subjects.*
-
-**Accordance with**&mdash;in compliance or in agreement:
-
-> ***In accordance with** the Geneva Convention...*
-
-**Accord** is a synonym of *agreement* or *harmony*:
-
-> *This view is not **in accord with** reality.*
-
-| category | in accord    | in accordance |
-|----------|--------------|---------------|
-| meaning  | in agreement | in compliance |
-| field    | physics      | legal         |
-
-> *In this system, ~~in accordance to~~ **in accord with** Kohn’s theorem, strong reduction of the energy level separation caused by the electron‐electron interaction compensates the depolarization shift.*
-
-> *We have observed fine structures near sample edges that shift inward with an increase in magnetic field ~~in accordance with~~ **in accord with** the shift of the positions of the quantum‐Hall edge states.*
-
-> *The simulated x‐ray diffraction pattern, density, and bulk modulus of Cco‐C₈ are ~~in good accordance with~~ **in good accord with** the experimental data on structurally undetermined superhard carbon recovered from cold compression of carbon nanotube bundles.*
-
-*Sources: [1](https://english.stackexchange.com/questions/400974/are-in-accordance-with-and-according-to-interchangeable),
-[2](https://ru.hinative.com/questions/19561453),
-[3](https://forum.wordreference.com/threads/as-per-according-in-accordance-with.548106/#post-3081201),
-[4](https://www.englishforums.com/English/InAccordanceAccordanceWith/jvbl/post.htm),
-[5](https://forum.wordreference.com/threads/according-to-according-with.931916/#post-4921192),
-[6](https://prostoenglishblog.ru/englishvocabulary/tpost/upztkzse51-according-to-ili-in-accordance-with),
-[7](https://grammarist.com/usage/accord-accordance),
-[8](http://people.physics.illinois.edu/Celia/MsP/Accord-Accordance.pdf)*
 
 ***
 
@@ -1628,40 +1172,6 @@ A **glyph** is the specific shape, design, or representation of a character.
 *Sources: [1](https://www.creativelive.com/blog/6-typography-terms-that-get-confused),
 [2](https://softwareengineering.stackexchange.com/questions/432762/is-there-the-difference-between-symbols-and-characters-in-programming),
 [3](https://stackoverflow.com/questions/57349076/what-is-the-difference-between-a-symbol-and-its-name)*
-
-***
-
-## restricted for \| restricted to
-
-> *Access to this content is **restricted for** our subscribers* \[=subscribers may not access the content\]
-
-> *Access to this content is **restricted to** our subscribers* \[=only subscribers may access the content\]
-
-*See also* [restriction of \| restriction on](#restriction-of--restriction-on)
-
-[*Source*](https://english.stackexchange.com/questions/473317/restricted-for-or-restricted-to)
-
-***
-
-## restriction of \| restriction on
-
-***Restriction on*** relates to what person or thing is restricted:
-
-> *Since his release from jail, the only **restriction on** Joe is his requirement to see his parole officer every Tuesday at 8 a.m.*
-
-***Restriction of*** relates to the kind of restriction involved:
-
-> ***Restriction of** voting rights based on race is unconstitutional.*
-
-When both the object and type of restriction are involved, either preposition is acceptable:
-
-> *Now that Joe is no longer on parole, only the **restriction on** his voting rights remains* \[draws attention to the fact that Joe is still subject to restrictions\]
-
-> *Now that Joe is no longer on parole, only the **restriction of** his voting rights remains* \[draws attention to the kind of restrictions that Joe is still subject to\]
-
-*See also* [restricted for \| restricted to](#restricted-for--restricted-to)
-
-[*Source*](https://ell.stackexchange.com/questions/247658/whats-the-difference-between-restriction-on-and-restriction-of)
 
 ***
 
@@ -1726,36 +1236,6 @@ In software development, ***integrating*** two different programs means making t
 
 ***
 
-## integrate \| integrate in \| integrate into \| ~~integrate to~~ \| integrate with
-
-**Integrate in**&mdash;combine many things into a whole:
-
-> *We have **integrated in** companies many times.*
-
-> *The **integration in** the bone is the most important part of the surgery.*
-
-**Integrate into**&mdash;make something part of a larger whole:
-
-> *They’re going to **integrate into** our building.*
-
-***Integrate into*** can be a synonym of ***integrate in*** with the nuance that a smaller group becomes part of a larger whole
-
-**Integrate with**&mdash;combine two similarly sized groups together:
-
-> *I’d like to propose **integration with** the other political party.*
-
-While *integrate in* and *integrate into* can be synonyms, ***integrate with*** cannot and specifically implies two groups merging together, rather than an entity merging into a larger group or adapting to the larger group.
-
-While prepositions help clarify what exactly is being integrated in which situations, ***integrate*** can be used without a preposition:
-
-> *They **integrated** the immigrants.*
-
-*See also* [integrate \| merge](#integrate--merge)
-
-[*Source*](https://grammarhow.com/integrate-in-integrate-into-integrate-with/)
-
-***
-
 ## building \| compiling
 
 ***Compiling*** is done at any time the compiler is involved in translating programming language code to machine code.
@@ -1763,18 +1243,6 @@ While prepositions help clarify what exactly is being integrated in which situat
 ***Building*** is done when preparing an application for release, which includes ***compiling***, packaging, testing, etc.
 
 [*Source*](https://softwareengineering.stackexchange.com/questions/140321/what-is-the-difference-between-building-and-compiling)
-
-***
-
-## at a path \| on a path
-
-When you are ***at a path***, you are facing it, having not yet taken it.
-
-When you are ***on a path***, you have begun to take it and are in the act of following it.
-
-*See also* [at each step \| in each step \| on each step](#at-each-step--in-each-step--on-each-step)
-
-[*Source*](https://english.stackexchange.com/questions/486165/difference-between-at-every-step-and-on-every-step/486191#486191)
 
 ***
 
@@ -1806,47 +1274,6 @@ equipment:
 
 ***
 
-## made from \| made of
-
-**Made of** is used when the material the subject consists of doesn’t change
-during the process of making the subject.
-
-> *Chairs are **made of** wood.*
-
-Here, wood is still wood. It doesn’t transform into something else.
-
-On the other hand, **made from** is used when the material changed its nature.
-
-> *Paper is **made from** wood.*
-
-Now, wood disappeared&mdash;it was transformed into paper.
-
-Some more examples:
-
-> *The house is **made of** bricks.* \[They are still bricks.\]
-
-> *Wine is **made from** grapes.* \[Grapes turn into wine.\]
-
-> *I have a table and it’s **made from** bamboo.*
-
-The carpenter took stocks of bamboo, cut them, halved them, and made them into
-a table. The carpenter **modified** the bamboo’s **structural integrity**, so
-my table is **made from** bamboo.
-
-> *I have a vase and it’s made of bamboo.*
-
-The carpenter took a stock of bamboo and carved a vase out of it. The carpenter
-**didn’t modify** the bamboo’s **structural integrity**, so my vase is **made
-of** bamboo.
-
-[*Source*](https://www.usingenglish.com/forum/threads/14802-made-of-vs-made-from)
-
-***
-
-## typical for = typical of
-
-***
-
 ## during \| within
 
 **during** indicates a time frame
@@ -1870,16 +1297,6 @@ not end.
 ## new \| novel
 
 **novel** = innovative
-
-***
-
-## compare to \| compare with
-
-**to**: акцент делается на схожести сравниваемых вещей
-
-**with**: акцент делается на разности вещей больше, чем на их схожести
-
-[*Source*](https://www.dailywritingtips.com/compared-to-or-compared-with/)
 
 ***
 
@@ -1959,67 +1376,6 @@ is a distinguishing attribute or quality while **particular** is a small
 individual part of something larger; a detail, a point.
 
 [*Source*](https://wikidiff.com/specific/particular)
-
-***
-
-## part of \| a part of
-
-Generally, you can use either.
-
-If you say *Money is **part** of the American Dream*, you mean that both ideas
-are strongly linked together. If you said *Money is **a part** of the American
-Dream*, it would mean that money is only a part of the American Dream. You
-would focus on just one part as opposed to the rest. The second solution is
-grammatically correct but seems awkward as it would be difficult to find a
-context in which it fits.
-
-[*Source*](https://english.stackexchange.com/questions/158232/difference-between-part-and-a-part)
-
-***
-
-## explanation for \| explanation of \| explanation to
-
-You could use any of those three. The one I would hear most often in Geometry
-class would be with **of**.
-
-[*Source*](https://forum.wordreference.com/threads/it-provides-an-explanation-¿to-for-of-the-problem.226037/)
-
-***
-
-## can be further \| can further be
-
-**Can further be**&mdash;pragmatically marked *furthermore* (in addition).
-
-**Can be further**&mdash;underlining what goes afterwards.
-
-[*Source*](https://english.stackexchange.com/questions/414029/can-further-be-vs-can-be-further)
-
-***
-
-## consist in \| consist of
-
-**Consist of**&mdash;to be made up of, comprise:
-
-> *This novel **consists of** three parts.*
-
-> *Genes **consist of** a specific sequence of DNA.*
-
-**consist in**&mdash;to be essential, be inherent or lie in:
-
-> *His social success **consists in** making people believe he is interested in
-  what they say.*
-
-The secret to a successful relationship consists in knowing that a crisis
-doesn’t mean everything is over.
-
-Some people say a key point to know which one to use is that ***consist of***
-is normally used with more tangible objects whereas ***consist in*** refers to
-an abstract quality.
-
-Others also say that ***consist of*** is always followed by a noun phrase,
-whereas ***consist in*** is followed by a verb.
-
-[*Source*](http://ourenglishblog.com/grammar/consist-of-or-consist-in/)
 
 ***
 
@@ -2329,26 +1685,6 @@ According to Oxford Dictionaries it can be *treated as singular or plural*.
 
 ***
 
-## related to \| relates to \| relating to
-
-***Related to***&mdash;connected with.
-
-***Relating to***&mdash;about or concerning.
-
-1. Activity focus:
-
-   > *My question **relates to** your earlier work.*
-
-2. Status focus:
-
-   > *My question **is related to** you earlier work.*
-
-*Sources:
-[1](https://english.stackexchange.com/questions/67703/relating-to-or-related-to),
-[2](https://english.stackexchange.com/questions/260331/relates-to-vs-is-related-to)*
-
-***
-
 ## disturbance (plural)
 
 The noun ***disturbance*** can be countable or uncountable. In more general,
@@ -2358,18 +1694,6 @@ However, in more specific contexts, the plural form can also be
 collection of disturbances.
 
 [*Source*](https://www.wordhippo.com/what-is/the-plural-of/disturbance.html)
-
-***
-
-## also can \| can also
-
-It is stated clearly in the dictionary and various grammar books that the word
-***also*** (which means *in addition*&mdash;a logical connector) is placed
-*after* the auxiliary verbs. It sounds more formal when used unlike ***also
-can*** or *also could* which sounded more informal and colloquial (ordinary
-conversation, informal).
-
-[*Source*](https://www.englishforums.com/English/CanAlsoOrAlsoCan/hdzgb/post.htm)
 
 ***
 
@@ -2441,35 +1765,6 @@ has a significant impact on the scope of protection. If in doubt, go with
 
 ***
 
-## on \| onto
-
-We use **onto** to:
-
-- Talk about direction or movement to a position on a surface, usually with a
-  verb that expresses movement:
-
-  > *The cat climbed **onto** the roof.*
-
-  > *She emptied the suitcase full of clothes **onto** the floor.*
-
-- Describe movement towards an end position along a road or river:
-
-  > *The path leads **onto** the main road.*
-
-We use ***on*** or ***onto*** with very little difference in meaning to refer
-to attachment or movement of something to something else. ***Onto*** gives a
-stronger feeling of movement:
-
-> *There's a battery pack with the camera that you can clip **onto** a belt.*
-
-> *You can save the data **onto** your hard disk.*
-
-> *Have you put the pictures **on** your memory stick?*
-
-[*Source*](https://dictionary.cambridge.org/ru/грамматика/британская-грамматика/on-onto)
-
-***
-
 ## said
 
 [*https://patentlyo.com/patent/2015/09/said-element.html*](https://patentlyo.com/patent/2015/09/said-element.html)
@@ -2496,69 +1791,6 @@ stronger feeling of movement:
 
 ***
 
-## starting from \| starting with
-
-***Starting with*** A includes only words that start with the letter A.
-
-> *Please give me all the names **starting with** A.*
-
-***Starting from*** A gives you all the words that start with A and all the
-words that start with the letters after A.
-
-> *Let’s start cutting back on our expenses, **starting with/from** the money
-  we spend on food.*
-
-They can be used interchangeably if there is no order to what is being started
-with/from, though ***with*** is more correct in my opinion. When order matters,
-***starting from*** includes all items starting with and coming after.
-
-[*Source*](https://english.stackexchange.com/questions/112972/starting-with-vs-starting-from/112975)
-
-***
-
-## translate into \| translate to
-
-- When you speak about the target language of translation, the usual
-  preposition is ***into***:
-
-  > *She translated the text **into** German.*
-
-- When pointing out that one phrase is a translation of another, i.e. when the
-  target is a phrase rather than a language, ***to*** is used instead:
-
-  > *“Good morning!” was translated **to** “Guten Morgen!”.*
-
-- Both variants are common for the pattern *from a language (in)to another
-  language*:
-
-  > *She translated the text <ins>from</ins> English **into** German.*
-
-  > *She translated the text <ins>from</ins> English **to** German.* (also possible)
-
-While the variant with ***into*** is more common in English literature (and is
-also usually the the variant described in dictionaries and therefore the more
-recommendable variant for non-native speakers), the variant with ***to*** seems
-to be more common on the Internet and in everyday usage.
-
-- Note that when “language to language” is used as an adjective phrase, the
-  situation is reversed, and only ***to*** is common:
-
-  > *We need to prepare an English-**to**-French translation.*
-
-[*Source*](https://jakubmarian.com/translate-to-vs-translate-into-in-english/)
-
-***
-
-## literature \| the literature
-
-An article is not needed for a general use. When ***literature*** refers to a
-specific collection of books, papers, etc., is related to a given subject, we
-use ***the***.
-
-[*Source*](https://jakubmarian.com/in-literature-vs-in-the-literature-in-english/)
-
-***
-
 ## before \| till \| until
 
 If A happens before B, A happens and then B happens. If A happens *until* B
@@ -2577,38 +1809,6 @@ In the second you leave no earlier than 04:15 when it starts to become light.
 Note the different constructions with positive and negative statements.
 
 [*Source*](https://hinative.com/en-US/questions/5074835)
-
-***
-
-## opposite \| opposite to
-
-- As a noun, ***opposite*** may stand alone or be followed by the preposition
-  *of*:
-
-  > *Madeleine believes just the **opposite**!*
-
-  > *What is the **opposite** of up?*
-
-- As an adjective, ***opposite*** may stand alone or be followed by the
-  preposition to *or* occasionally *from*:
-
-  > *The cars were travelling in **opposite** directions when the accident
-    occurred.*
-
-  > *Hyacinth’s opinions are often **opposite** to Pierre’s.*
-
-  > *Keith’s cottage is on the same lake but on the **opposite** side from (or
-    to) ours.*
-
-- ***Opposite*** may also function as a preposition. The preposition
-  ***opposite*** should not be followed by *of* or *to*:
-
-  > *Jean-Luc lives in the house **opposite** ours.*
-
-  > *Two dozen condos will be built **opposite** the theatre* (not ~~*opposite
-    of the theatre*~~ or ~~*opposite to the theatre*~~).
-
-[*Source*](https://www.btb.termiumplus.gc.ca/tpv2guides/guides/wrtps/index-eng.html?lang=eng&lettr=indx_catlog_o&page=9f6h6X_fuaGE.html)
 
 ***
 
@@ -2727,18 +1927,6 @@ used in both formal and informal conversation settings.
 
 ***
 
-## substitute for \| substitute with
-
-*We substitute pizza **for** vegetables as our dinner* = we are having pizza
-instead of vegetables for dinner.
-
-*We substitute pizza **with** vegetables as our dinner* = we are having
-vegetables instead of pizza for dinner.
-
-[*Source*](https://www.blog.voicetube.com/archives/55539)
-
-***
-
 ## define \| determine \| determine on \| establish
 
 **Establish**&mdash;to make stable or firm; to confirm; to prove and cause
@@ -2789,31 +1977,6 @@ standard (Garner’s Modern American Usage).
 
 ***
 
-## independent of \| ~~independently from~~ \| independently of
-
-~~***Independently from***~~ is not correct usage, as well as being very
-uncommon. From X would indicate either coming from X or going away from X,
-neither of which applies here, since independence does not come or go from
-something.
-
-***Independent*** is an adjective that defines a noun:
-
-> *Something is **independent** of ...*
-
-***Independently*** is an adverb that defines a verb:
-
-> *You do something **independently** of ...*
-
-The proper adverbial phrase is ***independently of***. The phrase
-***independent of***, an adjective phrase, is sometimes WRONGLY asked to
-perform an adverbial function.
-
-*Sources:
-[1](https://english.stackexchange.com/questions/39349/independent-independently-of-from),
-[2](https://www.proz.com/kudoz/english/linguistics/1122474-independently-of.html)*
-
-***
-
 ## whether \| whether or not
 
 The *or not* portion of ***whether or not*** is often unnecessary and can be
@@ -2838,125 +2001,13 @@ When ***whether*** means *if*, use one word. To decide which you should use, rep
 
 ## After that,
 
-Use this phrase when you’re describing things in order, especially for
-instructions:
+Use this phrase when you’re describing things in order, especially for instructions:
 
-> ***First** you fry up the meatballs and set them aside. **Then** you chop up
-  some onions and celery and cook them on low heat for about 15 minutes.
-  **After that,** you add the tomatoes and garlic.*
+> ***First** you fry up the meatballs and set them aside. **Then** you chop up some onions and celery and cook them on low heat for about 15 minutes. **After that,** you add the tomatoes and garlic.*
 
-You don’t usually use ***after that*** for the second step in the list, but you
-can use it for the third or any other step after that.
+You don’t usually use ***after that*** for the second step in the list, but you can use it for the third or any other step after that.
 
 [*Source*](https://www.phrasemix.com/phrases/after-that-sentence)
-
-***
-
-## information about \| information of \| information on
-
-**Information on** something would be information that is really in-depth, and
-quite into details. i.e. a study on history, or a book on biomedicine.
-
-**Information about** something has the implication that it is information that
-is a kind of summary about a subject i.e. a brochure will contain *information
-about something*, but you can’t really say ~~*A brochure on mechanics.*~~ You
-would use *A brochure about mechanics.*
-
-I would avoid using ***information of*** something for the reason that it could
-be misunderstood to mean *information belonging to something*.
-
-[*Source*](https://english.stackexchange.com/questions/32838/what-is-the-difference-between-information-on-information-of-information/32843)
-
-***
-
-## think about \| think of
-
-In many contexts, ***think of*** and ***think about*** are effectively
-interchangeable.
-
-> *I’m **thinking of/about** looking for a new job.*
-
-In other contexts, to **think of** something means you’re at least aware of the
-thing, but may not have given it a great deal of consideration. If you ***think
-about*** something this normally implies more focused or extended attention.
-
-> *I never **thought of** doing that!* (that possibility never crossed my
-  mind).
-
-> *Have you **thought about** my birthday present?* (have you
-  considered/decided what to get me?)
-
-[*Source*](https://english.stackexchange.com/questions/71003/difference-between-think-of-and-think-about?noredirect=1)
-
-***
-
-## hear about \| hear of
-
-See [think of \| think about](#think-of--think-about).
-
-You might say you’ve ***heard of*** something meaning no more than that you’re
-aware *something* exists. But if you’ve ***heard about*** *something* the
-implication is you’ve heard some important/current information about that thing.
-
-> *I’ve **heard of** Amy Winehouse* (the name is known to me, but I don’t
-  necessarily know any more).
-
-> *I’ve **heard about** Amy Winehouse* (strongly implies knowing of her untimely
-  death).
-
-[*Source*](https://english.stackexchange.com/questions/71003/difference-between-think-of-and-think-about?noredirect=1)
-
-***
-
-## throw at \| throw to
-
-**Throw at**&mdash;to throw something so that it HITS the target.
-
-**Throw to** can mean two things:
-
-1. If throwing to a person, it is usually so that they can catch the object.
-
-2. If throwing to something else, it is so that the object ends up near the
-   target.
-
-[*Source*](https://hinative.com/ru/questions/209548)
-
-***
-
-## in the photo \| in the picture \| on the postcard \| on the screen
-
-If you are talking about the subject of the picture, use ***in***:
-
-> *The boy **in** the picture is smiling.*
-
-> *The boy **in** the photograph is walking on the sand.*
-
-It seems simply wrong to talk about a person, or an object, ~~*on*~~ the
-photograph.
-
-If you are talking about the picture as a piece of paper/canvas/etc.,
-use ***on***:
-
-> *Spilling water **on** the picture will ruin it.*
-
-It would be different talking about a postcard, because the picture/photograph
-is, itself, on the postcard. So if the photograph of the boy on the beach was
-printed as a postcard&mdash;or a greeting card of any kind&mdash;then he would
-be the boy on the card.
-
-> *The boy **in** the photograph on the card.*
-
-Photo takes precedence over paper. We always speak of things in the picture/in
-the photo, regardless of the medium (paper, digital image, etc.) I would say
-***on** the computer screen* because it is the medium for displaying an image.
-
-> *The boy **in** the image on the computer screen.*
-
-If that image had been painted on canvas (or on a wall):
-
-> *The boy in the picture and **on** the canvas (**on** the wall).*
-
-[*Source*](https://forum.wordreference.com/threads/do-you-say-in-or-on-the-photo-postcard-picture-etc.103411/)
 
 ***
 
@@ -2970,113 +2021,6 @@ If that image had been painted on canvas (or on a wall):
 knowledge.
 
 [*Source*](https://english.stackexchange.com/questions/390144/insider-knowledge-vs-insiders-knowledge-vs-inside-knowledge)
-
-***
-
-## knowledge about \| knowledge of \| ~~knowledge on~~
-
-**Knowledge about** implies knowing external details, without having experienced
-any of these:
-
-> ***Knowledge about** writers.*
-
-> ***Knowledge about** India, bicycles, heart disease.*
-
-**Knowledge of** implies a more intimate knowledge from the inside out:
-
-> *I would want to increase my **knowledge of** writers.*
-
-Know science, know music:
-
-> *Have **knowledge of** science /music* (not ~~*about*~~ them).
-
-~~**Knowledge on**~~ is virtually never used.
-
-*Sources:
-[1](https://forum.wordreference.com/threads/knowledge-of-about.1527465/),
-[2](https://english.stackexchange.com/questions/76633/knowledge-on-or-knowledge-of-which-one-is-correct/76640)*
-
-***
-
-## add in \| add into \| add to
-
-> *I **add in** tomatoes.*
-
-> *I **add to** the salad.*
-
-> *I **add to** the salad, tomatoes.*
-
-> *I **add** tomatoes **into** the salad.*
-
-> *To the salad, I **add in** tomatoes.*
-
-[*Source*](https://hinative.com/ru/questions/326474)
-
-***
-
-## separated by \| separated with
-
-***By*** marks an agent phrase:
-
-> *The fighters were finally **separated by** the referee.*
-
-***With*** marks an instrumental phrase:
-
-> *The fighters were finally **separated with** a crowbar.*
-
-When you’re talking about metaphoric separation you have the option of treating
-the *separator* either as an agent itself, or as a tool (of another agent).
-
-The agent interpretation:
-
-> *The entries are **separated by** commas.*
-
-The instrument interpretation:
-
-> *The entries were **separated with** commas.*
-
-*A typewriter* is an instrument, but *a ghostwriter* is a human, and therefore
-an agent.
-
-In most cases ***by*** and ***with*** are interchangeable, yet it could vary in
-cases like:
-
-> *I **smell with** my nose.*
-
-> ~~*I smell by my nose.*~~
-
-One of the interchangeable cases is:
-
-> *This is **indicated by** a green light*.
-
-> *This is **indicated with** a green light*.
-
-If you are writing documentation for your application, use the correct word for
-readability:
-
-> *This should be **instantiated by** passing the arguments A, B and C.*
-
-> *They should be **separated by** a comma.*
-
-> *This should be **called with** D and E.*
-
-[*Source*](https://english.stackexchange.com/questions/199791/separated-by-separated-with-or-does-it-not-matter)
-
-***
-
-## except \| except for
-
-***Except***&mdash;you are introducing the only thing, person, or group that
-your main statement does not apply to:
-
-> *Anything, **except** water, is likely to block a sink.*
-
-**Except for**&mdash;you are mentioning something that prevents a statement
-from being completely true:
-
-> *The classroom was silent, **except for** the sound of pens on paper.*
-
-[*Source*](https://www.italki.com/post/question-457801)
 
 ***
 
@@ -3267,77 +2211,6 @@ do not.
 
 ***
 
-## verb + infinitive \| verb + -ing
-
-***Attempt***:
-
-> *The speaker attempted **to persuade** the audience to support his ideas,
-  without success.*
-
-> *The speaker attempted **persuading** the audience to support his ideas,
-  without success.*
-
-***Continue***:
-
-> *In spite of family planning efforts, the population of poor countries
-  continues **to rise**.*
-
-> *In spite of family planning efforts, the population of poor countries
-  continues **rising**.*
-
-***Intend***:
-
-> *The school intends **to open** additional facilities in the coming year.*
-
-> *The school intends **opening** additional facilities in the coming year.*
-
-***Like***:
-
-> *The study shows that not many employees like **to take** work home.*
-
-> *The study shows that not many employees like **taking** work home.*
-
-***Start***:
-
-> *The company has started **to export** skilled manpower overseas.*
-
-> *The company has started **exporting** skilled manpower overseas.*
-
-[*Source*](https://jjc.jjay.cuny.edu/erc/grammar/verbs/VFws_gerund_infinitives.pdf)
-
-***
-
-## check if \| check whether
-
-***If*** and ***whether*** are often interchangeable, but sometimes using one
-or the other will change the meaning of your sentence.
-
-> *We want to know **if** you can come.*
-
-> *We want to know **whether** you can come.*
-
-> *Check his work and see **if** it is correct or not.*
-
-> *Check his work and see **whether** it is correct or not.*
-
-Use ***if*** when you have a conditional sentence and ***whether*** when
-showing that two alternatives are possible.
-
-> *Squiggly didn’t know whether Aardvark would arrive Friday or Saturday.* =
-  There are two possibilities: Aardvark will arrive Friday, or Aardvark will
-  arrive Saturday.
-
-> *Squiggly didn’t know if Aardvark would arrive Friday or Saturday.* =
-  Aardvark may not arrive at all.
-
-*See also* [check \| check for \| check that \| validate \| verify](#check--check-for--check-that--validate--verify), [whether \| whether or not](#whether--whether-or-not)
-
-*Sources:
-[1](https://www.usingenglish.com/forum/threads/is-there-a-difference-between-check-if-and-check-whether.28260/),
-[2](https://www.quickanddirtytips.com/education/grammar/if-versus-whether)*
-
-***
-
 ## subject \| topic
 
 **Topic**&mdash;a particular subject that you discuss or write about.
@@ -3465,23 +2338,6 @@ requires code execution.
 See also: [check \| check that \| validate \| verify](#check--check-that--validate--verify).
 
 [*Source*](https://saucelabs.com/blog/to-validate-or-verify)
-
-***
-
-## stop + -ing \| stop to + infinitive
-
-We use the ***-ing*** form after stop to indicate that an action or event is no
-longer continuing:
-
-> *It’s **stopped raining**. Let’s go for a walk.*
-
-We use the ***to-infinitive*** after stop to indicate that someone stops doing
-something in order to do something else:
-
-> *On the way to Edinburgh, we **stopped to** look at an old castle.* (We were
-  travelling, then we stopped our journey in order to look at the castle.)
-
-[*Source*](https://dictionary.cambridge.org/ru/грамматика/британская-грамматика/stop-ing-form-or-to-infinitive)
 
 ***
 
@@ -3627,22 +2483,6 @@ Use ***large*** in the following cases:
 
 ***
 
-considered \| considered as
----------------------------
-
-***Considered as*** construction is almost always redundant. If you use
-***considered*** to describe what people think of someone or something, you
-simply don’t need *as*.
-
-> *LeBron James is **considered** one of the best basketball players of all
-  time.*
-
-> *Bad grammar should be **considered** a crime.*
-
-[*Source*](https://bringmethenews.com/life/instagrammar-please-please-stop-saying-considered-as)
-
-***
-
 ## affirm \| confirm
 
 **Affirm**&mdash;to validate or state positively, to assert as valid and to
@@ -3661,52 +2501,6 @@ express someone’s dedication.
 
 ***
 
-## evaluation \| an evaluation
-
-> *This talk focuses on **evaluation** of...* = the talk is about the process
-  of evaluating
-
-> *This talk focuses on **an evaluation** of...* = the talk is about a
-  particular evaluation that has been made
-
-> *The focus of this talk is **an evaluation** of...* = the talk itself is
-  making an evaluation of something.
-
-[*Source*](https://english.stackexchange.com/questions/483505/omitting-article-before-evaluation)
-
-***
-
-## bound to \| bound with
-
-***Bind to*** is used to describe the action of tying or attaching an object to
-another object:
-
-> *Take the knife, and **bind** it **to** your leg.*
-
-***Bind with*** is used to describe the thing which is used to tie or attach
-the object:
-
-> *I will **bind** the knife with a rope.*
-
-One is used with the object the action is performed upon, and the other
-is used with the object performing the action.
-
-There is a range of idiomatic uses and similar phrasal verbs.
-
-The outcome was inevitable. **To** might be seen as part of the infinitive to
-fail, certainly it needs to be followed by a verb in infinitive form:
-
-> *He was **bound to** fail.*
-
-A complex or ongoing relationship between the outcome (failure), and some other
-factor (his preconceptions):
-
-> *His failure was **bound** up **with** his preconceptions.*
-
-[*Source*](https://forum.wordreference.com/threads/be-bound-to-vs-be-bound-with-noun.2963161/)
-
-***
-
 ## here \| in here
 
 ***Here***&mdash;a general location:
@@ -3721,68 +2515,6 @@ doing IN THIS ROOM. It probably means that I didn’t expect you to be here in
 this very room.
 
 [*Source*](https://forum.wordreference.com/threads/here-or-in-here.30167/)
-
-***
-
-## try + -ing \| try to
-
-**Try + -ing** means that you are trying something as an experiment, especially
-as a possible solution to a problem, to see if it works or not:
-
-> *Have you **tried turning** the computer off and on again?*
-
-**Try + to + infinitive** means that something is difficult but you are
-making an effort to do it:
-
-> *I’m **trying to learn** Japanese but it’s very difficult.*
-
-[*Source*](https://learnenglish.britishcouncil.org/grammar/intermediate-to-upper-intermediate/verbs-followed-by-ing-or-by-to-infinitive-2)
-
-***
-
-## at the beginning \| in the beginning
-
-***In the beginning*** is usually preferred alone and followed by a comma.
-
-***At the beginning*** is used together with a noun such as year, book,
-century, show, etc.
-
-> *In the beginning, God created* (etc\...)
-
-> *At the beginning OF TIME, God created*
-
-[*Source*](https://english.stackexchange.com/questions/20389/at-the-beginning-or-in-the-beginning/20406)
-
-***
-
-## at the end \| in the end
-
-**At the end**:
-
-- the end of a physical location:
-
-  > ***At the end** of our hallway.*
-
-- the closing or near completion of something:
-
-  > ***At the end** of the story.*
-
-  > ***At the end** of the film.*
-
-- the end point of a period in time:
-
-  > *The score was nil nil **at the end** of the game.*
-
-  > *I am going to go away **at the end** of the month.*
-
-**In the end** means *finally*:
-
-> *We all wanted to go to different places, **in the end**, we agreed to go to
-  the beach.*
-
-> *We waited for the bus for 2 hours, **in the end**, we caught a taxi.*
-
-[*Source*](https://english.stackexchange.com/questions/217987/what-differences-are-there-between-at-the-end-and-in-the-end)
 
 ***
 
@@ -3903,90 +2635,6 @@ bags or envelopes made of paper or plastic.
 
 ***
 
-## replace by \| replace with
-
-If you are referring to replacing something that is broken, old, or not
-working/inoperative, then you ***replace*** it ***with*** a new one.
-
-If you are referring to filling the role of someone or something with a
-substitute, then it is ***replaced by***.
-
-> *Human bank tellers have all but been **replaced by** ATMs.*
-
-> *Adam was **replaced by** Bill* (Bill decided that Adam had to be replaced,
-  but the sentence doesn’t say who Bill picked to replace Adam).
-
-[*Source*](https://forum.wordreference.com/threads/replaced-with-or-replaced-by.1985166/)
-
-***
-
-## inform about \| inform of \| inform on
-
-***Inform of*** merely talks about the information of something:
-
-> *I’ll have to **inform** her **of** Joe’s kidnapping.*
-
-**Inform about** means, not only will she be informed that Joe is kidnapped but also the details:
-
-> *I’ll have to **inform** her **about** Joe’s kidnapping.*
-
-**Inform on**&mdash;give incriminating information about someone to an authority:
-
-> *John **informed on** the gang to the police.*
-
-However, in the passive *inform on* merely indicates an area of coverage:
-
-> *I am very **informed on** this matter.*
-
-> *He is well **informed on** a wide variety of topics.*
-
-*See also* [notify about \| notify of \| ~~notify on~~](#notify-about--notify-of--notify-on)
-
-*Sources: [1](https://ell.stackexchange.com/questions/40623/inform-about-vs-inform-of),
-[2](https://ell.stackexchange.com/questions/47148/inform-about-vs-inform-of-vs-inform-on),
-[3](https://oneminuteenglish.org/en/inform-of-about-on-by)*
-
-***
-
-## communicate to \| communicate with
-
-If you **communicate with** someone, you share or exchange information
-with them, for example by speaking, writing, or using equipment:
-
-> *My natural mother has never **communicated with** me.*
-
-You can also say that two people communicate:
-
-> *They **communicated** in sign language.*
-
-***Communicate to***: if you communicate information, a feeling, or an
-idea to someone, you let them know about it:
-
-> *They successfully **communicate** their knowledge **to** others.*
-
-[*Source*](https://www.collinsdictionary.com/dictionary/english/communicate)
-
-***
-
-## experience \| an experience \| experiences
-
-*Countable*: an event or incident. It is an event that you were a part of and
-the event made an impression on you (it’s something you will remember). These
-type of experiences are countable, just like events.
-
-> *Climbing Mount Everest was an **experience** that I’ll never forget.*
-
-> *I have had some bad **experiences** with taxi drivers.*
-
-*Uncountable*: familiarity. You have used computers for many years, so you are
-familiar with them, you have knowledge of them, and you have skill using them:
-
-> *I have 8 years of teaching **experience**.*
-
-[*Source*](https://www.englishcurrent.com/grammar/experiences-experience/)
-
-***
-
 ## ~~in free time~~ \| in my free time
 
 *Time* is a countable noun in this case because it is specified and all
@@ -4094,125 +2742,6 @@ terms that relate to identity (specific, distinct communities):
 
 ***
 
-## progress \| ~~a progress~~ \| the progress
-
-When we refer to the ways in which society in general goes forward and improves
-itself, we use progress without ***the***:
-
-> ***Progress** will only happen when people begin to understand that every
-  individual has a responsibility to play their part.*
-
-> *~~The progress will only~~ ...*
-
-***Progress*** is a mass noun and cannot be regarded as a count noun, except in
-an archaic form:
-
-> Religious processions and royal **progresses** have been an important
-  practice in the Indian subcontinent.
-
-*Sources:
-[1](https://dictionary.cambridge.org/grammar/british-grammar/progress),
-[2](https://forum.wordreference.com/threads/made-a-substantial-progress-article.2675136/)*
-
-***
-
-## requirement for \| requirement of \| requirement on \| requirement to
-
-***Requirement on*** a person or something that is required to do something:
-
-> *The second element is a new **requirement on** private landlords to check tenants’ immigration status.*
-
-> *The **requirement on** the ECB[^ecb] is to keep inflation below but close to 2 per cent.*
-
-[^ecb]: ECB = European Central Bank
-
-***Requirement of*** a person or something that has required someone to do something:
-
-> *Such a declaration is a **requirement of** the law.*
-
-> *Pain tolerance is an essential **requirement of** his profession.*
-
-***Requirement for*** something that is required:
-
-> *Water is a fundamental **requirement for** life.*
-
-> *The **requirements for** the training course are stringent.*
-
-In ***requirement to*** *to* is attached to the verb as an infinitive:
-
-> *Stella strongly feels the **requirement to** do so, I think.*
-
-> *The current **requirement to** disclose portfolio information semiannually remains appropriate.*
-
-*Sources: [1](https://www.usingenglish.com/forum/threads/52223-requirement-to-for),
-[2](https://app.ludwig.guru/s/requirement+on),
-[3](https://app.ludwig.guru/s/Requirement+of),
-[4](https://app.ludwig.guru/s/Requirement+for),
-[5](https://app.ludwig.guru/s/requirement+to)*
-
-***
-
-## cover by \| cover in \| cover with
-
-The meanings are very similar, and these three prepositions can be used almost
-interchangeably:
-
-> *The mountain is **covered with/in/by** snow.*
-
-When referring to a substance that sticks to another, use ***in*** or
-***with***, but not ***by***:
-
-> *The actress was **covered in** blood.*
-
-> *The actress was **covered with** blood.*
-
-> ~~*The actress was **covered by** blood.*~~
-
-> *The ribs were **covered with** sauce.*
-
-> *The ribs were **covered in** sauce.*
-
-> ~~*The ribs were **covered by** sauce.*~~
-
-When referring something that physically protects something else, use
-***with*** or ***by***, but not ***in***:
-
-> *The field was **covered with** a tarp.*
-
-> *The field was **covered by** a tarp.*
-
-> ~~*The field was **covered in** a tarp.*~~
-
-Use ***covered with*** to indicate an unusual amount of something on top of
-something else; use ***covered by*** to connote a covering so dense that the
-object being covered is completely obscured from view:
-
-> *The mountain was **covered with** fog.*
-
-> *The mountain was **covered by** fog.*
-
-> *Our grass was **covered with** butterflies.*
-
-> *Our grass was **covered by** butterflies.*
-
-When talking about metaphorical coverage, use ***covered by***:
-
-> *The roof damage was **covered by** insurance.*
-
-> ~~*The roof damage was **covered with** insurance.*~~
-
-> ~~*The roof damage was **covered in** insurance.*~~
-
-> *The city council meeting was **covered by** the news station.*
-
-> ~~*The city council meeting was **covered with** the news station.*~~
-
-> ~~*The city council meeting was **covered in** the news station.*~~
-
-[*Source*](https://english.stackexchange.com/questions/60805/covered-with-vs-covered-in-vs-covered-by)
-
-***
-
 ## duty \| responsibility
 
 - **Duty** is a moral commitment to something or someone, whereas
@@ -4265,53 +2794,6 @@ that you can specifically identify:
   **work**?*
 
 [*Source*](https://www.bbc.co.uk/worldservice/learningenglish/language/askaboutenglish/2009/03/090331_aae_work_page.shtml)
-
-***
-
-## suggest \| suggest that
-
-> *He **suggested going** to Glastonbury.*
-
-> *He **suggested my going** to Glastonbury.*
-
-> *I **suggested visiting** your grandmother.*
-
-> *I **suggested your visiting** your grandmother.*
-
-> *He **suggests that** I should go to New York.*
-
-> *He **suggests that** I go to New York.*
-
-> *He **suggests I should go** to New York.*
-
-> *He **suggests I go** to New York.*
-
-[*Source*](https://www.ef.com/wwen/english-resources/english-grammar/using-suggest/)
-
-***
-
-## part \| a part
-
-Both ***part*** and ***a part*** can be used to refer to a discrete countable
-thing:
-
-> *We teach several skills. Dancing is **part** of what we teach.*
-
-> *We teach several skills. Dancing is **a part** of what we teach.*
-
-Both ***part*** and ***a part*** can be used to refer to a more general portion
-of a thing that is not countable:
-
-> ***Part** of the food* \[or money, or care\] *will be devoted to the poor.*
-
-> ***A part** of the food* \[or money, or care\] *will be devoted to the poor.*
-
-The portion to be devoted is not defined in these sentences as comprising a
-specific discrete section or item, but either construction is clear and
-appropriate. The addition of the article a may give a slight connotation that
-the portion may already be determined, but not necessarily.
-
-[*Source*](https://english.stackexchange.com/questions/117833/a-part-vs-part?noredirect=1)
 
 ***
 
@@ -4370,158 +2852,6 @@ not considered to be hosts.
 
 *Sources: [1](https://en.wikipedia.org/wiki/Host_(network)),
 [2](https://networkengineering.stackexchange.com/questions/19445/what-is-real-difference-between-host-and-node-in-network)*
-
-***
-
-## provide \| provide for \| provide with
-
-***Provide***: the result/outcome is the direct object:
-
-> *A house **provides** shelter.*
-
-> *My job **provides** income.* (= My job provides me with income.)
-
-***Provide with*:** *provide* is followed by an indirect object. **Providing**
-(someone) **with** something means to give something wanted or needed:
-
-> *Room to Read **provides** girls **with** scholarships that cover the cost of
-  housing, food, and books.*
-
-> ***Provide** the Partner **with** explanations on matters, arising in connection with execution of this Agreement.*
-
-In this sentence, *girls* is the indirect object and *scholarships* is the
-direct object.
-
-**Provide for**, in general, means to make whatever is necessary for someone
-available to him or her. We often use this expression when we talk about
-parents providing for their family:
-
-> *She says changes such as migration away from rural areas are allowing more
-  women to find work and **provide for** their families.*
-
-**Provide for** can mean *prepare for*:
-
-> *The architect **provided for** the possibility of storms by strengthening
-  the abutments.*
-
-> ~~*The architect **provided** the possibility of storms by strengthening the
-  abutments*~~ (= stronger abutments are somehow supposed to invoke storms).
-
-*Sources:
-[1](https://web.archive.org/web/20230602005445/https://learningenglish.voanews.com/a/everyday-grammar-prepositions-provide/2701412.html),
-[2](https://ell.stackexchange.com/questions/30456/provide-vs-provide-for),
-[3](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/provide+with+explanation)*
-
-***
-
-## useful for \| useful to
-
-*This book is useful to me* indicates that it is useful and important to
-me&mdash;particularly to me not anybody else, whereas *This book is useful for
-me* indicates that it is useful for me in general sense. The book is useful for
-everyone because it is a good book and so it useful for me too but not
-particularly useful and important only to me.
-
-[*Source*](https://www.quora.com/Which-is-correct-It-is-useful-to-me-or-It-is-useful-for-me)
-
-***
-
-## load \| the load
-
-***Load*** can be countable or uncountable. If you are talking about a specific
-load, than it is countable:
-
-> ***The load** on this circuit is 200 watts.*
-
-If you are talking about the idea of (for example), electrical power
-requirements, then it is uncountable:
-
-> *Our teacher explained the concept of **load** and how it affects electrical
-  circuits.*
-
-[*Source*](https://ell.stackexchange.com/questions/257672/is-load-countable-or-non-countable)
-
-***
-
-## ask for approval \| ask for an approval
-
-It is like *ask for permission*, with no article. You could also say *ask for
-your approval*. It would be possible to say ***ask for an approval*** if by
-*approval* you mean, for example, a specific form to be filled out.
-
-[*Source*](https://forum.wordreference.com/threads/ask-for-an-approval-with-or-without-the-article.2871918/)
-
-***
-
-## interfere in \| interfere with
-
-In the case of someone else's life, you can either ***interfere in*** or
-**with**. The former is critical of the fact that you meddled at all. The
-latter is critical of the results of your meddling.
-
-To **interfere with** means to disrupt:
-
-> *Wave patterns can **interfere with** each other* (they are mutually
-  disruptive).
-
-Whilst it’s true that ***interfering in*** someone else’s affairs may be
-disruptive, it needn’t be. But if you ***interfere with*** their affairs,
-you’re definitely having a bad influence. There’s also the idiomatic usage of a
-paedophile ***interfering with*** a victim, which normally refers specifically
-to touching a child’s genitals.
-
-[*Source*](https://english.stackexchange.com/questions/38033/interfere-in-vs-interfere-with)
-
-***
-
-## operation \| an operation \| operations
-
-- *\[countable\]* The process of cutting open a part of a person’s body in
-  order to remove or repair a damaged part:
-
-  > *Will I need to have **an operation**?*
-
-  > *He underwent **a** three-hour heart **operation**.*
-
-- *\[countable, uncountable\]* An act performed by a machine, especially a
-  computer:
-
-  > *The whole **operation** is performed in less than three seconds.*
-
-- *\[uncountable\]* The way that parts of a machine or a system work; the
-  process of making something work:
-
-  > *Regular servicing guarantees **the** smooth **operation** of the engine.*
-
-  > ***Operation** of the device is extremely simple.*
-
-- *\[countable\]* An organized activity that involves several people doing
-  different things:
-
-  > ***A** security **operation**.*
-
-  > *The police have launched **a** major **operation** against drug dealers.*
-
-- *\[countable\]* A business or company involving many parts:
-
-  > ***A** huge multinational **operation**.*
-
-- *\[countable\]* The activity or work done in an area of business or industry:
-
-  > ***The** firm’s banking **operations** overseas computer.*
-
-- *\[countable, usually plural\]* Military activity:
-
-  > *He was the officer in charge of **operations**.*
-
-- *\[countable\]* A process in which a number or quantity is changed by adding,
-  multiplying, etc.
-
-- Idioms:
-
-  > *Come into **operation**.*
-
-[*Source*](https://www.oxfordlearnersdictionaries.com/definition/american_english/operation)
 
 ***
 
@@ -4680,118 +3010,6 @@ voters.
 
 ***
 
-## for + gerund | to + infinitive
-
-Some verbs can be used with a gerund (***verb-ing***) or an infinitive (***to
-\+ verb***), but the meaning changes. For example:
-
-- ***Like***: can be used with both gerunds and infinitives without much change
-  in meaning, however:
-
-  - ***like + gerund***&mdash;you enjoy something:
-
-    > *I **like going** on holiday.*
-
-  - ***like + to + infinitive***&mdash;you want to say that you think it’s a
-    good idea:
-
-    > *I **like to go** to the dentist every 6 months.*
-
-- ***Stop***:
-
-  > *I **stopped working**.* (I was working, then I stopped)
-
-  > *I **stopped to** answer the phone.* (This is the reason I stopped)
-
-- ***Remember***:
-
-  > *I’m sure I bought the milk&mdash;I **remember buying** it!* (I did it, and
-    now I remember it&mdash;buy first, remember after!)
-
-  > *Don’t worry&mdash;I **remembered to** buy the milk.* (I thought of it,
-    then I did it&mdash;remember first, buy after!)
-
-- ***Forget***:
-
-  > *I’ll never **forget buying** my first car* (I did it, and I won’t forget
-    it&mdash;buy first, (not) forget after)
-
-  > *I **forgot to** buy the milk.* (I didn’t do it because I
-    forgot&mdash;forget first, buy after)
-
-- ***Try***:
-
-  > *I couldn’t sleep, so I **tried drinking** warm milk.* (This was one
-    possible way to achieve what I wanted)
-
-  > *I **tried to** sleep, but the music was too loud.* (This is what I wanted
-    to achieve, but it was difficult, and maybe I didn’t succeed)
-
-- ***Need***:
-
-  > *He **needs to** clean the toilet.* (Active, he should do it)
-
-  > *The toilet **needs cleaning**.* (Passive, someone should do it&mdash;it
-    should be done)
-
-- ***Go on***:
-
-  > *I **went on** working all night.* (I continued this)
-
-  > *I was a teacher, but I **went on** to work as a journalist.* (This is what
-    I did next)
-
-- ***Mean***:
-
-  > *I **mean to** learn Japanese one day.* (I plan to do this)
-
-  > *Learning Japanese **means learning** to write kanji.* (It involves this)
-
-[*Source*](https://www.tinyteflteacher.co.uk/learn-english/grammar-explanations/verb-patterns/verbs-with-gerund-or-infinitive)
-
-***
-
-## miss from \| miss in
-
-**miss in**&mdash;something or somebody is lost within something. You suppose
-that their existence is true, but their temporal or spatial position is
-missing:
-
-> ***Missing in** action*
-
-> *What’s **missing in** your apartment?*
-
-**Miss from**&mdash;something is lost entirely from its source, and whether or
-not it was there to begin with is irrelevant.
-
-> *Copy of check is **missing from** the file*
-
-~~Missing in the file~~ doesn’t make sense because it’s *not* in the file. The
-only use I can think of for ***missing in*** is when something (or someone)
-goes missing:
-
-> *John went **missing in** Paris.*
-
-> *I **missed** that new car **in** the first version of this computer game so
-  much.* (You obtained the first version of the game after you had already
-  played version two. You regret going back to an older version.)
-
-> *I **missed** that new car **from** the first version of this computer game
-  so much.* (The car was in the first version but was absent from the second
-  version.)
-
-You can’t really miss something until you have it. You don’t say to a girl you
-just met, *I’ve missed you all my life.* After you know her, and she goes away,
-then you can miss her:
-
-> *I **missed** you while you were on vacation.*
-
-*Sources:
-[1](https://forum.wordreference.com/threads/missing-in-from.3331958/),
-[2](https://forum.wordreference.com/threads/miss-from-in.2875221/)*
-
-***
-
 ## lack \| miss
 
 **Lack** something&mdash;to not have something (usually something desirable
@@ -4812,51 +3030,6 @@ of the loss of a previously owned object:
 
 > *I would take the radio apart, but I am **missing** a screwdriver. I can’t
   find it anywhere, I must have lost it.*
-
-***
-
-## solution for \| solution of \| solution to
-
-Generally we use ***to***:
-
-> *We have the **solution to** all your problems.*
-
-You can use ***solutions for*** when speaking of the recipient of the solution,
-as opposed to linking a solution to a problem:
-
-> *We have **solutions for** your family in your time of need.*
-
-It depends on your use of the word *solution*:
-
-> *What’s the **solution to** the problem?* (The answer to the problem)
-
-> *He won £10,000 for the **solution of** the math problem.* (The solving of
-  the problem)
-
-In chemistry:
-
-> *A **solution of** hydrogen peroxide and one of saturated potassium iodide.*
-
-*Sources:
-[1](https://forum.wordreference.com/threads/solution-for-to-a-problem.112398/),
-[2](https://www.usingenglish.com/forum/threads/solution-to-or-solution-of.237314/),
-[3](https://textranch.com/480641/solution-of/or/solution-to/)*
-
-***
-
-## connect to \| connect with
-
-**Connected to** usually means a physical connection:
-
-> *Your computer is **connected to** a printer.*
-
-**Connected with** someone or something means a relationship:
-
-> *He is still **connected with** his school colleagues*
-
-> *Symptoms **connected with** kidney stones*
-
-[*Source*](https://www.linkschool.co.uk/learn-english-connect-to-or-with/)
 
 ***
 
@@ -5007,22 +3180,6 @@ apparently by mere chance:
 [2](https://forum.wordreference.com/threads/coincidentally-vs-incidentally.3338234/),
 [3](https://www.dictionary.com/browse/coincidence),
 [4](https://theknowledgeburrow.com/is-it-coincidentally-or-coincidently/)*
-
-***
-
-## condition for \| condition of
-
-The **conditions for** some state of affairs are the conditions that
-must exist in order for that state of affairs to exist:
-
-> *The **conditions for** a hail storm.*
-
-The **condition of** *something* is the state that it is in. This is a
-different definition of condition.
-
-> *the **condition of** a car engine*
-
-[*Source*](https://www.englishforums.com/English/SufficientConditionForOf/zmwbk/post.htm)
 
 ***
 
@@ -5305,91 +3462,6 @@ To **crush** is to:
 
 ***
 
-## allow for \| allow of \| allow that \| allow to
-
-**Allow** means:
-
-- *permit* or *give permission*:
-
-  > *I can’t **allow** you to go outside without a jacket.*
-
-- fail to stop something from happening:
-  
-  > *The hermit **allowed** the grass to grow wild around the house and the
-    yard.*
-
-- admit (***allow that***[^allow_that]):
-  
-  > *The intern **allowed that** she was not the most experienced person to
-    give the flu shots.*
-
-**Allow for** means *make allowances for*[^make_allowances_for] or *consider
-the possibility of something*.
-
-[^allow_that]: allow that = допускать возможность того, что
-
-[^make_allowances_for]: make allowances for = делать поправку на
-
-> *The instructor **allowed for** the possibility that the students really did
-  forget to bring their homework assignments to class.* = Although the
-  instructor really believes that the students haven’t done the assignment, he
-  is open to the possibility that they really did the work and just forgot to
-  bring their assignments to class.
-
-> *When we decided to go on a picnic, we didn’t **allow for** the chance that
-  the rain would be as hard and continuous as it was.* = The friends didn’t
-  consider the possibility that it would keep raining when they first made up
-  their minds to go on a picnic.
-
-**Allow of**[^allow_of] (permit) has never been common, and it has practically
-disappeared today:
-
-> *The evidence **allows of** the possibility of an inside job.*
-
-[^allow_of]: Allow of = permit = делать возможным, допускать
-
-We would not say that *the evidence ~~allows for~~ a possibility*, because
-*evidence* is not a viable subject for that action; it is rather your
-interpretation which must allow for possibilities.
-
-*Sources:
-[1](https://languagetips.wordpress.com/category/allowallow-for/),
-[2](https://ell.stackexchange.com/questions/34025/allow-allow-of-allow-for)*
-
-***
-
-## die by \| die from \| die of
-
-**die of**: someone dies of a direct cause:
-
-> *He **died of** cancer.*
-
-**die from**: someone dies from an indirect cause:
-
-> *He **died from** smoking.*
-
-**die by**: someone dies by the means of something:
-
-> *He **died by** a bullet.*
-
-If you fell twenty stories, we might say that you ***died from*** falling, but
-you ***died of*** massive trauma and bloodloss (caused by the fall).
-
-Both *died of cancer* or *died from cancer* would probably be acceptable to an
-English speaker.
-
-When someone ***dies by** the sword*, for example, we don’t literally mean that
-they died from a sword to the heart. Rather we mean that they were prone to
-violence, and themselves died violently.
-
-You would more commonly see *death by X* as opposed to *died by X*:
-
-> ***Death by** firing squad*
-
-[*Source*](https://english.stackexchange.com/questions/397488/which-one-is-correct-died-of-or-died-from)
-
-***
-
 ## maximal \| maximum, minimal \| minimum
 
 ***Maximum*** and ***minimum*** relate to absolute values&mdash;there is
@@ -5419,44 +3491,6 @@ clique is maximal, but not vice-versa.
 ## minimal \| minimum
 
 See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum).
-
-***
-
-## allow + -ing \| allow that
-
-> *~~It **allows** to do something.~~*
-
-> *It **allows** me to do something.*
-
-> *It **allows** doing something.*
-
-> *It **allows** me doing something.*
-
-> *It **allows** something.*
-
-> *It **allows** something to be done.*
-
-[*Source*](https://ell.stackexchange.com/questions/11193/allow-to-infinitive-substantive-verb-ing)
-
-***
-
-## attention \| the attention
-
-> *His success draws **the attention** of everyone.*
-
-> *She drew **attention** to the need for proper punctuation.*
-
-[*Source*](https://forum.wordreference.com/threads/draw-attention-of.2551894/)
-
-***
-
-## need for \| need of
-
-*I am in **need of** money* = I need money right now
-
-*I have a **need for** money* = I like money and I always want it
-
-[*Source*](https://english.stackexchange.com/questions/539770/using-of-for-with-need)
 
 ***
 
@@ -5763,17 +3797,6 @@ Instructions are mainly associated with instruction or teaching.
 
 ***
 
-## method for \| method of
-
-**Method of** is how you do it. *A **method of** teaching* = a way to teach
-
-*A **method for** teaching* = a system designed for teaching
-
-*Sources: [1](https://hinative.com/questions/14244463),
-[2](https://forum.wordreference.com/threads/a-method-of-vs-a-method-for.3371036)*
-
-***
-
 ## during \| while
 
 **During** is a preposition followed by a noun or pronoun:
@@ -5974,26 +3997,6 @@ Exception: *color scheme*. If we all spoke more strictly, this would probably be
 
 ***
 
-## ~~for more detail~~ \| for more details \| in detail \| ~~in details~~ \| in more detail \| ~~in more details~~
-
-> ***For more details** about the program, see the information packet.*
-
-~~***In details***~~ is never correct as we’re not using the plural form of *detail* after *in*.
-
-***In more detail*** looks at finding out about specifics for a topic. Generally, someone already has a good understanding of the basics.
-
-> *Can you discuss this project with me **in more detail**?*
-
-***In detail*** looks for a full and comprehensive explanation of something. Often, they will not already have any understanding of what’s going on.
-
-> *I need you to explain, **in detail**, why you did those things.*
-
-*Sources: [1](https://grammarhow.com/in-more-detail),
-[2](https://www.grammargiant.com/confused-words/For-More-Detail-or-For-More-Details),
-[3](https://ru.pinterest.com/pin/is-it-in-detail-or-in-details--926123110843060460)*
-
-***
-
 ## be different = differ
 
 [*Source*](https://hinative.com/questions/18946693#answer-44542133)
@@ -6017,26 +4020,6 @@ We’d be less likely to say, ~~*It’s **in use** from time to time*~~, althoug
 *Sources: [1](https://www.englishforums.com/English/BeingUsedVSInUse/wgwqd/post.htm),
 [2](https://forum.wordreference.com/threads/difference-between-being-used-and-used.3357676/#post-17018749)*
 
-***
-
-## run in Windows \| run on Windows \| run under Windows
-
-![run_on_windows.svg](resources/charts/run_on_windows.svg)
-
-![run_on_under_windows_coca.svg](resources/charts/run_on_under_windows_coca.svg) ![run_on_under_windows_bnc.svg](resources/charts/run_on_under_windows_bnc.svg)
-
-Originally operating systems would be seen roughly like a set of rules, in which case you ***run under*** a set of rules. Nowadays an operating system is seen as a basis for building things upon, like a foundation, in which case you ***run on*** a foundation. Both are valid.
-
-As generic word usage, you would say *on a platform*, not *in a platform*. Saying that the program ***runs in** Linux* calls up the idea of using Linux as a container or environment. This is not wrong, but it’s less common.
-
-> *A machine is **running** a certain operating system.*
-
-> *A program is **running on** a certain operating system.*
-
-*Sources: [1](https://english.stackexchange.com/questions/95409/running-on-windows-vs-running-under-windows),
-[2](https://textranch.com/272675/run-on-windows/or/run-under-windows),
-[3](https://ell.stackexchange.com/questions/72067/which-is-the-right-preposition-when-referring-to-os-in-or-on),
-[4](https://books.google.com/ngrams/graph?content=run+in+Windows%2Crun+on+Windows%2Crun+under+Windows&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
 ***
 
 ## fast \| quick
@@ -6082,40 +4065,6 @@ Although references to people are considered a group or class, you’d still use
 Insurance *guarantees* (***ensures***) protection in the event of a flood. A rain storm *causes* (***enables***) a flood.
 
 [*Source*](https://ru.hinative.com/questions/10197663)
-
-***
-
-## designed for \| designed to
-
-***design to***&mdash;this is used for what an object has been made to do itself:
-
-> *Buildings can be **designed to** absorb and retain heat*
-
-> *The book is **designed for** learning English* (not ~~designed to learn~~, the book cannot learn English for itself)
-
-*Sources: [1](https://english.stackexchange.com/questions/229507/design-to-vs-design-for),
-[2](https://www.powerthesaurus.org/designed_to/sentences)*
-
-***
-
-## ~~log in to~~ \| log into \| ~~login to~~ \| log on
-
-It should go without saying that *into* is a single word. It’s a preposition that expresses movement towards something else:
-
-> *I went into the building* (not ~~*went in to*~~ = I went in (somewhere) to do an activity called “the building”)
-
-> *I went in to drink* (not ~~*went into*~~ = I went into a place called “drink”)
-
-***Login*** can be either a noun or adjective, therefore should not be followed by *to*.
-
-When you ***log on*** to something, you are simply accessing digital material, without necessarily needing to provide credentials:
-
-> ***Log on** to the news website of your choice and choose an article to discuss in class next week.*
-
-A *login* usually requires credentials.
-
-*Sources: [1](https://grammarhow.com/log-in-to-vs-log-into-vs-login-to),
-[2](https://writingexplained.org/log-in-or-log-on-difference)*
 
 ***
 
@@ -6185,18 +4134,6 @@ The expression *whole life* considers one’s life to be a single unit that has 
 
 *Sources: [1](https://www.clarkandmiller.com/how-to-use-whole-and-entire),
 [2](https://english.stackexchange.com/questions/9615/whole-vs-entire)*
-
-***
-
-## statistics about \| statistics on
-
-> *statistics **on/about** the suicide rate*
-
-***statistics on***&mdash;direct suicide rate statistics&mdash;deaths per year, per age group, etc.
-
-***statistics about***&mdash;the direct statistics \+ statistics which are related in some way (number of divorces, reported happiness levels).
-
-[*Source*](https://forum.wordreference.com/threads/statistics-on-about.3085846/#post-15602853)
 
 ***
 
@@ -6317,20 +4254,6 @@ Sources: *[1](https://dictionary.cambridge.org/dictionary/english-russian/quote)
 
 ***
 
-## effort at \| effort in \| effort of \| effort to
-
-effort\[s\] ***to*** {infinitive} is a more common form.
-
-***effort at*** focuses on energy/resources that are required for the effort.
-
-***effort in*** emphasizes that something requires certain energy/resources for the success.
-
-One can say *trapping effort*, or *effort ***of*** trapping*, but the meaning is different than with the preposition *in* or *at*. In a noun-noun construct the first noun (the noun adjunct) serves the role of an adjective.
-
-[*Source*](https://ell.stackexchange.com/questions/65234/effort-at-of-in-shooting)
-
-***
-
 ## ratio between ... and \| ratio of ... to
 
 Some believe that ***the between ... and*** construct is less formal, others mention that it is not uncommon (even in math).
@@ -6380,29 +4303,6 @@ All murders are killings but not all killings are murders. Accidental killing is
 
 ***
 
-## at each step \| in each step \| on each step
-
-***In each step***&mdash;something is done or happens as part of the process:
-
-> *Assembling the furniture consists of seven steps. **In each step** a new piece is added to the assembly.*
-
-***At each step***&mdash;something is done additionally to the process:
-
-> *Creating a report takes three steps. **At each step** the author is required to check with a reviewer that it has been done correctly.*
-
-***On*** turns the emphasis away from the person taking action, to emphasis the step as more crucial. *Step* could be a physical step (on a staircase or ladder) or a specific procedure one must do or follow:
-
-> *While climbing the ladder to pick cherries, "Warning: Serious Injury May Occur if extended beyond 5 Meters" was written **on every step**.*
-
-> *In building any model airplane with high voltage, safety equipment must be worn on every step, when performing steps 8 thru 14 below* [Whenever steps 8 thru 14 are performed, no matter which step it is between 8 and 14, safety equipment is necessary to prevent serious injury.)
-
-See also [at a path \| on a path](#at-a-path--on-a-path)
-
-*Sources: [1](https://english.stackexchange.com/questions/108584/at-step-or-in-step),
-[2](https://english.stackexchange.com/questions/486165/difference-between-at-every-step-and-on-every-step)*
-
-***
-
 ## given that \| provided that
 
 ***Given that*** \= because:
@@ -6414,32 +4314,6 @@ See also [at a path \| on a path](#at-a-path--on-a-path)
 > *We will have a pleasant tour **provided that** the coach does not break down.*
 
 [*Source*](https://english.stackexchange.com/questions/279316/the-difference-between-given-that-and-provided-that-cae-book-reference)
-
-***
-
-## time for \| time of \| time (required) for \| time (required) to
-
-*The **time of** the exam* will usually mean *the time appointed for the exam to start*:
-
-> *The **time of** the exam is 2:00 pm.*
-
-*The **time for** the exam* means one of the following:
-
-- the time appointed for the exam to start;
-- the time allotted for the exam to last;
-- the time actually spent on the exam.
-
-To eliminate ambiguity, use *The time allotted for* or *The time allowed for*.
-
-~~*The required time of/for assembling*~~ is at best poor style. Much better is *the **time required to** assemble/**for** assembling*.
-
-***time to***: *time to + \<infinitive\>*
-
-***time for***: *time for + \<gerund\> (..-ing)*
-
-*Sources: [1](https://forum.wordreference.com/threads/time-for-vs-time-of.2721884/),
-[2](https://english.stackexchange.com/questions/85010/time-of-something-time-for-something-or-something-else),
-[3](https://ell.stackexchange.com/questions/87485/time-to-or-time-for)*
 
 ***
 
@@ -7013,7 +4887,5 @@ See also [divide \| separate](#divide--separate)
 ***
 
 ## pass \| transfer \| transport
-
-***
 
 ***
