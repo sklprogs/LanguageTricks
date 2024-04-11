@@ -818,7 +818,7 @@ used in this construction.
 
 ## ~~switch into~~ \| switch to
 
-![switch_to.svg](resources/charts/switch_to.svg)
+![switch_to.svg](../resources/charts/switch_to.svg)
 
 *Sources: [1](https://forum.wordreference.com/threads/switch-into-to.3219784),
 [2](https://books.google.com/ngrams/graph?content=switch+into%2Cswitch+to&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
