@@ -82,17 +82,11 @@ One can say *trapping effort*, or *effort ***of*** trapping*, but the meaning is
 
 ## die by \| die from \| die of
 
-**die of**: someone dies of a direct cause:
-
-> *He **died of** cancer.*
-
-**die from**: someone dies from an indirect cause:
-
-> *He **died from** smoking.*
-
-**die by**: someone dies by the means of something:
-
-> *He **died by** a bullet.*
+| Form | Interpretation | Example |
+| --- | --- | --- |
+| **die of** | Someone dies of a direct cause | *He **died of** cancer.* |
+| **die from** | Someone dies from an indirect cause | *He **died from** smoking.* |
+| **die by** | Someone dies by the means of something | *He **died by** a bullet.* |
 
 If you fell twenty stories, we might say that you ***died from*** falling, but you ***died of*** massive trauma and bloodloss (caused by the fall).
 
