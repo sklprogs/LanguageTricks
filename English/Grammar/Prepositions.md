@@ -16,9 +16,86 @@
 
 [at the end \| in the end](#at-the-end--in-the-end)
 
+[bound to \| bound with](#bound-to--bound-with)
+
+[by email \| ~~through email~~ \| via email](#by-email--through-email--via-email)
+
+[by means of planting \| by planting \| through planting \| using planting \| via planting](#by-means-of-planting--by-planting--through-planting--using-planting--via-planting)
+
+[by software \| by using software \| using software \| ~~via software~~ \| with software](#by-software--by-using-software--using-software--via-software--with-software)
+
 [embed in \| into \| ~~to~~](#embed-in--into--to)
 
 [incorporate ∅ \| in \| into \| with \| within](#incorporate---in--into--with--within)
+
+***
+
+## by software \| by using software \| using software \| ~~via software~~ \| with software
+
+| Example | Comment |
+|---------|---------|
+| ***by** software* | The software did all the work, without any human intervention. The work is actually done *by* a human with the help of the software. |
+| ***by using** software* | Sounds correct and complete because you need both a preposition (*by*) and a verb (*use*). |
+| ***with** software* | OK, but *using* is better&mdash;*with* doesn’t tell you what the person would be doing with the software (*using* it). |
+| ***using*** | *Use* is a verb and thus indicates an action. |
+| ~~***via** software*~~ | Sounds awkward in this context. *Via* is mostly used as a synonym of *by way of*, as in *I’m flying to Hawaii via California*. It can also be used to mean something is like a stepping-stone in a less literal sense, as in *She arrived at the answer via brainstorming.* *Via* would be used when you are talking about a path (literal or figurative) to somewhere with any number of “stops” on the way. In this context, the software is not like a stop on the way, but is the thing the person is using. |
+
+*See also [by email \| ~~through email~~ \| via email](#by-email--through-email--via-email), [by means of planting \| by planting \| through planting \| using planting \| via planting](#by-means-of-planting--by-planting--through-planting--using-planting--via-planting)*
+
+*Sources: [1](https://ell.stackexchange.com/questions/194845/by-with-using-or-via-here),
+[2](https://forum.wordreference.com/threads/via-through-by-using-the-web-interface.2742782)*
+
+***
+
+## by email \| ~~through email~~ \| via email
+
+***By*** is the most popular, ***via*** is used sometimes, ***through*** is not used in this construction.
+
+*See also [by means of planting \| by planting \| through planting \| using planting \| via planting](#by-means-of-planting--by-planting--through-planting--using-planting--via-planting), [by software \| by using software \| using software \| ~~via software~~ \| with software](#by-software--by-using-software--using-software--via-software--with-software)*
+
+[*Source*](https://forum.wordreference.com/threads/through-email-by-email-via-email.3086548/)
+
+***
+
+## by means of planting \| by planting \| through planting \| using planting \| via planting
+
+| Example | Emphasizes |
+|---------|------------|
+| ***by** planting* | the direct action of planting itself in achieving a desired outcome |
+| ***by means of** planting* | a specific technique or process that involves planting |
+| ***through** planting* | the role of planting as a conduit for achieving a larger goal or objective |
+| ***using** planting* | the practical application or utilization of planting as a resource |
+| ***via*** | a means of transportation or a route taken to reach a destination |
+
+*See also [by email \| ~~through email~~ \| via email](#by-email--through-email--via-email), [by software \| by using software \| using software \| ~~via software~~ \| with software](#by-software--by-using-software--using-software--via-software--with-software)*
+
+[*Source*](https://thecontentauthority.com/blog/how-to-use-via-planting-in-a-sentence)
+
+***
+
+## bound to \| bound with
+
+***Bind to*** is used to describe the action of tying or attaching an object to another object:
+
+> *Take the knife, and **bind** it **to** your leg.*
+
+***Bind with*** is used to describe the thing which is used to tie or attach the object:
+
+> *I will **bind** the knife with a rope.*
+
+One is used with the object the action is performed upon, and the other is used with the object performing the action.
+
+There is a range of idiomatic uses and similar phrasal verbs.
+
+The outcome was inevitable. **To** might be seen as part of the infinitive to fail, certainly it needs to be followed by a verb in infinitive form:
+
+> *He was **bound to** fail.*
+
+A complex or ongoing relationship between the outcome (failure), and some other factor (his preconceptions):
+
+> *His failure was **bound** up **with** his preconceptions.*
+
+[*Source*](https://forum.wordreference.com/threads/be-bound-to-vs-be-bound-with-noun.2963161/)
 
 ***
 
