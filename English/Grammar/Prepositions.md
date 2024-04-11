@@ -94,6 +94,50 @@
 
 [on \| onto](#on--onto)
 
+[opposite \| opposite to](#opposite--opposite-to)
+
+[outside \| outside of](#outside--outside-of)
+
+***
+
+## outside \| outside of
+
+***Outside of***:
+
+- not recommended for formal writing;
+- tends to be more commonly used in the US than in Britain;
+- often used as a colloquial way of saying *except for*, *other than*, *apart from*:
+
+> ***Outside of** what I just mentioned, I can’t think of any reason not to.*
+
+[*Source*](https://english.stackexchange.com/questions/9700/outside-or-outside-of)
+
+***
+
+## opposite \| opposite to
+
+- As a noun, ***opposite*** may stand alone or be followed by the preposition *of*:
+
+  > *Madeleine believes just the **opposite**!*
+
+  > *What is the **opposite** of up?*
+
+- As an adjective, ***opposite*** may stand alone or be followed by the preposition to *or* occasionally *from*:
+
+  > *The cars were travelling in **opposite** directions when the accident occurred.*
+
+  > *Hyacinth’s opinions are often **opposite** to Pierre’s.*
+
+  > *Keith’s cottage is on the same lake but on the **opposite** side from (or to) ours.*
+
+- ***Opposite*** may also function as a preposition. The preposition ***opposite*** should not be followed by *of* or *to*:
+
+  > *Jean-Luc lives in the house **opposite** ours.*
+
+  > *Two dozen condos will be built **opposite** the theatre* (not ~~*opposite of the theatre*~~ or ~~*opposite to the theatre*~~).
+
+[*Source*](https://www.btb.termiumplus.gc.ca/tpv2guides/guides/wrtps/index-eng.html?lang=eng&lettr=indx_catlog_o&page=9f6h6X_fuaGE.html)
+
 ***
 
 ## on \| onto
