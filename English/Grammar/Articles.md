@@ -8,6 +8,8 @@
   - [experience \| an experience \| experiences](#experience--an-experience--experiences)
   - [for compliance with](#for-compliance-with)
   - [installation](#installation)
+  - [literature \| the literature](#literature--the-literature)
+  - [load \| the load](#load--the-load)
   - [mode](#mode)
   - [pose a threat](#pose-a-threat)
 - [Abbreviations](#abbreviations)
@@ -18,6 +20,28 @@
 ***
 
 ## Words and Phrases
+
+### load \| the load
+
+***Load*** can be countable or uncountable. If you are talking about a specific load, than it is countable:
+
+> ***The load** on this circuit is 200 watts.*
+
+If you are talking about the idea of (for example), electrical power requirements, then it is uncountable:
+
+> *Our teacher explained the concept of **load** and how it affects electrical circuits.*
+
+[*Source*](https://ell.stackexchange.com/questions/257672/is-load-countable-or-non-countable)
+
+***
+
+### literature \| the literature
+
+An article is not needed for a general use. When ***literature*** refers to a specific collection of books, papers, etc., is related to a given subject, we use ***the***.
+
+[*Source*](https://jakubmarian.com/in-literature-vs-in-the-literature-in-english)
+
+***
 
 ### experience \| an experience \| experiences
 
