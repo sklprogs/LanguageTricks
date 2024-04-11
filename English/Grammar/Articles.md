@@ -5,6 +5,7 @@
   - [ask for approval \| ask for an approval](#ask-for-approval--ask-for-an-approval)
   - [attention \| the attention](#attention--the-attention)
   - [evaluation \| an evaluation](#evaluation--an-evaluation)
+  - [experience \| an experience \| experiences](#experience--an-experience--experiences)
   - [for compliance with](#for-compliance-with)
   - [installation](#installation)
   - [mode](#mode)
@@ -17,6 +18,22 @@
 ***
 
 ## Words and Phrases
+
+### experience \| an experience \| experiences
+
+*Countable*: an event or incident. It is an event that you were a part of and the event made an impression on you (it’s something you will remember). These type of experiences are countable, just like events.
+
+> *Climbing Mount Everest was an **experience** that I’ll never forget.*
+
+> *I have had some bad **experiences** with taxi drivers.*
+
+*Uncountable*: familiarity. You have used computers for many years, so you are familiar with them, you have knowledge of them, and you have skill using them:
+
+> *I have 8 years of teaching **experience**.*
+
+[*Source*](https://www.englishcurrent.com/grammar/experiences-experience/)
+
+***
 
 ### evaluation \| an evaluation
 
