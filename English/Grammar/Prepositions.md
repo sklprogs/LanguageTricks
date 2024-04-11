@@ -78,6 +78,216 @@
 
 [knowledge about \| knowledge of \| ~~knowledge on~~](#knowledge-about--knowledge-of--knowledge-on)
 
+[~~log in to~~ \| log into \| ~~login to~~ \| log on](#log-in-to--log-into--login-to--log-on)
+
+[made from \| made of](#made-from--made-of)
+
+[method for \| method of](#method-for--method-of)
+
+[miss from \| miss in](#miss-from--miss-in)
+
+[mount at \| mount in \| mount on \| ~~mount to~~](#mount-at--mount-in--mount-on--mount-to)
+
+[need for \| need of](#need-for--need-of)
+
+[notify about \| notify of \| ~~notify on~~](#notify-about--notify-of--notify-on)
+
+[on \| onto](#on--onto)
+
+***
+
+## on \| onto
+
+We use **onto** to:
+
+- Talk about direction or movement to a position on a surface, usually with a verb that expresses movement:
+
+  > *The cat climbed **onto** the roof.*
+
+  > *She emptied the suitcase full of clothes **onto** the floor.*
+
+- Describe movement towards an end position along a road or river:
+
+  > *The path leads **onto** the main road.*
+
+We use ***on*** or ***onto*** with very little difference in meaning to refer to attachment or movement of something to something else. ***Onto*** gives a stronger feeling of movement:
+
+> *There's a battery pack with the camera that you can clip **onto** a belt.*
+
+> *You can save the data **onto** your hard disk.*
+
+> *Have you put the pictures **on** your memory stick?*
+
+[*Source*](https://dictionary.cambridge.org/ru/грамматика/британская-грамматика/on-onto)
+
+***
+
+## notify about \| notify of \| ~~notify on~~
+
+***Notify about*** = ***notify of*** (although *some* native speakers think that *of* sounds better):
+
+> *Please **notify <ins>us</ins> of** any change of address* \[at least *someone* is required\]
+
+| Pattern                      | Example                                                                          |
+|------------------------------|----------------------------------------------------------------------------------|
+| notify somebody              | *Competition winners will be **notified** by post.*                              |
+|                              | *You must **notify** us in writing if you wish to cancel your subscription.*     |
+| notify somebody of something | *The police must be **notified of** the date of the demonstration.*              |
+| notify something to somebody | *The date of the demonstration must be **notified** to the police.*              |
+| notify somebody that         | *Members have been **notified that** there will be a small increase in the fee.* |
+
+***Notify on*** has another meaning:
+
+> *After a few minutes I get a **notification on** my iPhone, you can continue the journey!*
+
+> *But I got a push **notification on** my Redbox app.*
+
+> *Does the Member State submit a non confidential version of the **notification on** a voluntary basis?*
+
+> *Slovenia withdrew its rescue aid **notification on** 1 August 2011.*
+
+*See also* [inform about \| inform of \| inform on](#inform-about--inform-of--inform-on)
+
+*Sources: [1](https://blog.harwardcommunications.com/2010/11/09/how-to-use-%E2%80%9Cinform%E2%80%9D-and-%E2%80%9Cnotify%E2%80%9D/),
+[2](https://forum.wordreference.com/threads/notify-someone-about-something.1636891/),
+[3](https://idioms.thefreedictionary.com/notify+someone+about),
+[4](https://www.oxfordlearnersdictionaries.com/definition/english/notify),
+[5](https://forum.wordreference.com/threads/notify-of-about-for.3757133/),
+[6](https://english.stackexchange.com/questions/259459/is-it-get-notified-on-or-get-notified-of),
+[7](https://textranch.com/648925/notification-on/or/notification-about/)*
+
+***
+
+## need for \| need of
+
+| Example | Interpretation |
+| --- | --- |
+| *I am in **need of** money.* | I need money right now. |
+| *I have a **need for** money.* | I like money and I always want it. |
+
+[*Source*](https://english.stackexchange.com/questions/539770/using-of-for-with-need)
+
+***
+
+## mount at \| mount in \| mount on \| ~~mount to~~
+
+Google Books Ngram Viewer [suggests](https://books.google.com/ngrams/graph?content=mounted+on+the+mount+point%2Cmounted+to+the+mount+point%2Cmounted+in+the+mount+point%2Cmounted+at+the+mount+point&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3) *mounted **on** the mount point* only.
+
+Levin (English Verb Classes and Alternations) places *mount* under “Verbs of Putting”, and specifically says that the preposition ***to*** is wrong for such verbs. She lists some “Verbs of Combining and Attaching” which take the preposition *to* (*add*, *connect*, *join*, *link*), but does not include *mount* among them.
+
+Other uses:
+
+> *In the same year the entartete Kunst exhibition was **mounted in** Munich.*
+
+> *The Party bitterly opposed the conspiracy theory that Evatt **mounted at** the Petrov Royal Commission.*
+
+> *Residents suggest the deployment of an army unit to curb constant attacks **mounted by** the Somali Bandits in the area.*
+
+> *These towers were manned day and night and were **mounted with**[^mount_with] a machine gun, rifle and searchlight.*
+
+[^mount_with]: mount with = оборудовать, оснащать
+
+> *Demands are **mounting for** a high-powered investigation with Liberal shadow minister Senator David Johnston today warning sex abuse claims were harming the reputation of the Catholic Church.*
+
+![mount.svg](resources/charts/mount.svg)
+
+*Sources: [1](https://www.englishforums.com/English/ToMountPreposition/bzhxpd/post.htm),
+[2](https://lingohelp.me/preposition-after-verb/mount-on-in-to-at-by/)*
+
+***
+
+## miss from \| miss in
+
+**miss in**&mdash;something or somebody is lost within something. You suppose that their existence is true, but their temporal or spatial position is missing:
+
+> ***Missing in** action*
+
+> *What’s **missing in** your apartment?*
+
+**Miss from**&mdash;something is lost entirely from its source, and whether or not it was there to begin with is irrelevant.
+
+> *Copy of check is **missing from** the file*
+
+~~Missing in the file~~ doesn’t make sense because it’s *not* in the file. The only use I can think of for ***missing in*** is when something (or someone) goes missing:
+
+> *John went **missing in** Paris.*
+
+> *I **missed** that new car **in** the first version of this computer game so much.* \[You obtained the first version of the game after you had already played version two. You regret going back to an older version.\]
+
+> *I **missed** that new car **from** the first version of this computer game so much.* \[The car was in the first version but was absent from the second version.\]
+
+You can’t really miss something until you have it. You don’t say to a girl you just met, *I’ve missed you all my life.* After you know her, and she goes away, then you can miss her:
+
+> *I **missed** you while you were on vacation.*
+
+*Sources:
+[1](https://forum.wordreference.com/threads/missing-in-from.3331958),
+[2](https://forum.wordreference.com/threads/miss-from-in.2875221)*
+
+***
+
+## method for \| method of
+
+**Method of** is how you do it. *A **method of** teaching* = a way to teach
+
+*A **method for** teaching* = a system designed for teaching
+
+*Sources: [1](https://hinative.com/questions/14244463),
+[2](https://forum.wordreference.com/threads/a-method-of-vs-a-method-for.3371036)*
+
+***
+
+## made from \| made of
+
+**Made of** is used when the material the subject consists of doesn’t change during the process of making the subject.
+
+> *Chairs are **made of** wood.*
+
+Here, wood is still wood. It doesn’t transform into something else.
+
+On the other hand, **made from** is used when the material changed its nature.
+
+> *Paper is **made from** wood.*
+
+Now, wood disappeared&mdash;it was transformed into paper.
+
+Some more examples:
+
+> *The house is **made of** bricks.* \[They are still bricks.\]
+
+> *Wine is **made from** grapes.* \[Grapes turn into wine.\]
+
+> *I have a table and it’s **made from** bamboo.*
+
+The carpenter took stocks of bamboo, cut them, halved them, and made them into a table. The carpenter **modified** the bamboo’s **structural integrity**, so my table is **made from** bamboo.
+
+> *I have a vase and it’s made of bamboo.*
+
+The carpenter took a stock of bamboo and carved a vase out of it. The carpenter **didn’t modify** the bamboo’s **structural integrity**, so my vase is **made of** bamboo.
+
+[*Source*](https://www.usingenglish.com/forum/threads/14802-made-of-vs-made-from)
+
+***
+
+## ~~log in to~~ \| log into \| ~~login to~~ \| log on
+
+It should go without saying that *into* is a single word. It’s a preposition that expresses movement towards something else:
+
+> *I went into the building* (not ~~*went in to*~~ = I went in (somewhere) to do an activity called “the building”)
+
+> *I went in to drink* (not ~~*went into*~~ = I went into a place called “drink”)
+
+***Login*** can be either a noun or adjective, therefore should not be followed by *to*.
+
+When you ***log on*** to something, you are simply accessing digital material, without necessarily needing to provide credentials:
+
+> ***Log on** to the news website of your choice and choose an article to discuss in class next week.*
+
+A *login* usually requires credentials.
+
+*Sources: [1](https://grammarhow.com/log-in-to-vs-log-into-vs-login-to),
+[2](https://writingexplained.org/log-in-or-log-on-difference)*
+
 ***
 
 ## knowledge about \| knowledge of \| ~~knowledge on~~
