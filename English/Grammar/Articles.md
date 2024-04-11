@@ -4,6 +4,7 @@
   - [as a reaction to](#as-a-reaction-to)
   - [ask for approval \| ask for an approval](#ask-for-approval--ask-for-an-approval)
   - [attention \| the attention](#attention--the-attention)
+  - [evaluation \| an evaluation](#evaluation--an-evaluation)
   - [for compliance with](#for-compliance-with)
   - [installation](#installation)
   - [mode](#mode)
@@ -16,6 +17,18 @@
 ***
 
 ## Words and Phrases
+
+### evaluation \| an evaluation
+
+| Example | Interpretation |
+| --- | --- |
+| *This talk focuses on **evaluation** of...* | The talk is about the process of evaluating. |
+| *This talk focuses on **an evaluation** of...* | The talk is about a particular evaluation that has been made. |
+| *The focus of this talk is **an evaluation** of...* | The talk itself is making an evaluation of something. |
+
+[*Source*](https://english.stackexchange.com/questions/483505/omitting-article-before-evaluation)
+
+***
 
 ### attention \| the attention
 
