@@ -24,9 +24,286 @@
 
 [by software \| by using software \| using software \| ~~via software~~ \| with software](#by-software--by-using-software--using-software--via-software--with-software)
 
+[change in \| change of \| change to](#change-in--change-of--change-to)
+
+[check if \| check whether](#check-if--check-whether)
+
+[communicate to \| communicate with](#communicate-to--communicate-with)
+
+[compare to \| compare with](#compare-to-compare-with)
+
+[condition for \| condition of](#condition-for--condition-of)
+
+[connect to \| connect with](#connect-to--connect-with)
+
+[considered \| considered as](#considered--considered-as)
+
+[consist in \| consist of](#consist-in--consist-of)
+
+[cover by \| cover in \| cover with](#cover-by--cover-in--cover-with)
+
+[designed for \| designed to](#designed-for--designed-to)
+
+[die by \| die from \| die of](#die-by--die-from--die-of)
+
+[effort at \| effort in \| effort of \| effort to](#effort-at--effort-in--effort-of--effort-to)
+
 [embed in \| into \| ~~to~~](#embed-in--into--to)
 
+[equivalent of \| equivalent to](#equivalent-of--equivalent-to)
+
 [incorporate ∅ \| in \| into \| with \| within](#incorporate---in--into--with--within)
+
+***
+
+## equivalent of \| equivalent to
+
+> *To be **equivalent to** something*
+
+> *To be <ins>the</ins> **equivalent of** something*
+
+[*Source*](https://forum.wordreference.com/threads/equivalent-to-vs-equivalent-of.2673133/)
+
+***
+
+## effort at \| effort in \| effort of \| effort to
+
+effort\[s\] ***to*** {infinitive} is a more common form.
+
+***effort at*** focuses on energy/resources that are required for the effort.
+
+***effort in*** emphasizes that something requires certain energy/resources for the success.
+
+One can say *trapping effort*, or *effort ***of*** trapping*, but the meaning is different than with the preposition *in* or *at*. In a noun-noun construct the first noun (the noun adjunct) serves the role of an adjective.
+
+[*Source*](https://ell.stackexchange.com/questions/65234/effort-at-of-in-shooting)
+
+***
+
+## die by \| die from \| die of
+
+**die of**: someone dies of a direct cause:
+
+> *He **died of** cancer.*
+
+**die from**: someone dies from an indirect cause:
+
+> *He **died from** smoking.*
+
+**die by**: someone dies by the means of something:
+
+> *He **died by** a bullet.*
+
+If you fell twenty stories, we might say that you ***died from*** falling, but you ***died of*** massive trauma and bloodloss (caused by the fall).
+
+Both *died of cancer* or *died from cancer* would probably be acceptable to an English speaker.
+
+When someone ***dies by** the sword*, for example, we don’t literally mean that they died from a sword to the heart. Rather we mean that they were prone to violence, and themselves died violently.
+
+You would more commonly see *death by X* as opposed to *died by X*:
+
+> ***Death by** firing squad*
+
+[*Source*](https://english.stackexchange.com/questions/397488/which-one-is-correct-died-of-or-died-from)
+
+***
+
+## designed for \| designed to
+
+***design to***&mdash;this is used for what an object has been made to do itself:
+
+> *Buildings can be **designed to** absorb and retain heat.*
+
+> *The book is **designed for** learning English* (not ~~designed to learn~~, the book cannot learn English for itself)
+
+*Sources: [1](https://english.stackexchange.com/questions/229507/design-to-vs-design-for),
+[2](https://www.powerthesaurus.org/designed_to/sentences)*
+
+***
+
+## cover by \| cover in \| cover with
+
+The meanings are very similar, and these three prepositions can be used almost interchangeably:
+
+> *The mountain is **covered with/in/by** snow.*
+
+When referring to a substance that sticks to another, use ***in*** or ***with***, but not ***by***:
+
+> *The actress was **covered in** blood.*
+
+> *The actress was **covered with** blood.*
+
+> ~~*The actress was **covered by** blood.*~~
+
+> *The ribs were **covered with** sauce.*
+
+> *The ribs were **covered in** sauce.*
+
+> ~~*The ribs were **covered by** sauce.*~~
+
+When referring something that physically protects something else, use ***with*** or ***by***, but not ***in***:
+
+> *The field was **covered with** a tarp.*
+
+> *The field was **covered by** a tarp.*
+
+> ~~*The field was **covered in** a tarp.*~~
+
+Use ***covered with*** to indicate an unusual amount of something on top of something else; use ***covered by*** to connote a covering so dense that the object being covered is completely obscured from view:
+
+> *The mountain was **covered with** fog.*
+
+> *The mountain was **covered by** fog.*
+
+> *Our grass was **covered with** butterflies.*
+
+> *Our grass was **covered by** butterflies.*
+
+When talking about metaphorical coverage, use ***covered by***:
+
+> *The roof damage was **covered by** insurance.*
+
+> ~~*The roof damage was **covered with** insurance.*~~
+
+> ~~*The roof damage was **covered in** insurance.*~~
+
+> *The city council meeting was **covered by** the news station.*
+
+> ~~*The city council meeting was **covered with** the news station.*~~
+
+> ~~*The city council meeting was **covered in** the news station.*~~
+
+[*Source*](https://english.stackexchange.com/questions/60805/covered-with-vs-covered-in-vs-covered-by)
+
+***
+
+## consist in \| consist of
+
+**Consist of**&mdash;to be made up of, comprise:
+
+> *This novel **consists of** three parts.*
+
+> *Genes **consist of** a specific sequence of DNA.*
+
+**consist in**&mdash;to be essential, be inherent or lie in:
+
+> *His social success **consists in** making people believe he is interested in what they say.*
+
+The secret to a successful relationship consists in knowing that a crisis doesn’t mean everything is over.
+
+Some people say a key point to know which one to use is that ***consist of*** is normally used with more tangible objects whereas ***consist in*** refers to an abstract quality.
+
+Others also say that ***consist of*** is always followed by a noun phrase, whereas ***consist in*** is followed by a verb.
+
+[*Source*](http://ourenglishblog.com/grammar/consist-of-or-consist-in/)
+
+***
+
+## considered \| considered as
+
+***Considered as*** construction is almost always redundant. If you use ***considered*** to describe what people think of someone or something, you simply don’t need *as*.
+
+> *LeBron James is **considered** one of the best basketball players of all time.*
+
+> *Bad grammar should be **considered** a crime.*
+
+[*Source*](https://bringmethenews.com/life/instagrammar-please-please-stop-saying-considered-as)
+
+***
+
+## connect to \| connect with
+
+**Connected to** usually means a physical connection:
+
+> *Your computer is **connected to** a printer.*
+
+**Connected with** someone or something means a relationship:
+
+> *He is still **connected with** his school colleagues.*
+
+> *Symptoms **connected with** kidney stones*
+
+[*Source*](https://www.linkschool.co.uk/learn-english-connect-to-or-with/)
+
+***
+
+## condition for \| condition of
+
+The **conditions for** some state of affairs are the conditions that must exist in order for that state of affairs to exist:
+
+> *The **conditions for** a hail storm.*
+
+The **condition of** *something* is the state that it is in. This is a different definition of condition.
+
+> *the **condition of** a car engine*
+
+[*Source*](https://www.englishforums.com/English/SufficientConditionForOf/zmwbk/post.htm)
+
+***
+
+## compare to \| compare with
+
+**to**: акцент делается на схожести сравниваемых вещей
+
+**with**: акцент делается на разности вещей больше, чем на их схожести
+
+[*Source*](https://www.dailywritingtips.com/compared-to-or-compared-with/)
+
+***
+
+## communicate to \| communicate with
+
+If you **communicate with** someone, you share or exchange information with them, for example by speaking, writing, or using equipment:
+
+> *My natural mother has never **communicated with** me.*
+
+You can also say that two people communicate:
+
+> *They **communicated** in sign language.*
+
+***Communicate to***: if you communicate information, a feeling, or an idea to someone, you let them know about it:
+
+> *They successfully **communicate** their knowledge **to** others.*
+
+[*Source*](https://www.collinsdictionary.com/dictionary/english/communicate)
+
+***
+
+## check if \| check whether
+
+***If*** and ***whether*** are often interchangeable, but sometimes using one or the other will change the meaning of your sentence.
+
+> *We want to know **if** you can come.*
+
+> *We want to know **whether** you can come.*
+
+> *Check his work and see **if** it is correct or not.*
+
+> *Check his work and see **whether** it is correct or not.*
+
+Use ***if*** when you have a conditional sentence and ***whether*** when showing that two alternatives are possible.
+
+> *Squiggly didn’t know whether Aardvark would arrive Friday or Saturday.* \[There are two possibilities: Aardvark will arrive Friday, or Aardvark will arrive Saturday.\]
+
+> *Squiggly didn’t know if Aardvark would arrive Friday or Saturday.* \[Aardvark may not arrive at all.\]
+
+*See also* [check \| check for \| check that \| validate \| verify](#check--check-for--check-that--validate--verify), [whether \| whether or not](#whether--whether-or-not)
+
+*Sources:
+[1](https://www.usingenglish.com/forum/threads/is-there-a-difference-between-check-if-and-check-whether.28260/),
+[2](https://www.quickanddirtytips.com/education/grammar/if-versus-whether)*
+
+***
+
+## change in \| change of \| change to
+
+| Form               | Meaning                                   | Example                                    |
+|--------------------|-------------------------------------------|--------------------------------------------|
+| change in          | a state, condition, character, or quality | ***change in** attitudes*                  |
+| change of          | some sort of replacement                  | ***change of** government*                 |
+| change from ... to | transition / transformation               | *color **change from** green **to** brown* |
+
+[*Source*](https://english.stackexchange.com/questions/405625/changes-in-changes-of-or-changes-to/405636#405636)
 
 ***
 
