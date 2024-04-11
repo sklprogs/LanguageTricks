@@ -136,6 +136,22 @@
 
 [translate into \| translate to](#translate-into--translate-to)
 
+[typical for = typical of](#typical-for--typical-of)
+
+[useful for \| useful to](#useful-for--useful-to)
+
+***
+
+## useful for \| useful to
+
+*This book is useful to me* indicates that it is useful and important to me&mdash;particularly to me not anybody else, whereas *This book is useful for me* indicates that it is useful for me in general sense. The book is useful for everyone because it is a good book and so it useful for me too but not particularly useful and important only to me.
+
+[*Source*](https://www.quora.com/Which-is-correct-It-is-useful-to-me-or-It-is-useful-for-me)
+
+***
+
+## typical for = typical of
+
 ***
 
 ## translate into \| translate to
