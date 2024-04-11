@@ -1,8 +1,131 @@
 # Prepositions
 
-[incorporate ∅ \| in \| into \| with \| within](#incorporate---in--into--with--within)
+[according to \| ~~according with~~ \| in accord with \| ~~in accordance to~~ \| in accordance with \| ~~in according with~~](#according-to--according-with--in-accord-with--in-accordance-to--in-accordance-with--in-according-with)
+
+[add in \| add into \| add to](#add-in--add-into--add-to)
+
+[allow for \| allow of \| allow that \| allow to](#allow-for--allow-of--allow-that--allow-to)
 
 [embed in \| into \| ~~to~~](#embed-in--into--to)
+
+[incorporate ∅ \| in \| into \| with \| within](#incorporate---in--into--with--within)
+
+***
+
+## allow for \| allow of \| allow that \| allow to
+
+**Allow** means:
+
+- *permit* or *give permission*:
+
+  > *I can’t **allow** you to go outside without a jacket.*
+
+- fail to stop something from happening:
+  
+  > *The hermit **allowed** the grass to grow wild around the house and the
+    yard.*
+
+- admit (***allow that***[^allow_that]):
+  
+  > *The intern **allowed that** she was not the most experienced person to
+    give the flu shots.*
+
+**Allow for** means *make allowances for*[^make_allowances_for] or *consider
+the possibility of something*.
+
+[^allow_that]: allow that = допускать возможность того, что
+
+[^make_allowances_for]: make allowances for = делать поправку на
+
+> *The instructor **allowed for** the possibility that the students really did
+  forget to bring their homework assignments to class.* = Although the
+  instructor really believes that the students haven’t done the assignment, he
+  is open to the possibility that they really did the work and just forgot to
+  bring their assignments to class.
+
+> *When we decided to go on a picnic, we didn’t **allow for** the chance that
+  the rain would be as hard and continuous as it was.* = The friends didn’t
+  consider the possibility that it would keep raining when they first made up
+  their minds to go on a picnic.
+
+**Allow of**[^allow_of] (permit) has never been common, and it has practically
+disappeared today:
+
+> *The evidence **allows of** the possibility of an inside job.*
+
+[^allow_of]: Allow of = permit = делать возможным, допускать
+
+We would not say that *the evidence ~~allows for~~ a possibility*, because
+*evidence* is not a viable subject for that action; it is rather your
+interpretation which must allow for possibilities.
+
+*Sources:
+[1](https://languagetips.wordpress.com/category/allowallow-for/),
+[2](https://ell.stackexchange.com/questions/34025/allow-allow-of-allow-for)*
+
+***
+
+## add in \| add into \| add to
+
+> *I **add in** tomatoes.*
+
+> *I **add to** the salad.*
+
+> *I **add to** the salad, tomatoes.*
+
+> *I **add** tomatoes **into** the salad.*
+
+> *To the salad, I **add in** tomatoes.*
+
+[*Source*](https://hinative.com/ru/questions/326474)
+
+***
+
+## according to \| ~~according with~~ \| in accord with \| ~~in accordance to~~ \| in accordance with \| ~~in according with~~
+
+**According to**:
+
+1) as stated or attested by:
+
+   > ***According to** John, the bank closes at 3 p.m.* \[ ~~*in accordance with*~~ is unusual\]
+
+1) in conformity with:
+
+   > *He acted **according to** his promise.*
+
+1) depending on:
+
+   > *You will be paid **according to** the amount of work you have done.*
+
+   > *Books arranged **according to** their subjects.*
+
+**Accordance with**&mdash;in compliance or in agreement:
+
+> ***In accordance with** the Geneva Convention...*
+
+**Accord** is a synonym of *agreement* or *harmony*:
+
+> *This view is not **in accord with** reality.*
+
+| category | in accord    | in accordance |
+|----------|--------------|---------------|
+| meaning  | in agreement | in compliance |
+| field    | physics      | legal         |
+
+> *In this system, ~~in accordance to~~ **in accord with** Kohn’s theorem, strong reduction of the energy level separation caused by the electron‐electron interaction compensates the depolarization shift.*
+
+> *We have observed fine structures near sample edges that shift inward with an increase in magnetic field ~~in accordance with~~ **in accord with** the shift of the positions of the quantum‐Hall edge states.*
+
+> *The simulated x‐ray diffraction pattern, density, and bulk modulus of Cco‐C₈ are ~~in good accordance with~~ **in good accord with** the experimental data on structurally undetermined superhard carbon recovered from cold compression of carbon nanotube bundles.*
+
+*Sources: [1](https://english.stackexchange.com/questions/400974/are-in-accordance-with-and-according-to-interchangeable),
+[2](https://ru.hinative.com/questions/19561453),
+[3](https://forum.wordreference.com/threads/as-per-according-in-accordance-with.548106/#post-3081201),
+[4](https://www.englishforums.com/English/InAccordanceAccordanceWith/jvbl/post.htm),
+[5](https://forum.wordreference.com/threads/according-to-according-with.931916/#post-4921192),
+[6](https://prostoenglishblog.ru/englishvocabulary/tpost/upztkzse51-according-to-ili-in-accordance-with),
+[7](https://grammarist.com/usage/accord-accordance),
+[8](http://people.physics.illinois.edu/Celia/MsP/Accord-Accordance.pdf)*
 
 ***
 
