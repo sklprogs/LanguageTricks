@@ -8,6 +8,44 @@
 
 [try + -ing \| try to](#try---ing--try-to)
 
+[verb + infinitive \| verb + -ing](#verb--infinitive--verb---ing)
+
+***
+
+## verb + infinitive \| verb + -ing
+
+***Attempt***:
+
+> *The speaker attempted **to persuade** the audience to support his ideas, without success.*
+
+> *The speaker attempted **persuading** the audience to support his ideas, without success.*
+
+***Continue***:
+
+> *In spite of family planning efforts, the population of poor countries continues **to rise**.*
+
+> *In spite of family planning efforts, the population of poor countries continues **rising**.*
+
+***Intend***:
+
+> *The school intends **to open** additional facilities in the coming year.*
+
+> *The school intends **opening** additional facilities in the coming year.*
+
+***Like***:
+
+> *The study shows that not many employees like **to take** work home.*
+
+> *The study shows that not many employees like **taking** work home.*
+
+***Start***:
+
+> *The company has started **to export** skilled manpower overseas.*
+
+> *The company has started **exporting** skilled manpower overseas.*
+
+[*Source*](https://jjc.jjay.cuny.edu/erc/grammar/verbs/VFws_gerund_infinitives.pdf)
+
 ***
 
 ## try + -ing \| try to
