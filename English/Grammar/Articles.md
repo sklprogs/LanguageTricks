@@ -12,7 +12,10 @@
   - [load \| the load](#load--the-load)
   - [mode](#mode)
   - [operation \| an operation \| operations](#operation--an-operation--operations)
+  - [part \| a part](#part--a-part)
+  - [part of \| a part of](#part-of--a-part-of)
   - [pose a threat](#pose-a-threat)
+  - [progress \| ~~a progress~~ \| the progress](#progress--a-progress--the-progress)
 - [Abbreviations](#abbreviations)
   - [Acronyms](#acronyms)
   - [Initialisms](#initialisms)
@@ -21,6 +24,58 @@
 ***
 
 ## Words and Phrases
+
+### progress \| ~~a progress~~ \| the progress
+
+When we refer to the ways in which society in general goes forward and improves itself, we use progress without ***the***:
+
+> ***Progress** will only happen when people begin to understand that every individual has a responsibility to play their part.*
+
+> *~~The progress will only~~ ...*
+
+***Progress*** is a mass noun and cannot be regarded as a count noun, except in an archaic form:
+
+> Religious processions and royal **progresses** have been an important practice in the Indian subcontinent.
+
+*Sources:
+[1](https://dictionary.cambridge.org/grammar/british-grammar/progress),
+[2](https://forum.wordreference.com/threads/made-a-substantial-progress-article.2675136)*
+
+***
+
+### part of \| a part of
+
+Generally, you can use either.
+
+If you say *Money is **part** of the American Dream*, you mean that both ideas are strongly linked together. If you said *Money is **a part** of the American Dream*, it would mean that money is only a part of the American Dream. You would focus on just one part as opposed to the rest. The second solution is grammatically correct but seems awkward as it would be difficult to find a context in which it fits.
+
+*See also* [part \| a part](#part--a-part)
+
+[*Source*](https://english.stackexchange.com/questions/158232/difference-between-part-and-a-part)
+
+***
+
+### part \| a part
+
+Both ***part*** and ***a part*** can be used to refer to a discrete countable thing:
+
+> *We teach several skills. Dancing is **part** of what we teach.*
+
+> *We teach several skills. Dancing is **a part** of what we teach.*
+
+Both ***part*** and ***a part*** can be used to refer to a more general portion of a thing that is not countable:
+
+> ***Part** of the food* \[or money, or care\] *will be devoted to the poor.*
+
+> ***A part** of the food* \[or money, or care\] *will be devoted to the poor.*
+
+The portion to be devoted is not defined in these sentences as comprising a specific discrete section or item, but either construction is clear and appropriate. The addition of the article a may give a slight connotation that the portion may already be determined, but not necessarily.
+
+*See also* [part of \| a part of](#part-of--a-part-of)
+
+[*Source*](https://english.stackexchange.com/questions/117833/a-part-vs-part?noredirect=1)
+
+***
 
 ### operation \| an operation \| operations
 
