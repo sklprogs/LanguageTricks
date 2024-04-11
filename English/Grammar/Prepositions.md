@@ -6,9 +6,121 @@
 
 [allow for \| allow of \| allow that \| allow to](#allow-for--allow-of--allow-that--allow-to)
 
+[at a path \| on a path](#at-a-path--on-a-path)
+
+[at each step \| in each step \| on each step](#at-each-step--in-each-step--on-each-step)
+
+[at startup \| on startup](#at-startup--on-startup)
+
+[at the beginning \| in the beginning](#at-the-beginning--in-the-beginning)
+
+[at the end \| in the end](#at-the-end--in-the-end)
+
 [embed in \| into \| ~~to~~](#embed-in--into--to)
 
 [incorporate ∅ \| in \| into \| with \| within](#incorporate---in--into--with--within)
+
+***
+
+## at the end \| in the end
+
+**At the end**:
+
+- the end of a physical location:
+
+  > ***At the end** of our hallway.*
+
+- the closing or near completion of something:
+
+  > ***At the end** of the story.*
+
+  > ***At the end** of the film.*
+
+- the end point of a period in time:
+
+  > *The score was nil nil **at the end** of the game.*
+
+  > *I am going to go away **at the end** of the month.*
+
+**In the end** means *finally*:
+
+> *We all wanted to go to different places, **in the end**, we agreed to go to the beach.*
+
+> *We waited for the bus for 2 hours, **in the end**, we caught a taxi.*
+
+[*Source*](https://english.stackexchange.com/questions/217987/what-differences-are-there-between-at-the-end-and-in-the-end)
+
+***
+
+## at the beginning \| in the beginning
+
+***In the beginning*** is usually preferred alone and followed by a comma.
+
+***At the beginning*** is used together with a noun such as year, book,
+century, show, etc.
+
+> *In the beginning, God created* (etc\...)
+
+> *At the beginning OF TIME, God created*
+
+[*Source*](https://english.stackexchange.com/questions/20389/at-the-beginning-or-in-the-beginning/20406)
+
+***
+
+## at startup \| on startup
+
+***On startup*** refers to the startup event of the application.
+
+***At startup*** refers to the moment in time the operating system starts up.
+
+![startup_code](https://i.stack.imgur.com/UToTu.png)
+
+Google Books Ngram Viewer statistics (by 2019):
+
+*At startup* is [2.56 times](https://books.google.com/ngrams/graph?content=on+startup%2Cat+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3) more popular than *on startup*;
+
+*at system startup* is [4.3 times](https://books.google.com/ngrams/graph?content=on+system+startup%2Cat+system+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3) more popular than *on system startup*;
+
+*at Windows startup* is [27 times](https://books.google.com/ngrams/graph?content=on+Windows+startup%2Cat+Windows+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3) more popular than *on Windows startup* (2017), the latter is not registered in 2019;
+
+*at application startup* is [1.43 times](https://books.google.com/ngrams/graph?content=on+application+startup%2Cat+application+startup&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3) more popular than *on application startup*.
+
+[*Source*](https://english.stackexchange.com/questions/154467/at-startup-vs-on-startup)
+
+***
+
+## at each step \| in each step \| on each step
+
+***In each step***&mdash;something is done or happens as part of the process:
+
+> *Assembling the furniture consists of seven steps. **In each step** a new piece is added to the assembly.*
+
+***At each step***&mdash;something is done additionally to the process:
+
+> *Creating a report takes three steps. **At each step** the author is required to check with a reviewer that it has been done correctly.*
+
+***On*** turns the emphasis away from the person taking action, to emphasis the step as more crucial. *Step* could be a physical step (on a staircase or ladder) or a specific procedure one must do or follow:
+
+> *While climbing the ladder to pick cherries, "Warning: Serious Injury May Occur if extended beyond 5 Meters" was written **on every step**.*
+
+> *In building any model airplane with high voltage, safety equipment must be worn on every step, when performing steps 8 thru 14 below* [Whenever steps 8 thru 14 are performed, no matter which step it is between 8 and 14, safety equipment is necessary to prevent serious injury.)
+
+See also [at a path \| on a path](#at-a-path--on-a-path)
+
+*Sources: [1](https://english.stackexchange.com/questions/108584/at-step-or-in-step),
+[2](https://english.stackexchange.com/questions/486165/difference-between-at-every-step-and-on-every-step)*
+
+***
+
+## at a path \| on a path
+
+When you are ***at a path***, you are facing it, having not yet taken it.
+
+When you are ***on a path***, you have begun to take it and are in the act of following it.
+
+*See also* [at each step \| in each step \| on each step](#at-each-step--in-each-step--on-each-step)
+
+[*Source*](https://english.stackexchange.com/questions/486165/difference-between-at-every-step-and-on-every-step/486191#486191)
 
 ***
 
