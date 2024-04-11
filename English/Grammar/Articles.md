@@ -11,6 +11,7 @@
   - [literature \| the literature](#literature--the-literature)
   - [load \| the load](#load--the-load)
   - [mode](#mode)
+  - [operation \| an operation \| operations](#operation--an-operation--operations)
   - [pose a threat](#pose-a-threat)
 - [Abbreviations](#abbreviations)
   - [Acronyms](#acronyms)
@@ -20,6 +21,52 @@
 ***
 
 ## Words and Phrases
+
+### operation \| an operation \| operations
+
+- *\[countable\]* The process of cutting open a part of a person’s body in order to remove or repair a damaged part:
+
+  > *Will I need to have **an operation**?*
+
+  > *He underwent **a** three-hour heart **operation**.*
+
+- *\[countable, uncountable\]* An act performed by a machine, especially a computer:
+
+  > *The whole **operation** is performed in less than three seconds.*
+
+- *\[uncountable\]* The way that parts of a machine or a system work; the process of making something work:
+
+  > *Regular servicing guarantees **the** smooth **operation** of the engine.*
+
+  > ***Operation** of the device is extremely simple.*
+
+- *\[countable\]* An organized activity that involves several people doing different things:
+
+  > ***A** security **operation**.*
+
+  > *The police have launched **a** major **operation** against drug dealers.*
+
+- *\[countable\]* A business or company involving many parts:
+
+  > ***A** huge multinational **operation**.*
+
+- *\[countable\]* The activity or work done in an area of business or industry:
+
+  > ***The** firm’s banking **operations** overseas computer.*
+
+- *\[countable, usually plural\]* Military activity:
+
+  > *He was the officer in charge of **operations**.*
+
+- *\[countable\]* A process in which a number or quantity is changed by adding, multiplying, etc.
+
+- Idioms:
+
+  > *Come into **operation**.*
+
+[*Source*](https://www.oxfordlearnersdictionaries.com/definition/american_english/operation)
+
+***
 
 ### load \| the load
 
