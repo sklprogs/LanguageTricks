@@ -1,6 +1,8 @@
 # Index \[Articles\]
+
 - [Words and phrases](#words-and-phrases)
   - [as a reaction to](#as-a-reaction-to)
+  - [ask for approval \| ask for an approval](#ask-for-approval--ask-for-an-approval)
   - [for compliance with](#for-compliance-with)
   - [installation](#installation)
   - [mode](#mode)
@@ -10,7 +12,19 @@
   - [Initialisms](#initialisms)
   - [Pronunciation](#pronunciation)
 
+***
+
 ## Words and Phrases
+
+### ask for approval \| ask for an approval
+
+It is like *ask for permission*, with no article. You could also say *ask for
+your approval*. It would be possible to say ***ask for an approval*** if by
+*approval* you mean, for example, a specific form to be filled out.
+
+[*Source*](https://forum.wordreference.com/threads/ask-for-an-approval-with-or-without-the-article.2871918/)
+
+***
 
 ### For compliance with
 
