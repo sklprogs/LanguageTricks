@@ -54,7 +54,17 @@
 
 [except \| except for](#except--except-for)
 
+[explanation for \| explanation of \| explanation to](#explanation-for--explanation-of--explanation-to)
+
 [incorporate ∅ \| in \| into \| with \| within](#incorporate---in--into--with--within)
+
+***
+
+## explanation for \| explanation of \| explanation to
+
+You could use any of those three. The one I would hear most often in Geometry class would be with **of**.
+
+[*Source*](https://forum.wordreference.com/threads/it-provides-an-explanation-¿to-for-of-the-problem.226037/)
 
 ***
 
