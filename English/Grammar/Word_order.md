@@ -1,6 +1,16 @@
 # Word Order in English
 
-## [Yet](#yet)
+[also can \| can also](#also-can--can-also)
+
+[yet](#yet)
+
+***
+
+## also can \| can also
+
+It is stated clearly in the dictionary and various grammar books that the word ***also*** (which means *in addition*&mdash;a logical connector) is placed *after* the auxiliary verbs. It sounds more formal when used unlike ***also can*** or *also could* which sounded more informal and colloquial (ordinary conversation, informal).
+
+[*Source*](https://www.englishforums.com/English/CanAlsoOrAlsoCan/hdzgb/post.htm)
 
 ***
 
