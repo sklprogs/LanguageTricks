@@ -52,7 +52,23 @@
 
 [equivalent of \| equivalent to](#equivalent-of--equivalent-to)
 
+[except \| except for](#except--except-for)
+
 [incorporate ∅ \| in \| into \| with \| within](#incorporate---in--into--with--within)
+
+***
+
+## except \| except for
+
+***Except***&mdash;you are introducing the only thing, person, or group that your main statement does not apply to:
+
+> *Anything, **except** water, is likely to block a sink.*
+
+**Except for**&mdash;you are mentioning something that prevents a statement from being completely true:
+
+> *The classroom was silent, **except for** the sound of pens on paper.*
+
+[*Source*](https://www.italki.com/post/question-457801)
 
 ***
 
