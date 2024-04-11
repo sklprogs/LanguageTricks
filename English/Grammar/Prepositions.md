@@ -98,6 +98,61 @@
 
 [outside \| outside of](#outside--outside-of)
 
+[provide \| provide for \| provide with](#provide--provide-for--provide-with)
+
+[react on \| react to](#react-on--react-to)
+
+***
+
+## react on \| react to
+
+We ***react to*** a stimulus or situation:
+
+> *The dog **reacted to** the bell by salivating.*
+
+***React on***[^react_on] can refer to something which is affected:
+
+> *These chemicals **react on** plastics.*
+
+From a grammatical perspective, the plastics are not the stimulus. There is a reaction when the chemicals are applied to plastics.
+
+[^react_on]: влиять на (кого-либо, что-либо); реагировать на
+
+[*Source*](https://ell.stackexchange.com/questions/121545/whats-the-difference-between-react-on-and-react-to)
+
+***
+
+## provide \| provide for \| provide with
+
+***Provide***: the result/outcome is the direct object:
+
+> *A house **provides** shelter.*
+
+> *My job **provides** income.* \[My job provides me with income.\]
+
+***Provide with*:** *provide* is followed by an indirect object. **Providing** (someone) **with** something means to give something wanted or needed:
+
+> *Room to Read **provides** girls **with** scholarships that cover the cost of housing, food, and books.*
+
+> ***Provide** the Partner **with** explanations on matters, arising in connection with execution of this Agreement.*
+
+In this sentence, *girls* is the indirect object and *scholarships* is the direct object.
+
+**Provide for**, in general, means to make whatever is necessary for someone available to him or her. We often use this expression when we talk about parents providing for their family:
+
+> *She says changes such as migration away from rural areas are allowing more women to find work and **provide for** their families.*
+
+**Provide for** can mean *prepare for*:
+
+> *The architect **provided for** the possibility of storms by strengthening the abutments.*
+
+> ~~*The architect **provided** the possibility of storms by strengthening the abutments*.~~ \[Stronger abutments are somehow supposed to invoke storms.\]
+
+*Sources:
+[1](https://web.archive.org/web/20230602005445/https://learningenglish.voanews.com/a/everyday-grammar-prepositions-provide/2701412.html),
+[2](https://ell.stackexchange.com/questions/30456/provide-vs-provide-for),
+[3](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/provide+with+explanation)*
+
 ***
 
 ## outside \| outside of
