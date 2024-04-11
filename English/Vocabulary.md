@@ -310,6 +310,8 @@
 
 [request \| require](#request--require)
 
+[related to \| relates to \| relating to](#related-to--relates-to--relating-to)
+
 [residual \| residue \| residues](#residual--residue--residues)
 
 [router (pronunciation)](#router-pronunciation)
@@ -363,6 +365,26 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## related to \| relates to \| relating to
+
+***Related to***&mdash;connected with.
+
+***Relating to***&mdash;about or concerning.
+
+1. Activity focus:
+
+   > *My question **relates to** your earlier work.*
+
+2. Status focus:
+
+   > *My question **is related to** you earlier work.*
+
+*Sources:
+[1](https://english.stackexchange.com/questions/67703/relating-to-or-related-to),
+[2](https://english.stackexchange.com/questions/260331/relates-to-vs-is-related-to)*
 
 ***
 
