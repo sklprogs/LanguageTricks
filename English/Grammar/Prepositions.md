@@ -120,6 +120,18 @@
 
 [statistics about \| statistics on](#statistics-about--statistics-on)
 
+[substitute for \| substitute with](#substitute-for--substitute-with)
+
+***
+
+## substitute for \| substitute with
+
+*We substitute pizza **for** vegetables as our dinner.* \[We are having pizza instead of vegetables for dinner.\]
+
+*We substitute pizza **with** vegetables as our dinner.* \[We are having vegetables instead of pizza for dinner.\]
+
+[*Source*](https://www.blog.voicetube.com/archives/55539)
+
 ***
 
 ## statistics about \| statistics on
