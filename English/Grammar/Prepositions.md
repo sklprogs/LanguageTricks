@@ -243,7 +243,7 @@ In other contexts, to **think of** something means you’re at least aware of th
 
 ## ~~switch into~~ \| switch to
 
-![switch_to.svg](../resources/charts/switch_to.svg)
+![switch_to.svg](../../resources/charts/switch_to.svg)
 
 *Sources: [1](https://forum.wordreference.com/threads/switch-into-to.3219784),
 [2](https://books.google.com/ngrams/graph?content=switch+into%2Cswitch+to&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
@@ -385,9 +385,9 @@ If you are writing documentation for your application, use the correct word for 
 
 ## run in Windows \| run on Windows \| run under Windows
 
-![run_on_windows.svg](resources/charts/run_on_windows.svg)
+![run_on_windows.svg](../../resources/charts/run_on_windows.svg)
 
-![run_on_under_windows_coca.svg](resources/charts/run_on_under_windows_coca.svg) ![run_on_under_windows_bnc.svg](resources/charts/run_on_under_windows_bnc.svg)
+![run_on_under_windows_coca.svg](../../resources/charts/run_on_under_windows_coca.svg) ![../../run_on_under_windows_bnc.svg](../../resources/charts/run_on_under_windows_bnc.svg)
 
 Originally operating systems would be seen roughly like a set of rules, in which case you ***run under*** a set of rules. Nowadays an operating system is seen as a basis for building things upon, like a foundation, in which case you ***run on*** a foundation. Both are valid.
 
@@ -672,7 +672,7 @@ Other uses:
 
 > *Demands are **mounting for** a high-powered investigation with Liberal shadow minister Senator David Johnston today warning sex abuse claims were harming the reputation of the Catholic Church.*
 
-![mount.svg](resources/charts/mount.svg)
+![mount.svg](../../resources/charts/mount.svg)
 
 *Sources: [1](https://www.englishforums.com/English/ToMountPreposition/bzhxpd/post.htm),
 [2](https://lingohelp.me/preposition-after-verb/mount-on-in-to-at-by/)*
