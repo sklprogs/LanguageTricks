@@ -3,6 +3,7 @@
 - [Words and phrases](#words-and-phrases)
   - [as a reaction to](#as-a-reaction-to)
   - [ask for approval \| ask for an approval](#ask-for-approval--ask-for-an-approval)
+  - [attention \| the attention](#attention--the-attention)
   - [for compliance with](#for-compliance-with)
   - [installation](#installation)
   - [mode](#mode)
@@ -15,6 +16,16 @@
 ***
 
 ## Words and Phrases
+
+### attention \| the attention
+
+> *His success draws **the attention** of everyone.*
+
+> *She drew **attention** to the need for proper punctuation.*
+
+[*Source*](https://forum.wordreference.com/threads/draw-attention-of.2551894/)
+
+***
 
 ### ask for approval \| ask for an approval
 
