@@ -4,6 +4,22 @@
 
 [for + gerund \| to + infinitive](#for--gerund--to--infinitive)
 
+[stop + -ing \| stop to + infinitive](#stop---ing--stop-to--infinitive)
+
+***
+
+## stop + -ing \| stop to + infinitive
+
+We use the ***-ing*** form after stop to indicate that an action or event is no longer continuing:
+
+> *It’s **stopped raining**. Let’s go for a walk.*
+
+We use the ***to-infinitive*** after stop to indicate that someone stops doing something in order to do something else:
+
+> *On the way to Edinburgh, we **stopped to** look at an old castle.* \[We were travelling, then we stopped our journey in order to look at the castle.\]
+
+[*Source*](https://dictionary.cambridge.org/ru/грамматика/британская-грамматика/stop-ing-form-or-to-infinitive)
+
 ***
 
 ## for + gerund | to + infinitive
