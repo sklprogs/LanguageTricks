@@ -240,7 +240,7 @@
 
 [initial \| original](#initial--original)
 
-[inside knowledge \| insider knowledge \| insider's knowledge](#inside-knowledge--insider-knowledge--insiders-knowledge)
+[inside knowledge \| insider knowledge \| insider’s knowledge](#inside-knowledge--insider-knowledge--insiders-knowledge)
 
 [installation \| setup](#installation--setup)
 
@@ -1855,10 +1855,7 @@ of people.
 
 ## variant \| variation
 
-A **variation** is something that differs from a standard or from something
-considered normal, while a ***variant*** differs from other things in its own
-class&mdash;that is, it’s not something that necessarily differs from a norm or
-standard (Garner’s Modern American Usage).
+A **variation** is something that differs from a standard or from something considered normal, while a ***variant*** differs from other things in its own class&mdash;that is, it’s not something that necessarily differs from a norm or standard (Garner’s Modern American Usage).
 
 ***Variant*** can be an adjective, but ***variation*** can’t.
 
@@ -1868,14 +1865,11 @@ standard (Garner’s Modern American Usage).
 
 ## whether \| whether or not
 
-The *or not* portion of ***whether or not*** is often unnecessary and can be
-removed, but sometimes it is essential. ***Whether or not*** should be used
-when one’s response is the same, regardless of the outcome.
-Conversely, ***whether*** should be used by itself to indicate only that the
-outcome itself is undetermined.
+The *or not* portion of ***whether or not*** is often unnecessary and can be removed, but sometimes it is essential. ***Whether or not*** should be used when one’s response is the same, regardless of the outcome.
 
-> *I am not sure **whether or not** I can attend.* = I am not sure whether I
-  can attend.
+Conversely, ***whether*** should be used by itself to indicate only that the outcome itself is undetermined.
+
+> *I am not sure **whether or not** I can attend.* \= I am not sure whether I can attend.
 
 > *I will be there **whether or not** I am prepared.*
 
@@ -1900,14 +1894,13 @@ You don’t usually use ***after that*** for the second step in the list, but yo
 
 ***
 
-## inside knowledge \| insider knowledge \| insider\'s knowledge
+## inside knowledge \| insider knowledge \| insider’s knowledge
 
 ***Insider’s knowledge*** infers a group who possesses the knowledge.
 
 ***Inside knowledge*** infers the ownership or possession of the knowledge.
 
-***Insider knowledge*** infers an individual within a group having the
-knowledge.
+***Insider knowledge*** infers an individual within a group having the knowledge.
 
 [*Source*](https://english.stackexchange.com/questions/390144/insider-knowledge-vs-insiders-knowledge-vs-inside-knowledge)
 
@@ -1915,23 +1908,17 @@ knowledge.
 
 ## salary \| wages
 
-**Wage**&mdash;the employee remuneration based on the number of hours worked,
-multiplied by an hourly rate of pay.
+**Wage**&mdash;the employee remuneration based on the number of hours worked, multiplied by an hourly rate of pay.
 
-**Salary**&mdash;the remuneration of an agreed annual amount, paid at agreed
-intervals (i.e., monthly or fortnightly). This arrangement is essentially
-outcome and task focused rather than being focused on working a set number of
-hours.
+**Salary**&mdash;the remuneration of an agreed annual amount, paid at agreed intervals (i.e., monthly or fortnightly). This arrangement is essentially outcome and task focused rather than being focused on working a set number of hours.
 
-[*Source*](https://wattsnextgroup.com/wages-vs-salary-whats-the-difference/)
+[*Source*](https://wattsnextgroup.com/wages-vs-salary-whats-the-difference)
 
 ***
 
 ## competition \| contest
 
-***Contest*** suggests playing a game for the game’s sake just to see who would
-win, or maybe playing for candy. But ***competition*** suggests playing the
-game in order to get some big reward, where the reward and the achievement is
+***Contest*** suggests playing a game for the game’s sake just to see who would win, or maybe playing for candy. But ***competition*** suggests playing the game in order to get some big reward, where the reward and the achievement is
 the only thing that is important, and there may be no pleasure in the game.
 
 [*Source*](https://english.stackexchange.com/questions/77822/contest-vs-competition)
@@ -1944,14 +1931,9 @@ the only thing that is important, and there may be no pleasure in the game.
 
 **Answer** is more specifically a response to a direct question.
 
-One can always ***respond*** to anything (an event, an injury, a letter, a
-speech, a question\...) but one can only ***answer*** a question. It’s possible
-to respond to a question without actually answering it; listen to politicians
-being interviewed.
+One can always ***respond*** to anything (an event, an injury, a letter, a speech, a question...) but one can only ***answer*** a question. It’s possible to respond to a question without actually answering it; listen to politicians being interviewed.
 
-***Reply*** normally refers to words or some other form of communication.
-***Response*** could be words or it could be actions. ***Reply*** is a subset
-of ***response***.
+***Reply*** normally refers to words or some other form of communication. ***Response*** could be words or it could be actions. ***Reply*** is a subset of ***response***.
 
 > *I asked for his name, and he **replied**, "Bob".*
 
@@ -1965,14 +1947,9 @@ The wince is a ***response***, and not a ***reply***:
 
 > *James pricked Carol with a pin. Carol winced with pain.*
 
-A ***reply*** has to go back to the source of the stimulus of the response,
-e.g. a reply letter is written to someone who has written to you. A
-***response*** does not have to go back.
+A ***reply*** has to go back to the source of the stimulus of the response, e.g. a reply letter is written to someone who has written to you. A ***response*** does not have to go back.
 
-If the stimulus for your ***response*** did not come from an agent that you
-have anthropomorphized, then it is not a ***reply***. So you do not get replies
-from machines, but you can get replies from companies. You can get
-***responses*** from both.
+If the stimulus for your ***response*** did not come from an agent that you have anthropomorphized, then it is not a ***reply***. So you do not get replies from machines, but you can get replies from companies. You can get ***responses*** from both.
 
 > *I am moving my mouse but the pointer is not **responding**.*
 
@@ -1982,14 +1959,13 @@ from machines, but you can get replies from companies. You can get
 [1](https://english.stackexchange.com/questions/5208/when-should-you-write-answer-versus-response),
 [2](https://english.stackexchange.com/questions/48385/difference-between-response-and-reply)*
 
+***
+
 ## cost \| price
 
-**Cost** is typically the expense incurred for creating a product or service a
-company sells. The amount of cost that goes into producing a product can
-directly impact its price and profit earned from each sale.
+**Cost** is typically the expense incurred for creating a product or service a company sells. The amount of cost that goes into producing a product can directly impact its price and profit earned from each sale.
 
-**Price** is the amount a customer is willing to pay for a product or service.
-The difference between price paid and costs incurred is profit.
+**Price** is the amount a customer is willing to pay for a product or service. The difference between price paid and costs incurred is profit.
 
 [*Source*](https://www.investopedia.com/ask/answers/101314/what-difference-between-cost-and-price.asp)
 
@@ -1997,23 +1973,13 @@ The difference between price paid and costs incurred is profit.
 
 ## regime \| regimen \| regiment
 
-The noun **regime** primarily refers to a form of government or a period of
-time that a person or governing body is in power. (In contemporary usage,
-regime commonly carries a negative connotation.) Far less often, regime is used
-as a synonym for ***regimen***.
+The noun **regime** primarily refers to a form of government or a period of time that a person or governing body is in power. (In contemporary usage, regime commonly carries a negative connotation.) Far less often, regime is used as a synonym for ***regimen***.
 
-The noun **regimen** primarily refers to a systematic plan, in particular a
-regulated system of diet and exercise or a prescribed course of medical
-treatment. Far less often, regimen is used as a synonym for ***regime*** (a
-form of government), a usage that most dictionaries identify as *rare* or
-*archaic*.
+The noun **regimen** primarily refers to a systematic plan, in particular a regulated system of diet and exercise or a prescribed course of medical treatment. Far less often, regimen is used as a synonym for ***regime*** (a form of government), a usage that most dictionaries identify as *rare* or *archaic*.
 
-The noun **regiment** primarily refers to a military unit or any large group of
-people. (Though regiment was once regarded as a synonym for ***regime***, most
-dictionaries identify that usage as *archaic* or *obsolete*.)
+The noun **regiment** primarily refers to a military unit or any large group of people. (Though regiment was once regarded as a synonym for ***regime***, most dictionaries identify that usage as *archaic* or *obsolete*.)
 
-As a verb, **regiment** means to organize a group of people in a systematic or
-oppressive manner.
+As a verb, **regiment** means to organize a group of people in a systematic or oppressive manner.
 
 [*Source*](https://www.thoughtco.com/regime-regimen-and-regiment-1689480)
 
@@ -2021,8 +1987,7 @@ oppressive manner.
 
 ## decrease \| reduce
 
-**Reduce** is to bring down the size, quantity, quality, value or intensity of
-something; to diminish, to lower, to impair.
+**Reduce** is to bring down the size, quantity, quality, value or intensity of something; to diminish, to lower, to impair.
 
 **Decrease** is of a quantity, to become smaller.
 
@@ -2032,35 +1997,23 @@ something; to diminish, to lower, to impair.
 
 ## gain \| profit
 
-***Profit*** and ***gain*** are two terms that should be distinguished
-correctly as these have very different meanings in accounting.
+***Profit*** and ***gain*** are two terms that should be distinguished correctly as these have very different meanings in accounting.
 
-**Profit** is the summation of total income less total expenses. It is
-generated within the usual business operations. It is the actual earnings of
-the company. This is an indication of the financial robustness of the business.
+**Profit** is the summation of total income less total expenses. It is generated within the usual business operations. It is the actual earnings of the company. This is an indication of the financial robustness of the business.
 
-**Gain** is the proceeds received from the sale of fixed or financial assets.
-It is generated outside of business operations.
+**Gain** is the proceeds received from the sale of fixed or financial assets. It is generated outside of business operations.
 
-[*Source*](https://www.differencebetween.com/difference-between-profit-and-vs-gain/)
+[*Source*](https://www.differencebetween.com/difference-between-profit-and-vs-gain)
 
 ***
 
 ## sniffing \| snooping \| spoofing
 
-***Sniffing*** and ***snooping*** should be synonyms. They refer to listening
-to a conversation. For example, if you login to a website that uses no
-encryption, your username and password can be sniffed off the network by
-someone who can capture the network traffic between you and the web site.
+***Sniffing*** and ***snooping*** should be synonyms. They refer to listening to a conversation. For example, if you login to a website that uses no encryption, your username and password can be sniffed off the network by someone who can capture the network traffic between you and the web site.
 
-**Spoofing** refers to actively introducing network traffic pretending to be
-someone else. For example, spoofing is sending a command to computer A
-pretending to be computer B. It is typically used in a scenario where you
-generate network packets that say they originated by computer B while they
-really originated by computer C.
+**Spoofing** refers to actively introducing network traffic pretending to be someone else. For example, spoofing is sending a command to computer A pretending to be computer B. It is typically used in a scenario where you generate network packets that say they originated by computer B while they really originated by computer C.
 
-**Spoofing** in an email context means sending an email pretending to be
-someone else.
+**Spoofing** in an email context means sending an email pretending to be someone else.
 
 [*Source*](https://security.stackexchange.com/questions/52980/sniffing-snooping-spoofing)
 
@@ -2068,13 +2021,11 @@ someone else.
 
 ## class \| lesson
 
-In both the UK and the US, **a class** is usually a group of students who are
-learning together:
+In both the UK and the US, **a class** is usually a group of students who are learning together:
 
 > *Jill and I were in the same **class** at primary school.*
 
-You can also (especially in the US) use **class** to mean a group of students
-who all completed their studies in a particular year:
+You can also (especially in the US) use **class** to mean a group of students who all completed their studies in a particular year:
 
 > *Tim was in the **class** of 2005.*
 
@@ -2086,13 +2037,11 @@ The usual British word for this is **course**:
 
 > *A **course** in business administration*.
 
-**Class** can also mean one of the periods in the school day when a
-group of students are taught:
+**Class** can also mean one of the periods in the school day when a group of students are taught:
 
 > *What time is your next class?*
 
-British speakers also use ***lesson*** for this meaning, but American speakers
-do not.
+British speakers also use ***lesson*** for this meaning, but American speakers do not.
 
 (MacMillan English Dictionary for Advanced Learners 2^nd^ Edition)
 
@@ -2104,17 +2053,11 @@ do not.
 
 **Topic**&mdash;a particular subject that you discuss or write about.
 
-A ***topic*** defines a particular aspect that will be covered in conversation
-or in any written form, whereas ***subject*** is used in context to a wider
-aspect of knowledge and can be composed of various topics.
+A ***topic*** defines a particular aspect that will be covered in conversation or in any written form, whereas ***subject*** is used in context to a wider aspect of knowledge and can be composed of various topics.
 
-> *The **subject** of writing articles was the environmental issues, and
-  various students came up with different topics on this particular subject
-  matter.*
+> *The **subject** of writing articles was the environmental issues, and various students came up with different topics on this particular subject matter.*
 
-This is the reason that many times they are used interchangeably. They only
-differ when the ***subject*** within the subject needs to be defined and then
-the inner subject becomes the ***topic***.
+This is the reason that many times they are used interchangeably. They only differ when the ***subject*** within the subject needs to be defined and then the inner subject becomes the ***topic***.
 
 *Sources:
 [1](https://citrinitas.com/topic-vs-subject-what-is-the-difference),
@@ -2130,8 +2073,7 @@ the inner subject becomes the ***topic***.
 
 > *I’m going to **set up** Word so that the grammar checker is turned off.*
 
-When you are ***installing*** a program, you are also performing its initial
-***setup***.
+When you are ***installing*** a program, you are also performing its initial ***setup***.
 
 [*Source*](https://ell.stackexchange.com/questions/10772/what-is-the-difference-between-setup-and-install-based-on-computer-programs)
 
@@ -2142,22 +2084,17 @@ When you are ***installing*** a program, you are also performing its initial
 **Check** means to:
 
 - consult;
-
 - investigate;
-
 - see if something (e.g., a machine) is in good condition or working properly:
-
   > *Have you **checked** the engine (over)?*
-
 - see if something (e.g., a sum) is correct or accurate:
-
   > *Will you **check** my addition?*
 
 **Check for**&mdash;verify the existance of something:
 
-> *Please **check** my card; it may contain spelling mistakes.* (\= review it, examine it, correct it)
+> *Please **check** my card; it may contain spelling mistakes.* \[\= review it, examine it, correct it\]
 
-> *Please **check for** my card; I mailed it two days ago.* (\= look for it, see if the card has arrived yet)
+> *Please **check for** my card; I mailed it two days ago.* \[\= look for it, see if the card has arrived yet\]
 
 **Check that**&mdash;to make sure.
 
@@ -2165,23 +2102,16 @@ When you are ***installing*** a program, you are also performing its initial
 
 > *Can you **verify** her statement?*
 
-***Verify*** implies a positive conclusion was reached, whereas ***check***
-just means something was investigated with no indication of the outcome.
+***Verify*** implies a positive conclusion was reached, whereas ***check*** just means something was investigated with no indication of the outcome.
 
 **Validate**:
 
 - Make legally valid (ratify).
-
 - Grant official sanction to by marking:
-
   > ***Validate** a passport.*
-
 - Support or corroborate on a sound or authoritative basis:
-
   > *Experiments designed to **validate** the hypothesis.*
-
 - Recognize, establish, or illustrate the worthiness:
-
   > ***Validate** one’s concerns.*
 
 *See also* [check if \| check whether](#check-if--check-whether), [validation \| verification](#validation--verification).
@@ -2198,31 +2128,18 @@ just means something was investigated with no indication of the outcome.
 
 ### IT
 
-**Verification**&mdash;a test of a system to prove that it meets all its
-specified requirements at a particular stage of its development.
+**Verification**&mdash;a test of a system to prove that it meets all its specified requirements at a particular stage of its development.
 
-**Validation**&mdash;an activity that ensures that an end product stakeholder’s
-true needs and expectations are met.
+**Validation**&mdash;an activity that ensures that an end product stakeholder’s true needs and expectations are met.
 
-***Verification*** refers to a testing protocol (that uses any methodology)
-that can determine if the software meets the specifications or requirements as
-they were initially designed. The process has as its goal answering the
-question: *Did I build what I said I would?* The verification of development
-refers to checking an application that is still being developed to ensure that
-it adheres to these specifications. The verification process can include
-activities like code reviews, walkthroughs, and inspections. Actual testing of
-the software is not required for verification.
+***Verification*** refers to a testing protocol (that uses any methodology) that can determine if the software meets the specifications or requirements as they were initially designed. The process has as its goal answering the question: *Did I build what I said I would?* The verification of development refers to checking an application that is still being developed to ensure that
+it adheres to these specifications. The verification process can include activities like code reviews, walkthroughs, and inspections. Actual testing of the software is not required for verification.
 
-***Validation*** is performed upon the completion of a module, or the entire
-application. Validation focuses on ensuring that a stakeholder gets the product
-they desired. Validation is high-level testing and typically consists of
-regression testing, user testing, performance testing, and similar activities.
+***Validation*** is performed upon the completion of a module, or the entire application. Validation focuses on ensuring that a stakeholder gets the product they desired. Validation is high-level testing and typically consists of regression testing, user testing, performance testing, and similar activities.
 
-***Verification*** has little or no code execution, while ***validation***
-requires code execution.
+***Verification*** has little or no code execution, while ***validation*** requires code execution.
 
-***Verification*** is a static method of checking documents and files, while
-***validation*** is the dynamic process of testing the real product.
+***Verification*** is a static method of checking documents and files, while ***validation*** is the dynamic process of testing the real product.
 
 See also: [check \| check that \| validate \| verify](#check--check-that--validate--verify).
 
@@ -2236,68 +2153,45 @@ See also: [check \| check that \| validate \| verify](#check--check-that--valida
 
 **Require**&mdash;need.
 
-> *I **require** (need) another cup of coffee. I will **request** (ask for) one
-  when my butler answers the bell.*
+> *I **require** (need) another cup of coffee. I will **request** (ask for) one when my butler answers the bell.*
 
-There is a difference when ***require*** is used transitively. This is a
-forceful demand:
+There is a difference when ***require*** is used transitively. This is a forceful demand:
 
-> *You are **required** to visit your local police station to produce your
-  driving license.*
+> *You are **required** to visit your local police station to produce your driving license.*
 
-[*Source*](https://forum.wordreference.com/threads/require-request.693183/)
+[*Source*](https://forum.wordreference.com/threads/require-request.693183)
 
 ***
 
 ## big \| large
 
-***Big*** can refer to the physical size of an object, but it also means that
-something is serious or important, while ***large*** only refers to the
-physical size. They can only be used with countable nouns:
+***Big*** can refer to the physical size of an object, but it also means that something is serious or important, while ***large*** only refers to the physical size. They can only be used with countable nouns:
 
 > *a **big** city*
 
 > *a **large** company*
 
-But not with uncountable nouns! Instead of saying ~~big traffic~~, say *a
-lot of traffic.*
+But not with uncountable nouns! Instead of saying ~~big traffic~~, say *a lot of traffic.*
 
 Use ***big*** in the following cases:
 
 1. More than average (see ***large*** below):
-
    > *Our office is quite **big**.*
-
-2. Very important:
-
+1. Very important:
    > *This is a **big** decision.*
-
-3. Successful:
-
+1. Successful:
    > *Milan is a **big** fashion hub.*
-
-4. Powerful:
-
+1. Powerful:
    > *There was a **big** earthquake yesterday.*
-
-5. Of a large degree:
-
+1. Of a large degree:
    > *She is a **big** fan of that movie.*
-
    > *People of our generation are **big** social media users.*
-
-6. Older (informal):
-
+1. Older (informal):
    > *Have you met my **big** brother yet?*
-
-7. With fixed phrases:
-
+1. With fixed phrases:
    - big fish
-
    - big deal
-
    - The Big Apple
-
    - to think big, etc.
 
 Use ***large*** in the following cases:
