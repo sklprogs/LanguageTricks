@@ -2360,7 +2360,9 @@ The rule here is you should always have an S with one-word possessives (*car’s
 - The noun that is possessing is plural (if it belongs to the cars, the dogs, or the women)
 - The plural noun ends in *s*:
   > *The cars’ steering wheels.*
+  
   > *The dogs’ bowls.*
+  
   > *The women’s spouses.*
 
 The culture of the singular people:
