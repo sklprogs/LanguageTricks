@@ -2366,13 +2366,13 @@ The rule here is you should always have an S with one-word possessives (*car’s
   > *The women’s spouses.*
 
 The culture of the singular people:
-  > *The people’s culture.*
+   > *The people’s culture.*
 
 The culture belonging to several peoples:
-  > *The peoples’ culture.*
+   > *The peoples’ culture.*
 
 A movement that belongs to ALL of the people:
-  > *The people’s movement.*
+   > *The people’s movement.*
 
 Movements belonging to each individual:
   > *The people’s movements.*
