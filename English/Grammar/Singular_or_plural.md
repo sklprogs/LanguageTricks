@@ -1,6 +1,36 @@
 # Index \[Singular or plural in English\]
 
+[data](#data)
+
+[disturbance](#disturbance)
+
 [none](#none)
+
+***
+
+## data
+
+When ***data*** is a count noun (items that can be counted), the plural makes sense.
+
+> *The **data** used were out of date.*
+
+In that type of sentence, you could replace ***data*** with another count noun such as *facts*.
+
+However, when ***data*** is treated as a non-count noun (items cannot be counted), the singular makes sense.
+
+> *The **data** used was out of date.*
+
+With that type of sentence, you could replace ***data*** with a word such as *information*.
+
+[*Source*](https://www.onlinegrammar.com.au/top-10-grammar-myths-data-is-plural-so-must-take-a-plural-verb)
+
+***
+
+## disturbance
+
+The noun ***disturbance*** can be countable or uncountable. In more general, commonly used, contexts, the plural form will also be ***disturbance***. However, in more specific contexts, the plural form can also be ***disturbances***, e.g. in reference to various types of disturbances or a collection of disturbances.
+
+[*Source*](https://www.wordhippo.com/what-is/the-plural-of/disturbance.html)
 
 ***
 
