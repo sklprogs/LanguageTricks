@@ -2236,7 +2236,9 @@ Use ***large*** in the following cases:
 **Confirm**&mdash;to ratify, to strengthen, and to give assurance.
 
 ***Confirm*** is used for both negative and positive sentences; whereas ***affirm*** is mainly positive:
+
   > *The receptionist **confirmed** the hotel reservations.*
+  
   > *Serving in the defense services **affirms** your loyalty to the nation.*
 
 [*Source*](http://www.differencebetween.net/language/difference-between-affirm-and-confirm)
@@ -2249,38 +2251,27 @@ Use ***large*** in the following cases:
 
 > *Wow! It’s cold **here**.* (in Alaska)
 
-*What are you doing **here?***&mdash;This one asks what you are doing here (in
-general). What do you want?
+*What are you doing **here?***&mdash;This one asks what you are doing here (in general). What do you want?
 
-*What are you doing **in here**?*&mdash;This one ask specifically what you’re
-doing IN THIS ROOM. It probably means that I didn’t expect you to be here in
-this very room.
+*What are you doing **in here**?*&mdash;This one ask specifically what you’re doing IN THIS ROOM. It probably means that I didn’t expect you to be here in this very room.
 
-[*Source*](https://forum.wordreference.com/threads/here-or-in-here.30167/)
+[*Source*](https://forum.wordreference.com/threads/here-or-in-here.30167)
 
 ***
 
 ## I have got \| I have gotten
 
-In UK English, ***have got*** is the only grammatical possibility. In US
-English, there is no situation where you could grammatically substitute one for
-the other without changing the meaning.
+In BrE, ***have got*** is the only grammatical possibility. In AmE, there is no situation where you could grammatically substitute one for the other without changing the meaning.
 
-In general, ***have got*** is the present perfect form of *to get* in UK
-English, while ***have gotten*** is the US English version.
+In general, ***have got*** is the present perfect form of *to get* in BrE, while ***have gotten*** is AmE.
 
-However, even in US English, ***have got*** is used in certain instances,
-namely to mean present tense have (in the sense of possession, or to mean
-must):
+However, even in BrE, ***have got*** is used in certain instances, namely to mean present tense have (in the sense of possession, or to mean must):
 
 > *I **have got** a lot of friends.* (=I have a lot of friends)
 
 > *I **have got to** go now.* (=I have to go now/I must go now)
 
-***Gotten*** is probably the most distinctive of all the AmE/BrE grammatical
-differences, but British people who try to use it often get it wrong. It is not
-simply an alternative for ***have got***. ***Gotten*** is used in such contexts
-as
+***Gotten*** is probably the most distinctive of all the AmE\/BrE grammatical differences, but British people who try to use it often get it wrong. It is not simply an alternative for ***have got***. ***Gotten*** is used in such contexts as
 
 > *They’ve **gotten** a new boat.* (= obtain)
 
@@ -2296,8 +2287,7 @@ But it is not used in the sense of possession (= have). AmE does not allow
 
 but uses *I’ve got* as in informal BrE.
 
-The availability of ***gotten*** does however mean that AmE can make such
-distinctions as the following:
+The availability of ***gotten*** does however mean that AmE can make such distinctions as the following:
 
 > *They’ve **got** to leave* (they must leave)
 
@@ -2309,20 +2299,13 @@ distinctions as the following:
 
 ## divide \| separate
 
-**Separate**&mdash;to take apart / keep apart:
+**Separate**&mdash;to take apart \/ keep apart:
 
 > ***Separate** the wheat from the chaff.*
 
-***Separate*** implies that the things in question are being separated by some
-property of those things. For example, I might separate my white shirts from
-the rest of my clothes and wash them separately with bleach, or I might
-separate the power cords and data cords when reorganizing the tangled mess of
-wires under my desk.
+***Separate*** implies that the things in question are being separated by some property of those things. For example, I might separate my white shirts from the rest of my clothes and wash them separately with bleach, or I might separate the power cords and data cords when reorganizing the tangled mess of wires under my desk.
 
-***Divide*** implies that the things in question are being divided into certain
-quantities. For example, I might divide my laundry into baskets/loads, or I
-might divide my pizza into equal portions for everyone in the room. This is
-consistent with the mathematical concept of division.
+***Divide*** implies that the things in question are being divided into certain quantities. For example, I might divide my laundry into baskets\/loads, or I might divide my pizza into equal portions for everyone in the room. This is consistent with the mathematical concept of division.
 
 Often means there is intent in making the disaggregation.
 
@@ -2334,23 +2317,13 @@ Often means there is intent in making the disaggregation.
 
 ## dummy \| fake \| mock \| stub
 
-***Dummy*** objects are passed around but never actually used. Usually they are
-just used to fill parameter lists.
+***Dummy*** objects are passed around but never actually used. Usually they are just used to fill parameter lists.
 
-***Fake*** objects actually have working implementations, but usually take some
-shortcut which makes them not suitable for production (an in memory database is
-a good example).
+***Fake*** objects actually have working implementations, but usually take some shortcut which makes them not suitable for production (an in memory database is a good example).
 
-***Stubs*** provide canned answers to calls made during the test, usually not
-responding at all to anything outside what’s programmed in for the test. Stubs
-may also record information about calls, such as an email gateway stub that
-remembers the messages it "sent", or maybe only how many messages it "sent".
+***Stubs*** provide canned answers to calls made during the test, usually not responding at all to anything outside what’s programmed in for the test. Stubs may also record information about calls, such as an email gateway stub that remembers the messages it “sent”, or maybe only how many messages it “sent”.
 
-***Mocks*** are objects pre-programmed with expectations which form a
-specification of the calls they are expected to receive. A mock is not setup in
-a predetermined way so you have code that does it in your test. Mocks in a way
-are determined at runtime since the code that sets the expectations has to run
-before they do anything.
+***Mocks*** are objects pre-programmed with expectations which form a specification of the calls they are expected to receive. A mock is not setup in a predetermined way so you have code that does it in your test. Mocks in a way are determined at runtime since the code that sets the expectations has to run before they do anything.
 
 [*Source*](https://stackoverflow.com/questions/3459287/whats-the-difference-between-a-mock-stub)
 
@@ -2358,20 +2331,15 @@ before they do anything.
 
 ## package \| packet \| parcel
 
-A **parcel** or **package** is an object or group of objects wrapped in paper,
-that can be carried somewhere or sent by post. The two words have almost
-exactly the same meaning in British English, but a ***parcel*** usually has a
-more regular shape than a ***package***:
+A **parcel** or **package** is an object or group of objects wrapped in paper, that can be carried somewhere or sent by post. The two words have almost exactly the same meaning in British English, but a ***parcel*** usually has a more regular shape than a ***package***:
 
 > *Charities sent **parcels** of food and clothes to the refugees.*
 
 > *I am taking this **package** to the post office.*
 
-In American English, ***package*** is usually used rather than ***parcel***.
+In AmE, ***package*** is usually used rather than ***parcel***.
 
-In British English, a **packet** is a small container in which a quantity of
-something is sold. Packets are either small boxes made of thin cardboard, or
-bags or envelopes made of paper or plastic.
+In BrE, a **packet** is a small container in which a quantity of something is sold. Packets are either small boxes made of thin cardboard, or bags or envelopes made of paper or plastic.
 
 [*Source*](https://grammar.collinsdictionary.com/es/uso-del-inglés/what-is-the-difference-between-parcel-package-and-packet)
 
@@ -2379,62 +2347,41 @@ bags or envelopes made of paper or plastic.
 
 ## ~~in free time~~ \| in my free time
 
-*Time* is a countable noun in this case because it is specified and all
-countable nouns should be qualified by a determiner.
+*Time* is a countable noun in this case because it is specified and all countable nouns should be qualified by a determiner.
 
-[*Source*](https://forum.wordreference.com/threads/in-my-free-time-in-free-time.1709512/)
+[*Source*](https://forum.wordreference.com/threads/in-my-free-time-in-free-time.1709512)
 
 ***
 
 ## people’s lives \| peoples’ lives \| people’s life \| in the lives of people
 
-The rule here is you should always have an S with one-word possessives (*car’s*
-(belonging to the car), *dog’s* (of the dog), *Amy’s*) and you should ONLY put
-the apostrophe after the *s* if two conditions are met:
+The rule here is you should always have an S with one-word possessives (*car’s* (belonging to the car), *dog’s* (of the dog), *Amy’s*) and you should ONLY put the apostrophe after the *s* if two conditions are met:
 
-- The noun that is possessing is plural (if it belongs to the cars, the dogs,
-  or the women)
-
+- The noun that is possessing is plural (if it belongs to the cars, the dogs, or the women)
 - The plural noun ends in *s*:
-
-> *The cars’ steering wheels.*
-
-> *The dogs’ bowls.*
-
-> *The women’s spouses.*
+  > *The cars’ steering wheels.*
+  > *The dogs’ bowls.*
+  > *The women’s spouses.*
 
 The culture of the singular people:
-
-> *The people’s culture.*
+  > *The people’s culture.*
 
 The culture belonging to several peoples:
-
-> *The peoples’ culture.*
+  > *The peoples’ culture.*
 
 A movement that belongs to ALL of the people:
-
-> *The people’s movement.*
+  > *The people’s movement.*
 
 Movements belonging to each individual:
+  > *The people’s movements.*
 
-> *The people’s movements.*
+***People’s lives*** would refer to a condition that affects a group in general:
+  > ***People’s lives** can be destroyed by sudden climatic events.*
 
-***People’s lives*** would refer to a condition that affects a group in
-general:
+You would use an article with ***people’s life*** and it is restrictive in that it refers to a more specific group, like a tribe or a race:
+  > *The **people’s life** changed for the better when they found a closer source of water.*
 
-> ***People’s lives** can be destroyed by sudden climatic events.*
-
-You would use an article with ***people’s life*** and it is restrictive in
-that it refers to a more specific group, like a tribe or a race:
-
-> *The **people’s life** changed for the better when they found a closer source
-  of water.*
-
-If you want to identify the people specifically as being alive and breathing,
-then you’d say ***people’s lives*** (what we usually say). If you only want to
-accentuate the life itself, and you’re not really considering the people to be
-an important part of the idea, then you’d say ***in the lives of people***
-(sounds rather strange, but it’s not actually "wrong" in any real sense).
+If you want to identify the people specifically as being alive and breathing, then you’d say ***people’s lives*** (what we usually say). If you only want to accentuate the life itself, and you’re not really considering the people to be an important part of the idea, then you’d say ***in the lives of people*** (sounds rather strange, but it’s not actually “wrong” in any real sense).
 
 *Sources:
 [1](https://www.quora.com/Which-is-correct-peoples-lives-or-people-lives),
@@ -2445,36 +2392,22 @@ an important part of the idea, then you’d say ***in the lives of people***
 
 ## people \| peoples \| Peoples \| persons
 
-***Persons*** is especially associated with its use in legal language, in which
-it’s often used rather than people to ensure clarity by emphasizing that the
-text is referring to multiple individuals, as opposed to a group as a whole:
+***Persons*** is especially associated with its use in legal language, in which it’s often used rather than people to ensure clarity by emphasizing that the text is referring to multiple individuals, as opposed to a group as a whole:
 
 > *Occupancy is limited to 200 **persons**.*
 
-> *Any person or **persons** found to be in violation of these rules shall be
-  prohibited from participating.*
+> *Any person or **persons** found to be in violation of these rules shall be prohibited from participating.*
 
-When ***persons*** is used in this way outside of legal texts, it has
-historically been regarded as overly formal or stilted.
+When ***persons*** is used in this way outside of legal texts, it has historically been regarded as overly formal or stilted.
 
-***Persons*** is sometimes used with terms related to identity to emphasize
-individuality, such as saying *Jewish persons* instead of *Jewish people*.
+***Persons*** is sometimes used with terms related to identity to emphasize individuality, such as saying *Jewish persons* instead of *Jewish people*.
 
-Regardless of intent, though, statements that are made about individuals with a
-common identity can lead to overgeneralization or stereotyping, so it’s always
-best to consider whether the individuals’ common identity is an essential part
-of what you’re trying to say. Choosing how to refer to people can also be
-informed by preferences around language that’s *person-first* (as in
-*person with autism*) or identity-first (as in *autistic person*).
+Regardless of intent, though, statements that are made about individuals with a common identity can lead to overgeneralization or stereotyping, so it’s always best to consider whether the individuals’ common identity is an essential part of what you’re trying to say. Choosing how to refer to people can also be informed by preferences around language that’s *person-first* (as in *person with autism*) or identity-first (as in *autistic person*).
 
-The word ***peoples*** is specifically used as the plural of people in its
-sense as a collective singular noun referring to a nation, or tribe, or other
-community:
+The word ***peoples*** is specifically used as the plural of people in its sense as a collective singular noun referring to a nation, or tribe, or other community:
+  > *the many **peoples** of the world*
 
-> *the many **peoples** of the world*
-
-Capitalization is increasingly used as a form of respect and distinction for
-terms that relate to identity (specific, distinct communities):
+Capitalization is increasingly used as a form of respect and distinction for terms that relate to identity (specific, distinct communities):
 
 > *Indigenous **Peoples***
 
@@ -2486,22 +2419,14 @@ terms that relate to identity (specific, distinct communities):
 
 ## duty \| responsibility
 
-- **Duty** is a moral commitment to something or someone, whereas
-  **responsibility** is a condition of being responsible.
-- As ***duty*** refers to moral commitment, it denotes an active feeling for
-  doing something.
-- In case of ***duty***, the person will be involved in activity without any
-  self-interest.
-- **Responsibility** can be termed as an ability to act at one’s own will,
-  without any supervision. It is the obligation to successfully complete an
-  assigned task.
-- In ***responsibility***, a person is solely responsible for the entire task
-  and its outcome. It is the responsibility of the parents to give good
-  education to their children.
-- Once a person engages himself with some ***duty*** or if he has been
-  entrusted with a duty, then that person fully commits himself to it.
+- **Duty** is a moral commitment to something or someone, whereas **responsibility** is a condition of being responsible.
+- As ***duty*** refers to moral commitment, it denotes an active feeling for doing something.
+- In case of ***duty***, the person will be involved in activity without any self-interest.
+- **Responsibility** can be termed as an ability to act at one’s own will, without any supervision. It is the obligation to successfully complete an assigned task.
+- In ***responsibility***, a person is solely responsible for the entire task and its outcome. It is the responsibility of the parents to give good education to their children.
+- Once a person engages himself with some ***duty*** or if he has been entrusted with a duty, then that person fully commits himself to it.
 
-[*Source*](http://www.differencebetween.net/miscellaneous/difference-between-duties-and-responsibilities/)
+[*Source*](http://www.differencebetween.net/miscellaneous/difference-between-duties-and-responsibilities)
 
 ***
 
