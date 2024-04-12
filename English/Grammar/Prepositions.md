@@ -94,6 +94,8 @@
 
 [on \| onto](#on--onto)
 
+[on the left \| to the left](#on-the-left--to-the-left)
+
 [opposite \| opposite to](#opposite--opposite-to)
 
 [outside \| outside of](#outside--outside-of)
@@ -139,6 +141,28 @@
 [typical for = typical of](#typical-for--typical-of)
 
 [useful for \| useful to](#useful-for--useful-to)
+
+***
+
+## on the left \| to the left
+
+***On the left*** should be used when referring to something or someone in the left direction.
+
+> *I like the painting, but the tree **on the left** is not really finished compared to the rest of the scene.*
+
+> *They turned through the gates **on the left** of the main road and walked into the park together.*
+
+> *Look out of the window; **on your left**, you should be able to see the hotel clearly now.*
+
+***To the left*** refers to a more specific location in a left direction and implies movement:
+
+> *The road twisted abruptly **to the left**, and Martin had to slow down quickly to avoid a collision.*
+
+> ***To the left** of the school is a small street of 10 houses and a post office.*
+
+> *The switch for the TV is on the brown wooden table **to your left**.
+
+[*Source*](https://grammarhow.com/on-the-left-or-to-the-left)
 
 ***
 
