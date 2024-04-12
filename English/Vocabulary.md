@@ -2436,13 +2436,9 @@ Capitalization is increasingly used as a form of respect and distinction for ter
 
 ***Work*** is both a verb and a noun, whereas ***job*** is only a noun.
 
-**Job** refers to a particular employment role or position, such as cook,
-teacher or banker, whereas **work** refers in a more general way to activities
-that you do.
+**Job** refers to a particular employment role or position, such as cook, teacher or banker, whereas **work** refers in a more general way to activities that you do.
 
-All ***jobs*** involve ***work*** but doing work isn’t always part of a job.
-For example, someone can spend the weekend working in their garden. However,
-this is a free time activity, and so it is not his or her job.
+All ***jobs*** involve ***work*** but doing work isn’t always part of a job. For example, someone can spend the weekend working in their garden. However, this is a free time activity, and so it is not his or her job.
 
 If you describe how a machine ***works***, you explain how it functions:
 
@@ -2450,17 +2446,13 @@ If you describe how a machine ***works***, you explain how it functions:
 
 > *Don’t try to use that computer. It doesn’t **work**.*
 
-**Job** can also refer to a specific task that requires ***work*** and a task
-that you can specifically identify:
+**Job** can also refer to a specific task that requires ***work*** and a task that you can specifically identify:
 
-> *I have a few **jobs** to do at home this weekend. I need to paint my
-  bedroom, fix a broken door and cut the grass.*
+> *I have a few **jobs** to do at home this weekend. I need to paint my bedroom, fix a broken door and cut the grass.*
 
-> *The **work** that I do in my **job** is very interesting, so even though it
-  is hard work, I don't think I will look for another **job**!*
+> *The **work** that I do in my **job** is very interesting, so even though it is hard work, I don't think I will look for another **job**!*
 
-> *Are you a student or do you have a **job**? Whatever you do, is it hard
-  **work**?*
+> *Are you a student or do you have a **job**? Whatever you do, is it hard **work**?*
 
 [*Source*](https://www.bbc.co.uk/worldservice/learningenglish/language/askaboutenglish/2009/03/090331_aae_work_page.shtml)
 
@@ -2468,8 +2460,7 @@ that you can specifically identify:
 
 ## dedicated \| devoted
 
-**Devoted**&mdash;commitment to a particular activity or object. It’s
-particularly used to talk about someone’s love for their family:
+**Devoted**&mdash;commitment to a particular activity or object. It’s particularly used to talk about someone’s love for their family:
 
 > *He’s a **devoted** father.*
 
@@ -2481,23 +2472,17 @@ We can use it, perhaps less frequently, to talk about other areas of life:
 
 > *The teachers were devoted to their students.*
 
-The central meaning is that effort and concentration are involved in the object
-of the devotion. And it’s worth noting that the noun **devotions** might also
-mean religious activities like praying.
+The central meaning is that effort and concentration are involved in the object of the devotion. And it’s worth noting that the noun **devotions** might also mean religious activities like praying.
 
-***Dedicated*** is a more general word. If you are dedicated to something, you
-believe that it’s right and worthwhile and you give a lot of time and effort to
-it. It’s especially useful to talk about someone’s attitude to their job:
+***Dedicated*** is a more general word. If you are dedicated to something, you believe that it’s right and worthwhile and you give a lot of time and effort to it. It’s especially useful to talk about someone’s attitude to their job:
 
 > *A **dedicated** worker*
 
-> *A **dedicated** vegetarian* (believes very strongly that people should not
-  eat animals)
+> *A **dedicated** vegetarian* (believes very strongly that people should not eat animals)
 
 > *A song on the radio might be **dedicated** to a particular person.*
 
-**Dedication**&mdash;a statement which says who a book has been written for or
-who a song has been sung for.
+**Dedication**&mdash;a statement which says who a book has been written for or who a song has been sung for.
 
 [*Source*](https://www.bbc.co.uk/worldservice/learningenglish/radio/specials/1837_aae/page20.shtml)
 
@@ -2505,13 +2490,8 @@ who a song has been sung for.
 
 ## host \| node
 
-Every network ***host*** is a physical network ***node*** (i.e. a network
-device), but not every physical network node is a host. Network devices such as
-modems, hubs and network switches are not assigned host addresses (except
-sometimes for administrative purposes), and are consequently not considered to
-be network hosts. Devices such as network printers and hardware routers have IP
-addresses, but since they are not general-purpose computers, they are sometimes
-not considered to be hosts.
+Every network ***host*** is a physical network ***node*** (i.e. a network device), but not every physical network node is a host. Network devices such as modems, hubs and network switches are not assigned host addresses (except sometimes for administrative purposes), and are consequently not considered to be network hosts. Devices such as network printers and hardware routers have IP
+addresses, but since they are not general-purpose computers, they are sometimes not considered to be hosts.
 
 | notion | definition                                                           |
 |--------|----------------------------------------------------------------------|
@@ -2526,35 +2506,27 @@ not considered to be hosts.
 
 ## update \| upgrade
 
-**Update**&mdash;to make and keep something up to date or a better version of
-the older one, often to solve glitches or problems.
+**Update**&mdash;to make and keep something up to date or a better version of the older one, often to solve glitches or problems.
 
-**Upgrade**&mdash;to raise something to a higher standard by adding or
-replacing few components.
+**Upgrade**&mdash;to raise something to a higher standard by adding or replacing few components.
 
-[*Source*](https://askanydifference.com/difference-between-update-and-upgrade/)
+[*Source*](https://askanydifference.com/difference-between-update-and-upgrade)
 
 ***
 
 ## beverage \| drink
 
-**Drink** is a wider term that includes every type of edible liquid including
-water, on the other hand, **beverages** are specific drinks that are brewed,
-infused, percolated, etc. Beverages do not include water. To become a beverage
-something has to be added to water with other ingredients. Some examples of
-beverages are coffee, tea, beer, etc.
+**Drink** is a wider term that includes every type of edible liquid including water, on the other hand, **beverages** are specific drinks that are brewed, infused, percolated, etc. Beverages do not include water. To become a beverage something has to be added to water with other ingredients. Some examples of beverages are coffee, tea, beer, etc.
 
-[*Source*](https://askanydifference.com/difference-between-drink-and-beverage/)
+[*Source*](https://askanydifference.com/difference-between-drink-and-beverage)
 
 ***
 
 ## alternative for \| alternative of \| alternative to
 
-> *What are the **alternatives to** this project?* (What other projects could
-we do instead?)
+> *What are the **alternatives to** this project?* (What other projects could we do instead?)
 
-> *What are the **alternatives for** this project?* (In the context of this
-project, what choices do we have about how to solve it?)
+> *What are the **alternatives for** this project?* (In the context of this project, what choices do we have about how to solve it?)
 
 Usage examples:
 
@@ -2601,36 +2573,23 @@ Usage examples:
 
 ## amend \| emend \| mend
 
-**Amend** defines the action of slightly changing some words in a document. It
-is used a lot more frequently than ***emend*** and it is most likely to be
-found in passive voice.
+**Amend** defines the action of slightly changing some words in a document. It is used a lot more frequently than ***emend*** and it is most likely to be found in passive voice.
 
-The meaning of ***emend*** is confined to textual alterations, and ***amend***
-can be broadened to include the general improvement of other things. Still,
-***amend*** is mostly used in the sense of improving text.
+The meaning of ***emend*** is confined to textual alterations, and ***amend*** can be broadened to include the general improvement of other things. Still, ***amend*** is mostly used in the sense of improving text.
 
 > *The contract has been **amended**, terms have slightly changed now.*
 
-If you’re not a professional editor who specializes in proof-reading, than
-you’ll probably never use or read ***emend*** in this form. ***Emend*** is
-mostly present in contexts related to professional, technical writing and
-editing, and it defines the action of improving a text through editing.
+If you’re not a professional editor who specializes in proof-reading, than you’ll probably never use or read ***emend*** in this form. ***Emend*** is mostly present in contexts related to professional, technical writing and editing, and it defines the action of improving a text through editing.
 
-> *I hired a professional to **emend** my contract and make sure everything is
-  alright before presenting it to the other parties.*
+> *I hired a professional to **emend** my contract and make sure everything is alright before presenting it to the other parties.*
 
-To **mend** something is to fix something that was broken or that had a
-problem:
+To **mend** something is to fix something that was broken or that had a problem:
 
 > *To **mend** a punctured tyre.*
 
 > *To **mend** a broken heart.*
 
-If you’re talking about fixing a rip in a shirt, you would be better to just
-use the word ***mend***; to ~~**amend** the shirt~~ would sound strange. The
-Constitution of the U.S. may be ***amended*** (as it has been) but if the
-actual document itself were damaged and required restoration I don’t think
-anyone would say the team that did the work amended the Constitution.
+If you’re talking about fixing a rip in a shirt, you would be better to just use the word ***mend***; to ~~**amend** the shirt~~ would sound strange. The Constitution of the U.S. may be ***amended*** (as it has been) but if the actual document itself were damaged and required restoration I don’t think anyone would say the team that did the work amended the Constitution.
 
 *Sources:
 [1](https://english.stackexchange.com/questions/5920/difference-between-emend-and-amend),
@@ -2641,9 +2600,9 @@ anyone would say the team that did the work amended the Constitution.
 
 ## artefact \| artifact
 
-***Artefact***: British English
+***Artefact***: BrE
 
-***Artifact***: US English
+***Artifact***: AmE
 
 There is no apparent dictionary difference in meaning between the two forms, however, the Science Dictionary says the following:
 
@@ -2672,8 +2631,7 @@ voters.
 
 ## lack \| miss
 
-**Lack** something&mdash;to not have something (usually something desirable
-or essential):
+**Lack** something&mdash;to not have something (usually something desirable or essential):
 
 > *I would take the radio apart, but I **lack** a screwdriver.*
 
@@ -2728,11 +2686,11 @@ An **assignment** is work given to you by your boss\/coworker. ***Task*** could 
 A **problem** is a question proposed for solution or discussion. Problems have many possible solutions and figuring out the right one for a given situation allows for ownership of that solution. ***Tasks***, on the other hand, are a known entity. There’s already a solution, and you only have to physically go through the steps of completing it. There’s not much thought required, and if the task popped up frequently enough, you’d consider automating it.
 
 *Sources:
-[1](https://www.professorjackrichards.com/difference-task-exercise-activity/),
+[1](https://www.professorjackrichards.com/difference-task-exercise-activity),
 [2](https://wikidiff.com/task/exercise),
 [3](https://www.journals.aiac.org.au/index.php/alls/article/view/4980),
-[4](https://www.myenglishpages.com/blog/what-is-the-difference-between-a-task-and-an-exercise/),
-[5](https://askanydifference.com/difference-between-task-and-activity/),
+[4](https://www.myenglishpages.com/blog/what-is-the-difference-between-a-task-and-an-exercise),
+[5](https://askanydifference.com/difference-between-task-and-activity),
 [6](https://hinative.com/ru/questions/392784),
 [7](https://everythingwhat.com/what-is-the-difference-between-a-drill-and-an-exercise),
 [8](https://www.dictionary.com/browse/problem),
@@ -2754,46 +2712,35 @@ Literally, **tits** refer to the nipples and **boobs** refer to the entire breas
 
 **Practice**&mdash;both a noun and a verb (AmE).
 
-[*Source*](https://www.dictionary.com/e/practice-vs-practise/)
+[*Source*](https://www.dictionary.com/e/practice-vs-practise)
 
 ***
 
 ## accidentally \| coincidentally \| coincidently \| incidentally
 
-**Accidental** and **incidental** can both mean *something happening by
-chance*, but usage suggests that ***accidental*** also implies an element of
-carelessness or inattention while ***incidental*** implies the occurrence would
-have happened with or without attention or care.
+**Accidental** and **incidental** can both mean *something happening by chance*, but usage suggests that ***accidental*** also implies an element of carelessness or inattention while ***incidental*** implies the occurrence would have happened with or without attention or care.
 
-**Accident** and **incident** share the idea of a sudden and unpleasant
-occurrence. ***Accident*** usually refers directly to something that causes
-damage or injury, ***incident***&mdash;to a specific moment or instance of
-unpleasantness or unlawfulness:
+**Accident** and **incident** share the idea of a sudden and unpleasant occurrence. ***Accident*** usually refers directly to something that causes damage or injury, ***incident***&mdash;to a specific moment or instance of unpleasantness or unlawfulness:
 
 > *a traffic **accident***
 
 > *isolated **incidents** were reported*
 
-**Coincidentally** relates to luck, in a way, to two or more events at one time
-apparently by mere chance:
+**Coincidentally** relates to luck, in a way, to two or more events at one time apparently by mere chance:
 
-> *You happen to call me on the phone. In the course of our conversation you
-  happen to mention where you are. By luck (**coincidentally**), you happen to
-  be very close to where I am and that will make it easy for me to meet up with
-  you in person.*
+> *You happen to call me on the phone. In the course of our conversation you happen to mention where you are. By luck (**coincidentally**), you happen to be very close to where I am and that will make it easy for me to meet up with you in person.*
 
 ***Coincidently*** is *simultaneously*.
 
 ***Incidentally*** is more like *by the way*:
 
-> *By the way (**incidentally**), I am going to be out of town next weekend so
-  I can’t go to the movies like we planned.*
+> *By the way (**incidentally**), I am going to be out of town next weekend so I can’t go to the movies like we planned.*
 
 *Sources:
 [1](https://www.merriam-webster.com/words-at-play/accidental-vs-incidental-usage-history),
-[2](https://forum.wordreference.com/threads/coincidentally-vs-incidentally.3338234/),
+[2](https://forum.wordreference.com/threads/coincidentally-vs-incidentally.3338234),
 [3](https://www.dictionary.com/browse/coincidence),
-[4](https://theknowledgeburrow.com/is-it-coincidentally-or-coincidently/)*
+[4](https://theknowledgeburrow.com/is-it-coincidentally-or-coincidently)*
 
 ***
 
@@ -2826,8 +2773,7 @@ Note:
 
 > *He **learned to** obey.* = He learned that he must obey.
 
-Obviously the child already knows how to avoid making a noise, so *learn* has a
-somewhat different meaning here:
+Obviously the child already knows how to avoid making a noise, so *learn* has a somewhat different meaning here:
 
 > *I wish you’d **learn to** be quiet in church.*
 
@@ -2841,18 +2787,11 @@ somewhat different meaning here:
 
 > *Her decision to sell the house was a big **mistake**.*
 
-A ***mistake*** is usually accidental, you know it is wrong. Otherwise, an
-***error*** is usually made due to the lack of knowledge and is more formal and
-technical than ***mistake***.
+A ***mistake*** is usually accidental, you know it is wrong. Otherwise, an ***error*** is usually made due to the lack of knowledge and is more formal and technical than ***mistake***.
 
-Machines never make ***mistakes***, but rather they make ***errors***. People
-can make both.
+Machines never make ***mistakes***, but rather they make ***errors***. People can make both.
 
-The person who is making the ***error*** doesn’t know that he is doing
-something wrong. For example, you do not understand some concepts in math, so
-you make a lot of errors. Now, imagine a situation where you understand and
-know the concepts, but you did the calculations in a rush. You had knowledge,
-but it’s your carelessness that resulted in the mistakes.
+The person who is making the ***error*** doesn’t know that he is doing something wrong. For example, you do not understand some concepts in math, so you make a lot of errors. Now, imagine a situation where you understand and know the concepts, but you did the calculations in a rush. You had knowledge, but it’s your carelessness that resulted in the mistakes.
 
 *Sources: [1](http://languagelearningbase.com/88781/what-is-the-difference-between-error-and-mistake),
 [2](https://pediaa.com/difference-between-error-and-mistake)*
@@ -2873,21 +2812,11 @@ but it’s your carelessness that resulted in the mistakes.
 
 ### Law
 
-A **right** is something that every person is born with and is inalienable,
-which means that it cannot be given, taken away, or denied by anyone. Another
-distinction between a right and a ***privilege*** is that a ***right*** does
-not need to be earned or worked for. For example, free speech is a right
-because anyone can speak freely and there is nothing anyone has to do to be
-able to freely speak and it does not cost anyone else anything to have free
-speech.
+A **right** is something that every person is born with and is inalienable, which means that it cannot be given, taken away, or denied by anyone. Another distinction between a right and a ***privilege*** is that a ***right*** does not need to be earned or worked for. For example, free speech is a right because anyone can speak freely and there is nothing anyone has to do to be able to freely speak and it does not cost anyone else anything to have free speech.
 
-On the other hand, a driver’s license is a ***privilege*** because anyone that
-wants to get one has to be a certain age, be free from limitations such as
-being blind, and must pass a test first. This license can be denied or taken
-away when a person does not meet the qualifications or violates the driving
-laws.
+On the other hand, a driver’s license is a ***privilege*** because anyone that wants to get one has to be a certain age, be free from limitations such as being blind, and must pass a test first. This license can be denied or taken away when a person does not meet the qualifications or violates the driving laws.
 
-[*Source*](https://thelicenselawyers.com/laws-regulations-connecticut-lawyer/rights-privileges/)
+[*Source*](https://thelicenselawyers.com/laws-regulations-connecticut-lawyer/rights-privileges)
 
 ***
 
@@ -2897,32 +2826,19 @@ laws.
 
 **Permission**&mdash;authorization granted to do something; formal consent.
 
-**Privilege**&mdash;a grant to an individual, corporation, etc., of a special
-right or immunity, under certain conditions.
+**Privilege**&mdash;a grant to an individual, corporation, etc., of a special right or immunity, under certain conditions.
 
 ### IT
 
-**Permission**&mdash;a rule associated with an object to regulate which users
-can gain access to the object and in what manner. Permissions are assigned or
-denied by the object’s owner.
+**Permission**&mdash;a rule associated with an object to regulate which users can gain access to the object and in what manner. Permissions are assigned or denied by the object’s owner.
 
-**Privilege**&mdash;authorization to perform a specific action or set of
-actions on a managed object or group of managed objects.
+**Privilege**&mdash;authorization to perform a specific action or set of actions on a managed object or group of managed objects.
 
 - ***Permissions*** are given to roles, ***privileges*** are given to people;
-
 - A ***permission*** is asked for, a ***privilege*** is granted;
-
 - ***Permissions*** are situation-based, ***privileges*** are time-based.
 
-So typically, as used in IT security, privileges determine permissions. A user,
-through their account, is granted the ***privilege*** of reading a particular
-type of record (or a particular record) by the administrator of a system; this
-is typically done once, or as needed over time. The application, acting on
-behalf of the user who has authenticated themselves using the account, then
-asks for ***permission*** to perform an action each and every time it must do
-so, and the system grants this permission in each situation after examining the
-privileges of the user.
+So typically, as used in IT security, privileges determine permissions. A user, through their account, is granted the ***privilege*** of reading a particular type of record (or a particular record) by the administrator of a system; this is typically done once, or as needed over time. The application, acting on behalf of the user who has authenticated themselves using the account, then asks for ***permission*** to perform an action each and every time it must do so, and the system grants this permission in each situation after examining the privileges of the user.
 
 *Sources:
 [1](https://www.dictionary.com/browse/permission),
@@ -2935,59 +2851,37 @@ privileges of the user.
 
 ## license \| permit
 
-A **license** is a legally binding contract that allows someone or something to
-do, own, perform an action or use a service as long as they agree to the
-provided terms and conditions. Examples of licenses are driving licenses,
-software licenses and business licenses. All these have terms and conditions
-attached to them and must be followed for the license to be put to action.
+A **license** is a legally binding contract that allows someone or something to do, own, perform an action or use a service as long as they agree to the provided terms and conditions. Examples of licenses are driving licenses, software licenses and business licenses. All these have terms and conditions attached to them and must be followed for the license to be put to action.
 
-A **permit** is an official document which gives an individual permission to
-carry out an activity.
+A **permit** is an official document which gives an individual permission to carry out an activity.
 
-A person may have a driving ***permit*** before attaining a certain age, and
-once that age is attained, a ***license*** is given. This is the same case for
-a person who has a ***license*** to carry on pest control business but must
-have a ***permit*** to store the chemicals.
+A person may have a driving ***permit*** before attaining a certain age, and once that age is attained, a ***license*** is given. This is the same case for a person who has a ***license*** to carry on pest control business but must have a ***permit*** to store the chemicals.
 
 ### Differences between permits and licenses
                                                                                                     
 #### Period of Validity
 
-In most cases, ***licenses*** are permanent while ***permits*** are temporary.
-For instance, in driving, a permit is valid for up to two years in most places
-while licenses are permanent, although they can also be annulled in case of
-misuse of the said license.
+In most cases, ***licenses*** are permanent while ***permits*** are temporary. For instance, in driving, a permit is valid for up to two years in most places while licenses are permanent, although they can also be annulled in case of misuse of the said license.
 
 #### Different restrictions
 
-***Licenses*** have few restrictions if any. On the other hand, ***permits***
-have a lot of restrictions. ***Permits*** restrict on the time an activity can
-be carried out, who is carrying out the activity, where the activity is being
-carried out and also whether supervision is available. Most activities that are
-carried out with the authority of a ***license*** do not have such
-restrictions. For instance, a driver’s license does not have restrictions on
-where, whom and when to drive, as long it is within the allowed territory.
+***Licenses*** have few restrictions if any. On the other hand, ***permits*** have a lot of restrictions. ***Permits*** restrict on the time an activity can be carried out, who is carrying out the activity, where the activity is being carried out and also whether supervision is available. Most activities that are carried out with the authority of a ***license*** do not have such restrictions. For instance, a driver’s license does not have restrictions on where, whom and when to drive, as long it is within the allowed territory.
 
 #### Inspection periods
 
-***Permits*** require regular safety regulation inspections from the relevant
-authorities. ***Licenses***, on the other hand, may require inspection, but not
-as regular.
+***Permits*** require regular safety regulation inspections from the relevant authorities. ***Licenses***, on the other hand, may require inspection, but not as regular.
 
 #### Appearance
 
-While appearance is mainly a non-issue, licenses and permits are in most cases
-not similar. For instance, most ***permits*** may be a sticker but a
-***license*** may be updated to a card.
+While appearance is mainly a non-issue, licenses and permits are in most cases not similar. For instance, most ***permits*** may be a sticker but a ***license*** may be updated to a card.
 
-[*Source*](http://www.differencebetween.net/business/differences-between-permits-and-licenses/)
+[*Source*](http://www.differencebetween.net/business/differences-between-permits-and-licenses)
 
 ***
 
 ## cause \| reason
 
-**Cause** is something that brings about an effect, while **reason** is a
-motive or justification for something.
+**Cause** is something that brings about an effect, while **reason** is a motive or justification for something.
 
 > *The police always try to find the **cause** of an accident.*
 
@@ -2997,21 +2891,19 @@ motive or justification for something.
 
 > *They have a good **reason** to celebrate.*
 
-[*Source*](https://pediaa.com/what-is-the-difference-between-cause-and-reason/)
+[*Source*](https://pediaa.com/what-is-the-difference-between-cause-and-reason)
 
 ***
 
 ## individual \| person
 
-Though used interchangeably, the words *person* and *individual* connote
-different meanings.
+Though used interchangeably, the words *person* and *individual* connote different meanings.
 
 A **person** is a human being that thinks and walks.
 
-An **individual** is a person in a crowd having unique characteristics.
-*Individual* connotes individualism and properties that are unique to a person.
+An **individual** is a person in a crowd having unique characteristics. *Individual* connotes individualism and properties that are unique to a person.
 
-[*Source*](https://www.differencebetween.com/difference-between-person-and-vs-individual/)
+[*Source*](https://www.differencebetween.com/difference-between-person-and-vs-individual)
 
 ***
 
@@ -3023,7 +2915,7 @@ An **individual** is a person in a crowd having unique characteristics.
 
 **Personal** is something private or that belongs to only that person:
 
-> *My **personal** belongings has been taken away.*
+> *My **personal** belongings have been taken away.*
 
 [*Source*](https://hinative.com/ru/questions/59686)
 
@@ -3031,8 +2923,7 @@ An **individual** is a person in a crowd having unique characteristics.
 
 ## individually \| separately \| severally
 
-**Severally** means *by/in distinct units* (where *units* could be one or more
-individual entities):
+**Severally** means *by/in distinct units* (where *units* could be one or more individual entities):
 
 > *The States doing so adopted articles of secession **severally**.*
 
@@ -3078,25 +2969,17 @@ To **crush** is to:
 
 ## maximal \| maximum, minimal \| minimum
 
-***Maximum*** and ***minimum*** relate to absolute values&mdash;there is
-nothing higher than the maximum and nothing lower than the minimum.
+***Maximum*** and ***minimum*** relate to absolute values&mdash;there is nothing higher than the maximum and nothing lower than the minimum.
                                                                                                     
-***Minimal***  means *very small* as opposed to *the lowest possible*; the same
-distinction is true of ***maximum*** and ***maximal***:
+***Minimal***  means *very small* as opposed to *the lowest possible*; the same distinction is true of ***maximum*** and ***maximal***:
 
 > *I want to buy this at **minimal** cost.*
 
 > *This action carries a **minimal** risk.*
 
-In some areas of mathematics (e.g., in *maximal element*, *maximal matching*),
-a *maximal value* (you can’t use *the* with this meaning) is essentially a
-local maximum&mdash;it’s a maximum value in its neighborhood.
+In some areas of mathematics (e.g., in *maximal element*, *maximal matching*), a *maximal value* (you can’t use *the* with this meaning) is essentially a local maximum&mdash;it’s a maximum value in its neighborhood.
 
-A *clique* is a set of people all of whom know each other. A clique is
-***maximal*** if adding anyone else to the set destroys the clique property,
-that is, there is no larger clique that contains it. A clique is ***maximum***
-if there is no larger clique. There can be many maximum cliques. Every maximum
-clique is maximal, but not vice-versa.
+A *clique* is a set of people all of whom know each other. A clique is ***maximal*** if adding anyone else to the set destroys the clique property, that is, there is no larger clique that contains it. A clique is ***maximum*** if there is no larger clique. There can be many maximum cliques. Every maximum clique is maximal, but not vice-versa.
 
 [*Source*](https://english.stackexchange.com/questions/38260/maximum-vs-maximal)
 
@@ -3113,17 +2996,13 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 **Critical**:
 
 - very judgmental:
-
   > *Don’t you think you’re being too **critical** about my report?*
-
 - an element of danger is often implied:
-
   > ***Critical** condition*
 
 **Crucial**:
 
 - of the utmost importance:
-
   > *It’s **crucial** that you get this paperwork done before work ends.*
 
 [*Source*](https://ru.hinative.com/questions/736734)
@@ -3135,21 +3014,15 @@ See [maximal \| maximum, minimal \| minimum](#maximal--maximum-minimal--minimum)
 **Moment**:
 
 - a point of time (instant):
-
   > *A **moment** of dreadful suspense*
-
 - a comparatively brief period of time:
-
   > ***Moments** of solitude*
 
-**Instant**&mdash;an infinitesimal[^infinitesimal] space of time, especially a
-point in time separating two states:
+**Instant**&mdash;an infinitesimal[^infinitesimal] space of time, especially a point in time separating two states:
 
 > *At the **instant** of death*
 
-A **moment** is a short period of time which can represent anything from an
-instant up to several minutes, whereas an **instant** is the shortest possible
-moment.
+A **moment** is a short period of time which can represent anything from an instant up to several minutes, whereas an **instant** is the shortest possible moment.
 
 [^infinitesimal]: \['ɪnfɪnɪ'tesɪm(ə)l\], бесконечно малый
 
