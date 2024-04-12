@@ -122,8 +122,6 @@
 
 [custom \| customized](#custom--customized)
 
-[data (singular \| plural)](#data-singular--plural)
-
 [data \| information](#data--information)
 
 [decrease \| reduce](#decrease--reduce)
@@ -414,7 +412,9 @@ In software development, ***original*** could refer to the first version of a pr
 
 ## configuration \| options \| preferences \| properties \| setting
 
-**Setting** usually refers to a single variable that can be changed. **Configuration** refers to a group of settings.
+**Setting** usually refers to a single variable that can be changed.
+
+**Configuration** refers to a group of settings.
 
 For example, changing the brightness of a phone screen is a ***setting***. But all of the settings you have chosen on your phone make up its ***configuration***.
 
@@ -618,13 +618,13 @@ You should place a comma after both phrases. They work as their own separate cla
 | Term | Definition | Example | Complete form |
 |------|------------|---------|---------------|
 | ***Abbreviation*** | The shortened form of a word or phrase intended to speed up communication and\/or use fewer symbols. | *vs.* | versus |
-|                    |                                                                                                      | *dept.* | department |
+| | | *dept.* | department |
 | ***Acronym*** | An abbreviation made up of parts of the phrase it stands for and pronounced as a word. | *NATO* | The North Atlantic Treaty Organization |
-|               |                                                                                        | *AIDS* | acquired immunodeficiency syndrome |
-|               |                                                                                        | *laser* | light amplification by the stimulated emission of radiation |
-|               |                                                                                        | *GABA* | Gamma-Aminobutyric Acid |
+| | | *AIDS* | acquired immunodeficiency syndrome |
+| | | *laser* | light amplification by the stimulated emission of radiation |
+| | | *GABA* | Gamma-Aminobutyric Acid |
 | ***Initialism*** | An acronym that is pronounced as individual letters. | *DNA* | Deoxyribonucleic Acid |
-|                  |                                                      | *RT-PCR* | Reverse transcription polymerase chain reaction |
+| | | *RT-PCR* | Reverse transcription polymerase chain reaction |
 | ***Backronym*** | An acronym which meaning was created after the abbreviation. | *SOS* | Save Our Ship |
 
 *Sources: [1](https://wwwnc.cdc.gov/eid/page/abbreviations-acronyms-initialisms),
@@ -1331,10 +1331,7 @@ This came up recently in the following sentence:
 > *\... the new office will support the beneficiary \... **within** one year of
   petitioner approval.*
 
-The business had interpreted that as *during the year of*, and it got them into
-a bit of trouble. They supported the beneficiary for a year but were not able
-to continue to support him after. The intent was for the position to continue,
-not end.
+The business had interpreted that as *during the year of*, and it got them into a bit of trouble. They supported the beneficiary for a year but were not able to continue to support him after. The intent was for the position to continue, not end.
 
 [*Source*](https://forum.wordreference.com/threads/during-vs-within.1647596/)
 
@@ -1348,38 +1345,26 @@ not end.
 
 ## content \| contents
 
-- **content:** the entirety of information contained in something. The story of
-  a novel or the subject of an illustration can be called their "content". Just
-  like "information", content is always uncountable when used in this sense.
-  The word is most commonly used in reference to the content of a website:
+- **content:** the entirety of information contained in something. The story of   a novel or the subject of an illustration can be called their "content". Just like "information", content is always uncountable when used in this sense. The word is most commonly used in reference to the content of a website:
 
   > *Most websites contain mostly ads with very little **content**.*
 
-- **content/contents**: the amount of a substance contained in something else.
-  It may be either countable or uncountable. We can speak of *salt content* or
-  *fat content* in foods, *alcohol content* in drinks, and so on:
+- **content/contents**: the amount of a substance contained in something else. It may be either countable or uncountable. We can speak of *salt content* or *fat content* in foods, *alcohol content* in drinks, and so on:
 
   > *Bacon has (a) very high salt **content**.*
 
 - **contents:** things contained in something:
 
-  - In a concrete sense. We can speak of the *contents of a bag*, *contents of
-    a bottle*, *contents of the stomach*, etc.:
+  - In a concrete sense. We can speak of the *contents of a bag*, *contents of a bottle*, *contents of the stomach*, etc.:
 
     > *He dropped a bottle and spilled its **contents** all over the floor.*
 
-  - In an abstract sense. Traditionally, pieces of information contained in a
-    written document are called its "contents":
+  - In an abstract sense. Traditionally, pieces of information contained in a written document are called its "contents":
 
     > *She has lost the letter and remained unaware of its **contents**.*
 
-Using the singular ***content*** in this case is becoming increasingly more
-common but is still considered wrong by many. The distinction is rather subtle;
-if you consider the contents of a document to be separate pieces of
-information, you should use ***contents*** (which is usually the case with a
-letter). If you refer to them as a whole, you should use ***content***&mdash;it
-makes more sense to say that *the book contains violent content* than *the book
-contains violent contents*.
+Using the singular ***content*** in this case is becoming increasingly more common but is still considered wrong by many. The distinction is rather subtle; if you consider the contents of a document to be separate pieces of information, you should use ***contents*** (which is usually the case with a letter). If you refer to them as a whole, you should use ***content***&mdash;it
+makes more sense to say that *the book contains violent content* than *the book contains violent contents*.
 
 [*Source*](https://jakubmarian.com/content-vs-contents-in-english/)
 
@@ -1387,25 +1372,23 @@ contains violent contents*.
 
 ## borehole \| well
 
-Typically a borehole is drilled by machine and is relatively small in diameter.
-A well is usually sunk by hand and is relatively large in diameter.
+Typically a ***borehole*** is drilled by machine and is relatively small in diameter.
 
-[*Source*](https://www.welldrillers.org/faq/about-boreholes-and-wells/)
+A ***well*** is usually sunk by hand and is relatively large in diameter.
+
+*See also* [boring \| drilling](#boring--drilling)
+
+[*Source*](https://www.welldrillers.org/faq/about-boreholes-and-wells)
 
 ***
 
 ## boring \| drilling
 
-**Drilling** is *the cutting process* of a material using a specially designed
-rotating cutting tool called a drill bit. The holes produced by the drilling
-are always cylindrical in shape and circular in the diameter.
+**Drilling** is *the cutting process* of a material using a specially designed rotating cutting tool called a drill bit. The holes produced by the drilling are always cylindrical in shape and circular in the diameter.
 
-**Boring** is *the process of enlarging a hole that is already in the
-material*; it may be a hole made by drilling or in the casting. Boring concerns
-the internal diameter and the surface of the hole rather than the depth of the
-hole. In this sense, it can be considered as a twin process of turning, where
-the outer diameter and the surface are the concerns. Boring is done using a
-boring bar, which is a heavy metal bar with the tools fixed at the end.
+**Boring** is *the process of enlarging a hole that is already in the material*; it may be a hole made by drilling or in the casting. Boring concerns the internal diameter and the surface of the hole rather than the depth of the hole. In this sense, it can be considered as a twin process of turning, where the outer diameter and the surface are the concerns. Boring is done using a boring bar, which is a heavy metal bar with the tools fixed at the end.
+
+*See also* [borehole \| well](#borehole--well)
 
 [*Source*](https://www.differencebetween.com/difference-between-drilling-and-vs-boring/)
 
@@ -1413,13 +1396,9 @@ boring bar, which is a heavy metal bar with the tools fixed at the end.
 
 ## particular \| specific
 
-As *adjectives* the difference between specific and particular is that
-**specific** is explicit or definite while **particular** is (obsolete)
-pertaining only to a part of something; partial.
+As *adjectives* the difference between specific and particular is that **specific** is explicit or definite while **particular** is (obsolete) pertaining only to a part of something; partial.
 
-As *nouns* the difference between specific and particular is that **specific**
-is a distinguishing attribute or quality while **particular** is a small
-individual part of something larger; a detail, a point.
+As *nouns* the difference between specific and particular is that **specific** is a distinguishing attribute or quality while **particular** is a small individual part of something larger; a detail, a point.
 
 [*Source*](https://wikidiff.com/specific/particular)
 
@@ -1427,13 +1406,11 @@ individual part of something larger; a detail, a point.
 
 ## effective \| efficient
 
-**Effective** focuses on whether or not something is accomplished. It doesn’t
-focus on how something is done, but rather, if it is done at all:
+**Effective** focuses on whether or not something is accomplished. It doesn’t focus on how something is done, but rather, if it is done at all:
 
 > *We need an **effective** solution for everyone.*
 
-**Efficient** focuses on how something is done: acting or producing effectively
-with minimum waste, expense, or unnecessary effort:
+**Efficient** focuses on how something is done: acting or producing effectively with minimum waste, expense, or unnecessary effort:
 
 > *My new car is very fuel-**efficient**, and it gets 40 miles per gallon.*
 
@@ -1445,11 +1422,9 @@ with minimum waste, expense, or unnecessary effort:
 
 ## effectiveness \| ~~effectivity~~ \| efficacy \| efficiency
 
-**Efficacy**&mdash;the power or capacity to produce a desired effect; widely
-used, among other places, in the medical field:
+**Efficacy**&mdash;the power or capacity to produce a desired effect; widely used, among other places, in the medical field:
 
-  > *There is in still limited information on the **efficacy** of this cancer
-    treatment.*
+  > *There is in still limited information on the **efficacy** of this cancer treatment.*
 
 **Efficiency**&mdash;the quality or property of being efficient.
 
@@ -1472,28 +1447,6 @@ Although a vaccine that has high ***efficacy***&mdash;such as Moderna’s COVID-
 
 ***
 
-## data (singular \| plural)
-
-When ***data*** is a count noun (items that can be counted), the plural makes
-sense.
-
-> *The **data** used were out of date.*
-
-In that type of sentence, you could replace ***data*** with another count noun
-such as *facts*.
-
-However, when ***data*** is treated as a non-count noun (items cannot be
-counted), the singular makes sense.
-
-> *The **data** used was out of date.*
-
-With that type of sentence, you could replace ***data*** with a word such as
-*information*.
-
-[*Source*](https://www.onlinegrammar.com.au/top-10-grammar-myths-data-is-plural-so-must-take-a-plural-verb/)
-
-***
-
 ## usage \| use
 
 **Use**&mdash;the act of putting something into service or action:
@@ -1503,15 +1456,10 @@ With that type of sentence, you could replace ***data*** with a word such as
 **Usage**:
 
 - a customary or firmly established practice, conventions or patterns;
-
 - the customary manner in which words are used in a language:
-
   > *The word prevarication is not common **usage**.* (\= *The word prevarication is not **in** common **use**.*)
-
 - the act of using (especially when specifying a quantity):
-
   > *Electricity **usage** monitors are easy to use and can measure the electricity **usage** of any device that runs on 120 volts.* ([quotation](https://www.energy.gov/energysaver/estimating-appliance-and-home-electronic-energy-use))
-
   > *Our town was asked to reduce water **usage** because of the drought.*
 
 ***Use*** has a much broader meaning and is found in more contexts. In my opinion, when in doubt, use the word ***use***.
@@ -1524,23 +1472,17 @@ Sources: *[1](https://blogs.transparent.com/english/use-versus-usage),
 
 ## complement \| supplement
 
-- **Supplement** would refer to extra/additional information. **Complement**
-  refers to an item that completes or goes well with another item.
+- **Supplement** would refer to extra/additional information. **Complement** refers to an item that completes or goes well with another item.
 
-- A ***complement*** usually makes the word that it goes with complete or
-  perfect. A ***supplement***, however, only helps that word. It is purely
-  supplementary.
+- A ***complement*** usually makes the word that it goes with complete or perfect. A ***supplement***, however, only helps that word. It is purely supplementary.
 
-Generally, a **complement** is always the response to incompleteness that
-provides the required essential part:
+Generally, a **complement** is always the response to incompleteness that provides the required essential part:
 
-> *Soul is the complement for a human body to become a human being* (without
-soul the body is not human being).
+> *Soul is the complement for a human body to become a human being* (without soul the body is not human being).
 
 - A **supplement** is always the response to extra needs or demand:
 
-  > *Spare Tyre is the supplement for any vehicle* (without the spare tyre it’s
-    possible to go anywhere but it’s essential to have one).
+  > *Spare Tyre is the supplement for any vehicle* (without the spare tyre it’s possible to go anywhere but it’s essential to have one).
 
 [*Source*](https://english.stackexchange.com/questions/26129/complement-or-supplement)
 
