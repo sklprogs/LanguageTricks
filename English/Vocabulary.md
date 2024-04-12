@@ -2197,62 +2197,31 @@ Use ***big*** in the following cases:
 Use ***large*** in the following cases:
 
 1. More than average. Same meaning as ***big***, but more formal:
-
    > *The town was quite **large** with lots of business buildings.*
-
-2. With quantity words:
-
+1. With quantity words:
    - a large area
-
    - a large volume
-
    - a large part of
-
    - to a large extent
-
    - a large amount
-
    - on a large scale
-
    - a large number of
-
    - a large quantity of
-
    - a large proportion
-
    - a large percentage of
-
-3. Body sizes. Following the convention, clothing sizes are Small (S), Medium
-   (M) and Large (L). In very rare occasions will you see Big (B) instead.
-   Calling someone *fat* or *chubby* does not sound nice to anyone’s ears, so
-   in most cases, it is better to leave it out and not mention it. However, if
-   you really need to describe someone and you have to mention their
-   *largeness*, it sounds nicer to say ***large*** than anything else.
-
-   > *Please, go talk to the chairman of the conference, he’s super nice and
-     helpful. If you don’t know him, he is the **large** man in the navy suit.*
-
-4. With fixed phrases:
-
+1. Body sizes. Following the convention, clothing sizes are Small (S), Medium (M) and Large (L). In very rare occasions will you see Big (B) instead. Calling someone *fat* or *chubby* does not sound nice to anyone’s ears, so in most cases, it is better to leave it out and not mention it. However, if you really need to describe someone and you have to mention their *largeness*, it sounds nicer to say ***large*** than anything else.
+   > *Please, go talk to the chairman of the conference, he’s super nice and helpful. If you don’t know him, he is the **large** man in the navy suit.*
+1. With fixed phrases:
    - ***At large***:
-
      - Free, not captured yet:
-
        > *The police haven’t caught the thief yet; he is still **at large**.*
-
      - In general:
-
        > *There has been a loss of community values in society **at large**.*
-
    - ***By and large*** (in general, overall):
-
-     > ***By and large**, the company has been very good to me over the last
-       couple of years.*
+     > ***By and large**, the company has been very good to me over the last couple of years.*
 
    - ***Larger than life***:
-
-     - A person that attracts special attention because of their flamboyant
-       appearance or behavior:
+     - A person that attracts special attention because of their flamboyant appearance or behavior:
 
        > *I’ve always thought that the marketing manager seemed **larger than
          life**.*
