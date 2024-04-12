@@ -242,6 +242,8 @@
 
 [individually \| separately \| severally](#individually--separately--severally)
 
+[initial \| original](#initial--original)
+
 [inside knowledge \| insider knowledge \| insider's knowledge](#inside-knowledge--insider-knowledge--insiders-knowledge)
 
 [installation \| setup](#installation--setup)
@@ -365,6 +367,31 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## initial \| original
+
+Use ***initial*** when referring to the first version or draft of something.
+
+Use ***original*** when referring to something that is not a copy or imitation, but rather the first or earliest of its kind.
+
+Use *authentic* or *genuine* when referring to something that is not a fake or imitation, but rather the real thing.
+
+### Exceptions
+
+#### IT
+
+In software development, ***original*** could refer to the first version of a program, while ***initial*** could refer to the first step in a process.
+
+#### Law
+
+***Original*** could refer to a signed and dated contract, while ***initial*** could refer to the act of initialing[^initialing] each page of a document to indicate agreement.
+
+[^initialing]: *Парафирование* &mdash; предварительное подписание договора (или его отдельных статей, подписание на каждой странице) в том случае, если международный договор полностью согласован между сторонами, но требует ещё одобрения правительств, заключающих договор, или когда подписание окончательно оформленного текста по каким-либо причинам откладывается. Парафирование состоит в том, что уполномоченные ставят под текстом договора не свои подписи и печати, а лишь *параф* &mdash; росчерк, часть фамилии или инициалы каждого из них. Иногда инициалы ставятся не только в конце текста, но и на каждой странице. Парафирование не является обязательным этапом заключения договора и не заменяет подписания договора.
+
+*Sources: [1](https://thecontentauthority.com/blog/original-vs-initial),
+[2](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80#%D0%9F%D0%B0%D1%80%D0%B0%D1%84%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)*
 
 ***
 
@@ -2998,15 +3025,11 @@ anyone would say the team that did the work amended the Constitution.
 
 ***Artifact***: US English
 
-There is no apparent dictionary difference in meaning between the two forms,
-however, the Science Dictionary says the following:
+There is no apparent dictionary difference in meaning between the two forms, however, the Science Dictionary says the following:
 
-**Artifact**&mdash;an object produced or shaped by human craft, especially a
-tool, weapon, or ornament of archaeological or historical interest.
+**Artifact**&mdash;an object produced or shaped by human craft, especially a tool, weapon, or ornament of archaeological or historical interest.
 
-**Artefact**&mdash;an artificial product or effect observed in a natural
-system, especially one introduced by the technology used in scientific
-investigation or by experimental error.
+**Artefact**&mdash;an artificial product or effect observed in a natural system, especially one introduced by the technology used in scientific investigation or by experimental error.
 
 But they are generally used to mean *an archaelogical find*.
 
@@ -3018,15 +3041,10 @@ But they are generally used to mean *an archaelogical find*.
 
 ## blue dog \| red dog
 
-In the 1990s, after the GOP[^gop] won control of both houses of Congress,
-moderate Democrats who believed their party had moved too far to the left
-started calling themselves the **Blue Dogs**. Today, it’s the **Red Dogs** who
-are looking for a home in the Democratic party: college-educated, largely white
-suburbanites in major metropolitan areas who used to be Republicans or swing
+In the 1990s, after the GOP[^gop] won control of both houses of Congress, moderate Democrats who believed their party had moved too far to the left started calling themselves the **Blue Dogs**. Today, it’s the **Red Dogs** who are looking for a home in the Democratic party: college-educated, largely white suburbanites in major metropolitan areas who used to be Republicans or swing
 voters.
 
-[^gop]: GOP = *Grand Old Party* &mdash; *Великая старая партия* &mdash;
-неофициальное название Республиканской партии США.
+[^gop]: GOP = *Grand Old Party* &mdash; *Великая старая партия* &mdash; неофициальное название Республиканской партии США.
 
 [*Source*](https://www.dailykos.com/stories/2020/12/22/2003594/-should-we-distinguish-between-Blue-Dog-Democrats-and-Red-Dog-Democrats)
 
@@ -3041,97 +3059,53 @@ or essential):
 
 **Miss**&mdash;to regret the absence of something or someone:
 
-> *I would take the radio apart but I have lost my screwdriver, it was a
-  particularly good one and I **miss** it.*
+> *I would take the radio apart but I have lost my screwdriver, it was a particularly good one and I **miss** it.*
 
-> *My wife died three years ago and I still **miss** her. You ask if I **lack**
-  a wife; I suppose I do but I have no desire to remarry.*
+> *My wife died three years ago and I still **miss** her. You ask if I **lack** a wife; I suppose I do but I have no desire to remarry.*
 
-However, you can say, to be ***missing*** *something* = to ***lack*** because
-of the loss of a previously owned object:
+However, you can say, to be ***missing*** *something* = to ***lack*** because of the loss of a previously owned object:
 
-> *I would take the radio apart, but I am **missing** a screwdriver. I can’t
-  find it anywhere, I must have lost it.*
+> *I would take the radio apart, but I am **missing** a screwdriver. I can’t find it anywhere, I must have lost it.*
 
 ***
 
 ## activity \| activities \| assignment \| drill \| exercise \| problem \| task
 
-An **exercise** is a teaching procedure that involves controlled, guided or
-open ended practice of some aspect of language. A ***drill***, a cloze
-***activity***, a reading comprehension passage can all be regarded as
-exercises.
+An **exercise** is a teaching procedure that involves controlled, guided or open ended practice of some aspect of language. A ***drill***, a cloze ***activity***, a reading comprehension passage can all be regarded as exercises.
 
 Main characteristics of exercises:
 
 - A language exercise is guided and controlled by the teacher.
-
-- An exercise usually has a restrictive focus on a single language element, and
-  has a linguistic outcome.
-
+- An exercise usually has a restrictive focus on a single language element, and has a linguistic outcome.
 - The focus is usually on a single skill.
-
 - There is no reference to the context.
-
 - A language  exercise is not communicative and usually not authentic.
-
 - It is not meaningful and the focus is on form rather than on content.
-
 - Correction is usually done immediately.
 
-**Drill and practice** is a disciplined and repetitious exercise, used as a
-mean of teaching and perfecting a skill or procedure. Similar to memorization,
-drill and practice involves repetition of specific skills, such as spelling or
-multiplication.
+**Drill and practice** is a disciplined and repetitious exercise, used as a mean of teaching and perfecting a skill or procedure. Similar to memorization, drill and practice involves repetition of specific skills, such as spelling or multiplication.
 
-The term **activity** refers to any kind of purposeful classroom procedure that
-involves learners doing something that relates to the goals of the course. For
-example singing a song, playing a game, taking part in a debate, having a group
-discussion, are all different kinds of teaching activities.
+The term **activity** refers to any kind of purposeful classroom procedure that involves learners doing something that relates to the goals of the course. For example singing a song, playing a game, taking part in a debate, having a group discussion, are all different kinds of teaching activities.
 
-Its plural form i.e. **activities** refer to an occupation or some kind of
-outdoor activity.
+Its plural form i.e. **activities** refer to an occupation or some kind of outdoor activity.
 
 A **task**:
 
-1. *(A general definition)* A piece of work done as part of one’s duties. A
-   task is usually done under the supervision of someone and needs to be
-   completed on time. It requires focus and there’s always an intention
-   associated with it. The main purpose of performing a task is to complete it
-   in the given time duration.
+1. *(A general definition)* A piece of work done as part of one’s duties. A task is usually done under the supervision of someone and needs to be completed on time. It requires focus and there’s always an intention associated with it. The main purpose of performing a task is to complete it in the given time duration.
+1. A communicative act that, in the main, is meaning-based, goal-oriented, and purposeful with a non-linguistic and communicative outcome.
 
-2. A communicative act that, in the main, is meaning-based, goal-oriented, and
-   purposeful with a non-linguistic and communicative outcome.
-
-- Tasks are free. Students are given free will to use language for
-  communicative purposes.
-
+- Tasks are free. Students are given free will to use language for communicative purposes.
 - Focus on multiple skills rather than on one.
-
 - Tasks are used in context.
-
 - Tasks are communicative and usually authentic.
-
 - Tasks are meaningful and focus is on content.
+- Correction of tasks is delayed and is done through observation and awareness raising.
 
-- Correction of tasks is delayed and is done through observation and
-  awareness raising.
+***Task*** requires supervision and comes with a deadline and it cannot be left incomplete while activity need not necessarily require supervision. The ***activity*** has no such deadline and it’s a continuous process. The primary focus while doing a task is in completing it while the primary function in performing an activity is in doing it.
 
-***Task*** requires supervision and comes with a deadline and it cannot be left
-incomplete while activity need not necessarily require supervision. The
-***activity*** has no such deadline and it’s a continuous process. The primary
-focus while doing a task is in completing it while the primary function in
-performing an activity is in doing it.
+An **assignment** is work given to you by your boss\/coworker. ***Task*** could be the same but it can also mean the work that you assigned to yourself.
 
-An **assignment** is work given to you by your boss/coworker. ***Task*** could
-be the same but it can also mean the work that you assigned to yourself.
-
-A **problem** is a question proposed for solution or discussion. Problems have
-many possible solutions and figuring out the right one for a given situation
-allows for ownership of that solution. ***Tasks***, on the other hand, are a
-known entity. There’s already a solution, and you only have to physically go
-through the steps of completing it. There’s not much thought required, and if
-the task popped up frequently enough, you’d consider automating it.
+A **problem** is a question proposed for solution or discussion. Problems have many possible solutions and figuring out the right one for a given situation allows for ownership of that solution. ***Tasks***, on the other hand, are a known entity. There’s already a solution, and you only have to physically go through the steps of completing it. There’s not much thought required, and if the task popped up frequently enough, you’d consider automating it.
 
 *Sources:
 [1](https://www.professorjackrichards.com/difference-task-exercise-activity/),
@@ -3148,9 +3122,7 @@ the task popped up frequently enough, you’d consider automating it.
 
 ## boobs \| tits
 
-Literally, **tits** refer to the nipples and **boobs** refer to the entire
-breast/chest of a woman, but in real conversation, men use tits and boobs
-interchangeably to refer to the entirety of a woman’s chest.
+Literally, **tits** refer to the nipples and **boobs** refer to the entire breast\/chest of a woman, but in real conversation, men use tits and boobs interchangeably to refer to the entirety of a woman’s chest.
 
 [*Source*](https://hinative.com/ru/questions/63822)
 
