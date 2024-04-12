@@ -2219,17 +2219,11 @@ Use ***large*** in the following cases:
        > *There has been a loss of community values in society **at large**.*
    - ***By and large*** (in general, overall):
      > ***By and large**, the company has been very good to me over the last couple of years.*
-
    - ***Larger than life***:
      - A person that attracts special attention because of their flamboyant appearance or behavior:
-
-       > *I’ve always thought that the marketing manager seemed **larger than
-         life**.*
-
+       > *I’ve always thought that the marketing manager seemed **larger than life**.*
      - Something that seems disproportionately important:
-
-       > *Your problems always seem **larger than life** at that time of
-         night.*
+       > *Your problems always seem **larger than life** at that time of night.*
 
 [*Source*](https://blog.talaera.com/grammar-tips-big-vs-large)
 
@@ -2237,17 +2231,13 @@ Use ***large*** in the following cases:
 
 ## affirm \| confirm
 
-**Affirm**&mdash;to validate or state positively, to assert as valid and to
-express someone’s dedication.
+**Affirm**&mdash;to validate or state positively, to assert as valid and to express someone’s dedication.
 
 **Confirm**&mdash;to ratify, to strengthen, and to give assurance.
 
-***Confirm*** is used for both negative and positive sentences; whereas
-***affirm*** is mainly positive:
-
-> *The receptionist **confirmed** the hotel reservations.*
-
-> *Serving in the defense services **affirms** your loyalty to the nation.*
+***Confirm*** is used for both negative and positive sentences; whereas ***affirm*** is mainly positive:
+  > *The receptionist **confirmed** the hotel reservations.*
+  > *Serving in the defense services **affirms** your loyalty to the nation.*
 
 [*Source*](http://www.differencebetween.net/language/difference-between-affirm-and-confirm)
 
