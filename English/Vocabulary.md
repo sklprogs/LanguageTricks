@@ -144,8 +144,6 @@
 
 [disperse \| dissolve](#disperse--dissolve)
 
-[disturbance (plural)](#disturbance-plural)
-
 [divide \| separate](#divide--separate)
 
 [dosage \| dose](#dosage--dose)
@@ -1490,23 +1488,17 @@ Generally, a **complement** is always the response to incompleteness that provid
 
 ## dosage \| dose
 
-**Dose** is the amount or quantity of medicine to be taken or administered to
-the patient every time in a day. If it is 5mg, then 5mg is the dose to be given
-to the patient.
+**Dose** is the amount or quantity of medicine to be taken or administered to the patient every time in a day. If it is 5mg, then 5mg is the dose to be given to the patient.
 
-**Dosage** implies *the duration or the frequency* of the dose to be
-administered.
+**Dosage** implies *the duration or the frequency* of the dose to be administered.
 
-[*Source*](https://www.differencebetween.com/difference-between-dose-and-vs-dosage/)
+[*Source*](https://www.differencebetween.com/difference-between-dose-and-vs-dosage)
 
 ***
 
 ## dependence \| dependency
 
-I think *dependence* and *dependency* are like *competence* and *competency*.
-Both are nouns. Yet, **dependence** emphasizes the quality of being dependent.
-So, it may also be abstract. Whereas, **dependency** focuses on the state of
-being dependent. It is likely to be concrete.
+I think *dependence* and *dependency* are like *competence* and *competency*. Both are nouns. Yet, **dependence** emphasizes the quality of being dependent. So, it may also be abstract. Whereas, **dependency** focuses on the state of being dependent. It is likely to be concrete.
 
 [*Source*](https://english.stackexchange.com/questions/57080/dependence-vs-dependency)
 
@@ -1514,11 +1506,9 @@ being dependent. It is likely to be concrete.
 
 ## enhance \| improve
 
-**Enhance** is to add something (more functionality, more ability, more
-option).
+**Enhance** is to add something (more functionality, more ability, more option).
 
-**Improve** is to make the something better&mdash;no additions, just
-improvement of what was already there.
+**Improve** is to make the something better&mdash;no additions, just improvement of what was already there.
 
 [*Source*](https://english.stackexchange.com/questions/105465/what-differences-are-there-between-to-enhance-and-to-improve)
 
@@ -1526,16 +1516,9 @@ improvement of what was already there.
 
 ## shameful \| shameless
 
-**Shameless** means pretty much what you’d expect: that someone should feel
-shame at something, but doesn’t.
+**Shameless** means pretty much what you’d expect: that someone should feel shame at something, but doesn’t.
 
-***Shameful*** can have two meanings that almost seem like antonyms, but
-they’re not, depending on whether it’s applied to a person or an act. If it’s
-applied to a person, it generally means that they feel remorse. If it’s applied
-to an act, it means that whoever is performing the action should feel shame.
-However, it’s often used to emphasize that the person *should* feel shame, but
-*doesn’t*. In this latter sense, it can almost seem like ***shameful*** means
-the same thing as ***shameless***.
+***Shameful*** can have two meanings that almost seem like antonyms, but they’re not, depending on whether it’s applied to a person or an act. If it’s applied to a person, it generally means that they feel remorse. If it’s applied to an act, it means that whoever is performing the action should feel shame. However, it’s often used to emphasize that the person *should* feel shame, but *doesn’t*. In this latter sense, it can almost seem like ***shameful*** means the same thing as ***shameless***.
 
 [*Source*](https://english.stackexchange.com/questions/37622/shameful-vs-shameless)
 
@@ -1547,22 +1530,19 @@ If you can use ***caused by*** then you can also use ***due to***:
 
 > *The cancellation of the flight was **due to*** (caused by) *high winds.*
 
-If you can use *because of* then you should use ***owing to*** rather than
-***due to*** (or leave it as *because of*):
+If you can use *because of* then you should use ***owing to*** rather than ***due to*** (or leave it as *because of*):
 
 > *The flight was cancelled **owing to*** (because of) *high winds.*
 
-[*Source*](https://forum.wordreference.com/threads/owing-to-vs-due-to.126579/)
+[*Source*](https://forum.wordreference.com/threads/owing-to-vs-due-to.126579)
 
 ***
 
 ## disperse \| dissolve
 
-**Solution**&mdash;a mixture of one substance *dissolved* in another substance.
-It has a solute and a solvent.
+**Solution**&mdash;a mixture of one substance *dissolved* in another substance. It has a solute and a solvent.
 
-**Dispersion**&mdash;a mixture of one substance phase *separated* from another
-substance. They phase separate because they *do not* dissolve with each other.
+**Dispersion**&mdash;a mixture of one substance phase *separated* from another substance. They phase separate because they *do not* dissolve with each other.
 
 [*Source*](https://brainly.in/question/1350968)
 
@@ -1578,14 +1558,11 @@ substance. They phase separate because they *do not* dissolve with each other.
 
 ## compose \| comprise \| contain
 
-**Comprise**&mdash;to be made up of; to consist of (especially a comprehensive
-list of parts).
+**Comprise**&mdash;to be made up of; to consist of (especially a comprehensive list of parts).
 
 **Contain**&mdash;to hold inside (transitive).
 
-***Comprise*** says that the list you are giving is exhaustive. All the steps
-are explicitly indicated, and there are no missing steps. ***Contain*** does
-not guarantee either of these.
+***Comprise*** says that the list you are giving is exhaustive. All the steps are explicitly indicated, and there are no missing steps. ***Contain*** does not guarantee either of these.
 
 Don’t say ~~*the method is comprised of X*~~.
 
@@ -1613,17 +1590,9 @@ or
 
 ## contain \| include
 
-***Contains*** is used when there is something else that is doing the
-containing. The box is a container, and contains the hats. You would not,
-generally, say that the box includes the hats. Inside the box is a set of
-objects, and that set (which *contents* refers to) includes (and consists of)
-the hats.
+***Contains*** is used when there is something else that is doing the containing. The box is a container, and contains the hats. You would not, generally, say that the box includes the hats. Inside the box is a set of objects, and that set (which *contents* refers to) includes (and consists of) the hats.
 
-***Includes*** is also often used when talking about the features of a product
-or thing for sale. If I were selling you the box, I might tell you that it
-includes three hats. In this case, I’m not pointing out that the hats are
-inside the box, but rather that the box and the hats are all part of the set of
-things I’m offering to sell.
+***Includes*** is also often used when talking about the features of a product or thing for sale. If I were selling you the box, I might tell you that it includes three hats. In this case, I’m not pointing out that the hats are inside the box, but rather that the box and the hats are all part of the set of things I’m offering to sell.
 
 [*Source*](https://ell.stackexchange.com/questions/47706/using-contain-vs-include-vs-consist-of-appropriately)
 
@@ -1638,17 +1607,12 @@ things I’m offering to sell.
 
 **Extra**:
 
-- Beyond what is due, usual, expected, or necessary; additional; supernumerary;
-  also, extraordinarily good; superior; as, extra work; extra pay.
-- Something in addition to what is due, expected, or customary; something in
-  addition to the regular charge or compensation, or for which an additional
-  charge is made; as, at European hotels lights are extras.
+- Beyond what is due, usual, expected, or necessary; additional; supernumerary; also, extraordinarily good; superior; as, extra work; extra pay.
+- Something in addition to what is due, expected, or customary; something in addition to the regular charge or compensation, or for which an additional charge is made; as, at European hotels lights are extras.
 
 ***Additional*** means a number has been added to the basic number.
 
-***Extra*** often means beyond what is necessary or needed. ***Additional*** room may
-be needed; *extra* room may never be used. Compare these to *spare*. A spare tire
-or a spare room may never be used, but they have the specific purpose of being
+***Extra*** often means beyond what is necessary or needed. ***Additional*** room may be needed; *extra* room may never be used. Compare these to *spare*. A spare tire or a spare room may never be used, but they have the specific purpose of being
 available in an emergency. Often when something is *extra* you get rid of it.
 
 Sources: *[1](https://www.englishforums.com/English/AdditionalVsExtra/zwcgr/post.htm),
@@ -1658,8 +1622,9 @@ Sources: *[1](https://www.englishforums.com/English/AdditionalVsExtra/zwcgr/post
 
 ## expand \| extend
 
-Usually, **extend** means stretch out linearly. It grows larger in one
-direction. **Expand** means it stretches out/grows larger in all directions.
+Usually, **extend** means stretch out linearly. It grows larger in one direction.
+
+**Expand** means it stretches out\/grows larger in all directions.
 
 [*Source*](https://hinative.com/en-US/questions/318848)
 
@@ -1673,30 +1638,11 @@ According to Oxford Dictionaries it can be *treated as singular or plural*.
 
 ***
 
-## disturbance (plural)
-
-The noun ***disturbance*** can be countable or uncountable. In more general,
-commonly used, contexts, the plural form will also be ***disturbance***.
-However, in more specific contexts, the plural form can also be
-***disturbances***, e.g. in reference to various types of disturbances or a
-collection of disturbances.
-
-[*Source*](https://www.wordhippo.com/what-is/the-plural-of/disturbance.html)
-
-***
-
 ## accurate \| precise
 
-***Accuracy*** is close to a known value; ***precision*** measures
-repeatability.
+***Accuracy*** is close to a known value; ***precision*** measures repeatability.
 
-In the fields of science and engineering, the **accuracy** of a measurement
-system is the degree of closeness of measurements of a quantity to that
-quantity’s true value. The **precision** of a measurement system, related to
-reproducibility and repeatability, is the degree to which repeated measurements
-under unchanged conditions show the same results. Although the two words
-***precision*** and ***accuracy*** can be synonymous in colloquial use, they
-are deliberately contrasted in the context of the scientific method.
+In the fields of science and engineering, the **accuracy** of a measurement system is the degree of closeness of measurements of a quantity to that quantity’s true value. The **precision** of a measurement system, related to reproducibility and repeatability, is the degree to which repeated measurements under unchanged conditions show the same results. Although the two words ***precision*** and ***accuracy*** can be synonymous in colloquial use, they are deliberately contrasted in the context of the scientific method.
 
 *Sources:
 [1](https://www.thoughtco.com/difference-between-accuracy-and-precision-609328),
@@ -1706,12 +1652,9 @@ are deliberately contrasted in the context of the scientific method.
 
 ## data \| information
 
-***Data*** can be simple at the same time unorganized unless it is organized.
-Data contains numbers, statements, and characters in a raw form. **Information**
-is a set of data which is processed in a meaningful way according to the given
-requirement. Information is processed, structured, or presented in a given
-context to make it meaningful and useful. So, when the data is transformed into
-information, it never has any useless details.
+***Data*** can be simple at the same time unorganized unless it is organized. Data contains numbers, statements, and characters in a raw form.
+
+**Information** is a set of data which is processed in a meaningful way according to the given requirement. Information is processed, structured, or presented in a given context to make it meaningful and useful. So, when the data is transformed into information, it never has any useless details.
 
 [*Source*](https://www.guru99.com/difference-information-data.html)
 
@@ -1719,14 +1662,9 @@ information, it never has any useless details.
 
 ## router (pronunciation)
 
-A ***router*** (computer thing, from verb *route*), or anything else which
-routes something, is *rooter* or *rowter* depending on how you pronounce
-*route* (US English has both *root* and *rowt*, British English has only
-*root*).
+A ***router*** (computer thing, from verb *route*), or anything else which routes something, is *rooter* or *rowter* depending on how you pronounce *route* (US English has both *root* and *rowt*, British English has only *root*).
 
-A ***router*** (woodworking tool, from verb *rout*, an electrical one is shown
-above) is *rowter*, never *rooter*, in both the US and the UK and other
-countries.
+A ***router*** (woodworking tool, from verb *rout*, an electrical one is shown above) is *rowter*, never *rooter*, in both the US and the UK and other countries.
 
 [*Source*](https://english.stackexchange.com/questions/2389/what-is-the-correct-way-to-pronounce-router#2390)
 
@@ -1740,16 +1678,12 @@ countries.
 
 ### Patents
 
-***Essentially*** should be avoided at all costs unless you are trying to convey
-the meaning of a *required* feature. Casual use of ***essentially*** will mean
-ending up littering your translation with necessary features, which once again
-has a significant impact on the scope of protection. If in doubt, go with
-***substantially***.
+***Essentially*** should be avoided at all costs unless you are trying to convey the meaning of a *required* feature. Casual use of ***essentially*** will mean ending up littering your translation with necessary features, which once again has a significant impact on the scope of protection. If in doubt, go with ***substantially***.
 
 *See also* [essential \| necessary](#essential--necessary)
 
 *Sources: [1](https://diffsense.com/diff/essentially/substantially),
-[2](https://www.patenttranslationsinternational.com/resources/advice-for-translators/)*
+[2](https://www.patenttranslationsinternational.com/resources/advice-for-translators)*
 
 ***
 
@@ -1761,17 +1695,9 @@ has a significant impact on the scope of protection. If in doubt, go with
 
 ## company name
 
-- Unlike in Russian (JSC Rusal or whatever), the company type always follows
-  the company name&mdash;whether Corporation, Limited, or any other type.
-- We should not use the definite article before the firm or company unless the
-  article is the part of the company’s name.
-- If the word *company* is not part of the official name, then using the word
-  *company* after the official name technically makes the official name an
-  adjective that serves to qualify the real noun, which is the word *company*.
-  In this case, you need the definite article, as in *I like working for the
-  Cool\_Dude.com company*. I would rather say, *I like working for
-  Cool\_Dude.com*, but I can imagine some situations where I want to clarify
-  that I am talking about a company.
+- Unlike in Russian (JSC Rusal or whatever), the company type always follows the company name&mdash;whether Corporation, Limited, or any other type.
+- We should not use the definite article before the firm or company unless the article is the part of the company’s name.
+- If the word *company* is not part of the official name, then using the word *company* after the official name technically makes the official name an adjective that serves to qualify the real noun, which is the word *company*. In this case, you need the definite article, as in *I like working for the Cool\_Dude.com company*. I would rather say, *I like working for Cool\_Dude.com*, but I can imagine some situations where I want to clarify that I am talking about a company.
 
 *Sources:
 [1](https://forum.wordreference.com/threads/position-of-the-abbreviation-llc-in-a-company-name.2160167),
@@ -1781,16 +1707,13 @@ has a significant impact on the scope of protection. If in doubt, go with
 
 ## before \| till \| until
 
-If A happens before B, A happens and then B happens. If A happens *until* B
-happens, A would happen, but stop when B happens. ***Till*** is a shortened
-version of ***until***.
+If A happens before B, A happens and then B happens. If A happens *until* B happens, A would happen, but stop when B happens. ***Till*** is a shortened version of ***until***.
 
 > *I will leave home **before** sunrise at 04:15.*
 
 > *I will not leave home **till/until** sunrise at 04:15.*
 
-In the first example you leave the house any time up until 04:14 when it is
-still dark.
+In the first example you leave the house any time up until 04:14 when it is still dark.
 
 In the second you leave no earlier than 04:15 when it starts to become light.
 
@@ -1802,14 +1725,9 @@ Note the different constructions with positive and negative statements.
 
 ## residual \| residue \| residues
 
-The noun ***residue*** can be countable or uncountable. In more general,
-commonly used, contexts, the plural form will also be residue. However, in more
-specific contexts, the plural form can also be ***residues*** e.g. in reference
-to various types of residues or a collection of residues.
+The noun ***residue*** can be countable or uncountable. In more general, commonly used, contexts, the plural form will also be residue. However, in more specific contexts, the plural form can also be ***residues*** e.g. in reference to various types of residues or a collection of residues.
 
-***Residual*** is a derived term of *residue*. As nouns the difference is that
-**residue** is whatever remains after something else has been removed while
-**residual** is a remainder left over at the end of some process.
+***Residual*** is a derived term of *residue*. As nouns the difference is that **residue** is whatever remains after something else has been removed while **residual** is a remainder left over at the end of some process.
 
 *Sources:
 [1](https://www.wordhippo.com/what-is/the-plural-of/residue.html),
@@ -1819,16 +1737,13 @@ to various types of residues or a collection of residues.
 
 ## what \| which
 
-If you are trying to make a choice, ***what*** is used to ask when there is an
-unknown number or infinite possibilities for an answer.
+If you are trying to make a choice, ***what*** is used to ask when there is an unknown number or infinite possibilities for an answer.
 
-***Which*** is used if you are choosing between a more limited number of items,
-already defined.
+***Which*** is used if you are choosing between a more limited number of items, already defined.
 
 > ***Which** shoes should I wear with this dress?*
 
-Often **which** or **what** can be used for several choices, depending on what
-is in the speaker’s mind:
+Often **which** or **what** can be used for several choices, depending on what is in the speaker’s mind:
 
 *(a) "**Which** bus goes into the centre?"*
 
@@ -1845,17 +1760,13 @@ sentence (a) than in sentence (b).
 
 Four Forces Affect Things That Fly:
 
-**Weight** is the force of gravity. It acts in a downward
-direction&mdash;toward the center of the Earth.
+**Weight** is the force of gravity. It acts in a downward direction&mdash;toward the center of the Earth.
 
-**Lift** is the force that acts at a right angle to the direction of motion
-through the air. Lift is created by differences in air pressure.
+**Lift** is the force that acts at a right angle to the direction of motion through the air. Lift is created by differences in air pressure.
 
-**Thrust** is the force that propels a flying machine in the direction of
-motion. Engines produce thrust.
+**Thrust** is the force that propels a flying machine in the direction of motion. Engines produce thrust.
 
-**Drag** is the force that acts opposite to the direction of motion. Drag is
-caused by friction and differences in air pressure.
+**Drag** is the force that acts opposite to the direction of motion. Drag is caused by friction and differences in air pressure.
 
 [*Source*](https://howthingsfly.si.edu/forces-flight/four-forces)
 
@@ -1879,8 +1790,7 @@ To ***explode*** is *external*, in an outwards direction.
 
 **Special**&mdash;something that is different or better:
 
-> *This car is **special** because it can drive very fast* (this car is
-  different and better than other cars).
+> *This car is **special** because it can drive very fast* (this car is different and better than other cars).
 
 **Specific**&mdash;something that is clear:
 
@@ -1892,11 +1802,9 @@ To ***explode*** is *external*, in an outwards direction.
 
 ## anybody \| anyone
 
-***Anyone*** is the singular version of the word and ***anybody*** is the
-plural version.
+***Anyone*** is the singular version of the word and ***anybody*** is the plural version.
 
-When ***anyone*** is used, it is typically to differentiate one person from
-many:
+When ***anyone*** is used, it is typically to differentiate one person from many:
 
 > *Does **anyone** have a question?*
 
@@ -1905,20 +1813,17 @@ many:
 This question seeks out any and all persons who can respond, any number
 of people.
 
-***Anybody*** is sometimes considered inappropriate for formal conversations,
-it is more appropriate for personal conversations. ***Anyone*** is universally
-used in both formal and informal conversation settings.
+***Anybody*** is sometimes considered inappropriate for formal conversations, it is more appropriate for personal conversations. ***Anyone*** is universally used in both formal and informal conversation settings.
 
 *See also* [everybody \| everyone](#everybody--everyone)
 
-[*Source*](http://www.differencebetween.net/language/difference-between-anyone-and-anybody/)
+[*Source*](http://www.differencebetween.net/language/difference-between-anyone-and-anybody)
 
 ***
 
 ## define \| determine \| determine on \| establish
 
-**Establish**&mdash;to make stable or firm; to confirm; to prove and cause
-to be accepted as true:
+**Establish**&mdash;to make stable or firm; to confirm; to prove and cause to be accepted as true:
 
 > *To establish a fact.*
 
@@ -1928,25 +1833,21 @@ to be accepted as true:
 
 > *We set out to **determine** exactly what happened that night.*
 
-**Determine on** \[doing\] something&mdash;to decide definitely to do
-something.
+**Determine on** \[doing\] something&mdash;to decide definitely to do something.
 
-**Define**&mdash;to demark sharply the outlines or limits of an area or
-concept:
+**Define**&mdash;to demark sharply the outlines or limits of an area or concept:
 
 > *To **define** the legal boundaries of a property.*
 
-[*Source*](https://www.askdifference.com/establish-vs-define/)
+[*Source*](https://www.askdifference.com/establish-vs-define)
 
 ***
 
 ## apparatus \| device
 
-**Device**&mdash;any piece of equipment made for a particular purpose,
-especially a mechanical or electrical one.
+**Device**&mdash;any piece of equipment made for a particular purpose, especially a mechanical or electrical one.
 
-**Apparatus**&mdash;the entirety of means whereby a specific production is made
-existent or task accomplished.
+**Apparatus**&mdash;the entirety of means whereby a specific production is made existent or task accomplished.
 
 [*Source*](https://wikidiff.com/device/apparatus)
 
