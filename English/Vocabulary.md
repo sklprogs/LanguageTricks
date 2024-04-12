@@ -3094,7 +3094,6 @@ The little dot at the end of a sentence is called **period** in AmE and **full s
 **Warlock**:
 
 - A male witch who has been granted magical power by a pact made with a greater power of some kind, usually a demon. Practices the diabolical dark arts. Usually does evil.
-
 - An oath-breaker or someone who has broken the trust of the [Wiccan](https://en.wikipedia.org/wiki/Wicca) community.
 
 **Enchantress**:
@@ -3151,11 +3150,9 @@ See also [conjurer \| illusionist \| magician](#conjurer--illusionist--magician)
 
 **Material**&mdash;the substance used to make or build something.
 
-**Materiel[^materiel]\/matériel**&mdash;supplies or equipment used by the
-military.
+**Materiel[^materiel]\/matériel**&mdash;supplies or equipment used by the military.
 
-Raw goods used for military construction projects could be a case where
-***materials*** are used to make ***materiel***.
+Raw goods used for military construction projects could be a case where ***materials*** are used to make ***materiel***.
 
 [^materiel]:  material: [mə'tɪ(ə)rɪəl], materiel: [məˌtɪ(ə)rɪ'el]
 
@@ -3168,7 +3165,6 @@ Raw goods used for military construction projects could be a case where
 **Troop**:
 
 - a group of soldiers;
-
 - a collection of people or things.
 
 **Troupe**&mdash;a group of theatrical performers:
@@ -3186,7 +3182,6 @@ Raw goods used for military construction projects could be a case where
 **Trooper**:
 
 - *(UK)* a soldier associated with an armored unit or cavalry;
-
 - *(US)* a member of a state police force.
 
 **Trouper**&mdash;a member of an entertainment group.
@@ -3202,9 +3197,7 @@ Raw goods used for military construction projects could be a case where
 **Delete**:
 
 - erase (i.e. render nonexistent or nonrecoverable);
-
-- move files to trash (hence they are still recoverable), but that’s not
-  a standard meaning outside of that context.
+- move files to trash (hence they are still recoverable), but that’s not a standard meaning outside of that context.
 
 **Remove**&mdash;take away and set aside (but keep in existence).
 
@@ -3216,11 +3209,9 @@ Raw goods used for military construction projects could be a case where
 
 **Parameter**&mdash;a variable in the declaration of a function.
 
-**Argument**&mdash;the actual value of this variable that gets passed to the
-function.
+**Argument**&mdash;the actual value of this variable that gets passed to the function.
 
-***Parameters*** are named at declaration time, ***arguments*** are known only
-at call time.
+***Parameters*** are named at declaration time, ***arguments*** are known only at call time.
 
 [*Source*](https://stackoverflow.com/questions/156767/whats-the-difference-between-an-argument-and-a-parameter)
 
@@ -3230,17 +3221,11 @@ at call time.
 
 ### IT
 
-An ***instruction*** is directly translated to something the CPU can execute. A
-***directive*** is something the assembler can interpret and use it while
-assembling, it does not produce any machine code.
+An ***instruction*** is directly translated to something the CPU can execute. A ***directive*** is something the assembler can interpret and use it while assembling, it does not produce any machine code.
 
 ### General
 
-A **directive** is mainly an order, usually issued by an authority. A directive
-may establish policy, assign responsibilities, define objectives and delegate
-authority. ***Instructions***, on the other hand, act as guidelines. They often
-appear as a series of steps or stages one must complete one after the other.
-Instructions are mainly associated with instruction or teaching.
+A **directive** is mainly an order, usually issued by an authority. A directive may establish policy, assign responsibilities, define objectives and delegate authority. ***Instructions***, on the other hand, act as guidelines. They often appear as a series of steps or stages one must complete one after the other. Instructions are mainly associated with instruction or teaching.
 
 *Sources: [1](https://de-engineer.github.io/Understanding-booting-process-and-writing-own-os),
 [2](http://www.differencebetween.info/difference-between-directive-and-instruction)*
@@ -3259,15 +3244,13 @@ Instructions are mainly associated with instruction or teaching.
 
 ### during + ing vs while + ing:
 
-A participial phrase[^participial-phrase] in which the present
-participle[^present-participle] *reading* modifies *I*:
+A participial phrase[^participial-phrase] in which the present participle[^present-participle] *reading* modifies *I*:
 
 > ***While reading** the book, I fell asleep.*
 
 > ~~***During reading** the book*...~~
 
-For the present participle, you should use **while**. For it to be a gerund, it
-needs a determiner:
+For the present participle, you should use **while**. For it to be a gerund, it needs a determiner:
 
 > ***During my reading** the book, I fell asleep.*
 
@@ -3285,8 +3268,7 @@ That’s a bit awkward, but grammatically correct.
 
 ## it is \| this is
 
-**This** is used to identify a specific person or thing close by or being
-indicated or experienced:
+**This** is used to identify a specific person or thing close by or being indicated or experienced:
 
 > ***This** is the Spoken English Institute I told you about.*
 
@@ -3294,8 +3276,7 @@ indicated or experienced:
 
 > ***This** is my mother.* \[You are introducing your mother to your friends\]
 
-> ***It**’s my mother.* \[You get a call from your mother when you are with
-  your friends, and you want to identify the caller\]
+> ***It**’s my mother.* \[You get a call from your mother when you are with your friends, and you want to identify the caller\]
 
 [*Source*](https://wabstalk.com/difference-between-it-and-this-meaning-usage-and-important)
 
@@ -3303,20 +3284,17 @@ indicated or experienced:
 
 ## cannot \| failed \| unable
 
-***Unable*** is about not being able to perform an action or achieve a result
-due to certain circumstances.
+***Unable*** is about not being able to perform an action or achieve a result due to certain circumstances.
 
 ***Fail*** is about making an effort and getting an unsuccessful result.
 
 ***Cannot*** is about not having the general possibility to do something.
 
-> ***Unable** to perform the operation because the current plan state is
-\{stateName\}.* \[circumstances that prevent us from performing the action\]
+> ***Unable** to perform the operation because the current plan state is \{stateName\}.* \[circumstances that prevent us from performing the action\]
 
 > ***Failed** to delete the account.* \[we tried but did not succeed\]
 
-> *You **cannot** select more than ${maxItems} items.* \[no general possibility
-to perform the action\]
+> *You **cannot** select more than ${maxItems} items.* \[no general possibility to perform the action\]
 
 [*Source*](https://helpcenter.veeam.com/docs/styleguide/tw/unable_failed_cannot.html)
 
@@ -3324,11 +3302,9 @@ to perform the action\]
 
 ## expert \| specialist
 
-**Expert**&mdash;you know something well, or are good at doing it. You may or
-may not be good at other things.
+**Expert**&mdash;you know something well, or are good at doing it. You may or may not be good at other things.
 
-**Specialist**&mdash;you specialise in that thing. You may or may not be good
-at it.
+**Specialist**&mdash;you specialise in that thing. You may or may not be good at it.
 
 ***Specialist*** = wide knowledge + less experience
 
@@ -3340,15 +3316,11 @@ at it.
 
 ## handle \| process
 
-***Handle***&mdash;something physical, does something to help the general
-function. To manage it, deal with it.
-                                                                                                                                                                                              
-***Process*** infers more of an operation by a machine or something that a
-computer does.
+***Handle***&mdash;something physical, does something to help the general function. To manage it, deal with it.
 
-There’s often no difference intended. ***Process*** sometimes suggests that
-there is a standard method already established to do something. So, if it’s a
-new problem or situation, you can ***handle*** it, but not really process it.
+***Process*** infers more of an operation by a machine or something that a computer does.
+
+There’s often no difference intended. ***Process*** sometimes suggests that there is a standard method already established to do something. So, if it’s a new problem or situation, you can ***handle*** it, but not really process it.
 
 *Sources: [1](https://forum.wordreference.com/threads/process-vs-handle.2012584),
 [2](https://www.englishforums.com/English/ProcessVsHandle/xmdhq/post.htm)*
@@ -3357,33 +3329,27 @@ new problem or situation, you can ***handle*** it, but not really process it.
 
 ## menace \| threat
 
-**Threat**: potential to danger                                                                                                                                                                   
+**Threat**: potential to danger                                                                                                       
 
 **Menace**: bothersome
 
-Both menace and threat are used to describe someone or something that is
-dangerous and will probably cause trouble:                                                                        
-                                                                                                                                                                                              
+Both menace and threat are used to describe someone or something that is dangerous and will probably cause trouble:
+
 > *I don’t see my new coworker as a **threat** to my position in the office.*
 
-> *“Injustice anywhere is a **threat** to justice everywhere.”&mdash;Martin
-  Luther King, Jr.*
+> *“Injustice anywhere is a **threat** to justice everywhere.”&mdash;Martin Luther King, Jr.*
 
 > *If you drink and drive, you are a **menace** to public safety.*
 
 > *I could hear the **menace** in Jenny’s voice.*
 
-However, ***threat*** would not be the right word to describe an unruly little
-boy. While ***menace*** is also used to mean *annoying*, ***threat*** implies
-something more serious.
+However, ***threat*** would not be the right word to describe an unruly little boy. While ***menace*** is also used to mean *annoying*, ***threat*** implies something more serious.
 
-If you make a threat, it means you state that you are planning to cause
-somebody harm:
-                                                                                                                                                                                              
+If you make a threat, it means you state that you are planning to cause somebody harm:
+
 > *After publishing the article, the journalist received death **threats**.*
 
-> *John is prepared to carry out his **threat** to fire underachieving
-  employees.*
+> *John is prepared to carry out his **threat** to fire underachieving employees.*
 
 *Sources: [1](https://ru.hinative.com/questions/257159),
 [2](https://www.myenglishteacher.eu/blog/menace-threat-difference)*
@@ -3392,9 +3358,7 @@ somebody harm:
 
 ## bunny \| rabbit
 
-***Bunny*** is a term used to refer to rabbits affectionately or even baby
-rabbits. The main difference is just that ***bunnies*** are young and
-***rabbits*** are adults.
+***Bunny*** is a term used to refer to rabbits affectionately or even baby rabbits. The main difference is just that ***bunnies*** are young and ***rabbits*** are adults.
 
 Baby rabbits can also be referred to as kittens, kits, or kitties.
 
@@ -3404,14 +3368,9 @@ Baby rabbits can also be referred to as kittens, kits, or kitties.
 
 ## disguise \| guise
 
-***Guise*** is generally used to describe a behavior where ***disguise*** is
-generally about appearance, clothing etc.
+***Guise*** is generally used to describe a behavior where ***disguise*** is generally about appearance, clothing etc.
 
-Both involve the art of deception: it’s the methods that differ. ***Guise*** is
-about trying on new attitudes and mannerisms, such as speaking and acting in
-the guise of a native in a place where you are actually a tourist.
-***Disguise*** involves hiding your real identity, disappearing in the new
-role.
+Both involve the art of deception: it’s the methods that differ. ***Guise*** is about trying on new attitudes and mannerisms, such as speaking and acting in the guise of a native in a place where you are actually a tourist. ***Disguise*** involves hiding your real identity, disappearing in the new role.
 
 *Sources: [1](https://www.italki.com/en/post/question-90806),
 [2](https://www.vocabulary.com/dictionary/guise)*
@@ -3433,7 +3392,6 @@ Exception: *color scheme*. If we all spoke more strictly, this would probably be
 **Schema** or **scheme**:
 
 - in general terms, any organization, coding, outline or plan of concepts;
-
 - machine-processable specification which defines the structure and syntax of metadata specifications in a formal schema language.
 
 **Encoding scheme**&mdash;a set of rules for encoding information that supports a specific community of users.
@@ -3536,7 +3494,9 @@ This is because *include* has a strong tendency to be used with *in*. Except aft
 
 ## reboot \| restart
 
-In computing, **rebooting** is the process by which a running computer system is restarted, either intentionally or unintentionally. Reboots can be either a **cold reboot** (= *hard reboot*) in which the power to the system is physically turned off and back on again; or a **warm reboot** (= *soft reboot*) in which the system restarts while still powered up. The term **restart** (as a system command) is used to refer to a reboot when the operating system closes all programs and finalizes all pending input and output operations before initiating a soft reboot.
+In computing, **rebooting** is the process by which a running computer system is restarted, either intentionally or unintentionally. Reboots can be either a **cold reboot** (= *hard reboot*) in which the power to the system is physically turned off and back on again; or a **warm reboot** (= *soft reboot*) in which the system restarts while still powered up.
+
+The term **restart** (as a system command) is used to refer to a reboot when the operating system closes all programs and finalizes all pending input and output operations before initiating a soft reboot.
 
 [*Source*](https://en.wikipedia.org/wiki/Reboot)
 
@@ -3661,7 +3621,7 @@ Sources: *[1](https://dictionary.cambridge.org/dictionary/english-russian/quote)
 ## common language \| general language
 
 | common language | general language |
-|-----------------|------------------|
+| --- | --- |
 | 1) used in everyday conversation and informal settings | 1) used in formal settings, such as academic or professional writing |
 | 2) can be useful for building rapport with others and making complex ideas more accessible | 2) is characterized by precision, clarity, and attention to detail |
 | 3) may lack precision and clarity, and can lead to misunderstandings in certain contexts | 3) may be less accessible to those who are not familiar with the specific jargon and terminology used in a particular field |
