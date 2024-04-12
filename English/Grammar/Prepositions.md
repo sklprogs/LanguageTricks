@@ -146,7 +146,7 @@
 
 ## on the left \| to the left
 
-***On the left*** should be used when referring to something or someone in the left direction.
+***On the left*** should be used when referring to something or someone in the left direction:
 
 > *I like the painting, but the tree **on the left** is not really finished compared to the rest of the scene.*
 
@@ -160,7 +160,7 @@
 
 > ***To the left** of the school is a small street of 10 houses and a post office.*
 
-> *The switch for the TV is on the brown wooden table **to your left**.
+> *The switch for the TV is on the brown wooden table **to your left**.*
 
 [*Source*](https://grammarhow.com/on-the-left-or-to-the-left)
 
