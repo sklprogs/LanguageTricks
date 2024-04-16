@@ -20,6 +20,7 @@
     - [at the beginning of a sentence](#possibly-at-the-beginning-of-a-sentence)
     - [in the middle of a sentence](#possibly-in-the-middle-of-a-sentence)
     - [at the end of a sentence](#possibly-at-the-end-of-a-sentence)
+  - [then](#then)
   - [therefore](#furthermore-however-moreover-therefore)
   - [such as](#such-as)
   - [when needed](#if-necessary-if-required-when-needed-where-needed-etc)
@@ -31,6 +32,20 @@
 ***
 
 ## Words and Phrases
+
+### Then
+
+| Role | Comma | Example |
+| --- | --- | --- |
+| Adverb of time | None | *First, we’ll discuss the plan **then** we’ll implement it.* |
+| Introductory word | None | *The rain started pouring. **Then** everyone rushed indoors.* |
+| After a semicolon | After | *He forgot his umbrella at home; **then,** he got caught in the rain.* |
+| Interjection | After | *I suppose, **then,** we’re at the wrong address.* |
+| | | *You think I should reconsider? Hmm, **then,** maybe I’ll take another look.* |
+
+[*Source*](https://www.bachelorprint.com/commas/comma-after-then)
+
+***
 
 ### And so on
 
