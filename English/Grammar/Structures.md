@@ -1,6 +1,6 @@
 # Grammatical structures in English
 
-[allow + -ing \| allow that](#allow---ing--allow-that)
+[allow](#allow)
 
 [for + gerund \| to + infinitive](#for--gerund--to--infinitive)
 
@@ -136,20 +136,27 @@ Some verbs can be used with a gerund (***verb-ing***) or an infinitive (***to \+
 
 ***
 
-## allow + -ing \| allow that
+## allow
 
-> *~~It **allows** to do something.~~*
+> *It **allows** <ins>me</ins> **to do** something.*
 
-> *It **allows** me to do something.*
-
-> *It **allows** doing something.*
-
-> *It **allows** me doing something.*
+> *It **allows** <ins>me</ins> **doing** something.*
 
 > *It **allows** something.*
 
 > *It **allows** something to be done.*
 
-[*Source*](https://ell.stackexchange.com/questions/11193/allow-to-infinitive-substantive-verb-ing)
+| Structure | Example |
+| ~~allow \+ verb~~ | > *~~It **allows** to do something.~~* |
+| ~~allow \+ gerund~~ | ~~*allows identifying*~~ |
+| allow \+ subject \+ infinitive | *The ability to improvise and adapt **allows** <ins>you</ins> **to** make use of every opportunity.* |
+| | *Doing so **allows** <ins>the body</ins> **to** use the skin and underlying fatty layer as insulation.* |
+| allows \+ noun \+ preposition | ***allows** identification of* |
+| allow for | *Focusing on the basics **allows for** carrying less while improving options.* |
+
+*See also* [allow for \| allow of \| allow that \| allow to](Prepositions.md#allow-for--allow-of--allow-that--allow-to)
+
+*Sources: [1](https://ell.stackexchange.com/questions/11193/allow-to-infinitive-substantive-verb-ing),
+[2](https://prowritingaid.com/grammar/1000005/Can-I-use-a-gerund-after-allows-)*
 
 ***
