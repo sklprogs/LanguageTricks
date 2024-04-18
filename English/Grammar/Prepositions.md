@@ -128,6 +128,10 @@
 
 [~~switch into~~ \| switch to](#switch-into--switch-to)
 
+[that \| this](#that--this)
+
+[that is why \| this is why](#that-is-why--this-is-why)
+
 [think about \| think of](#think-about--think-of)
 
 [throw at \| throw to](#throw-at--throw-to)
@@ -141,6 +145,50 @@
 [typical for = typical of](#typical-for--typical-of)
 
 [useful for \| useful to](#useful-for--useful-to)
+
+***
+
+## that \| this
+
+Sometimes they are interchangeable; sometimes, not.
+
+***This*** is used for the object indicated, or the closest object, or the first or only object:
+
+> ***This** is a dog.*
+
+***That*** is used for a more distant object, or subsequent objects:
+
+> ***This** is a dog, **that** is a cat.*
+
+> ***That** is his house over there.*
+
+*See also* [that is why \| this is why](#that-is-why--this-is-why)
+
+[*Source*](https://forum.wordreference.com/threads/this-is-why-that-is-why-thats-why.2229165/post-11590897)
+
+***
+
+## that is why \| this is why
+
+The question is answered and a new piece of information is added for the first time. ***This*** refers back to that new piece of information:
+
+> *A: “Which side of the road do the British drive on?”*
+
+> *B: “The British drive on the left side of the road, **this is why** their cars have steering-wheels on the right.”*
+
+The question is answered but ***that*** is referring to what A said, which is more distant:
+
+> *A: “Why do British cars have the steering-wheel on the right?”*
+
+> *B: “The British drive on the left side of the road, **that is why** their cars have steering-wheels on the right.”*
+
+What follows ***this*** is new information; no previous mention of steering-wheels.
+
+What follows ***that*** is old information, a rephrasing of the original question. ***That*** implies a figurative or theoretical distance.
+
+*See also* [that \| this](#that--this)
+
+[*Source*](https://forum.wordreference.com/threads/this-is-why-that-is-why-thats-why.2229165/post-11590897)
 
 ***
 
