@@ -148,7 +148,7 @@ Some verbs can be used with a gerund (***verb-ing***) or an infinitive (***to \+
 
 | Structure | Example |
 | --- | --- |
-| ~~allow \+ infitinite~~ | *~~It **allows** to do something.~~* |
+| ~~allow \+ infinitive~~ | *~~It **allows** to do something.~~* |
 | ~~allow \+ gerund~~ | ~~*allows identifying*~~ |
 | allow \+ subject \+ infinitive | *The ability to improvise and adapt **allows** <ins>you</ins> **to** make use of every opportunity.* |
 | | *Doing so **allows** <ins>the body</ins> **to** use the skin and underlying fatty layer as insulation.* |
