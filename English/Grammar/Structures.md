@@ -147,6 +147,7 @@ Some verbs can be used with a gerund (***verb-ing***) or an infinitive (***to \+
 > *It **allows** something to be done.*
 
 | Structure | Example |
+| --- | --- |
 | ~~allow \+ verb~~ | > *~~It **allows** to do something.~~* |
 | ~~allow \+ gerund~~ | ~~*allows identifying*~~ |
 | allow \+ subject \+ infinitive | *The ability to improvise and adapt **allows** <ins>you</ins> **to** make use of every opportunity.* |
@@ -154,7 +155,7 @@ Some verbs can be used with a gerund (***verb-ing***) or an infinitive (***to \+
 | allows \+ noun \+ preposition | ***allows** identification of* |
 | allow for | *Focusing on the basics **allows for** carrying less while improving options.* |
 
-*See also* [allow for \| allow of \| allow that \| allow to](Prepositions.md#allow-for--allow-of--allow-that--allow-to)
+*See also* [allow for \| allow of \| allow that \| allow to](./Prepositions.md#allow-for--allow-of--allow-that--allow-to)
 
 *Sources: [1](https://ell.stackexchange.com/questions/11193/allow-to-infinitive-substantive-verb-ing),
 [2](https://prowritingaid.com/grammar/1000005/Can-I-use-a-gerund-after-allows-)*
