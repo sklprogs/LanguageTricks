@@ -200,7 +200,7 @@
 
 [expert \| specialist](#expert--specialist)
 
-[explanation](#explanation)
+[explanation \| interpretation](#explanation--interpretation)
 
 [explode \| implode](#explode--implode)
 
@@ -363,6 +363,40 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## explanation \| interpretation
+
+| Explanation | Interpretation |
+| --- | --- |
+| Objective | Subjective |
+| Based on facts and evidence | Based on personal perspective and values |
+| Intended to clarify and inform | Intended to assign meaning and significance |
+| Less open to multiple interpretations | More open to multiple interpretations |
+
+In everyday life, an explanation can be a simple answer to a question, such as “why is the sky blue?”
+
+In the context of science, an **explanation** is a hypothesis or theory that accounts for observed phenomena or data.
+
+> *The teacher provided a clear **explanation** of the math problem.*
+
+> *Can you give me an **explanation** of how the new software works?*
+
+> *The article lacked a proper **explanation** of the scientific theory.*
+
+***Interpretation*** involves analyzing and explaining the meaning or significance of something. It is often used to interpret a work of art, literature, or historical event.
+
+> *What is your **interpretation** of the painting?*
+
+> *The historian’s **interpretation** of the war differed from the popular narrative.*
+
+| Exception | Explanation | Example |
+| --- | --- | --- |
+| Technical or Scientific Language | Explanation may not be sufficient to convey meaning | Interpreting “myocardial infarction” as “heart attack” |
+| Cultural or Regional Differences | Explanation may not always be clear | Interpreting “kick the bucket” as “to die” |
+
+[*Source*](https://thecontentauthority.com/blog/explanation-vs-interpretation)
 
 ***
 
