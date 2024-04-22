@@ -187,11 +187,11 @@ But you need them occasionally for clarity. Hyphens are often used with suffixes
 
 | Case | Quotation marks |
 | --- | --- |
-| Most content | Double quotation marks (`" "`) not single quotation marks (`' '`) |
-| Printed content | Curly quotation marks (`“ ”`) except in user input and code samples |
-| User input | Straight quotation marks (`" "`) |
-| Code samples | Straight quotation marks (`" "`) |
-| Online content | Straight quotation marks (`" "`) |
+| Most content | Double quotation marks (`""`) not single quotation marks (`''`) |
+| Printed content | Curly quotation marks (`“”`) except in user input and code samples |
+| User input | Straight quotation marks (`""`) |
+| Code samples | Straight quotation marks (`""`) |
+| Online content | Straight quotation marks (`""`) |
 
 Refer to *quotation marks*, *opening quotation marks*, and *closing quotation marks*. Don't call them ~~*quote marks*, *quotes*, *open* or *close quotation marks*, or *beginning* or *ending quotation marks*~~.
 
