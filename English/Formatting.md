@@ -193,7 +193,11 @@ But you need them occasionally for clarity. Hyphens are often used with suffixes
 | Code samples | Straight quotation marks (`""`) |
 | Online content | Straight quotation marks (`""`) |
 
-Refer to *quotation marks*, *opening quotation marks*, and *closing quotation marks*. Don't call them ~~*quote marks*, *quotes*, *open* or *close quotation marks*, or *beginning* or *ending quotation marks*~~.
+| ✅ | ❌ |
+| --- | --- |
+| quotation marks | ~~quote marks, quotes~~ |
+| opening quotation marks | ~~open quotation marks, beginning quotation marks~~ |
+| closing quotation marks | ~~close quotation marks, ending quotation marks~~ |
 
 Place closing quotation marks:
 - Outside commas and periods.
