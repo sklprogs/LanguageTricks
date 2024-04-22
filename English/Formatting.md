@@ -11,6 +11,7 @@
   - [two-em dash](#two-em-dash)
   - [three-em dash](#three-em-dash)
 - [Hyphen rules in compound words](#hyphen-rules-in-compound-words)
+- [Quotation marks](#quotation-marks)
 
 ***
 
@@ -179,5 +180,31 @@ But you need them occasionally for clarity. Hyphens are often used with suffixes
 [9](https://books.google.com/ngrams/graph?content=web+page%2Cweb-page%2Cwebpage&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
 [10](https://books.google.com/ngrams/graph?content=real+estate+agent%2Creal-estate+agent%2Crealestate+agent&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
 [11](https://books.google.com/ngrams/graph?content=health+care+legislation%2Chealth-care+legislation%2Chealthcare+legislation&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)*
+
+***
+
+## Quotation Marks
+
+| Case | Quotation marks |
+| --- | --- |
+| Most content | Double quotation marks (`" "`) not single quotation marks (`' '`) |
+| Printed content | Curly quotation marks (`“ ”`) except in user input and code samples |
+| User input | Straight quotation marks (`" "`) |
+| Code samples | Straight quotation marks (`" "`) |
+| Online content | Straight quotation marks (`" "`) |
+
+Refer to *quotation marks*, *opening quotation marks*, and *closing quotation marks*. Don't call them ~~*quote marks*, *quotes*, *open* or *close quotation marks*, or *beginning* or *ending quotation marks*~~.
+
+Place closing quotation marks:
+- Outside commas and periods.
+- Inside other punctuation.
+- Exception: If punctuation is part of the quoted material, place it inside the quotation marks.
+
+> *One type of malware is called a \"trojan clicker.\"*
+> *One type of malware, called a \"trojan clicker,\" uses your PC to \"click\" online ads.*
+> *What is \"gaze awareness\"?*
+> *A reader asks, \"How can I get Windows 10?\"*
+
+[*Source*](https://learn.microsoft.com/en-us/style-guide/punctuation/quotation-marks)
 
 ***
