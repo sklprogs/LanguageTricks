@@ -16,6 +16,8 @@
 
 [at the end \| in the end](#at-the-end--in-the-end)
 
+[available for \| available to](#available-for--available-to)
+
 [bound to \| bound with](#bound-to--bound-with)
 
 [by email \| ~~through email~~ \| via email](#by-email--through-email--via-email)
@@ -145,6 +147,30 @@
 [typical for = typical of](#typical-for--typical-of)
 
 [useful for \| useful to](#useful-for--useful-to)
+
+***
+
+## available for \| available to
+
+### General
+
+***Available to*** a person, ***for*** a purpose.
+
+![available_to_the_public.svg](../../resources/charts/available_to_the_public.svg)
+
+### IT
+
+| Form | Interpretation | Example |
+| --- | --- | --- |
+| ***available to*** | something can be accessed only by specific users or a limited range of users | *When you create a new Location Administrator or Location User, you can specify locations that must be **available to** this user.* |
+| | | *While browsing and search possibilities are **available to** all Veeam Backup Enterprise Manager users, file restore operations can be performed by authorized users only.* |
+| | *to* is part of an infinitive | *A pre-built management pack of overrides is **available to** <ins>tune</ins> the Veeam MP for Hyper-V when MP for Veeam Backup & Replication is installed.* |
+| ***available for*** | something can be accessed only for a particular activity | *This option is **available for** volume-level backup jobs only.* |
+| | something can be accessed during a specific period of time | *When the job completes, the retrieved data will be **available for** a specific period of time (1 day by default) during which you can restore the data to the capacity tier.* |
+
+*Sources: [1](https://web.archive.org/web/20231211054406/https://helpcenter.veeam.com/docs/styleguide/tw/available.html),
+[2](https://books.google.com/ngrams/graph?content=available+for+the+public%2Cavailable+to+the+public&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3),
+[3](https://forum.wordreference.com/threads/available-to-available-for.2132015)*
 
 ***
 
