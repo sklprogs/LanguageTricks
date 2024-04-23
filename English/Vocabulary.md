@@ -20,6 +20,8 @@
 
 [also \| besides \| furthermore \| moreover](#also--besides--furthermore--moreover)
 
+[alternative \| deviation \| modification \| variant \| variation](#alternative--deviation--modification--variant--variation)
+
 [amend \| emend \| mend](#amend--emend--mend)
 
 [among \| amongst](#among--amongst)
@@ -363,6 +365,33 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## alternative \| deviation \| modification \| variant \| variation
+
+While ***variant*** encompasses a broader range of modifications, ***modification*** itself refers to a specific alteration or change made to something. It implies a deliberate adjustment or adaptation, often with the intention of improving or customizing an existing object or concept:
+
+- software updates;
+- product enhancements;
+- any situation where a specific change has been made to an original version.
+
+| Synonym of variant | Difference | Preferred contexts |
+| --- | --- | --- |
+| ***Variation*** | - emphasizes a wider range of possibilities or differences, | - Product versions, |
+| | - implies a broader scope. | - interpretations, |
+| | | - approaches. |
+| ***Alternative*** | indicates a more substantial deviation or alternative solution. | - choices, |
+| | | - options, |
+| | | - solutions. |
+| ***Deviation*** | - emphasizes a departure from a standard or expected norm, | - statistical analysis, |
+| | - implies a more significant divergence or difference, | - scientific experiments, |
+| | - often suggests a unique or unexpected element. | - uniqueness |
+| ***Modification*** | - refers to a specific alteration or change made to something; | - software updates, |
+| | - implies a deliberate adjustment or adaptation, often with the intention of improving or customizing an existing object or concept. | - product enhancements, |
+| | | - deliberate changes. |
+
+[*Source*](https://thecontentauthority.com/blog/how-to-use-variant-in-a-sentence)
 
 ***
 
