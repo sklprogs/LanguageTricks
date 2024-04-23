@@ -370,26 +370,12 @@
 
 ## alternative \| deviation \| modification \| variant \| variation
 
-While ***variant*** encompasses a broader range of modifications, ***modification*** itself refers to a specific alteration or change made to something. It implies a deliberate adjustment or adaptation, often with the intention of improving or customizing an existing object or concept:
-
-- software updates;
-- product enhancements;
-- any situation where a specific change has been made to an original version.
-
 | Synonym of variant | Difference | Preferred contexts |
 | --- | --- | --- |
-| ***Variation*** | - emphasizes a wider range of possibilities or differences, | - Product versions, |
-| | - implies a broader scope. | - interpretations, |
-| | | - approaches. |
-| ***Alternative*** | indicates a more substantial deviation or alternative solution. | - choices, |
-| | | - options, |
-| | | - solutions. |
-| ***Deviation*** | - emphasizes a departure from a standard or expected norm, | - statistical analysis, |
-| | - implies a more significant divergence or difference, | - scientific experiments, |
-| | - often suggests a unique or unexpected element. | - uniqueness |
-| ***Modification*** | - refers to a specific alteration or change made to something; | - software updates, |
-| | - implies a deliberate adjustment or adaptation, often with the intention of improving or customizing an existing object or concept. | - product enhancements, |
-| | | - deliberate changes. |
+| ***variation*** | <ul><li>emphasizes a wider range of possibilities or differences,</li><li>implies a broader scope.</li></ul> | <ul><li>product versions,</li><li>interpretations,</li><li>approaches.</li></ul> |
+| ***alternative*** | indicates a more substantial deviation or alternative solution | <ul><li>choices,</li><li>options,</li><li>solutions.</li></ul> |
+| ***deviation*** | <ul><li>emphasizes a departure from a standard or expected norm,</li><li>implies a more significant divergence or difference,</li><li>often suggests a unique or unexpected element.</li></ul> | <ul><li>statistical analysis,</li><li>scientific experiments,</li><li>uniqueness</li></ul> |
+| ***modification*** | <ul><li>refers to a specific alteration or change made to something;</li><li>implies a deliberate adjustment or adaptation, often with the intention of improving or customizing an existing object or concept.</li></ul> | <ul><li>software updates,</li><li>product enhancements,</li><li>deliberate changes.</li></ul> |
 
 [*Source*](https://thecontentauthority.com/blog/how-to-use-variant-in-a-sentence)
 
