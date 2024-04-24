@@ -405,6 +405,7 @@ A **chart** is a specific type of diagram that is used to display numerical data
 | bar chart | гистограмма, столбчатая диаграмма | shows the sales figures for each quarter | <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/732-bar-chart.svg" width="200"> |
 | line chart | линейная диаграмма | highlights the trend in website traffic over time | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Lightning_Network_Capacity_line_chart.svg" width="200"> |
 | pie chart | круговая диаграмма | displays the percentage breakdown of expenses | <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/JFreeChart_3D_pie_chart_sample.svg" width="200"> |
+| scatter plot | диаграмма разброса данных, график рассеяния | | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Oldfaithful3.png" width="200"> |
 
 [*Source*](https://thecontentauthority.com/blog/diagram-vs-chart)
 
