@@ -399,12 +399,12 @@ A **chart** is a specific type of diagram that is used to display numerical data
 
 | Type | Translation | Potential purpose | Example |
 | --- | --- | --- | --- |
-| flowchart diagram | блок-схема | illustrates the steps in the process | ![flowchart.svg](https://en.wikichip.org/w/images/e/e5/flow_chart_icon.svg) |
-| Venn diagram | диаграмма Венна | shows the overlap between the two categories | ![venn_diagram.svg](https://upload.wikimedia.org/wikipedia/commons/e/ec/Belief_Venn_diagram.svg) |
-| network diagram | сетевой график | highlights the connections between the different nodes | ![network_diagram.svg](https://upload.wikimedia.org/wikipedia/commons/5/5e/Network_diagram_%28example%29.svg) |
-| bar chart | гистограмма, столбчатая диаграмма | shows the sales figures for each quarter | ![bar_chart.svg](https://upload.wikimedia.org/wikipedia/commons/7/70/732-bar-chart.svg) |
-| line chart | линейная диаграмма | highlights the trend in website traffic over time | ![line_chart.svg](https://upload.wikimedia.org/wikipedia/commons/1/1c/Lightning_Network_Capacity_line_chart.svg) |
-| pie chart | круговая диаграмма | displays the percentage breakdown of expenses | ![pie_chart.svg](https://upload.wikimedia.org/wikipedia/commons/d/df/JFreeChart_3D_pie_chart_sample.svg) |
+| flowchart diagram | блок-схема | illustrates the steps in the process | <img src="https://en.wikichip.org/w/images/e/e5/flow_chart_icon.svg" width="200"> |
+| Venn diagram | диаграмма Венна | shows the overlap between the two categories | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Belief_Venn_diagram.svg" width="200"> |
+| network diagram | сетевой график | highlights the connections between the different nodes | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Network_diagram_%28example%29.svg" width="200"> |
+| bar chart | гистограмма, столбчатая диаграмма | shows the sales figures for each quarter | <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/732-bar-chart.svg" width="200"> |
+| line chart | линейная диаграмма | highlights the trend in website traffic over time | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Lightning_Network_Capacity_line_chart.svg" width="200"> |
+| pie chart | круговая диаграмма | displays the percentage breakdown of expenses | <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/JFreeChart_3D_pie_chart_sample.svg" width="200"> |
 
 [*Source*](https://thecontentauthority.com/blog/diagram-vs-chart)
 
