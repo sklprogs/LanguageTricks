@@ -398,7 +398,7 @@ A **chart** is a specific type of diagram that is used to display numerical data
 | A line graph showing the temperature changes over time in a city | <details>Chart</details> |
 
 | Type | Translation | Potential purpose | Example |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | flowchart diagram | блок-схема | illustrates the steps in the process | ![flowchart.svg](../resources/charts/flowchart.svg) |
 | Venn diagram | диаграмма Венна | shows the overlap between the two categories | ![venn_diagram.svg](../resources/charts/venn_diagram.svg) |
 | network diagram | сетевой график | highlights the connections between the different nodes | ![network_diagram.svg](../resources/charts/network_diagram.svg) |
