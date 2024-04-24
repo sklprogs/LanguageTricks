@@ -403,7 +403,7 @@ A **chart** is a specific type of diagram that is used to display numerical data
 | Venn diagram | диаграмма Венна | shows the overlap between the two categories | ![venn_diagram.svg](../resources/charts/venn_diagram.svg) |
 | network diagram | сетевой график | highlights the connections between the different nodes | ![network_diagram.svg](../resources/charts/network_diagram.svg) |
 | bar chart | гистограмма, столбчатая диаграмма | shows the sales figures for each quarter | ![bar_chart.svg](../resources/charts/bar_chart.svg) |
-| line chart[ линейная диаграмма | highlights the trend in website traffic over time | ![line_chart.svg](../resources/charts/line_chart.svg) |
+| line chart | линейная диаграмма | highlights the trend in website traffic over time | ![line_chart.svg](https://commons.wikimedia.org/wiki/File:Lightning_Network_Capacity_line_chart.svg) |
 | pie chart | круговая диаграмма | displays the percentage breakdown of expenses | ![pie_chart.svg](../resources/charts/pie_chart.svg) |
 
 *Sources: [1](https://thecontentauthority.com/blog/diagram-vs-chart)*
