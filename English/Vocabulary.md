@@ -76,6 +76,8 @@
 
 [character \| glyph \| symbol](#character--glyph--symbol)
 
+[chart \| diagram \| graph](#chart--diagram--graph)
+
 [check \| check for \| check that \| validate \| verify](#check--check-for--check-that--validate--verify)
 
 [cite \| quote](#cite--quote)
@@ -365,6 +367,53 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## chart \| diagram \| graph
+
+A **diagram** is a visual representation of information or data. It can be used to show the relationships between different elements, or to illustrate a process or system.
+
+> *I need to create a **diagram** to show the different parts of a flower.*
+
+> *Can you explain the process of photosynthesis using a **diagram**?*
+
+A **chart** is a specific type of diagram that is used to display numerical data. Charts are often used to compare different sets of data or to show trends over time.
+
+> *The **chart** below shows the growth of the company over the last five years.*
+
+> *The **chart** compares the sales of our products to those of our competitors.*
+
+| Characteristic | Diagram | Chart |
+| --- | --- | --- |
+| Visual representation of | concept, process or system | data or statistics; trends, patterns or relationships |
+| Fields | technical | business and finance |
+| Purpose | illustrate complex systems | display data and statistics |
+
+| Example | Type |
+| --- | --- |
+| A visual representation of the water cycle | <details>Diagram</details> |
+| A bar graph showing the number of books read by each student in a class | <details>Chart</details> |
+| A map of the United States showing the population density of each state | <details>Diagram</details> |
+| A line graph showing the temperature changes over time in a city | <details>Chart</details> |
+
+| Type | Translation | Potential purpose | Example |
+| --- | --- | --- | --- | --- |
+| flowchart diagram | блок-схема | illustrates the steps in the process | ![flowchart.svg](../resources/charts/flowchart.svg) |
+| Venn diagram | диаграмма Венна | shows the overlap between the two categories | ![venn_diagram.svg](../resources/charts/venn_diagram.svg) |
+| network diagram | сетевой график | highlights the connections between the different nodes | ![network_diagram.svg](../resources/charts/network_diagram.svg) |
+| bar chart | гистограмма, столбчатая диаграмма | shows the sales figures for each quarter | ![bar_chart.svg](../resources/charts/bar_chart.svg) |
+| line chart[ линейная диаграмма | highlights the trend in website traffic over time | ![line_chart.svg](../resources/charts/line_chart.svg) |
+| pie chart | круговая диаграмма | displays the percentage breakdown of expenses | ![pie_chart.svg](../resources/charts/pie_chart.svg) |
+
+*Sources: [1](https://thecontentauthority.com/blog/diagram-vs-chart)*
+
+*Samples: [1](https://en.wikichip.org/wiki/File:flow_chart_icon.svg),
+[2](https://commons.wikimedia.org/wiki/File:Belief_Venn_diagram.svg),
+[3](https://commons.wikimedia.org/wiki/File:Network_diagram_%28example%29.svg),
+[4](https://commons.wikimedia.org/wiki/File:732-bar-chart.svg),
+[5](https://commons.wikimedia.org/wiki/File:Lightning_Network_Capacity_line_chart.svg),
+[6](https://commons.wikimedia.org/wiki/File:JFreeChart_3D_pie_chart_sample.svg)*
 
 ***
 
