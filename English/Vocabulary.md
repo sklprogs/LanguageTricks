@@ -3598,7 +3598,7 @@ The term **restart** (as a system command) is used to refer to a reboot when the
 
 ***Reload*** \= remain running \+ re-read configuration files.
 
-*Sources*: [1](https://en.wikipedia.org/wiki/Reboot),
+*Sources: [1](https://en.wikipedia.org/wiki/Reboot),
 [2](https://askubuntu.com/questions/105200/what-is-the-difference-between-service-restart-and-service-reload/479374#479374)*
 
 ***
