@@ -154,25 +154,18 @@
 
 ## limit for \| limit on \| limit to
 
-> *There is a **limit on** speed, it’s **limited to** 55mph.* \[what is limited and the actual limit\]
-
-> *The **limit on** loans was changed **to** 5,000.*
-
-> *In order to protect the monument, there is a **limit to** the number of visitors per day.*
-
-> *There seemed no **limit to** it.*
-
-> *The only **limit to** your success is yourself.*
-
-> *There is a **limit on** how much a human mind and body can take.*
-
-> *Only later did we realise that some nations required a **limit on** borrowing.*
-
-> *The age **limit for** individual members will remain the same&mdash;70 years.*
-
-> *The **limit for** the number submitted is higher, but you will only be shown 200.*
-
-> *The total **limit for** the first month is $5,000 and then no limits at all.*
+| Form | Example | Explanation |
+| --- | --- | --- |
+| ***limit on... to...*** | *There is a **limit on** speed, it’s **limited to** 55mph.* | What is limited and the actual limit |
+| | *The **limit on** loans was changed **to** 5,000.* | |
+| ***limit to*** | *In order to protect the monument, there is a **limit to** the number of visitors per day.* | |
+| | *There seemed no **limit to** it.* | |
+| | *The only **limit to** your success is yourself.* | |
+| ***limit on*** | *There is a **limit on** how much a human mind and body can take.* | |
+| | *Only later did we realise that some nations required a **limit on** borrowing.* | |
+| ***limit for*** | *The age **limit for** individual members will remain the same&mdash;70 years.* | |
+| | *The **limit for** the number submitted is higher, but you will only be shown 200.* | |
+| | *The total **limit for** the first month is $5,000 and then no limits at all.* | |
 
 *Sources: [1](https://ell.stackexchange.com/questions/41675/limit-on-or-limit-to/41683#41683),
 [2](https://context.reverso.net/translation/english-russian/limit+for),
