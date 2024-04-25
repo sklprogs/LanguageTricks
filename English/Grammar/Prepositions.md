@@ -80,6 +80,8 @@
 
 [knowledge about \| knowledge of \| ~~knowledge on~~](#knowledge-about--knowledge-of--knowledge-on)
 
+[limit for \| limit on \| limit to](#limit-for--limit-on--limit-to)
+
 [~~log in to~~ \| log into \| ~~login to~~ \| log on](#log-in-to--log-into--login-to--log-on)
 
 [made from \| made of](#made-from--made-of)
@@ -147,6 +149,35 @@
 [typical for = typical of](#typical-for--typical-of)
 
 [useful for \| useful to](#useful-for--useful-to)
+
+***
+
+## limit for \| limit on \| limit to
+
+> *There is a **limit on** speed, it’s **limited to** 55mph.* \[what is limited and the actual limit\]
+
+> *The **limit on** loans was changed **to** 5,000.*
+
+> *In order to protect the monument, there is a **limit to** the number of visitors per day.*
+
+> *There seemed no **limit to** it.*
+
+> *The only **limit to** your success is yourself.*
+
+> *There is a **limit on** how much a human mind and body can take.*
+
+> *Only later did we realise that some nations required a **limit on** borrowing.*
+
+> *The age **limit for** individual members will remain the same&mdash;70 years.*
+
+> *The **limit for** the number submitted is higher, but you will only be shown 200.*
+
+> *The total **limit for** the first month is $5,000 and then no limits at all.*
+
+*Sources: [1](https://ell.stackexchange.com/questions/41675/limit-on-or-limit-to/41683#41683),
+[2](https://context.reverso.net/translation/english-russian/limit+for),
+[3](https://context.reverso.net/translation/english-russian/limit+to),
+[4](https://context.reverso.net/translation/english-russian/limit+on)*
 
 ***
 
