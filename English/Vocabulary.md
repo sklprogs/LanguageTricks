@@ -381,14 +381,14 @@
 
 | Field | Verb | Comment | Example |
 | --- | --- | --- | --- |
-| **Technology** | **initiate** | Describes the process of starting up a system or program. | *A user **initiates** a software update or a system shutdown.* |
-| | **start** | Is often used more colloquially to describe beginning to use a new device or program. | ***Starting** a new app on a smartphone.* |
-| **Business** | **initiate** | Conveys a sense of formality and intentionality. | *A company **initiates** a new project or a partnership.* |
-| | **start** | Used more casually to describe beginning a task or project. | *An employee **starts** working on a new assignment.* |
-| **Communication | **initiate** | Starting a conversation or interaction. | *Someone **initiates** a meeting or a phone call.* |
-| | **start** | Is typically less formal and used to describe more general actions. | ***Starting** a conversation with a friend.* |
-| **Science** | **initiate** | Describes the beginning of a process or reaction. | *A chemical reaction **initiates** when two substances are mixed together.* |
-| | **start** | Is typically less formal and describes more general actions. | ***Start** an experiment.* |
+| **Technology** | **Initiate** | Describes the process of starting up a system or program. | *A user **initiates** a software update or a system shutdown.* |
+| | **Start** | Is often used more colloquially to describe beginning to use a new device or program. | ***Starting** a new app on a smartphone.* |
+| **Business** | **Initiate** | Conveys a sense of formality and intentionality. | *A company **initiates** a new project or a partnership.* |
+| | **Start** | Used more casually to describe beginning a task or project. | *An employee **starts** working on a new assignment.* |
+| **Communication** | **Initiate** | Starting a conversation or interaction. | *Someone **initiates** a meeting or a phone call.* |
+| | **Start** | Is typically less formal and used to describe more general actions. | ***Starting** a conversation with a friend.* |
+| **Science** | **Initiate** | Describes the beginning of a process or reaction. | *A chemical reaction **initiates** when two substances are mixed together.* |
+| | **Start** | Is typically less formal and describes more general actions. | ***Start** an experiment.* |
 
 [*Source*](https://thecontentauthority.com/blog/initiate-vs-start)
 
