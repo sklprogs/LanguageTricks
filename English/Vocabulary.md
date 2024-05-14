@@ -376,19 +376,19 @@
 
 | Verb | Explanation | Example |
 | --- | --- | --- |
-| **Initiate** | Implies a deliberate and intentional start, often with a specific goal or outcome in mind. | ***Initiate** a project by carefully planning and organizing the steps needed to complete it.* |
-| **Start** | Begin something without any implication of a deliberate action or process. | ***Start** a car by turning the key in the ignition.* |
+| ***Initiate*** | Implies a deliberate and intentional start, often with a specific goal or outcome in mind. | ***Initiate** a project by carefully planning and organizing the steps needed to complete it.* |
+| ***Start*** | Begin something without any implication of a deliberate action or process. | ***Start** a car by turning the key in the ignition.* |
 
 | Field | Verb | Comment | Example |
 | --- | --- | --- | --- |
-| **Technology** | **Initiate** | Describes the process of starting up a system or program. | *A user **initiates** a software update or a system shutdown.* |
-| | **Start** | Is often used more colloquially to describe beginning to use a new device or program. | ***Starting** a new app on a smartphone.* |
-| **Business** | **Initiate** | Conveys a sense of formality and intentionality. | *A company **initiates** a new project or a partnership.* |
-| | **Start** | Used more casually to describe beginning a task or project. | *An employee **starts** working on a new assignment.* |
-| **Communication** | **Initiate** | Starting a conversation or interaction. | *Someone **initiates** a meeting or a phone call.* |
-| | **Start** | Is typically less formal and used to describe more general actions. | ***Starting** a conversation with a friend.* |
-| **Science** | **Initiate** | Describes the beginning of a process or reaction. | *A chemical reaction **initiates** when two substances are mixed together.* |
-| | **Start** | Is typically less formal and describes more general actions. | ***Start** an experiment.* |
+| **Technology** | ***Initiate*** | Describes the process of starting up a system or program. | *A user **initiates** a software update or a system shutdown.* |
+| | ***Start*** | Is often used more colloquially to describe beginning to use a new device or program. | ***Starting** a new app on a smartphone.* |
+| **Business** | ***Initiate*** | Conveys a sense of formality and intentionality. | *A company **initiates** a new project or a partnership.* |
+| | ***Start*** | Used more casually to describe beginning a task or project. | *An employee **starts** working on a new assignment.* |
+| **Communication** | ***Initiate*** | Starting a conversation or interaction. | *Someone **initiates** a meeting or a phone call.* |
+| | ***Start*** | Is typically less formal and used to describe more general actions. | ***Starting** a conversation with a friend.* |
+| **Science** | ***Initiate*** | Describes the beginning of a process or reaction. | *A chemical reaction **initiates** when two substances are mixed together.* |
+| | ***Start*** | Is typically less formal and describes more general actions. | ***Start** an experiment.* |
 
 [*Source*](https://thecontentauthority.com/blog/initiate-vs-start)
 
