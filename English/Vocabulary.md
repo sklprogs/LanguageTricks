@@ -292,6 +292,8 @@
 
 [people \| peoples \| Peoples \| persons](#people--peoples--peoples--persons)
 
+[periodic \| periodical](#periodic--periodical)
+
 [permission \| privilege](#permission--privilege)
 
 [possible \| potential](#possible--potential)
@@ -369,6 +371,14 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## periodic \| periodical
+
+A **periodical** is a periodic publication. It’s better not to use this term as an adjective.
+
+[*Source*](https://grammarist.com/usage/periodic-periodical)
 
 ***
 
