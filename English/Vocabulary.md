@@ -24,7 +24,7 @@
 
 [amend \| emend \| mend](#amend--emend--mend)
 
-[among \| amongst](#among--amongst)
+[among \| amongst \| besides](#among--amongst--besides)
 
 [among \| between](#among--between)
 
@@ -380,6 +380,23 @@
 
 ***
 
+## among \| amongst \| besides
+
+***Among*** = ***amongst***.
+
+***Among*** is more common in AmE, while ***amongst*** is used almost exclusively in BrE. ***Amongst*** is often considered old-fashioned or pretentious in AmE. Some British publications, including major newspapers, issue style guides that insist on using ***among***.
+
+When you say *X, **besides** Y*, you give a sense that you’re shifting your focus from Y and only talking about X now. However, when you say *X, **among** Y*, it shows that you’re still about equal value to X and Y in your conversation.
+
+> ***Besides** a stamp collection, I also have an awesome baseball card collection.*
+
+> *I have a stamp collection, **among** other things.*
+
+*Sources: [1](https://forum.wordreference.com/threads/among-besides.996191/#post-5214875),
+[2](https://www.dictionary.com/e/among-vs-amongst)*
+
+***
+
 ## another \| different
 
 | Feature | Different | Another |
@@ -389,7 +406,7 @@
 
 *Can I have another cookie?* requests one additional cookie, not a cookie that is unrelated to the first.
 
-*Different:*
+***Different:***
 
 > *After the renovation, their home looked completely **different**.*
 
@@ -397,7 +414,7 @@
 
 > *I prefer a **different** approach to solving this problem.*
 
-*Another:*
+***Another:***
 
 > *This pen isn’t working. Do you have **another**?*
 
@@ -1059,16 +1076,6 @@ An ***issue*** has little or no impact, whereas a ***problem*** can significantl
 *Sources: [1](https://askanydifference.com/difference-between-issue-and-problem),
 [2](https://en.wiktionary.org/wiki/problem#English),
 [3](https://en.wiktionary.org/wiki/issue#English)*
-
-***
-
-## among \| amongst
-
-***Among*** = ***amongst***.
-
-***Among*** is more common in AmE, while ***amongst*** is used almost exclusively in BrE. ***Amongst*** is often considered old-fashioned or pretentious in AmE. Some British publications, including major newspapers, issue style guides that insist on using ***among***.
-
-[*Source*](https://www.dictionary.com/e/among-vs-amongst/)
 
 ***
 
