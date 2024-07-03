@@ -392,6 +392,8 @@ When you say *X, **besides** Y*, you give a sense that you’re shifting your fo
 
 > *I have a stamp collection, **among** other things.*
 
+*See also* [among \| between](#among--between)
+
 *Sources: [1](https://forum.wordreference.com/threads/among-besides.996191/#post-5214875),
 [2](https://www.dictionary.com/e/among-vs-amongst)*
 
@@ -2763,7 +2765,7 @@ Usage examples:
 
 > ***Among** the many options available to you.*
 
-*See also* [among \| amongst](#among--amongst)
+*See also* [among \| amongst \| besides](#among--amongst--besides)
 
 [*Source*](https://www.merriam-webster.com/words-at-play/between-among-amongst-use)
 
