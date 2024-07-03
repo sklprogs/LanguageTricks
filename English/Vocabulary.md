@@ -28,6 +28,8 @@
 
 [among \| between](#among--between)
 
+[another \| different](#another--different)
+
 [answer \| reply \| response](#answer--reply--response)
 
 [anybody \| anyone](#anybody--anyone)
@@ -375,6 +377,35 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## another \| different
+
+| Feature | Different | Another |
+| --- | --- | --- |
+| Stresses | difference | additionality or quantity |
+| Used for | comparison (typically) | simply referring to one more item\/person |
+
+*Can I have another cookie?* requests one additional cookie, not a cookie that is unrelated to the first.
+
+*Different:*
+
+> *After the renovation, their home looked completely **different**.*
+
+> *Carol bought a **different** dress for each event.*
+
+> *I prefer a **different** approach to solving this problem.*
+
+*Another:*
+
+> *This pen isn’t working. Do you have **another**?*
+
+> *She finished her drink and asked the bartender for **another**.*
+
+> *If this method does not work, we will try **another**.*
+
+[*Source*](https://linguodan.com/en/different-or-another-en)
 
 ***
 
