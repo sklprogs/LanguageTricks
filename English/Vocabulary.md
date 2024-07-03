@@ -254,6 +254,8 @@
 
 [integrate \| merge](#integrate--merge)
 
+[intermediary \| mediator](#intermediary--mediator)
+
 [issue \| problem](#issue--problem)
 
 [it is \| this is](#it-is--this-is)
@@ -371,6 +373,18 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## intermediary \| mediator
+
+A **mediator** is a neutral third party who facilitates communication and negotiation between two or more parties in order to reach a mutually beneficial agreement. The mediator does not make decisions for the parties but rather helps them to come to their own conclusions. Mediation is often used in legal, business, and personal situations.
+
+An **intermediary** is a third party who acts as a go-between for two parties in a transaction. An intermediary may be involved in negotiating the terms of the transaction and may have decision-making authority. Unlike a mediator, an intermediary may have a vested interest in the outcome of the negotiation. Intermediaries can be found in a variety of industries, such as real estate, finance, and international trade.
+
+In computer science, a ***mediator*** is a software component that facilitates communication between different components or systems, while an ***intermediary*** is a device or program that sits between two communicating entities and facilitates their communication.
+
+[*Source*](https://thecontentauthority.com/blog/mediator-vs-intermediary)
 
 ***
 
