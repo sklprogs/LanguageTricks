@@ -200,6 +200,8 @@
 
 [everybody \| everyone](#everybody--everyone)
 
+[exception \| exclusion](#exception--exclusion)
+
 [expand \| extend](#expand--extend)
 
 [expert \| specialist](#expert--specialist)
@@ -373,6 +375,20 @@
 [what \| which](#what--which)
 
 [whether \| whether or not](#whether--whether-or-not)
+
+***
+
+## exception \| exclusion
+
+***Exception*** refers to something that does not follow a rule or pattern. It implies that something is different from what is normal or expected:
+
+> *There are no pets allowed in the building, with the **exception** of service animals.*
+
+***Exclusion*** refers to the act of leaving something out or preventing it from being included. It implies that something has been deliberately left out or not considered: 
+
+> *The price of the tour includes everything except for airfare, which is an **exclusion**.*
+
+[*Source*](https://ru.hinative.com/questions/23848661#answer-55140431)
 
 ***
 
