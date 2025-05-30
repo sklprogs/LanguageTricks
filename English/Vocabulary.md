@@ -2290,7 +2290,7 @@ When you are ***installing*** a program, you are also performing its initial ***
 - see if something (e.g., a sum) is correct or accurate:
   > *Will you **check** my addition?*
 
-**Check for**&mdash;verify the existance of something:
+**Check for**&mdash;verify the existence of something:
 
 > *Please **check** my card; it may contain spelling mistakes.* \[\= review it, examine it, correct it\]
 
