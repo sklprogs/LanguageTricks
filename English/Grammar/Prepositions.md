@@ -1349,7 +1349,7 @@ Use ***if*** when you have a conditional sentence and ***whether*** when showing
 
 > *Squiggly didn’t know if Aardvark would arrive Friday or Saturday.* \[Aardvark may not arrive at all.\]
 
-*See also* [check \| check for \| check that \| validate \| verify](./Grammar/Vocabulary.md#check--check-for--check-that--validate--verify), [whether \| whether or not](#whether--whether-or-not)
+*See also* [check \| check for \| check that \| validate \| verify](./Vocabulary.md#check--check-for--check-that--validate--verify), [whether \| whether or not](./Vocabulary.md#whether--whether-or-not)
 
 *Sources:
 [1](https://www.usingenglish.com/forum/threads/is-there-a-difference-between-check-if-and-check-whether.28260/),
